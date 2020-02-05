@@ -1,4 +1,4 @@
-# Per Miracast verbinden
+# Über Miracast verbinden
 
 Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höher) oder Android-Geräte (Android 4.4 oder höher) in bester Qualität und mit Sound zu präsentieren. EZCast Pro unterstützt nativ Miracast für Windows-/Android-Geräte. Das bedeutet, Sie benötigen in diesem Fall nicht die EZCast Pro Software bzw. App. 
 
