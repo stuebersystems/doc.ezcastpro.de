@@ -57,7 +57,7 @@ Steht Ihnen nur eine Steckdose für den Beamer bzw. den Bildschirm zur Verfügun
 
 Wenn der Beamer an der Decke hängt und nur das Stromkabel vom Beamer zur Verfügung steht, stellt sich die Frage, wie  Beamer und der EZCast Pro Stick II gemeinsam mit Strom versorgt werden können.
 
-Mit [diesem Stromadapter](https://www.amazon.de/Stromadapter-Schuko-Buchse-Kaltger%C3%A4te-Stecker/dp/B006B72TW8/ref=sr_1_4?ie=UTF8&keywords=stromadapter%20schuko%20buchse%20auf%20kaltger%C3%A4testecker&language=de_DE&qid=1572897916&sr=8-4) können Sie Ihr Kaltgerätekabel in eine Steckdose verwandeln. Dies in Kombination mit einer [2in1 USB Adapter Steckdose](#2in1_USB_Adapter_Steckdose) kann Strom für beide Geräte ermöglichen.
+Mit [diesem Stromadapter](https://www.amazon.de/benon-B2192-Steckdosen-Adapter-Anschluss-Weiss-Wei%C3%9F/dp/B07JYDHL1V/ref=ac_session_sims_60_3/259-0353223-4676873?_encoding=UTF8&pd_rd_i=B07JYDHL1V&pd_rd_r=29d0a95a-e192-4f07-969e-b9a09b07e962&pd_rd_w=3WynR&pd_rd_wg=1d46z&pf_rd_p=40c5be1b-0c7a-4fa9-b4b0-55834cb023d3&pf_rd_r=6P5PTHDHG0W6SA1DV0PZ&psc=1&refRID=6P5PTHDHG0W6SA1DV0PZ) können Sie Ihr Kaltgerätekabel in eine Steckdose verwandeln. Dies in Kombination mit einer [2in1 USB Adapter Steckdose](#2in1_USB_Adapter_Steckdose) kann Strom für beide Geräte ermöglichen.
 
 ![Stromadapter Schuko Buchse auf Kaltgeräte Stecker](/images/Power_Adaptor_Female_to_IEC-Plug.jpg)
 
