@@ -6,9 +6,9 @@ Mit einem Zurücksetzen werden alle Einstellungen zurückgesetzt, außer die Fir
 
 # Was Sie benötigen
 
-Da das Zurücksetzen der Einstellungen nur über den Bereich `Erweiterte Einstellungen` vorgenommen werden kann, benötigen Sie das Admin-Kennwort. Standardmäßig lautet es `000000` oder `Connect4`. Wenn dieses Kennwort nicht akzeptiert wird, können Sie ein neues Kennwort auf der [Online Kennwort Wiederherstellung](#Online_Kennwort_Wiederherstellung) oder per die E-Mail [forgetpassword@iezvu.com](mailto:forgetpassword@iezvu.com) anfordern.
+Da das Zurücksetzen der Einstellungen nur über den Bereich `Erweiterte Einstellungen` vorgenommen werden kann, benötigen Sie das Admin-Kennwort. Standardmäßig lautet es `000000` oder `Connect4`. Wenn dieses Kennwort nicht akzeptiert wird, können Sie ein neues Kennwort auf der [Online Kennwort Wiederherstellung](#Online_Kennwort_Wiederherstellung) oder per E-Mail [forgetpassword@iezvu.com](mailto:forgetpassword@iezvu.com) anfordern.
 
-# Zurücksetzen per die Erweiterte Einstellungen
+# Zurücksetzen über die Erweiterte Einstellungen
 
 Mit Hilfe der `Erweiterte Einstellungen` können Sie sich anmelden und die Standardeinstellungen zurücksetzen. Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die [App](quickstart.md#InstallApp) installiert haben und dass Sie mit Ihrer EZCast Pro LAN Box [verbunden](quickstart.md#app-mit-ezcast-pro-box-verbinden) sind.
 
@@ -52,7 +52,7 @@ Mit Hilfe der `Erweiterte Einstellungen` können Sie sich anmelden und die Stand
 
 # Einstellungen nach dem Zurücksetzen
 
-Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der [Web-Oberfläche](webinterface.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
+Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung im Menü [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
 
 * [Auflösung](adv.settings.md#Auflösung)
 * [Sprache](adv.settings.md#Sprache)

@@ -6,7 +6,7 @@ Für den EZCast Pro Stick II wird eine Internet-Verbindung in folgenden Fällen 
 
 * Sie möchten den Pro Stick II auf die neueste Firmware-Version [aktualisieren](firmware-upgrade.md).
 
-* Sie möchten per Fernzugriff auf die Web-Oberfläche zugreifen, um der EZCast Pro Stick II zu verwalten.
+* Sie möchten per Fernzugriff auf die Erweiterte Einstellungen zugreifen, um der EZCast Pro Stick II zu verwalten.
 
 
 > #### info::Hinweis

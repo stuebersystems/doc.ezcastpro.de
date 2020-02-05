@@ -6,7 +6,7 @@ Für die LAN-Box wird eine Internet-Verbindung in folgenden Fällen benötigt:
 
 * Sie möchten die LAN-Box auf die neueste Firmware-Version [aktualisieren](adv.settings.md#Atualisieren).
 
-* Sie möchten per Fernzugriff auf die [Web-Oberfläche](adv.settings.md) zugreifen, um die LAN-Box zu verwalten per die Erweiterte Einstellungen.
+* Sie möchten per Fernzugriff auf die [Erweiterte Einstellungen](adv.settings.md) zugreifen, um die LAN-Box zu verwalten per die Erweiterte Einstellungen.
 
 # Wie verbinde ich die LAN-Box mit einem Router?
 

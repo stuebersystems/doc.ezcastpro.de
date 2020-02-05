@@ -51,7 +51,7 @@ Mit Hilfe der Erweiterte Einstellungen können Sie sich anmelden und die Standar
 
 # Einstellungen nach dem Zurücksetzen
 
-Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der [Web-Oberfläche](webinterface.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
+Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung im Menü [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
 
 * [Auflösung](adv.settings.md#Auflösung)
 * [Sprache](adv.settings.md#Sprache)

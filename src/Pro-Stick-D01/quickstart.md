@@ -46,7 +46,7 @@ Bei den meisten Empfängergeräten können Sie eine [HDMI-Eingang](#HDMI-Port-DC
 
 > #### primary::Hinweis
 >
-> Mit der App können Sie die Inhalte Ihres Geräts übertragen und sie enthält viele weiteren Funktionen. Mit einem iPad oder iPhone können Sie Ihren Bildschirminhalt auch per [Apple AirPlay](ios.md) übertragen. Das bedeutet, Sie benötigen in diesem Fall keine App. Außerdem können Sie den Bildschirm Ihres Android-Geräts per [Miracast](miracast.md) übertragen, indem Sie die Funktion `EZMirror` in der App freischalten.
+> Mit der App können Sie die Inhalte Ihres Geräts übertragen und sie enthält viele weiteren Funktionen. Mit einem iPad oder iPhone können Sie Ihren Bildschirminhalt auch per [Apple AirPlay](airplay.md) übertragen. Das bedeutet, Sie benötigen in diesem Fall keine App. Außerdem können Sie den Bildschirm Ihres Android-Geräts per [Miracast](miracast.md) übertragen, indem Sie die Funktion `EZMirror` in der App freischalten.
 
 ## App installieren {#InstallApp}
 

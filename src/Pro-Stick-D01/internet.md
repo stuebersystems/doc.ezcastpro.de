@@ -6,7 +6,7 @@ Für den Pro II Stick wird eine Internet-Verbindung in folgenden Fällen benöti
 
 * Sie möchten der Pro Stick auf die neueste Firmware-Version [aktualisieren](adv.settings.md#Aktualisieren).
 
-* Sie möchten per Fernzugriff auf die Web-Oberfläche zugreifen, um der Pro Stick zu verwalten.
+* Sie möchten per Fernzugriff auf die Erweiterte Einstellungen zugreifen, um der Pro Stick zu verwalten.
 
 # Wie verbinde ich den Pro Stick mit einem WLAN-Router?
 

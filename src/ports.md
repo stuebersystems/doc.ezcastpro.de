@@ -25,7 +25,7 @@ Port | Typ                   | Protokoll | RFC | Dienst
 | 2425 |
 | 63630 |
 
-# HTTP Web-Server für die Web-Oberfläche 
+# HTTP Web-Server für die Erweiterte Einstellungen 
 
 | Port |
 |:---- |

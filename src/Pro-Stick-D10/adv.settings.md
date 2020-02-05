@@ -68,7 +68,7 @@ Dieser Bereich hilft Ihnen, Einstellungen wie die [Sprache](#Sprache) der Benutz
 
 ### Sprache {#Sprache}
 
-Unter Sprache wählen die gewünschte Anzeigesprache der Web-Oberfläche aus.
+Unter Sprache wählen die gewünschte Anzeigesprache des Menüs Erweiterte Einstellungen aus.
 
 ![](/images/Select_language.jpg)
 
@@ -180,7 +180,7 @@ Im diesem Bereich können Sie Einstellungen zu dem Internet, IP-Einstellungen un
 
 Verbinden Sie den Pro Stick mit Ihrem WLAN-Router.
 
-**Bitte beachten:** Der EZCast Pro Stick II kann nur mit einem `5GHz WLAN-Router` verbunden werden, es sei denn Sie haben den [Legacy-WiFi-Modus](legacymode) freigeschaltet.
+**Bitte beachten:** Der EZCast Pro Stick II kann nur mit einem `5GHz WLAN-Router` verbunden werden, es sei denn Sie haben den [Legacy-WiFi-Modus](#legacymode) freigeschaltet.
 
 ![](/images/EZCastPro.II.Wifi.Internet.jpg)
 
@@ -220,7 +220,7 @@ Ein digitales Zertifikat hochladen.
 
 ### Gastbehörde {#Host-Authority}
 
-Kontrollieren Sie, welche Funktionen der Host in der Web-Oberfläche durchführen darf, ohne sich als `Admin` [anmelden](#anmeldung) zu müssen.
+Kontrollieren Sie, welche Funktionen der Host im Menü Erweiterte Einstellungen durchführen darf, ohne sich als `Admin` [anmelden](#anmeldung) zu müssen.
 
 ![Gastbehörde](/images/Host_authority.jpg)
 

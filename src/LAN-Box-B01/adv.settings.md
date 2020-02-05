@@ -58,7 +58,7 @@ Dieser Bereich hilft Ihnen, die [Sprache](#Sprache) der Benutzeroberfläche, die
 
 ## Sprache {#Sprache}
 
-Unter Sprache wählen die gewünschte Anzeigesprache der Web-Oberfläche aus.
+Unter Sprache wählen die gewünschte Anzeigesprache des Menüs Erweiterte Einstellungen aus.
 
 ![](/images/Select_language.jpg)
 
@@ -160,7 +160,7 @@ Ein digitales Zertifikat hochladen.
 
 ## Host-Autorität {#Host-Authority}
 
-Kontrollieren Sie, welche Funktionen der Host in der Web-Oberfläche durchführen darf, ohne sich als `Admin` [anmelden](#anmeldung) zu müssen.
+Kontrollieren Sie, welche Funktionen der Host im Menü Erweiterte Einstellungen durchführen darf, ohne sich als `Admin` [anmelden](#anmeldung) zu müssen.
 
 ![Host-Autorität](/images/Host_authority.jpg)
 
