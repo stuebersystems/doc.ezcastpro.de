@@ -8,6 +8,8 @@ Der EZCast Pro Stick II besteht aus einem EZCast Pro II Stick (dem Empfänger), 
 
 ![Inhalt des EZCast Pro Stick II](/images/EZCastPro_II_Stick_contents_DE.jpg)
 
+Um den EZCast Pro Stick II mit einem VGA-Anschluss z.B. auf einem älteren Beamer anschließen zu können, empfehlen wir einen [Adapter HDMI Buchse zu VGA Stecker](optimize.md#hdmi-auf-vga-adapter-hdmi-buchse-zu-vga-stecker).
+
 # EZCast Pro Stick II anschließen {#Connect_ProStickII}
 
 * Verbinden Sie den Empfänger, wie unten abgebildet, mit der HDMI-Eingang Ihres Bildschirms. Schließen Sie das Netzteil mit Hilfe des USB-Kabels an. Der EZCast Pro Stick II schaltet sich automatisch ein. 
