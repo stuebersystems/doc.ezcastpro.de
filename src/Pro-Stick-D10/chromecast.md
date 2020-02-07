@@ -19,6 +19,8 @@ Die Übertragungstechnologie Google Cast ist nun fest eingebauter Bestandteil de
 
 * Die Chromecast-Funktion benötigt die Firmware-Version `1.5608.9` oder höher. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.5608.9` angezeigt wird, wie unten abgebildet. Wenn nötig,  [aktualisieren](firmware-upgrade.md) Sie bitte Ihre Firmware.
 
+* Bei der Erstverbindung ist ein WLAN bzw. eine Internetvebindung erforderlich
+
 ![Chromecast steht ab der Firmware-Version 1.5608.9 zur Verfügung](/images/ProIIStick_Firmware-Version.1.5608.9.jpg)
 
 # Chromecast freischalten

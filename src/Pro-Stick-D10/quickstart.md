@@ -4,7 +4,7 @@
 
 # Inhalt der EZCast Pro Stick II
 
-Der EZCast Pro Stick II besteht aus einem EZCast Pro II Stick (dem Empfänger), einem HDMI auf VGA Adapter, Audio-Kabel, HDMI-Verlängerungskabel, USB-Kabel und einer Schnellstartanleitung (Englisch):
+Der EZCast Pro Stick II besteht aus einem EZCast Pro II Stick (dem Empfänger), einem HDMI-Verlängerungskabel, USB-Kabel und einer Schnellstartanleitung (Englisch):
 
 ![Inhalt des EZCast Pro Stick II](/images/EZCastPro_II_Stick_contents_DE.jpg)
 
