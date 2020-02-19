@@ -132,7 +132,7 @@ Nach der Neuinstallation werden Sie bei der ersten Anmeldung auf der [Erweiterte
 * [Auflösung](adv.settings.md#Auflösung) z.B.: `AUTO`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm) z.B. unsere Startseite in der deutschen Sprache
 * [Sprache](adv.settings.md#Sprache) z.B.: `DEUTSCH`
-* [WLAN-Modus](adv.settings.md#Wifi-Channel) z.B.: `EUROPE`
+* [WLAN-Modus](adv.settings.md#Wifi-Channel) z.B.: `Land = EUROPE`, `Bandbreite = 20MHz`
 * [Android-Audio-Streaming](adv.settings.md#Android-Audio-Streaming) z.B.: `ON`
 
 
