@@ -41,7 +41,7 @@ Bei einer Neuinstallation der Firmware werden **alle** Einstellungen zurückgese
 
 * Schließen Sie das mitgelieferte USB Typ C Kabel mit dem USB-Anschluss des Sticks an. Der Stick bleibt ausgeschaltet.
 
-* Um den EZCast Pro Stick II in den Update-Modus zu setzen, drücken und **halten** Sie die Reset-Taste. Schließen Sie anschließend das USB Typ C Kabel mit Ihrem Windows PC an. Nach 5 Sekunden lassen Sie die Reset-Taste los.
+* Um den EZCast Pro Stick II in den Update-Modus zu setzen, drücken und **halten** Sie die Reset-Taste. Schließen Sie anschließend das USB Typ C Kabel mit Ihrem Windows PC an. Nach fünf Sekunden lassen Sie die Reset-Taste los.
 
 ![EZCast Pro Stick II in den Update-Modus setzen](/images/ProII-Press-Reset-Button.jpg)
 
@@ -53,13 +53,13 @@ Wenn der Treiber richtig installiert ist und der EZCast Pro Stick II angeschloss
 
 * Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
 
-![EZCastUpdate](/images/EZCastPro_Repair_Tool_EZCastUpdate.exe.jpg)
+![EZCastUpdate.exe ausführen](/images/EZCastPro_Repair_Tool_EZCastUpdate.exe.jpg)
 
 Das folgende Fenster erscheint. Wenn der EZCast Pro Stick II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
 
 * Wählen Sie `Download`, um die neuste Firmware herunterzuladen.
 
-![EZCastUpdate](/images/EZCastUpdate.DeviceConnected.jpg)
+![Die Schaltfläche Download wählen](/images/EZCastUpdate.DeviceConnected.jpg)
 
 Das Downloaden der Firmware wird durchgeführt.
 
