@@ -18,11 +18,13 @@ Bei einer Neuinstallation der Firmware werden **alle** Einstellungen zurückgese
 
 # EZCast Pro Repair Tool herunterladen
 
-* Laden Sie das [EZCast Pro Upgrade Tool](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/EZCast_Pro_Repair_Tool.zip) herunter.
+* Laden Sie das [EZCast Pro Repair Tool](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/EZCast_Pro_Repair_Tool.zip) herunter.
 
-* Extrahieren Sie die Datei.
+* Extrahieren Sie die Datei **EZCast_Pro_Repair_Tool.zip**.
 
-* Installieren Sie die Treiber, indem Sie die Batchdatei `EZCastPro_Upgrade_Tool\usb_driver\install.bat` als Administrator ausführen.
+![EZCast_Pro_Repair_Tool.zip extrahieren](/images/EZCastPro_Repair_Tool_Extract.jpg) 
+
+* Installieren Sie die Treiber, indem Sie die Batchdatei `EZCastPro_Repair_Tool\usb_driver\install.bat` als Administrator ausführen.
 
 ![install.bat als Administrator ausführen](/images/EZCastPro_Upgrade_Tool_Run.As.Administrator.jpg)
 
