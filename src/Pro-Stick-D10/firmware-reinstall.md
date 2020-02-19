@@ -37,7 +37,7 @@ Bei einer Neuinstallation der Firmware werden **alle** Einstellungen zurückgese
 
 > #### primary::Hinweis
 >
-> Anfangs ist das USB Typ C Kabel **nur** mit dem USB-Anschluss des Sticks angeschlossen. Der Stick ist ausgeschalten. Das andere Ende des Kabels schließen Sie **nachher** mit Ihrem PC an.
+> Anfangs ist das USB Typ C Kabel **nur** mit dem USB-Anschluss des Sticks angeschlossen. Der Stick ist ausgeschaltet. Das andere Ende des Kabels schließen Sie **nachher** mit Ihrem PC an.
 
 * Schließen Sie das mitgelieferte USB Typ C Kabel mit dem USB-Anschluss des Sticks an. Der Stick bleibt ausgeschaltet.
 
