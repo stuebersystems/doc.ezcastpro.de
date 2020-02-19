@@ -24,7 +24,7 @@ Bei einer Neuinstallation der Firmware werden **alle** Einstellungen zurückgese
 
 ![EZCast_Pro_Repair_Tool.zip extrahieren](/images/EZCastPro_Repair_Tool_Extract.jpg) 
 
-* Installieren Sie die Treiber, indem Sie die Batchdatei `EZCastPro_Repair_Tool\usb_driver\install.bat` als Administrator ausführen.
+* Installieren Sie die Treiber, indem Sie die Batchdatei `EZCast_Pro_Repair_Tool\usb_driver\install.bat` als Administrator ausführen.
 
 ![install.bat als Administrator ausführen](/images/EZCastPro_Upgrade_Tool_Run.As.Administrator.jpg)
 
@@ -69,7 +69,7 @@ Das Downloaden der Firmware wird durchgeführt.
 
 ![EZCastPro Firware wird heruntergefahren](/images/EZCastUpdate.Firmware.Downloading.jpg)
 
-* Um die Installation Firmware zu starten, wählen Sie `Upgrade`.
+* Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
 
 ![Wählen Sie Upgrade, um die Installation zu starten](/images/EZCastUpdate.Upgrade.jpg)
 
@@ -107,7 +107,7 @@ Das folgende Fenster erscheint. Wenn der EZCast Pro Stick II im Update-Modus ist
 
 ![Firmware auswählen](/images/EZCastUpdate.SelectFirmware.jpg)
 
-* Um die Installation Firmware zu starten, wählen Sie `Upgrade`.
+* Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
 
 ![Wählen Sie Upgrade, um die Installation zu starten](/images/EZCastUpdate.Upgrade.jpg)
 
