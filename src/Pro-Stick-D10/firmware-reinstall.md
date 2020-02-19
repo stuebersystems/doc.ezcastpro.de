@@ -33,7 +33,7 @@ Bei einer Neuinstallation der Firmware werden **alle** Einstellungen zurückgese
 ![Wählen Sie Installieren](/images/EZCastPro_Upgrade_Tool_Driver.Install.jpg)
 
 
-# USB Typ C Kabel mit EZCast Pro Stick II anschließen
+# USB Typ C Kabel anschließen
 
 > #### primary::Hinweis
 >
@@ -45,22 +45,19 @@ Bei einer Neuinstallation der Firmware werden **alle** Einstellungen zurückgese
 
 ![EZCast Pro Stick II in den Update-Modus setzen](/images/ProII-Press-Reset-Button.jpg)
 
+Wenn der Treiber richtig installiert ist und der EZCast Pro Stick II angeschlossen ist, sollte das Gerät **„Realtek generic USB Device“** im Geräte-Manager erscheinen. Wenn nicht, überprüfen Sie die Treiber-Installation, Kabel-Konfiguration, und den Update-Modus, wie im vorherigen Schritt beschrieben.
+
+![EZCastPro Treiber im Geräte-Manager](/images/EZCastPro_Driver.jpg)
 
 # Neuste Firmware installieren
 
 * Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
 
-Das folgende Fenster erscheint:
+![EZCastUpdate](/images/EZCastPro_Repair_Tool_EZCastUpdate.exe.jpg)
 
-![Wählen Sie Installieren](/images/EZCastUpdate.Connect.Device.jpg)
+Das folgende Fenster erscheint. Wenn der EZCast Pro Stick II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
 
-Wenn der Treiber richtig installiert ist und der EZCast Pro Stick II angeschlossen ist, sollte das Gerät **„Realtek generic USB Device“** im Geräte-Manager erscheinen. Wenn nicht, überprüfen Sie die Treiber-Installation, Kabel-Konfiguration, und den Update-Modus, wie im vorherigen Schritt beschrieben.
-
-![EZCastPro Treiber im Geräte-Manager](/images/EZCastPro_Driver.jpg)
-
-Wenn der EZCast Pro Stick II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
-
-* Wählen Sie `EZCast4Kpro` aus der Auswahlliste aus. Anschließend wählen Sie `Download`.
+* Wählen Sie `Download`, um die neuste Firmware herunterzuladen.
 
 ![EZCastUpdate](/images/EZCastUpdate.DeviceConnected.jpg)
 
@@ -85,6 +82,14 @@ Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Me
 ![Die Installation war erfolgreich](/images/EZCastUpdate_Upgrade.Success.jpg)
 
 Der EZCast Pro Stick II ist wieder einsatzbereit.
+
+# Vorherige Firmware installieren
+
+* Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
+
+![EZCastUpdate](/images/EZCastPro_Repair_Tool_Update_for_localfile.exe.jpg)
+
+Das folgende Fenster erscheint. Wenn der EZCast Pro Stick II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
 
 # Einstellungen nach der Neuinstallation
 
