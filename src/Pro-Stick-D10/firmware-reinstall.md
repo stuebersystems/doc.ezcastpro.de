@@ -16,7 +16,7 @@ Bei einer Neuinstallation der Firmware werden **alle** Einstellungen zurückgese
 
 ![Das mitgelieferte USB Typ C Kabel](/images/USB-TypeC-Cable.jpg)
 
-# EZCast Pro Repair Tool herunterladen
+# EZCast Pro Repair Tool installieren
 
 * Laden Sie das [EZCast Pro Repair Tool](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/EZCast_Pro_Repair_Tool.zip) herunter.
 
