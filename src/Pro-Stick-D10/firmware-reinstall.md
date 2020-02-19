@@ -4,7 +4,7 @@ Sie können den EZCast Pro Stick II wiederherstellen, indem Sie die Firmware neu
 
 * Der EZCast Pro Stick II lässt sich nicht einschalten. Die Stromversorgung wurde bereits kontrolliert. In diesem Fall kann es an einem unterbrochenen [Aktualisierungs-Vorgang](firmware-upgrade.md) liegen.
 
-* Der EZCast Pro Stick II läuft unstabil und ein [Reset](reset.md) hat nicht geholfen.
+* Der EZCast Pro Stick II läuft nicht stabil und ein [Reset](reset.md) hat nicht geholfen.
 
 Bei einer Neuinstallation der Firmware werden **alle** Einstellungen zurückgesetzt.
 
@@ -105,7 +105,7 @@ Das folgende Fenster erscheint. Wenn der EZCast Pro Stick II im Update-Modus ist
 
 * Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
 
-![EZCastUpdate](/images/EZCastUpdate.SelectFirmware.jpg)
+![Firmware auswählen](/images/EZCastUpdate.SelectFirmware.jpg)
 
 * Um die Installation Firmware zu starten, wählen Sie `Upgrade`.
 
@@ -117,7 +117,7 @@ Die Firmware wird installiert.
 
 Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Meldung:
 
-![Die Installation war erfolgreich](/images/EZCastUpdate_Ulocalfile.Upgrade.Success.jpg)
+![Die Installation war erfolgreich](/images/EZCastUpdate_localfile.Upgrade.Success.jpg)
 
 Der EZCast Pro Stick II ist wieder einsatzbereit.
 
