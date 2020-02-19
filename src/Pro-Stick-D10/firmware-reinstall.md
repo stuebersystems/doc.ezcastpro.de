@@ -85,11 +85,41 @@ Der EZCast Pro Stick II ist wieder einsatzbereit.
 
 # Vorherige Firmware installieren
 
+Laden Sie eine vorherige Firmware herunter:
+
+Firmware                       | Herunterladen
+------------------------- | ------------
+D10_1.7545.1.gz | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.1.gz)
+D10_1.7094.0.gz | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7094.0.gz)
+D10_1.6557.27.gz | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.6557.27.gz)
+D10_1.6557.21.gz | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.6557.21.gz)
+D10_1.5608.24.gz | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.5608.24.gz)
+D10_1.5608.19.gz | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.5608.19.gz)
+D10_1.4756.0.gz | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.4756.0.gz)
+
 * Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
 ![EZCastUpdate](/images/EZCastPro_Repair_Tool_Update_for_localfile.exe.jpg)
 
 Das folgende Fenster erscheint. Wenn der EZCast Pro Stick II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
+
+* Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
+
+![EZCastUpdate](/images/EZCastUpdate.SelectFirmware.jpg)
+
+* Um die Installation Firmware zu starten, wählen Sie `Upgrade`.
+
+![Wählen Sie Upgrade, um die Installation zu starten](/images/EZCastUpdate.Upgrade.jpg)
+
+Die Firmware wird installiert.
+
+![Die Firmware wird installiert](/images/EZCastUpdate.Firmware.localfile.Updating.jpg)
+
+Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Meldung:
+
+![Die Installation war erfolgreich](/images/EZCastUpdate_Ulocalfile.Upgrade.Success.jpg)
+
+Der EZCast Pro Stick II ist wieder einsatzbereit.
 
 # Einstellungen nach der Neuinstallation
 
