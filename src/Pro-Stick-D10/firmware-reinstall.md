@@ -32,11 +32,6 @@ Bei einer Neuinstallation der Firmware werden **alle** Einstellungen zurückgese
 
 ![Wählen Sie Installieren](/images/EZCastPro_Upgrade_Tool_Driver.Install.jpg)
 
-* Die Datei **EZCastUpdate.exe** wird dabei im Ordner **EZCastPro_Upgrade_Tool** entpackt. Führen Sie diese Datei aus.
-
-Das folgende Fenster erscheint:
-
-![Wählen Sie Installieren](/images/EZCastUpdate.Connect.Device.jpg)
 
 # USB Typ C Kabel mit EZCast Pro Stick II anschließen
 
@@ -50,7 +45,14 @@ Das folgende Fenster erscheint:
 
 ![EZCast Pro Stick II in den Update-Modus setzen](/images/ProII-Press-Reset-Button.jpg)
 
-# Software aufrufen
+
+# Neuste Firmware installieren
+
+* Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
+
+Das folgende Fenster erscheint:
+
+![Wählen Sie Installieren](/images/EZCastUpdate.Connect.Device.jpg)
 
 Wenn der Treiber richtig installiert ist und der EZCast Pro Stick II angeschlossen ist, sollte das Gerät **„Realtek generic USB Device“** im Geräte-Manager erscheinen. Wenn nicht, überprüfen Sie die Treiber-Installation, Kabel-Konfiguration, und den Update-Modus, wie im vorherigen Schritt beschrieben.
 
