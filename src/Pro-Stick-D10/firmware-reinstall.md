@@ -99,7 +99,7 @@ D10_1.4756.0.gz | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firm
 
 * Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
-![EZCastUpdate](/images/EZCastPro_Repair_Tool_Update_for_localfile.exe.jpg)
+![localfile.exe ausführen](/images/EZCastPro_Repair_Tool_Update_for_localfile.exe.jpg)
 
 Das folgende Fenster erscheint. Wenn der EZCast Pro Stick II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
 
