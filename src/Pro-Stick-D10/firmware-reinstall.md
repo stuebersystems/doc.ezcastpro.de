@@ -104,7 +104,7 @@ Firmware                       | Herunterladen
 
 * Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
-![localfile.exe ausführen](/images/EZCastPro_Repair_Tool_Update_for_localfile.exe.jpg)
+![Update_for_localfile.exe ausführen](/images/EZCastPro_Repair_Tool_Update_for_localfile.exe.jpg)
 
 Das folgende Fenster erscheint. Wenn der EZCast Pro Stick II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
 
