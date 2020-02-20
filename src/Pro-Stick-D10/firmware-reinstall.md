@@ -71,7 +71,7 @@ Das Downloaden der Firmware wird durchgeführt.
 >
 > Sie dürfen den Strom während der Aktualisierung nicht unterbrechen.
 
-![EZCastPro Firware wird heruntergefahren](/images/EZCastUpdate.Firmware.Downloading.jpg)
+![EZCastPro Firmware wird heruntergefahren](/images/EZCastUpdate.Firmware.Downloading.jpg)
 
 * Um die Installation der Firmware zu starten, wählen Sie `Upgrade`.
 
@@ -93,6 +93,7 @@ Laden Sie eine vorherige Firmware herunter:
 
 Firmware                       | Herunterladen
 ------------------------- | ------------
+1.7545.7 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.7.gz)
 1.7545.1 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.1.gz)
 1.7094.0 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7094.0.gz)
 1.6557.27 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.6557.27.gz)
