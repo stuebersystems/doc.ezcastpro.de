@@ -130,7 +130,6 @@ Der EZCast Pro Stick II ist wieder einsatzbereit.
 
 Nach der Neuinstallation werden Sie bei der ersten Anmeldung auf der [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
 
-* [Auflösung](adv.settings.md#Auflösung) z.B.: `AUTO`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm) z.B. unsere Startseite in der deutschen Sprache
 * [Sprache](adv.settings.md#Sprache) z.B.: `DEUTSCH`
 * [WLAN-Modus](adv.settings.md#Wifi-Channel) z.B.: `Land = EUROPE`, `Bandbreite = 20MHz`
