@@ -176,13 +176,19 @@ Um ältere Endgeräte bzw. nicht 5 GHz fähige Geräte zu unterstützen nutzen S
 
 Im diesem Bereich können Sie Einstellungen zu dem Internet, IP-Einstellungen und WLAN-Kanal anpassen.
 
-### Internet (5GHz-SSID scannen und verbinden) {#Internet}
+### 5GHz-SSID scannen und verbinden (Internet/Router) {#Internet}
 
 Verbinden Sie den Pro Stick mit Ihrem WLAN-Router.
 
 **Bitte beachten:** Der EZCast Pro Stick II kann nur mit einem `5GHz WLAN-Router` verbunden werden, es sei denn Sie haben den [Legacy-WiFi-Modus](#legacymode) freigeschaltet.
 
 ![](/images/EZCastPro.II.Wifi.Internet.jpg)
+
+### Remember WiFi {#Remember-WiFi}
+
+Wenn die Verbindung vom EZCast Pro Stick II mit dem Internet bzw. mit Ihrem Router dauerhaft gemerkt werden soll, muss diese Option freigeschaltet sein. Wenn nicht, wird der Verbindung mit Ihrem Router nach einem Neustart des Sticks nicht automatisch hergestellt.
+
+![](/images/ezcastpro.II.remember.password.jpg)
 
 ### WiFi IP-Einstellungen {#WiFi-IP-Einstellungen}
 
