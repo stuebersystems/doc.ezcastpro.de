@@ -186,7 +186,7 @@ Verbinden Sie den Pro Stick mit Ihrem WLAN-Router.
 
 ### Remember WiFi {#Remember-WiFi}
 
-Wenn die Verbindung vom EZCast Pro Stick II mit dem Internet bzw. mit Ihrem Router dauerhaft gemerkt werden soll, muss diese Option freigeschaltet sein. Wenn nicht, wird der Verbindung mit Ihrem Router nach einem Neustart des Sticks nicht automatisch wiederhergestellt.  
+Wenn die Verbindung von EZCast Pro Stick II mit dem Internet bzw. mit Ihrem Router dauerhaft gemerkt werden soll, muss diese Option freigeschaltet sein. Wenn nicht, wird der Verbindung mit Ihrem Router nach einem Neustart des Sticks nicht automatisch wiederhergestellt.  
 
 ![](/images/ezcastpro.II.remember.password.jpg)
 
