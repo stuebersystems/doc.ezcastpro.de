@@ -6,7 +6,7 @@ Sie können den EZCast Pro Stick II wiederherstellen, indem Sie die Firmware neu
 
 * Der EZCast Pro Stick II läuft nicht stabil und ein [Reset](reset.md) hat nicht geholfen.
 
-* Sie haben die Wahl: Entweder die [Neuste Firmware](#neuste-firmware-installieren) oder eine [Vorherige Firmware](#vorherige-firmware-installieren) installieren
+* Sie haben die Wahl: Installieren Sie einfach die [Neuste Firmware](#neuste-firmware-installieren) oder eine [Vorherige Firmware](#vorherige-firmware-installieren) installieren
 
 > #### info::Hinweis
 >
@@ -126,7 +126,12 @@ Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Me
 
 Der EZCast Pro Stick II ist wieder einsatzbereit.
 
-# Einstellungen nach der Neuinstallation
+> #### info::HINWEIS
+>
+> Bitte beachten: Bei einer Neuinstallation der Firmware werden die fabrikseitigen Einstellungen des Geräts wiederhergestellt. Bitte prüfen Sie nach der Neuinstallation unsere [empfohlene Einstellungen](#Recommendedsettings).
+
+
+# Einstellungen nach der Neuinstallation {#Recommendedsettings}
 
 Nach der Neuinstallation werden Sie bei der ersten Anmeldung auf der [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
 
@@ -134,6 +139,7 @@ Nach der Neuinstallation werden Sie bei der ersten Anmeldung auf der [Erweiterte
 * [Sprache](adv.settings.md#Sprache) z.B.: `DEUTSCH`
 * [WLAN-Modus](adv.settings.md#Wifi-Channel) z.B.: `Land = EUROPE`, `Bandbreite = 20MHz`
 * [Android-Audio-Streaming](adv.settings.md#Android-Audio-Streaming) z.B.: `ON`
+* [Gastbehörde](adv.settings.md#Host-Authority) z.B.: `Dem Host Zugang nur auf die Konferenzsteuerung zulassen`
 
 
 

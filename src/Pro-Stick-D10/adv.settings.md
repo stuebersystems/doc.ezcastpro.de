@@ -56,7 +56,7 @@ Mit der Konferenzensteuerung können Sie die folgenden Aufgaben durchführen:
 
 * Alle Geräte trennen
 
-* Gastgeber wechseln
+* Die Role als Host bzw. als Gastgeber einem Gast zuordnen
 
 * Geräte auf dem Bildschirm neu positionieren
 
@@ -111,7 +111,7 @@ Mit Vollbild-Modus wird die Eingabe des Endgeräts automatisch angepasst, um das
 
 ![Das iPad wird im Vollbild angezeigt](/images/NEC_E506_Vollbild.png)
 
-### EZAir Mode {#EZAirMode}
+### AirPlay Modus {#AirPlayMode}
 
 Mit einem iOS/macOS Gerät können Sie Ihren Bildschirminhalt auch direkt per Apple AirPlay übertragen. Das bedeutet, Sie benötigen in diesem Fall keine EZCast Pro Software. Diese Funktion ist 'out-the-box' freigegeben. Eine umfassende Anleitung zur Verwendung von AirPlay finden Sie [hier](airplay.md).
 
@@ -230,9 +230,33 @@ Kontrollieren Sie, welche Funktionen der Host im Menü Erweiterte Einstellungen 
 
 ![Gastbehörde](/images/Host_authority.jpg)
 
-Bei der obigen Konfiguration wird beispielsweise nur die Funktion `Konferenzensteuerung` eingeblendet. Bitte beachten: Die Rubriken `Link-Status` und `Über` stehen immer zur Verfügung.
+Möchten Sie bespielsweise, dass der Host keinen Zugang auf die Schaltfläche `Einstellungen` innerhalb der Software bzw. der App zugelassen wird, dann können Sie die Option `Gerätemanager-Steuerung` auf `Off` (aus) stellen.
+
+![Host-Einstellungen können mit Hilfe der Gastbehörde ausgeblendet werden](/images/ezcastpro.II.software.no-hostsettings.jpg)
+
+Bei der obigen Konfiguration wird beispielsweise nur die Funktion `Konferenzsteuerung` eingeblendet. Bitte beachten: Die Rubriken `Link-Status` und `Über` stehen immer zur Verfügung.
 
 ![Funktion Konferenzensteuerung per Gastbehörde einblenden](/images/ezcastpro.II.Host_authority_example.jpg)
+
+### Host-Steuerung {#Host-Steuerung}
+
+Der erste Benutzer, der sich über die Software bzw. über die App verbindet, wird als Gastgeber (Host) bezeichnet und die anderen als Gäste. Standardmäßig muss jeden Antrag zum Senden vom Host genehmigt werden, im dem er mit entweder `Vollbild`, `Teilen`, oder `Ablehnen` antwortet: 
+
+![](/images/host.control_answer.jpg)
+
+**Antrag automatisch genehmigen**
+
+Wenn `Antrag automatisch genehmigen` auf `On` eingestellt ist, wird der Antrag zum Senden automatisch genehmigt.
+
+**Bildschirm teilen**
+
+Standardmäßig ist diese Funktion freigeschaltet. Dies bedeutet, dass der Bildschirm geteilt wird, um bis zu vier Geräte gleichzeitig zu zeigen, auch bekannt als Splitscreen-Modus. Wenn `Bildschirm teilen` aus ist, übernimmt der nächste genehmigte Sender im Vollbildmodus.
+
+![](/images/host.control.jpg)
+
+Ein Status der Einstellungen der Host-Steuerung wird auf der Startseite unten angezeigt:
+
+![](/images/host.control_status.jpg)
 
 ### Internetzugangskontrolle {#Internetzugangskontrolle}
 
