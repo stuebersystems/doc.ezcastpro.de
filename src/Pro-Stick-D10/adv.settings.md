@@ -18,7 +18,7 @@ Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viel
 
 # Anmeldung
 
-* Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000` oder `Connect4`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#zurücksetzen-per-reset-schalter) zurück.
+* Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#zurücksetzen-per-reset-schalter) zurück.
 
 ![](/images/EZCastII_Login.png)
 
@@ -234,9 +234,11 @@ Möchten Sie bespielsweise, dass der Host keinen Zugang auf die Schaltfläche `E
 
 ![Host-Einstellungen können mit Hilfe der Gastbehörde ausgeblendet werden](/images/ezcastpro.II.software.no-hostsettings.jpg)
 
-Bei der obigen Konfiguration wird beispielsweise nur die Funktion `Konferenzsteuerung` eingeblendet. Bitte beachten: Die Rubriken `Link-Status` und `Über` stehen immer zur Verfügung.
+![Beim Ausschalten der Funktion Gerätemanager-Steuerung wird Host-Settings ausgeblendet](/images/ezcastpro.II.software.hostsettings.hidden.png)
 
-![Funktion Konferenzensteuerung per Gastbehörde einblenden](/images/ezcastpro.II.Host_authority_example.jpg)
+Bei der obigen Konfiguration (alle Funktionen ausgeschaltet außer Konferenzsteuerung) wird nur die Funktion `Konferenzsteuerung` eingeblendet. Bitte beachten: Die Rubriken `Link-Status` und `Über` stehen immer zur Verfügung.
+
+![Funktion Konferenzensteuerung wird eingeblendet](/images/ezcastpro.II.Host_authority_example.jpg)
 
 ### Host-Steuerung {#Host-Steuerung}
 

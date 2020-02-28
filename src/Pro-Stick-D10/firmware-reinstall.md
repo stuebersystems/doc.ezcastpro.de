@@ -6,7 +6,7 @@ Sie können den EZCast Pro Stick II wiederherstellen, indem Sie die Firmware neu
 
 * Der EZCast Pro Stick II läuft nicht stabil und ein [Reset](reset.md) hat nicht geholfen.
 
-* Sie haben die Wahl: Installieren Sie einfach die [Neuste Firmware](#neuste-firmware-installieren) oder eine [Vorherige Firmware](#vorherige-firmware-installieren) installieren
+* Sie haben die Wahl: Installieren Sie einfach die [Neuste Firmware](#neuste-firmware-installieren) oder eine [andere Firmware](#andere-firmware-installieren) installieren
 
 > #### info::Hinweis
 >
@@ -87,12 +87,13 @@ Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Me
 
 Der EZCast Pro Stick II ist wieder einsatzbereit.
 
-# Vorherige Firmware installieren
+# Andere Firmware installieren
 
-Laden Sie eine vorherige Firmware herunter:
+Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
 Firmware                       | Herunterladen
 ------------------------- | ------------
+1.7545.10 (Beta) | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.10.gz)
 1.7545.7 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.7.gz)
 1.7545.1 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.1.gz)
 1.7094.0 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7094.0.gz)
@@ -135,11 +136,11 @@ Der EZCast Pro Stick II ist wieder einsatzbereit.
 
 Nach der Neuinstallation werden Sie bei der ersten Anmeldung auf der [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
 
-* [Mein Bildschirm](adv.settings.md#Mein-Bildschirm) z.B. unsere Startseite in der deutschen Sprache
-* [Sprache](adv.settings.md#Sprache) z.B.: `DEUTSCH`
-* [WLAN-Modus](adv.settings.md#Wifi-Channel) z.B.: `Land = EUROPE`, `Bandbreite = 20MHz`
-* [Android-Audio-Streaming](adv.settings.md#Android-Audio-Streaming) z.B.: `ON`
-* [Gastbehörde](adv.settings.md#Host-Authority) z.B.: `Dem Host Zugang nur auf die Konferenzsteuerung zulassen`
+* [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): [Unsere Startseite](https://download.stueber.de/doc/de/ezcastpro/EZCastProV2_StartseiteDE.png) in der deutschen Sprache
+* [Sprache](adv.settings.md#Sprache): `DEUTSCH`
+* [WLAN-Modus](adv.settings.md#Wifi-Channel): `Land = EUROPE`, `Bandbreite = 20MHz`
+* [Android-Audio-Streaming](adv.settings.md#Android-Audio-Streaming): `ON`
+* [Gastbehörde](adv.settings.md#Host-Authority): `Dem Host Zugang nur auf die Konferenzsteuerung zulassen`
 
 
 
