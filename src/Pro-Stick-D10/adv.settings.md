@@ -234,7 +234,7 @@ Möchten Sie bespielsweise, dass der Host keinen Zugang auf die Schaltfläche `E
 
 ![Host-Einstellungen können mit Hilfe der Gastbehörde ausgeblendet werden](/images/ezcastpro.II.software.no-hostsettings.jpg)
 
-![Beim Ausschalten der Funktion Gerätemanager-Steuerung wird Host-Settings ausgeblendet](/images/ezcastpro.II.software.hostsettings.hidden.png)
+![Beim Ausschalten der Funktion Gerätemanager-Steuerung wird die Schaltfläche Host-Einstellungen ausgeblendet](/images/ezcastpro.II.software.hostsettings.hidden.png)
 
 Bei der obigen Konfiguration (alle Funktionen ausgeschaltet außer Konferenzsteuerung) wird nur die Funktion `Konferenzsteuerung` eingeblendet. Bitte beachten: Die Rubriken `Link-Status` und `Über` stehen immer zur Verfügung.
 
