@@ -139,8 +139,12 @@ Nach der Neuinstallation werden Sie bei der ersten Anmeldung auf der [Erweiterte
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): [Unsere Startseite](https://download.stueber.de/doc/de/ezcastpro/EZCastProV2_StartseiteDE.png) in der deutschen Sprache
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
 * [WLAN-Modus](adv.settings.md#Wifi-Channel): `Land = EUROPE`, `Bandbreite = 20MHz`
-* [Android-Audio-Streaming](adv.settings.md#Android-Audio-Streaming): `ON`
-* [Gastbehörde](adv.settings.md#Host-Authority): `Dem Host Zugang nur auf die Konferenzsteuerung zulassen`
+* [Android-Audio-Streaming](adv.settings.md#Android-Audio-Streaming): `EIN`
+* [Gastbehörde](adv.settings.md#Host-Authority):
 
+Dem Host Zugang nur auf die Konferenzsteuerung und die Reboot-Steuerung zulassen:
 
+`Admineinstellungen` -> `Gastbehörde`
+	
+![](/images/Host_authority.jpg)
 
