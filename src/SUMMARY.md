@@ -43,6 +43,8 @@
   * [Internetzugang](LAN-Box-B01/internet.md)
   * [Erweiterte Einstellungen](LAN-Box-B01/adv.settings.md)
   * [Einstellungen zurücksetzen](LAN-Box-B01/reset.md)
+* [Test area](Test_area/README.md)
+  * [Markdown Basics](Test_area/notes.md)
 * [Anschlüsse](ports.md)
 * [Datensicherheit](datasecurity.md)
 
