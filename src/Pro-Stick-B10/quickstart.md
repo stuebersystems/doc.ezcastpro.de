@@ -6,7 +6,7 @@
 
 Der EZCast Pro Stick II besteht aus einem EZCast Pro II Stick (dem Empfänger), einem HDMI-Verlängerungskabel, USB-Kabel und einer Schnellstartanleitung (Englisch):
 
-![Inhalt des EZCast Pro Stick II](/images/EZCastPro_II_Stick_contents_DE.jpg)
+![Inhalt des EZCast Pro Box II](/images/EZCastPro_II_Stick_contents_DE.jpg)
 
 Um den EZCast Pro Stick II mit einem VGA-Anschluss z.B. mit einem älteren Beamer anschließen zu können, empfehlen wir einen [Adapter HDMI Buchse zu VGA Stecker](optimize.md#hdmi-auf-vga-adapter-hdmi-buchse-zu-vga-stecker).
 
