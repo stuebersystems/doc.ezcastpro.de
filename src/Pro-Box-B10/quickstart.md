@@ -1,17 +1,15 @@
 > #### info::Hinweis
 >
-> Eine PDF-Version dieses Dokuments zum Ausdrucken finden Sie [hier](https://download.stueber.de/doc/de/ezcastpro/Schnellstartanleitung.EZCast.Pro.Stick.II.pdf).
-
-
+> Eine PDF-Version dieses Dokuments zum Ausdrucken finden Sie [hier](https://download.stueber.de/doc/de/ezcastpro/Schnellstartanleitung.EZCast.Pro.Box.II.pdf).
 
 
 # Inhalt der EZCast Pro Box II
 
-Die EZCast Pro Box II besteht aus einer EZCast Pro Box II (dem Empfänger), einem HDMI-Verlängerungskabel, USB-Kabel und einer Schnellstartanleitung (Englisch):
+Die EZCast Pro Box II besteht aus einer EZCast Pro II Box (dem Empfänger), einem HDMI Kabel 1M, einem HDMI auf HDMI VGA-Buchse, Audio 3.5mm Adapter Kabel, einem 5V/2A Universal Stromadapter und einer Schnellstartanleitung (Englisch):
 
 ![Inhalt der EZCast Pro Box II](/images/B10-Inhalte.png)
 
-Um die EZCast Pro Box II mit einem VGA-Anschluss z.B. mit einem älteren Beamer anschließen zu können, empfehlen wir einen [Adapter HDMI Buchse zu VGA Stecker](optimize.md#hdmi-auf-vga-adapter-hdmi-buchse-zu-vga-stecker).
+Um die EZCast Pro Box II mit einem VGA-Anschluss z.B. mit einem älteren Beamer anschließen zu können, nutzen Sie den mitgelieferten HDMI auf HDMI, VGA-Buchse, Audio 3.5mm Adapter Kabel.
 
 # EZCast Pro Box II anschließen {#Connect_ProBoxII}
 
