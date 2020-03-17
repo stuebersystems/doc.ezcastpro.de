@@ -3,24 +3,24 @@
 > Eine PDF-Version dieses Dokuments zum Ausdrucken finden Sie [hier](https://download.stueber.de/doc/de/ezcastpro/Schnellstartanleitung.EZCast.Pro.Stick.II.pdf).
 
 
-Craig Test 1
+
 
 # Inhalt der EZCast Pro Box II
 
-Der EZCast Pro Stick II besteht aus einem EZCast Pro II Stick (dem Empfänger), einem HDMI-Verlängerungskabel, USB-Kabel und einer Schnellstartanleitung (Englisch):
+Der EZCast Pro Box II besteht aus einem EZCast Pro Box II (dem Empfänger), einem HDMI-Verlängerungskabel, USB-Kabel und einer Schnellstartanleitung (Englisch):
 
 ![Inhalt des EZCast Pro Box II](/images/EZCastPro_II_Stick_contents_DE.jpg)
 
-Um den EZCast Pro Stick II mit einem VGA-Anschluss z.B. mit einem älteren Beamer anschließen zu können, empfehlen wir einen [Adapter HDMI Buchse zu VGA Stecker](optimize.md#hdmi-auf-vga-adapter-hdmi-buchse-zu-vga-stecker).
+Um den EZCast Pro Box II mit einem VGA-Anschluss z.B. mit einem älteren Beamer anschließen zu können, empfehlen wir einen [Adapter HDMI Buchse zu VGA Stecker](optimize.md#hdmi-auf-vga-adapter-hdmi-buchse-zu-vga-stecker).
 
-# EZCast Pro Stick II anschließen {#Connect_ProStickII}
+# EZCast Pro Box II anschließen {#Connect_ProBoxII}
 
-* Verbinden Sie den Empfänger, wie unten abgebildet, mit der HDMI-Eingang Ihres Bildschirms. Schließen Sie das Netzteil mit Hilfe des USB-Kabels an. Der EZCast Pro Stick II schaltet sich automatisch ein. 
+* Verbinden Sie den Empfänger, wie unten abgebildet, mit der HDMI-Eingang Ihres Bildschirms. Schließen Sie das Netzteil mit Hilfe des USB-Kabels an. Der EZCast Pro Box II schaltet sich automatisch ein. 
 
 > #### primary::Hinweis
-> Zur Stromversorgung schließen Sie den USB-Port des EZCast Pro Stick II mit einem [externen Netzteil](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger) (Min. 5V/1,5A) mit Hilfe des mit gelieferten USB-Kabels an.
+> Zur Stromversorgung schließen Sie den USB-Port des EZCast Pro Box II mit einem [externen Netzteil](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger) (Min. 5V/2A) mit Hilfe des mit gelieferten USB-Kabels an.
 
-![HDMI-Port + externes Netzteil (Min. 5V/1,5A)](/images/plugin_HDMI1.5A.jpg)
+![HDMI-Port + externes Netzteil(Min. 5V/2A)](/images/B10_anschließen.png)
 
 # Android und iOS
 
@@ -37,9 +37,9 @@ Um den EZCast Pro Stick II mit einem VGA-Anschluss z.B. mit einem älteren Beame
 ![EZCast Pro im Google Play Store](/images/EZCastProApp_PlayStore.jpg)
 
 
-## App mit EZCast Pro Stick II verbinden
+## App mit EZCast Pro Box II verbinden
 
-Wenn Sie den EZCast Pro Stick II richtig [anschlossen](#Connect_ProStickII) haben, erscheint folgende Startseite auf dem Bildschirm:
+Wenn Sie den EZCast Pro Box II richtig [anschlossen](#Connect_ProBoxII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
 ![Die Startseite](/images/ProIIStick_Startseite_SSID.jpg)
 
@@ -51,7 +51,7 @@ Wenn Sie den EZCast Pro Stick II richtig [anschlossen](#Connect_ProStickII) habe
 
 ![Nach EZCast Pro Geräten suchen](/images/iOS_Device-list.jpg)
 
-* Wählen Sie Ihren EZCast Pro Stick II aus, anschließend finden Sie alle Optionen zum Anzeigen Ihrer Inhalte in der App:
+* Wählen Sie Ihren EZCast Pro Box II aus, anschließend finden Sie alle Optionen zum Anzeigen Ihrer Inhalte in der App:
 
 ![Ihr EZCast Pro Gerät auswählen](/images/iOS_select-device.jpg)
 
@@ -65,9 +65,9 @@ Wenn Sie den EZCast Pro Stick II richtig [anschlossen](#Connect_ProStickII) habe
 
 * Laden Sie bitte die Software für [Windows](https://www.ezcast.com/app/ezcast/pro/windows) oder [macOS](https://www.ezcast.com/app/ezcast/pro/macos) herunter und installieren Sie sie.
 
-## Software mit EZCast Pro Stick II verbinden
+## Software mit EZCast Pro Box II verbinden
 
-Wenn Sie den EZCast Pro Stick II richtig [anschlossen](#Connect_ProStickII) haben, erscheint folgende Startseite auf dem Bildschirm:
+Wenn Sie den EZCast Pro Box II richtig [anschlossen](#Connect_ProBoxII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
 ![Die Startseite](/images/ProIIStick_Startseite.jpg)
 
@@ -77,7 +77,7 @@ Wenn Sie den EZCast Pro Stick II richtig [anschlossen](#Connect_ProStickII) habe
 
 ![Starten Sie die Software EZCastPro](/images/EZCastPro_Start_Software.jpg)
 
-* Wählen Sie den EZCast Pro Stick II aus, wie unten abgebildet:
+* Wählen Sie den EZCast Pro Box II aus, wie unten abgebildet:
 
 ![Die Geräteliste](/images/mac-windows_device-list.jpg)
 
