@@ -1,6 +1,6 @@
 # Was ist ProCast eigentlich?
 
-ProCast ist eine Übertragung vom einem Bildschirm auf mehrere Displays z.B. von einem Windows-PC bzw. macOS auf mehrere große Displays. Mit dem EZCast Pro Stick II können Sie auf bis zu 8 Displays übertragen.
+ProCast ist eine Übertragung vom einem Bildschirm auf mehrere Displays z.B. von einem Windows-PC bzw. macOS auf mehrere große Displays. Mit der EZCast Pro Box II können Sie auf bis zu 8 Displays übertragen.
 
 ![](/images/procasting.png)
 
@@ -12,9 +12,9 @@ ProCast ist eine Übertragung vom einem Bildschirm auf mehrere Displays z.B. von
 
 # So gehen Sie vor
 
-* [Schließen Sie](quickstart.md#Connect_ProIIStick) einen EZCast Pro Stick II an jedem Display an, auf das Sie übertragen möchten.
+* [Schließen Sie](quickstart.md#Connect_ProIIStick) die EZCast Pro Box II an jedem Display an, auf das Sie übertragen möchten.
 
-* Der Computer von dem Sie übertragen sowie alle EZCast Pro Sticks II müssen sich im gleichen Netzwerk befinden, indem Sie die Sticks mit Ihrem [Router](internet.md) verbinden.
+* Der Computer von dem Sie übertragen, sowie die EZCast Pro Box II müssen sich im gleichen Netzwerk befinden, indem Sie die Box mit Ihrem [Router](internet.md) verbinden.
 
 ## Software installieren {#InstallSoftware}
 

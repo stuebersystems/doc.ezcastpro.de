@@ -27,7 +27,7 @@ Mit AirPlay haben Sie die Möglichkeit, Ihr iOS- oder macOS-Gerät ohne die EZCa
 
 ![Kontrollzentrum öffnen](/images/Open_iOS-ControlCenter.jpg)
 
-* Im Kontrollzentrum tippen Sie auf `AirPlay`, anschließend wählen Sie den EZCast Pro Stick II aus.
+* Im Kontrollzentrum tippen Sie auf `AirPlay`, anschließend wählen Sie die EZCast Pro Box II aus.
 
 > #### primary::Hinweis
 >
@@ -41,15 +41,15 @@ Mit AirPlay haben Sie die Möglichkeit, Ihr iOS- oder macOS-Gerät ohne die EZCa
 
 # AirPlay auf macOS
 
-Mit macOS haben Sie die Möglichkeit, macOS-Geräte kabellos über AirPlay zu präsentieren. Um AirPlay mit EZCast Pro II zu verbinden, müssen Sie sich im gleichen Netzwerk wie der EZCast Pro Stick II befinden.
+Mit macOS haben Sie die Möglichkeit, macOS-Geräte kabellos über AirPlay zu präsentieren. Um AirPlay mit EZCast Pro II zu verbinden, müssen Sie sich im gleichen Netzwerk wie die EZCast Pro Box II befinden.
 
 * Stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite am Bildschirm angezeigt ist.
 
 
-![EZCast Pro Stick II Startseite](/images/ProIIStick_Startseite.jpg)
+![EZCast Pro Box II Startseite](/images/ProIIStick_Startseite.jpg)
 
 * Auf dem Mac in der Menüleiste klicken Sie auf das AirPlay-Symbol oben im Bildschirm.
 
-* Wählen Sie den EZCast Pro Stick II aus. Wenn der Stick nicht angezeigt wird, stellen Sie sicher, dass Ihr Mac im gleichen Netzwerk verbunden ist wie der EZCast Pro Stick II.
+* Wählen Sie die EZCast Pro Box II aus. Wenn der Stick nicht angezeigt wird, stellen Sie sicher, dass Ihr Mac im gleichen Netzwerk verbunden ist wie die EZCast Pro Box II.
 
-![AirPlay: EZCast Pro Stick II auswählen](/images/macOS-AirPlay.jpg)
+![AirPlay: EZCast Pro Box II auswählen](/images/macOS-AirPlay.jpg)

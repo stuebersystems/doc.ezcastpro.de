@@ -1,8 +1,8 @@
 # Firmware aktualisieren - Warum? 
 
-Um von den neusten Funktionen des EZCast Pro Stick II zu profitieren, können Sie das neuste Firmware-Update schnell und bequem über das Internet installieren. Bei der Installation einer neuen Firmware werden die bisherigen Einstellungen mitgenommen. Dabei benötigen Sie einen Zugang zum Internet mit dem Internet bzw. mit Ihrem Router. Dies wird mit dem WLAN-Symbol oben rechts und eine vergebene IP-Adresse Ihres Routers unten links auf der Startseite anzeigt, wie unten abgebildet:
+Um von den neusten Funktionen der EZCast Pro Box II zu profitieren, können Sie das neuste Firmware-Update schnell und bequem über das Internet installieren. Bei der Installation einer neuen Firmware werden die bisherigen Einstellungen mitgenommen. Dabei benötigen Sie einen Zugang zum Internet mit dem Internet bzw. mit Ihrem Router. Dies wird mit dem WLAN-Symbol oben rechts und eine vergebene IP-Adresse Ihres Routers unten links auf der Startseite anzeigt, wie unten abgebildet:
 
-Wenn Ihr EZCast Pro Stick II nicht mit dem Internet verbunden ist, klicken Sie bitte [hier](internet.md) und folgen Sie der entsprechenden Anleitung.
+Wenn Ihre EZCast Pro Box II nicht mit dem Internet verbunden ist, klicken Sie bitte [hier](internet.md) und folgen Sie der entsprechenden Anleitung.
 
 ![](/images/ProStickII_connected_to_router.jpg)
 
@@ -10,7 +10,7 @@ Wenn Ihr EZCast Pro Stick II nicht mit dem Internet verbunden ist, klicken Sie b
 
 Das Updaten der Firmware kann per die `Erweiterte Einstellungen` eines beliebigen End-Geräts durchgeführt werden. In diesem Beispiel zeigen wir Ihnen, wie das Upgrade von einem Windows-PC vorgenommen wird.
 
-* Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die [Software](quickstart.md#InstallSoftware) installiert haben und mit Ihrem EZCast Pro Stick II verbunden sind.
+* Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die [Software](quickstart.md#InstallSoftware) installiert haben und mit Ihrer EZCast Pro Box II verbunden sind.
 
 * Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf.
 

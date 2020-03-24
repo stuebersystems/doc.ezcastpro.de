@@ -2,7 +2,7 @@
 
 ![](/images/Chromecast_logo.png)
 
-Chromecast ist die Übertragungstechnologie von Google. Mit dem Google Chrome Browser kann man einen Browser-Tab, eine Audio/Video-Datei, oder sogar den gesamten Computerbildschirm auf den EZCast Pro Stick II schnell und bequem übertragen. 
+Chromecast ist die Übertragungstechnologie von Google. Mit dem Google Chrome Browser kann man einen Browser-Tab, eine Audio/Video-Datei, oder sogar den gesamten Computerbildschirm auf die EZCast Pro Box II schnell und bequem übertragen. 
 
 ![](/images/Chrome_select_stream.jpg)
 
@@ -25,7 +25,7 @@ Die Übertragungstechnologie Google Cast ist nun fest eingebauter Bestandteil de
 
 # Chromecast freischalten
 
-* Um Ihr Endgerät auf den EZCast Pro Stick II übertragen zu können, muss die Option `Chromecast` in [Erweitere Einstellungen](adv.settings.md#Chromecast) einmalig freigeschaltet werden:
+* Um Ihr Endgerät auf die EZCast Pro Box II übertragen zu können, muss die Option `Chromecast` in [Erweitere Einstellungen](adv.settings.md#Chromecast) einmalig freigeschaltet werden:
 
 ![](/images/Chromecast-support.jpg)
 

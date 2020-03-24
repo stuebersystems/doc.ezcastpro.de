@@ -1,20 +1,20 @@
-# EZCast Pro II Stick auf Standardeinstellungen zurücksetzen
+# EZCast Pro II Box auf Standardeinstellungen zurücksetzen
 
-Es gibt mehrere Gründe für einen Reset des EZCast Pro Stick II auf Werkseinstellungen:
+Es gibt mehrere Gründe für einen Reset der EZCast Pro Box II auf Werkseinstellungen:
 
 * Sie haben das Admin-Kennwort für die [Erweiterte Einstellungen](adv.settings.md) vergessen.
 
-* Sie haben Änderungen in Ihrer Netzwerkinfrastruktur, den IP-Einstellungen oder den SSID-Zugangsdaten des Sticks vorgenommen und Ihr Stick ist nicht mehr erreichbar.
+* Sie haben Änderungen in Ihrer Netzwerkinfrastruktur, den IP-Einstellungen oder den SSID-Zugangsdaten der Box vorgenommen und Ihre Box ist nicht mehr erreichbar.
 
-* Sie haben Probleme eine ungewollte Änderung auf dem Stick rückgängig zu machen.
+* Sie haben Probleme eine ungewollte Änderung auf der Box rückgängig zu machen.
 
 Bei einem Zurücksetzen werden alle Einstellungen zurückgesetzt, außer die [WLAN-SSID](adv.settings.md#Geraetename), das [Hintergrundbild](adv.settings.md#Mein-Bildschirm) der  Startseite, und die Firmware-Version.
 
 # Zurücksetzen per App bzw. per Software
 
-Mit Hilfe der `Erweiterte Einstellungen` können Sie sich anmelden und die Standardeinstellungen zurücksetzen. Um die `Erweiterte Einstellungen` zu erreichen, stellen Sie sicher, dass Sie die [App](quickstart.md#InstallApp) installiert haben und dass Sie mit Ihrem EZCast Pro II Stick [verbunden](quickstart.md#app-mit-ezcast-pro-ii-stick-verbinden) sind.
+Mit Hilfe der `Erweiterte Einstellungen` können Sie sich anmelden und die Standardeinstellungen zurücksetzen. Um die `Erweiterte Einstellungen` zu erreichen, stellen Sie sicher, dass Sie die [App](quickstart.md#InstallApp) installiert haben und dass Sie mit Ihrer EZCast Pro II Box [verbunden](quickstart.md#app-mit-ezcast-pro-ii-stick-verbinden) sind.
 
-* Rufen Sie die App bzw. die Software `EZCastPro` auf Ihrem Gerät auf und wählen Sie den Pro II Stick aus der Geräteliste aus.
+* Rufen Sie die App bzw. die Software `EZCastPro` auf Ihrem Gerät auf und wählen Sie die Pro II Box aus der Geräteliste aus.
 
 * Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
 
@@ -50,9 +50,9 @@ Mit Hilfe der `Erweiterte Einstellungen` können Sie sich anmelden und die Stand
 
 Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md) nicht bekannt sind, haben Sie die Möglichkeit mit dem Reset-Schalter die Standardeinstellungen zurückzusetzen:
 
-* Wenn die Stromversorgung angeschlossen ist, halten Sie den Reset-Schalter ca. 10 Sekunden lang gedrückt. Der Reset-Schalter befindet sich an der Seite des Sticks neben dem USB-Anschluss.
+* Wenn die Stromversorgung angeschlossen ist, halten Sie den Reset-Schalter ca. 10 Sekunden lang gedrückt. Der Reset-Schalter befindet sich an der Rückseite der Box oben dem USB-Anschluss.
 
-![Reset-Schalter ca. 10 Sekunden lang gedrückt halten](/images/ProII-Press-Reset-Button.jpg)
+![Reset-Schalter ca. 10 Sekunden lang gedrückt halten](/images/EZ-PB10_05.jpg)
 
 * Wenn die folgende Meldung erscheint, lassen Sie den Reset-Schalter los.
 

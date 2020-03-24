@@ -4,15 +4,15 @@ Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höhe
 
 Aufgrund einer Limitierung von der Miracast Technik kann nur ein einzelnes Gerät auf einmal übertragen werden. Für Splitscreen benötigen Sie die EZCast Pro [Software](quickstart.md#windows-und-macos) bzw. [App](quickstart.md#android-und-ios).
 
-* Um Miracast mit dem EZCast Pro Stick II zu verbinden, stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite auf dem Bildschirm angezeigt ist.
+* Um Miracast mit der EZCast Pro Box II zu verbinden, stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite auf dem Bildschirm angezeigt ist.
 
-![EZCast Pro Stick II Startseite](/images/ProIIStick_Startseite.jpg)
+![EZCast Pro Box II Startseite](/images/ProIIStick_Startseite.jpg)
 
 # Windows Miracast
 
-* Drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie den EZCast Pro Stick II aus:
+* Drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie den EZCast Pro Box II aus:
 
-![EZCast Pro Stick auswählen](/images/ProIIStick-Windows_Miracast_Select_Device.jpg)
+![EZCast Pro Box auswählen](/images/ProIIStick-Windows_Miracast_Select_Device.jpg)
 
 Eine Verbindung über Miracast wird hergestellt
 ![Miracast-Verbindung wird hergestellt](/images/ProIIStick-Windows_Miracast_Connecting.jpg)
@@ -28,7 +28,7 @@ Eine Verbindung über Miracast wird hergestellt
 
 ![Drahtlose Anzeige trennen](/images/ProIIStick-Windows_Miracast_Disconnect.jpg)
 
-* EZCast Pro Stick II kehrt zurück auf die Startseite.
+* EZCast Pro Box II kehrt zurück auf die Startseite.
 
 ![EZCast Pro Startseite](/images/ProIIStick_Startseite.jpg)
 
@@ -36,9 +36,9 @@ Eine Verbindung über Miracast wird hergestellt
 
 Suchen auf Ihren Android-Gerät nach dem Punkt "Übertragen". Auf Samsung-Geräten heißt dieses Feature `Smart View`. Auf anderen Android-Geräten heißt es `Screen Mirroring`.
 
-![ProIIStick-Android_Miracast_SmartView](/images/ProIIStick-Android_Miracast_SmartView.jpg)
+![ProIIBox-Android_Miracast_SmartView](/images/ProIIStick-Android_Miracast_SmartView.jpg)
 
-* Wählen Sie anschließend den entsprechenden EZCast Pro Stick II aus. Eine Verbindung über Miracast wird hergestellt:
+* Wählen Sie anschließend den entsprechenden EZCast Pro Box II aus. Eine Verbindung über Miracast wird hergestellt:
 
 ![Miracast-Verbindung wird hergestellt](/images/ProIIStick-Android_Miracast_Select.jpg)
 
@@ -50,6 +50,6 @@ Sie sind nun mit EZCast Pro II per Miracast verbunden. Dies wird durch folgendes
 
 ![Miracast-Anzeige trennen](/images/Android_Miracast_disconnect.jpg)
 
-* EZCast Pro Stick II kehrt zurück auf die Startseite.
+* EZCast Pro Box II kehrt zurück auf die Startseite.
 
 ![EZCast Pro Startseite](/images/ProIIStick_Startseite.jpg)

@@ -1,6 +1,6 @@
 # Erweiterte Einstellungen
 
-Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen des EZCast Pro Stick II bequem per Fernzugriff anpassen. Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die Software bzw. die App [installiert](quickstart.md) haben und mit Ihrem EZCast Pro Stick II verbunden sind.
+Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Box II bequem per Fernzugriff anpassen. Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die Software bzw. die App [installiert](quickstart.md) haben und mit Ihrer EZCast Pro Box II verbunden sind.
 
 * Rufen Sie die Software bzw. die App `EZCastPro`auf Ihrem Gerät auf.
 
@@ -80,7 +80,7 @@ Hier können Sie den Gerätenamen ändern. Aus Sicherheitsgründen kann die SSID
 
 ### Auflösung {#Auflösung}
 
-Hier wählen Sie die Ausgabeauflösung des EZCast Pro Stick II aus. Sie können entweder eine bestimmte Auflösung auswählen oder wählen Sie einfach `Auto` und der Pro Stick II stellt die optimale Auslösung für Ihren Bildschirm automatisch ein.
+Hier wählen Sie die Ausgabeauflösung der EZCast Pro Box II aus. Sie können entweder eine bestimmte Auflösung auswählen oder wählen Sie einfach `Auto` und die Pro Box II stellt die optimale Auslösung für Ihren Bildschirm automatisch ein.
 
 | Standard | Auflösung|
 | :------------- |:-----:|
@@ -168,7 +168,7 @@ Die Übertragung von Miracast-Geräten unterstützen. Eine umfassende Anleitung 
 
 ### Legacy WiFi (2,4 GHz) Modus {#legacymode}
 
-Um ältere Endgeräte bzw. nicht 5 GHz fähige Geräte zu unterstützen nutzen Sie diese Option, um den EZCast Pro Stick II auf die 2,4 GHz-Band umzuschalten.
+Um ältere Endgeräte bzw. nicht 5 GHz fähige Geräte zu unterstützen nutzen Sie diese Option, um die EZCast Pro Box II auf die 2,4 GHz-Band umzuschalten.
 
 ![](/images/legacy.wifi.mode.png)
 
@@ -178,27 +178,27 @@ Im diesem Bereich können Sie Einstellungen zu dem Internet, IP-Einstellungen un
 
 ### 5GHz-SSID scannen und verbinden (Internet/Router) {#Internet}
 
-Verbinden Sie den Pro Stick mit Ihrem WLAN-Router.
+Verbinden Sie die EZCast Pro Box mit Ihrem WLAN-Router.
 
-**Bitte beachten:** Der EZCast Pro Stick II kann nur mit einem `5GHz WLAN-Router` verbunden werden, es sei denn Sie haben den [Legacy-WiFi-Modus](#legacymode) freigeschaltet.
+**Bitte beachten:** Die EZCast Pro Box II kann nur mit einem `5GHz WLAN-Router` verbunden werden, es sei denn Sie haben den [Legacy-WiFi-Modus](#legacymode) freigeschaltet.
 
 ![](/images/EZCastPro.II.Wifi.Internet.jpg)
 
 ### Remember WiFi {#Remember-WiFi}
 
-Wenn die Verbindung von EZCast Pro Stick II mit dem Internet bzw. mit Ihrem Router dauerhaft gemerkt werden soll, muss diese Option freigeschaltet sein. Wenn nicht, wird der Verbindung mit Ihrem Router nach einem Neustart des Sticks nicht automatisch wiederhergestellt.  
+Wenn die Verbindung von EZCast Pro Box II mit dem Internet bzw. mit Ihrem Router dauerhaft gemerkt werden soll, muss diese Option freigeschaltet sein. Wenn nicht, wird der Verbindung mit Ihrem Router nach einem Neustart des Sticks nicht automatisch wiederhergestellt.  
 
 ![](/images/ezcastpro.II.remember.password.jpg)
 
 ### WiFi IP-Einstellungen {#WiFi-IP-Einstellungen}
 
-Weisen Sie dem Pro Stick II eine statische IP-Adresse zu oder setzen Sie automatische IP-Adressierung (DHCP).
+Weisen Sie der Pro Box II eine statische IP-Adresse zu oder setzen Sie automatische IP-Adressierung (DHCP).
 
 ![](/images/static-IP.jpg)
 
 ### WIFI-Kennwort ändern bzw. nicht sichtbar {#WIFI-Kennwort}
 
-Legen Sie ein benutzerdefiniertes Kennwort für das WLAN des Pro Sticks fest und wählen Sie, ob das Kennwort aus Sicherheitsgründen ausgeblendet werden soll.
+Legen Sie ein benutzerdefiniertes Kennwort für das WLAN der Pro Box fest und wählen Sie, ob das Kennwort aus Sicherheitsgründen ausgeblendet werden soll.
 
 ![](/images/ezcastpro.II.kennwort.jpg)
 
@@ -309,7 +309,7 @@ Standardmäßig werden beide Wege per die Option `Über Router oder direkte Verb
 
 ![](/images/ezcastpro.II.Direkte_Verbindung.jpg)
 
-* Mit `Nur über Router` **(Nur via Router)** wird der Access-Point des EZCast Pro Stick II  ausgeschaltet und Sie können nur über Ihren Router mit den Stick verbinden. Die SSID und das Passwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse des Sticks wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
+* Mit `Nur über Router` **(Nur via Router)** wird der Access-Point der EZCast Pro Box II  ausgeschaltet und Sie können nur über Ihren Router mit der Box verbinden. Die SSID und das Passwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse des Sticks wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
 
 ![](/images/ezcastpro.II.Nur.Ueber.Router.jpg)
 
@@ -325,25 +325,25 @@ Legen Sie einen bestimmten Benutzer fest, dass sich immer als Host der Präsenta
 
 ### Aktualisieren (Firmware) {#Aktualisieren}
 
-Sie können die Firmware des EZCast Pro II Sticks aktualisieren, um die neuesten Erweiterungen und Funktionen nutzen zu können.
+Sie können die Firmware der EZCast Pro II Box aktualisieren, um die neuesten Erweiterungen und Funktionen nutzen zu können.
 
 ![](/images/Update.jpg)
 
 Klicken Sie [hier](firmware-upgrade.md) für eine vollständige Anleitung zum aktualisieren der Firmware.
 ### Auf Standardeinstellungen zurücksetzen {#Reset}
 
-Nutzen Sie diese Option, um den Pro Stick auf die Standardeinstellungen zurückzusetzen. Weitere Informationen dazu finden Sie [hier](reset.md).
+Nutzen Sie diese Option, um die Pro Box auf die Standardeinstellungen zurückzusetzen. Weitere Informationen dazu finden Sie [hier](reset.md).
 
 ![](/images/Reset.jpg)
 
 ## Neustarten {#restart}
 
-Nutzen Sie diese Option, um den Pro Stick neu zu starten.
+Nutzen Sie diese Option, um die Pro Box neu zu starten.
 
 ![](/images/restart.jpg)
 
 ## Über {#Ueber}
 
-Nutzen Sie diese Option, um eine Übersicht des Pro Sticks z.B. Firmware-Version, IP-Adresse sowie Daten zum WLAN zu erhalten.
+Nutzen Sie diese Option, um eine Übersicht der Pro Box z.B. Firmware-Version, IP-Adresse sowie Daten zum WLAN zu erhalten.
 
 ![](/images/D10.about_stick.jpg)
