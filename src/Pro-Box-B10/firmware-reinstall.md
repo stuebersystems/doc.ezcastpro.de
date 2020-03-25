@@ -46,8 +46,8 @@ Sie können die EZCast Pro Box II wiederherstellen, indem Sie die Firmware neu i
 
 * Um die EZCast Pro Box II in den Update-Modus zu setzen, schalten Sie das Gerät per die Power-Taste aus. Mit Hilfe eines kleinen "Stifts" halten Sie den Reset-Schalter gedrückt. Schalten Sie das Gerät per die Power-Taste ein, anschließend können Sie den Reset-Schalter loslassen.
 
-![Hier soll ein anderes Bild sein ](/images/ProII-Press-Reset-Button.jpg)
-* Schließen Sie nun das [USB Kabel (A/A)](https://www.amazon.de/deleyCON-Super-Speed-Kabel-Stecker/dp/B00WHZ746E/ref=sr_1_3?ie=UTF8&qid=1531928442&sr=8-3&keywords=usb+kabel+male+to+male) an den USB-Port des Empfängers und an einen USB-Port Ihres Rechners unter Microsoft Windows an.
+![EZCast Pro Box II in den Update-Modus setzen](/images/EZ-PB10_05.jpg)
+* Schließen Sie nun das [USB Kabel (A/A)](https://www.amazon.de/deleyCON-Super-Speed-Kabel-Stecker/dp/B00WHZ746E/ref=sr_1_3?ie=UTF8&qid=1531928442&sr=8-3&keywords=usb+kabel+male+to+male) an den USB-Port der Box und an einen USB-Port Ihres Rechners unter Microsoft Windows an.
 
 Wenn der Treiber richtig installiert ist und die EZCast Pro Box II angeschlossen ist, sollte das Gerät **„Realtek generic USB Device“** im Geräte-Manager erscheinen. Wenn nicht, überprüfen Sie die Treiber-Installation, Kabel-Konfiguration, und den Update-Modus, wie im vorherigen Schritt beschrieben.
 
@@ -93,9 +93,15 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                       | Herunterladen
 ------------------------- | ------------
-1.7545.10 (Beta) | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.10.gz)
-1.7545.8 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.8.gz)
-1.7545.1 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.1.gz)
+1.7545.10 (Beta) | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.10.gz)
+1.7545.7 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.7.gz)
+1.7545.1 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.1.gz)
+1.7094.0 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7094.0.gz)
+1.6557.27 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.6557.27.gz)
+1.6557.21 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.6557.21.gz)
+1.5608.24 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.5608.24.gz)
+1.5608.19 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.5608.19.gz)
+1.4756.0 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.4756.0.gz)
 
 * Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
