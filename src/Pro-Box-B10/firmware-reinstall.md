@@ -94,8 +94,8 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 Firmware                       | Herunterladen
 ------------------------- | ------------
 1.7545.10 (Beta) | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.10.gz)
-1.7545.8 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/D10_1.7545.8.gz)
-1.7545.1 | [Herunterladen](https://download.stueber.de//pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.1.gz)
+1.7545.8 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.8.gz)
+1.7545.1 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.1.gz)
 
 * Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
