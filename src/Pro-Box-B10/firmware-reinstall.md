@@ -16,9 +16,9 @@ Sie können die EZCast Pro Box II wiederherstellen, indem Sie die Firmware neu i
 
 * Sie benötigen einen Windows Computer, um die Firmware-Software auf der EZCast Pro Box II einzuspielen.
 
-* Die Aktualisierung des Firmware-Upgrades muss mit dem mitgelieferten USB Typ C Kabel unter Microsoft Windows vorgenommen werden.
+* Die EZCast Pro Box II muss mit Ihrem Windows-PC per [USB Kabel (A/A)](https://www.amazon.de/deleyCON-Super-Speed-Kabel-Stecker/dp/B00WHZ746E/ref=sr_1_3?ie=UTF8&qid=1531928442&sr=8-3&keywords=usb+kabel+male+to+male) angeschlossen werden.
 
-![Das mitgelieferte USB Typ C Kabel](/images/USB-TypeC-Cable.jpg)
+![USB Kabel-Kabel AA ](/images/USB-Kabel-AA.jpg)
 
 # EZCast Pro Repair Tool installieren
 
@@ -37,17 +37,17 @@ Sie können die EZCast Pro Box II wiederherstellen, indem Sie die Firmware neu i
 ![Wählen Sie Installieren](/images/EZCastPro_Upgrade_Tool_Driver.Install.jpg)
 
 
-# USB Typ C Kabel anschließen
+# USB Typ A Kabel anschließen
 
 > #### primary::Hinweis
 >
-> Anfangs ist das USB Typ C Kabel **nur** mit dem USB-Anschluss der Box angeschlossen. Die Box ist ausgeschaltet. Das andere Ende des Kabels schließen Sie **nachher** mit Ihrem PC an.
+> Anfangs ist das USB Typ A Kabel **nur** mit dem USB-Anschluss der Box angeschlossen. Die Box ist ausgeschaltet. Das andere Ende des Kabels schließen Sie **nachher** mit Ihrem PC an.
 
-* Schließen Sie das mitgelieferte USB Typ C Kabel mit dem USB-Anschluss der Box an. Die Box bleibt ausgeschaltet.
 
-* Um die EZCast Pro Box II in den Update-Modus zu setzen, drücken und **halten** Sie die Reset-Taste. Schließen Sie anschließend das USB Typ C Kabel mit Ihrem Windows PC an. Nach fünf Sekunden lassen Sie die Reset-Taste los.
+* Um die EZCast Pro Box II in den Update-Modus zu setzen, schalten Sie das Gerät per die Power-Taste aus. Mit Hilfe eines kleinen "Stifts" halten Sie den Reset-Schalter gedrückt. Schalten Sie das Gerät per die Power-Taste ein, anschließend können Sie den Reset-Schalter loslassen.
 
-![EZCast Pro Box II in den Update-Modus setzen](/images/ProII-Press-Reset-Button.jpg)
+![Hier soll ein anderes Bild sein ](/images/ProII-Press-Reset-Button.jpg)
+* Schließen Sie nun das [USB Kabel (A/A)](https://www.amazon.de/deleyCON-Super-Speed-Kabel-Stecker/dp/B00WHZ746E/ref=sr_1_3?ie=UTF8&qid=1531928442&sr=8-3&keywords=usb+kabel+male+to+male) an den USB-Port des Empfängers und an einen USB-Port Ihres Rechners unter Microsoft Windows an.
 
 Wenn der Treiber richtig installiert ist und die EZCast Pro Box II angeschlossen ist, sollte das Gerät **„Realtek generic USB Device“** im Geräte-Manager erscheinen. Wenn nicht, überprüfen Sie die Treiber-Installation, Kabel-Konfiguration, und den Update-Modus, wie im vorherigen Schritt beschrieben.
 
