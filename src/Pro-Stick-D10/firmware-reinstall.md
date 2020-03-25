@@ -93,15 +93,16 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                       | Herunterladen
 ------------------------- | ------------
-1.7545.10 (Beta) | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.10.gz)
-1.7545.7 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.7.gz)
-1.7545.1 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.1.gz)
-1.7094.0 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7094.0.gz)
-1.6557.27 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.6557.27.gz)
-1.6557.21 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.6557.21.gz)
-1.5608.24 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.5608.24.gz)
-1.5608.19 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.5608.19.gz)
-1.4756.0 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.4756.0.gz)
+1.7545.10 (Beta) | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.7545.10.gz)
+1.7545.8 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.7545.8.gz)
+1.7545.7 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.7545.7.gz)
+1.7545.1 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.7545.1.gz)
+1.7094.0 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.7094.0.gz)
+1.6557.27 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.6557.27.gz)
+1.6557.21 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.6557.21.gz)
+1.5608.24 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.5608.24.gz)
+1.5608.19 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.5608.19.gz)
+1.4756.0 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.4756.0.gz)
 
 * Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
