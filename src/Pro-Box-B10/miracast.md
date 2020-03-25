@@ -38,7 +38,7 @@ Suchen auf Ihren Android-Gerät nach dem Punkt "Übertragen". Auf Samsung-Gerät
 
 ![ProIIBox-Android_Miracast_SmartView](/images/ProIIStick-Android_Miracast_SmartView.jpg)
 
-* Wählen Sie anschließend den entsprechenden EZCast Pro Box II aus. Eine Verbindung über Miracast wird hergestellt:
+* Wählen Sie anschließend die entsprechende EZCast Pro Box II aus. Eine Verbindung über Miracast wird hergestellt:
 
 ![Miracast-Verbindung wird hergestellt](/images/ProIIStick-Android_Miracast_Select.jpg)
 

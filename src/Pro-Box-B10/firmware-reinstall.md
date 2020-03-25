@@ -1,10 +1,10 @@
 # Firmware neu installieren
 
-Sie können den EZCast Pro Stick II wiederherstellen, indem Sie die Firmware neu installieren. Es gibt mehrere Gründe dafür:
+Sie können die EZCast Pro Box II wiederherstellen, indem Sie die Firmware neu installieren. Es gibt mehrere Gründe dafür:
 
-* Der EZCast Pro Stick II lässt sich nicht einschalten. Die Stromversorgung wurde bereits kontrolliert. In diesem Fall kann es an einem unterbrochenen [Aktualisierungs-Vorgang](firmware-upgrade.md) liegen.
+* Die EZCast Pro Box II lässt sich nicht einschalten. Die Stromversorgung wurde bereits kontrolliert. In diesem Fall kann es an einem unterbrochenen [Aktualisierungs-Vorgang](firmware-upgrade.md) liegen.
 
-* Der EZCast Pro Stick II läuft nicht stabil und ein [Reset](reset.md) hat nicht geholfen.
+* Die EZCast Pro Box II läuft nicht stabil und ein [Reset](reset.md) hat nicht geholfen.
 
 * Sie haben die Wahl: Installieren Sie entweder einfach die [neuste Firmware](#neuste-firmware-installieren) oder eine [andere Firmware](#andere-firmware-installieren)
 
@@ -14,7 +14,7 @@ Sie können den EZCast Pro Stick II wiederherstellen, indem Sie die Firmware neu
 
 # Voraussetzung
 
-* Sie benötigen einen Windows Computer, um die Firmware-Software auf dem EZCast Pro Stick II einzuspielen.
+* Sie benötigen einen Windows Computer, um die Firmware-Software auf der EZCast Pro Box II einzuspielen.
 
 * Die Aktualisierung des Firmware-Upgrades muss mit dem mitgelieferten USB Typ C Kabel unter Microsoft Windows vorgenommen werden.
 
@@ -41,15 +41,15 @@ Sie können den EZCast Pro Stick II wiederherstellen, indem Sie die Firmware neu
 
 > #### primary::Hinweis
 >
-> Anfangs ist das USB Typ C Kabel **nur** mit dem USB-Anschluss des Sticks angeschlossen. Der Stick ist ausgeschaltet. Das andere Ende des Kabels schließen Sie **nachher** mit Ihrem PC an.
+> Anfangs ist das USB Typ C Kabel **nur** mit dem USB-Anschluss der Box angeschlossen. Die Box ist ausgeschaltet. Das andere Ende des Kabels schließen Sie **nachher** mit Ihrem PC an.
 
-* Schließen Sie das mitgelieferte USB Typ C Kabel mit dem USB-Anschluss des Sticks an. Der Stick bleibt ausgeschaltet.
+* Schließen Sie das mitgelieferte USB Typ C Kabel mit dem USB-Anschluss der Box an. Die Box bleibt ausgeschaltet.
 
-* Um den EZCast Pro Stick II in den Update-Modus zu setzen, drücken und **halten** Sie die Reset-Taste. Schließen Sie anschließend das USB Typ C Kabel mit Ihrem Windows PC an. Nach fünf Sekunden lassen Sie die Reset-Taste los.
+* Um die EZCast Pro Box II in den Update-Modus zu setzen, drücken und **halten** Sie die Reset-Taste. Schließen Sie anschließend das USB Typ C Kabel mit Ihrem Windows PC an. Nach fünf Sekunden lassen Sie die Reset-Taste los.
 
-![EZCast Pro Stick II in den Update-Modus setzen](/images/ProII-Press-Reset-Button.jpg)
+![EZCast Pro Box II in den Update-Modus setzen](/images/ProII-Press-Reset-Button.jpg)
 
-Wenn der Treiber richtig installiert ist und der EZCast Pro Stick II angeschlossen ist, sollte das Gerät **„Realtek generic USB Device“** im Geräte-Manager erscheinen. Wenn nicht, überprüfen Sie die Treiber-Installation, Kabel-Konfiguration, und den Update-Modus, wie im vorherigen Schritt beschrieben.
+Wenn der Treiber richtig installiert ist und die EZCast Pro Box II angeschlossen ist, sollte das Gerät **„Realtek generic USB Device“** im Geräte-Manager erscheinen. Wenn nicht, überprüfen Sie die Treiber-Installation, Kabel-Konfiguration, und den Update-Modus, wie im vorherigen Schritt beschrieben.
 
 ![EZCastPro Treiber im Geräte-Manager](/images/EZCastPro_Driver.jpg)
 
@@ -59,7 +59,7 @@ Wenn der Treiber richtig installiert ist und der EZCast Pro Stick II angeschloss
 
 ![EZCastUpdate.exe ausführen](/images/EZCastPro_Repair_Tool_EZCastUpdate.exe.jpg)
 
-Das folgende Fenster erscheint. Wenn der EZCast Pro Stick II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
+Das folgende Fenster erscheint. Wenn die EZCast Pro Box II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
 
 * Wählen Sie `Download`, um die neuste Firmware herunterzuladen.
 
@@ -85,7 +85,7 @@ Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Me
 
 ![Die Installation war erfolgreich](/images/EZCastUpdate_Upgrade.Success.jpg)
 
-Der EZCast Pro Stick II ist wieder einsatzbereit.
+Die EZCast Pro Box II ist wieder einsatzbereit.
 
 # Andere Firmware installieren
 
@@ -107,7 +107,7 @@ Firmware                       | Herunterladen
 
 ![Update_for_localfile.exe ausführen](/images/EZCastPro_Repair_Tool_Update_for_localfile.exe.jpg)
 
-Das folgende Fenster erscheint. Wenn der EZCast Pro Stick II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
+Das folgende Fenster erscheint. Wenn die EZCast Pro Box II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
 
 * Mit Hilfe der Schaltfläche `Firmware` wählen Sie die gewünschte Firmwaredatei aus.
 
@@ -125,7 +125,7 @@ Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Me
 
 ![Die Installation war erfolgreich](/images/EZCastUpdate_localfile.Upgrade.Success.jpg)
 
-Der EZCast Pro Stick II ist wieder einsatzbereit.
+Die EZCast Pro Box II ist wieder einsatzbereit.
 
 > #### info::HINWEIS
 >

@@ -8,25 +8,25 @@ Ein Captive Portal präsentiert dem Benutzer eine Anmeldeseite, die sich nach de
 
 Da ein Captive Portal ein manuelles Eingeben der Zugangsdaten benötigt, kann EZCast Pro sich nicht in einem Captive Portal anmelden. Jedoch, es ist möglich EZCast Pro in Ihre Infrastruktur zu integrieren, in dem Sie eine `MAC-Authentifizierung` als eine Ausnahme auf Ihrem Router bzw. auf Ihrer Firewall erstellen, damit dieser Schritt entfällt.
 
-* Die MAC-Adresse des EZCast Pro Stick II ist im Rubrik `Über` in den [Erweiterten Einstellungen](adv.settings.md) zu finden:
+* Die MAC-Adresse der EZCast Pro Box II ist im Rubrik `Über` in den [Erweiterten Einstellungen](adv.settings.md) zu finden:
 
 ![MAC-Adresse im Rubrik Über](/images/D10.About.MAC.jpg)
 
 Eine MAC-Adresse ist die bessere Wahl als die Verwendung einer IP-Adresse, da sich die MAC-Adresse nicht ändert. 
 
-* Bitte wenden Sie sich an Ihre IT-Abteilung, um die MAC-Adresse des EZCast Pro Stick II zuzulassen.
+* Bitte wenden Sie sich an Ihre IT-Abteilung, um die MAC-Adresse der EZCast Pro Box II zuzulassen.
 
 # Die Direkte Verbindung deaktivieren
 
 Es gibt anschließend eine mögliche Sicherheitslücke, die Sie leicht überwinden können:
 
-* Damit der EZCast Pro Stick II den Nutzern keinen Zugang zu Ihrem Netzwerk ermöglicht, ohne sich erst über das Captive Portal anmelden zu müssen, stellen Sie die Verbindungsmöglichkeit des EZCast Pro Stick II auf `Nur via Router` um.
+* Damit die EZCast Pro Box II den Nutzern keinen Zugang zu Ihrem Netzwerk ermöglicht, ohne sich erst über das Captive Portal anmelden zu müssen, stellen Sie die Verbindungsmöglichkeit der EZCast Pro Box II auf `Nur via Router` um.
 
 ![Verbindung - Nur via Router](/images/Connection_EZCastProII.jpg)
 
 Weitere Informationen bzgl. `Direkte Verbindung` und `Über Router` sind [hier](adv.settings.md#Connection_to_Receiver) zu finden:
 
-* Mit `Nur über Router` **(Nur via Router)** wird der Access-Point des EZCast Pro Stick II  ausgeschaltet und Sie können nur über Ihren Router mit den Stick verbinden. Die SSID und das Passwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse des Sticks wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
+* Mit `Nur über Router` **(Nur via Router)** wird der Access-Point der EZCast Pro Box II  ausgeschaltet und Sie können nur über Ihren Router mit der Box verbinden. Die SSID und das Passwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse der Box wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
 
 ![](/images/ezcastpro.II.Nur.Ueber.Router.jpg)
 

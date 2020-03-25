@@ -23,5 +23,6 @@ Mit dem Internet verbunden sein, bedeutet, die EZCast Pro Box  II mit Ihrem WLAN
 
 Wenn die EZCast Pro Box  II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen auf dem Bildschirm angezeigt, wie unten abgebildet:
 
-![](/images/ProBox II_connected_to_router.jpg)
+![](/images/ProStickII_connected_to_router.jpg)
+
 
