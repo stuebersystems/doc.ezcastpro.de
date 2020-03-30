@@ -52,7 +52,7 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
 * Wenn die Stromversorgung angeschlossen ist, halten Sie den Reset-Schalter ca. 10 Sekunden lang gedrückt. Der Reset-Schalter befindet sich an der Rückseite der Box oben dem USB-Anschluss.
 
-![Reset-Schalter ca. 10 Sekunden lang gedrückt halten](/images/EZ-PB10_05.jpg)
+![Reset-Schalter ca. 10 Sekunden lang gedrückt halten](/images/Press-Reset-Button_B10.jpg)
 
 * Wenn die folgende Meldung erscheint, lassen Sie den Reset-Schalter los.
 
