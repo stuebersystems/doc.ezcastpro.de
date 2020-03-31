@@ -25,4 +25,20 @@ Wenn die EZCast Pro Box  II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, 
 
 ![](/images/ProStickII_connected_to_router.jpg)
 
+## Netzwerkkabel anschließen und verbinden
+
+* Schließen Sie dazu ein Netzwerkkabel in den `Ethernet` Anschluss an der Rückseite der EZCast Pro Box an und verbinden Sie das Kabel mit Ihrem Netzwerk bzw. mit Ihrem Router.
+
+![](/images/B10_ports.jpg)
+
+## 5Ghz WIFI-Netwerk scannen und verbinden {#Wireless_Access_Point}
+
+> #### primary::Hinweis
+>
+> **Wenn die EZCast Pro Box II mit Ihrem Netzwerk per Ethernetkabel verbunden ist, wird diese Funktion (STA-Modus) automatisch deaktiviert.**
+
+Wenn Sie die EZCast Pro Box lieber per Wireless Access Point verbinden möchten, um auf das Internet zuzugreifen, finden Sie die Möglichkeit dazu im Menü [Erweiterte Einstellungen](adv.settings.md) unter der Rubrik [Netzwerkmanagement](adv.settings.md#Netzwerkmanagement).
+
+![](images/Wifi_Internet.jpg)
+
 

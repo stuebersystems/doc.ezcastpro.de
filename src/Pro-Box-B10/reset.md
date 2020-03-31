@@ -50,7 +50,7 @@ Mit Hilfe der `Erweiterte Einstellungen` können Sie sich anmelden und die Stand
 
 Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md) nicht bekannt sind, haben Sie die Möglichkeit mit dem Reset-Schalter die Standardeinstellungen zurückzusetzen:
 
-* Wenn die Stromversorgung angeschlossen ist, halten Sie den Reset-Schalter ca. 10 Sekunden lang gedrückt. Der Reset-Schalter befindet sich an der Rückseite der Box oben dem USB-Anschluss.
+* Mit Hilfe eines kleinen "Stifts" halten Sie den Reset-Schalter ca. 10 Sekunden lang gedrückt. Der Reset-Schalter befindet sich an der Rückseite der Box oben dem USB-Anschluss.
 
 ![Reset-Schalter ca. 10 Sekunden lang gedrückt halten](/images/Press-Reset-Button_B10.jpg)
 
