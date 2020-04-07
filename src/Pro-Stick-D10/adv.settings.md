@@ -242,7 +242,7 @@ Bei der obigen Konfiguration (die Funktionen Gerätemanager-Steuerung und Netzwe
 
 ### Host-Steuerung {#Host-Steuerung}
 
-Der erste Benutzer, der sich über die Software bzw. über die App verbindet, wird als Gastgeber (Host) bezeichnet und die anderen als Gäste. Standardmäßig muss jeden Antrag zum Senden vom Host genehmigt werden, im dem er mit entweder `Vollbild`, `Teilen`, oder `Ablehnen` antwortet: 
+Der erste Benutzer, der sich über die Software bzw. über die App verbindet, wird als Gastgeber (Host) bezeichnet und die anderen als Gäste. Standardmäßig muss jeder Antrag zum Senden vom Host genehmigt werden, im dem er mit entweder `Vollbild`, `Teilen`, oder `Ablehnen` antwortet: 
 
 ![](/images/host.control_answer.jpg)
 
