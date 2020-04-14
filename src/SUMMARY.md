@@ -25,6 +25,7 @@
 * **NEU:** [Pro Box II](Pro-Box-B10/README.md)
   * [Schnellstartanleitung](Pro-Box-B10/quickstart.md)
   * [Einrichtungshinweise](Pro-Box-B10/optimize.md)
+  * [Die App/Software EZCastPro](Pro-Box-B10/EZCastPro App.md)
   * [Internetzugang](Pro-Box-B10/internet.md)
   * [Anleitung: AirPlay](Pro-Box-B10/airplay.md)
   * [Anleitung: Chromecast](Pro-Box-B10/chromecast.md)
