@@ -122,24 +122,36 @@ Der Musik-Player ermöglicht Ihnen das Musikstreaming über W-LAN, außerdem unt
 
 # Video (streamen)
 
-Wenn Sie die Videofunktion der App/Software EZCastPro benutzen, können Sie Ihre Videodateien auf ein beliebiges Gerät, auch mit Vollbild-Widergabe übertragen.	Durch die Kontrollleiste der App können Sie die Videowiedergabe, wie z.B. die Lautstärke und den schnellen Vorlauf steuern.
+Wenn Sie die Videofunktion der App/Software EZCastPro benutzen, können Sie Ihre Videodateien auf einen Empfänger, auch mit Vollbild-Widergabe übertragen.	Durch die Kontrollleiste der App können Sie die Videowiedergabe steuern.
 
 ![](/images/videoapp.png)
-Außerdem können Sie Untertiteldateien mit Videos synchronisieren, Stellen Sie einfach sicher, dass der Dateiname und Name des Videos derselbe sind. Es wird automatisch während der Wiedergabe angezeigt
+Außerdem können Sie Untertiteldateien mit Videos synchronisieren, Stellen Sie einfach sicher, dass der Dateiname und Name des Videos derselbe sind. Es wird automatisch während der Wiedergabe angezeigt.
+*  Für die Untertitelformate wurden die srt, smi, ssa und cdg Formate, mit UTF-8-Kodierung unterstützt.
 
 # Air-View
 
-Air-View ist eine großartige Möglichkeit für gemeinsame Nutzung und Teilen von unterschiedlichen Inhalten.
-
-* 	Aktivieren Sie die `Air-Ansicht`-Funktion, um den aktuellen Anzeigeinhalt auf EZCastPro anzusehen
+Mit Air-View hat man die Möglichkeit, eine Bildausgabe der Präsentation auf seinem Endgerät anzusehen. Standardmäßig ist diese Funktion freigeschaltet. Sollte diese nicht funktionieren, prüfen Sie dann bitte die [Konfiguration](adv.settings.md#AirView).
 
 ![](/images/airviewapp.png)
 
+In der EZCast Pro Software für Windows und macOS findet man Air-View oben rechts.
 
-Diese Funktion unterstützt kein Video- oder Audio Übertragung.
+![](/images/airViewapp2.jpg)
+
+Mit den Schaltflächen oben rechts können Sie die Bildausgabe starten. Standardmäßig wird ein Bild der Präsentation alle 5 Sekunden aufgenommen, das man Optional herunterladen kann.
+
+![](/images/airviewapp3.jpg)
+
+
+Hier sieht man die Bildausgabe von einem Teilnehmer im Vollbild:![](/images/airviewapp4.png)
+
+Hier sieht man die Bildausgabe von zwei Teilnehmer aufgeteilt:![](/images/airviewapp5.png)
+
+
+Air-View unterstützt kein Video- oder Audio Übertragung.
 
 # Erweiterte Einstellungen 
 
-Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen des EZCast Pro Box II bequem per Fernzugriff anpassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md).
+Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Box II bequem per Fernzugriff anpassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md).
 
 ![](/images/edv.settingsapp.png)
