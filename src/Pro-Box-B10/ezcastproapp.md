@@ -25,17 +25,17 @@ Mit diesen Schaltflächen sind Sie in der Lage, die Qualität einer Videoübertr
 
 # Die Rollen - Host und Gast
 
-Die Rollen von Host und Gast unterscheiden sich mit der Funktionalität. 
+Die Rollen von Host und Gast unterscheiden sich mit der Funktionalität. In EZCast Pro heißt der Moderator "Host" und die anderen Teilnehmer werden als "Gäste" bezeichnet.
 
 ## Host
-In EZCast Pro heißt der Moderator "Host" und darf sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Standardmäßig wird der erste, der sich in der EZCast Pro Software/App anmeldet, als Host bezeichnet und die anderen Teilnehmer als Gäste. Optional kann ein Nutzer permanent als Host [festgelegt](fixedhost.md) werden. 
-
-## Gast
-Ein Teilnehmer, der sich als Gast angemeldet ist, verfügt über eingeschränkte Möglichkeiten und kann nicht auf bestimmte Funktionen (z.B. Konferenzsteuerung) der Software zugreifen. 
+Der Host darf sich unterscheiden, wie und wann die Gäste Ihre Bildschirme während einer Präsentation übertragen können. Standardmäßig wird der erste, der sich in der EZCast Pro App/Software anmeldet, als Host bezeichnet und die anderen Teilnehmer als Gäste. Optional kann ein Nutzer permanent als Host [festgelegt](fixedhost.md) werden. 
 
 In der EZCast Pro Software für Windows und macOS wird die Rolle als Host oben rechts angezeigt, wie unten abgebildet:
 
 ![](/images/AppRolle-HostundGast.jpg)
+
+## Gast
+Ein Teilnehmer, der als Gast angemeldet ist, verfügt über eingeschränkte Möglichkeiten und kann nicht auf bestimmte Funktionen (z.B. Konferenzsteuerung) der Software zugreifen. 
 
 In der App für iOS/Android wird Ihre Rolle bezeichnet, wie unten abgebildet:
 
@@ -59,7 +59,7 @@ Trotz des Names, befinden sich nicht nur Einstellungen zu der Erheben Ihrer Pers
 
 ## Bevorzugtes Gerät
 
-Mit dieser Option können Sie das aktuelle Gerät als bevorzugtes Gerät festlegen, damit die EZCast Pro Software/App es immer als erstes sucht, ohne dass Sie das Gerät nochmal manuell auswählen müssen.
+Mit dieser Option können Sie das aktuelle Gerät als bevorzugtes Gerät festlegen, damit die EZCast Pro App/Software es immer als erstes sucht, ohne dass Sie das Gerät nochmal manuell auswählen müssen.
 
 ![](/images/App-PreferredDevice.png)
 
@@ -126,11 +126,15 @@ Wenn Sie die Videofunktion der App/Software EZCastPro benutzen, können Sie Ihre
 
 ![](/images/videoapp.png)
 Außerdem können Sie Untertiteldateien mit Videos synchronisieren, Stellen Sie einfach sicher, dass der Dateiname und Name des Videos derselbe sind. Es wird automatisch während der Wiedergabe angezeigt.
-*  Für die Untertitelformate wurden die srt, smi, ssa und cdg Formate, mit UTF-8-Kodierung unterstützt.
+
+> #### info::Hinweis
+>
+> Für die Untertitelformate wurden die srt, smi, ssa und cdg Formate, mit UTF-8-Kodierung unterstützt.
+  
 
 # Air-View
 
-Mit Air-View hat man die Möglichkeit, eine Bildausgabe der Präsentation auf seinem Endgerät anzusehen. Standardmäßig ist diese Funktion freigeschaltet. Sollte diese nicht funktionieren, prüfen Sie dann bitte die [Konfiguration](adv.settings.md#AirView).
+Mit Air-View haben die Teilnehmer die Möglichkeit, eine Bildausgabe der Präsentation auf seinem Endgerät anzusehen. Standardmäßig ist diese Funktion freigeschaltet. Sollte diese nicht funktionieren, prüfen Sie dann bitte die [Konfiguration](adv.settings.md#AirView).
 
 ![](/images/airviewapp.png)
 
