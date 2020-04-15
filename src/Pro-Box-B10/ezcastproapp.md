@@ -142,11 +142,9 @@ Mit den Schaltflächen oben rechts können Sie die Bildausgabe starten. Standard
 
 ![](/images/airviewapp3.jpg)
 
+Hier sieht man die Bildausgabe von einem Teilnehmer im Vollbild:![](/images/airviewapp4.jpg)
 
-Hier sieht man die Bildausgabe von einem Teilnehmer im Vollbild:![](/images/airviewapp4.png)
-
-Hier sieht man die Bildausgabe von zwei Teilnehmer aufgeteilt:![](/images/airviewapp5.png)
-
+Hier sieht man die Bildausgabe von zwei Teilnehmer aufgeteilt:![](/images/airviewapp5.jpg)
 
 Air-View unterstützt kein Video- oder Audio Übertragung.
 
