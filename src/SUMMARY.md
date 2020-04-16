@@ -4,6 +4,7 @@
 * **NEU:** [Pro Stick II](Pro-Stick-D10/README.md)
   * [Schnellstartanleitung](Pro-Stick-D10/quickstart.md)
   * [Einrichtungshinweise](Pro-Stick-D10/optimize.md)
+  * [EZCastPro App/Software](Pro-Stick-D10/ezcastproapp.md)
   * [Internetzugang](Pro-Stick-D10/internet.md)
   * [Anleitung: AirPlay](Pro-Stick-D10/airplay.md)
   * [Anleitung: Chromecast](Pro-Stick-D10/chromecast.md)
