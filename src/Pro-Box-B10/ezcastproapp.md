@@ -16,13 +16,6 @@ Mit diesen Schaltflächen oben auf der Menüleiste können Sie den Bildschirm Ih
 
 ![](/images/App-Funktion1.png)
 
-# Videoqualität und Audio
-
-Mit diesen Schaltflächen sind Sie in der Lage, die Qualität einer Videoübertragung zu kontrollieren und das Ton ein- oder auszuschalten.
-
-![](/images/App-Funktion2.png)
-
-
 # Die Rollen - Host und Gast
 
 Die Rollen von Host und Gast unterscheiden sich mit der Funktionalität. In EZCast Pro heißt der Moderator "Host" und die anderen Teilnehmer werden als "Gäste" bezeichnet.
@@ -111,6 +104,12 @@ Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsenta
 
 ![](/images/konferensteuerung3.png)
 
+# Videoqualität und Audio
+
+Mit diesen Schaltflächen sind Sie in der Lage, die Qualität einer Videoübertragung zu kontrollieren und das Ton ein- oder auszuschalten.
+
+![](/images/App-Funktion2.png)
+
 # Musik (streamen)
 
 
@@ -130,7 +129,6 @@ Außerdem können Sie Untertiteldateien mit Videos synchronisieren, Stellen Sie 
 > #### info::Hinweis
 >
 > Für die Untertitelformate wurden die srt, smi, ssa und cdg Formate, mit UTF-8-Kodierung unterstützt.
-  
 
 # Air-View
 
@@ -157,6 +155,20 @@ Hier sieht man die Bildausgabe von zwei Teilnehmer aufgeteilt:
 > #### info::Hinweis
 >
 > Air-View unterstützt kein Video- oder Audio Übertragung.
+
+# Kamera
+
+Mit der Kamera Funktion für Mobile-Geräte haben Sie die Möglichkeit Ihre Kamera live auf den Beamer bzw. auf einen großen Bildschirm zu übertragen. Möchten Sie beispielsweise Ihren Schülern während eines naturwissenschaftlichen Unterrichts eine Nahaufnahme des Experimentierapparats zeigen, ohne dass die Schüler ihren Arbeitsplatz verlassen müssen?
+
+![Die Kamera-Funktion in der EZCast Pro App](/images/App-Camera.png)
+
+Beim Starten der Kamera-Funktion wird Ihre Kamera sofort live übertragen. Außerdem können Sie ein Stillfoto aufnehmen, markieren und speichern:
+
+![Live-Aufnahme und Stillfoto-Funktionen](/images/App-Camera_functions.png)
+
+* Die Lehrerin überträgt eine Live-Aufnahme ihrer Kamera links auf den Beamer. Rechts wird Ihre Slideshow des Unterrichtsmaterials gleichzeitig anzeigt:
+
+![Live-Aufnahme und Slideshow aufgeteilt](/images/App-Camera_splitscreen.png)
 
 # Erweiterte Einstellungen 
 
