@@ -117,7 +117,7 @@ Das EZCast Pro Gerät kann die Anzeige von bis zu vier Benutzer gleichzeitig auf
 
 # Konferenzsteuerung
 
-Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsentation nach seinem Wunsch auszuführen, indem er verschiedene Kontrollmöglichkeiten verfügt:
+Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsentation nach seinem Wunsch auszuführen, indem er über verschiedene Kontrollmöglichkeiten verfügt:
 
 Der Host kann sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Die Schaltflächen zur `Neupositionierung`, `Vollbild`, oder sogar zum `Trennen`, finden Sie rechts unter Spalten.
 
