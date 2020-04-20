@@ -95,11 +95,13 @@ Weitere Einstellungen zur Host-Kontrolle finden Sie in zwei anderen Bereichen:
 `Bildschirm aufteilen` ist eine weitere Möglichkeit für den Host die Übertragung zu steuern. Der Host ist in der Lage, für die anderen Teilnehmern die gewünschte Position am Bildschirm zu bestimmen. Die anderen Teilnehmer, die von der App als Gäste behandelt worden sind, benötigen eine Genehmigung vom Host zur Anzeige, wenn die `automatische Ablauf zulassen`deaktiviert ist - weitere Informationen zu diesem Thema finden Sie [hier](ezcastproapp.md#host-kontrolle-einstellungen).
 
 ![](/images/Bildschirmaufteilen1.png) 
+
 > #### info::Hinweis
 >
 > Das EZCast Pro-Gerät kann die Anzeige von maximal vier Benutzern gleichzeitig auf dem Bildschirm übertragen.
 
 ![](/images/Bildschirmaufteilen2.png) 
+
 # Konferenzsteuerung
 
 Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsentation nach seinem Wunsch auszuführen, indem er verschiedene Kontrollmöglichkeiten verfügt:
@@ -134,15 +136,12 @@ Der Musik-Player ermöglicht Ihnen das Musikstreaming über W-LAN, außerdem unt
 Wenn Sie die Videofunktion der App/Software EZCastPro benutzen, können Sie Ihre Videodateien auf einen Empfänger, auch mit Vollbild-Widergabe übertragen.	Durch die Kontrollleiste der App können Sie die Videowiedergabe steuern.
 
 ![](/images/videoapp.png)
+
 Außerdem können Sie Untertiteldateien mit Videos synchronisieren, Stellen Sie einfach sicher, dass der Dateiname und Name des Videos derselbe sind. Es wird automatisch während der Wiedergabe angezeigt.
+
 > #### info::Hinweis
 >
-<<<<<<< HEAD
 >Für die Untertitelformate wurden die srt, smi, ssa und cdg Formate, mit UTF-8-Kodierung unterstützt.
-
-=======
-> Für die Untertitelformate wurden die srt, smi, ssa und cdg Formate, mit UTF-8-Kodierung unterstützt.
->>>>>>> 3f7647682299308fd0d8ef372861d081d429702d
 
 # Air-View
 
