@@ -116,6 +116,24 @@ Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsenta
 
 ![](/images/konferensteuerung3.png)
 
+*  Wie kann man die `Konferenzsteuerung` öffnen?
+
+Die Funktion Konferenzsteuerung befindet sich unter der Rubrik **Erweiterte Einstellungen**. 
+
+![](/images/konferensteuerung5.png)
+
+![](/images/Konferenzsteuerung6.png)
+
+> #### info::Hinweis
+
+Um auf die Konferenzsteuerung zugreifen zu können, muss der `Admin` dem Host die entsprechende Berechtigung in der Gast-Behörde zulassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md#Host-Authority).
+								
+# Aktualisieren
+
+![](/images/aktualisieren.png)
+
+Mit der Schaltfläche `Aktualisieren`können Sie die App/Software EZCastPro auf den neuesten Stand bringen.
+
 # Videoqualität und Audio
 
 Mit diesen Schaltflächen sind Sie in der Lage, die Qualität einer Videoübertragung zu kontrollieren und das Ton ein- oder auszuschalten.
