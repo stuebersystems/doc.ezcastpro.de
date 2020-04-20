@@ -92,7 +92,7 @@ Weitere Einstellungen zur Host-Kontrolle finden Sie in zwei anderen Bereichen:
 
 ## Bildschirm aufteilen
 
-`Bildschirm aufteilen`ist eine weitere Möglichkeit für den Host die Übertragung zu steuern. Der Host ist in der Lage, für die anderen Teilnehmern die gewünschte Position am Bildschirm zu bestimmen. Die anderen Teilnehmer, die von der App als Gäste behandelt worden sind, benötigen eine Genehmigung vom Host zur Anzeige, wenn die `automatische Ablauf zulassen`deaktiviert ist - weitere Informationen zu diesem Thema finden Sie [hier](ezcastproapp.md#host-kontrolle-einstellungen).
+`Bildschirm aufteilen` ist eine weitere Möglichkeit für den Host die Übertragung zu steuern. Der Host ist in der Lage, für die anderen Teilnehmern die gewünschte Position am Bildschirm zu bestimmen. Die anderen Teilnehmer, die von der App als Gäste behandelt worden sind, benötigen eine Genehmigung vom Host zur Anzeige, wenn die `automatische Ablauf zulassen`deaktiviert ist - weitere Informationen zu diesem Thema finden Sie [hier](ezcastproapp.md#host-kontrolle-einstellungen).
 
 ![](/images/Bildschirmaufteilen1.png) 
 > #### info::Hinweis
