@@ -138,8 +138,7 @@ Die Funktion Konferenzsteuerung befindet sich unter der Rubrik **Erweiterte Eins
 ![](/images/Konferenzsteuerung6.png)
 
 > #### info::Hinweis
-
-Um auf die Konferenzsteuerung zugreifen zu können, muss der `Admin` dem Host die entsprechende Berechtigung in der Gast-Behörde zulassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md#Host-Authority).
+> Um auf die Konferenzsteuerung zugreifen zu können, muss der `Admin` dem Host die entsprechende Berechtigung in der Gast-Behörde zulassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md#Host-Authority).
 								
 # Aktualisieren
 
@@ -172,11 +171,11 @@ Außerdem können Sie Untertiteldateien mit Videos synchronisieren, Stellen Sie 
 
 > #### info::Hinweis
 >
->Für die Untertitelformate wurden die srt, smi, ssa und cdg Formate, mit UTF-8-Kodierung unterstützt.
+>Für die Untertitelformate werden die srt, smi, ssa und cdg Formate, mit UTF-8-Kodierung unterstützt.
 
 # AirView
 
-Mit AirView hat man die Möglichkeit, eine Bildausgabe der Präsentation auf seinem Endgerät anzusehen. Standardmäßig ist diese Funktion freigeschaltet. Sollte diese nicht funktionieren, prüfen Sie dann bitte die [Konfiguration](adv.settings.md#AirView).
+Mit AirView hat man die Möglichkeit, eine Bildausgabe der Präsentation auf seinem Endgerät anzusehen. Standardmäßig ist diese Funktion freigeschaltet. Sollte diese nicht funktionieren, kontrollieren Sie bitte, ob AirView in der [Konfiguration](adv.settings.md#AirView) der Firmware freigeschaltet ist.
 
 ![](/images/airviewapp.png)
 
@@ -218,4 +217,4 @@ Beim Starten der Kamera-Funktion wird Ihre Kamera sofort live übertragen. Auße
 
 Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Stick II bequem per Fernzugriff anpassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md).
 
-![](/images/adv.settingsapp.png)
+![](/images/advsettingsapp.png)
