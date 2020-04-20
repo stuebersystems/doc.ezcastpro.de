@@ -6,7 +6,7 @@ Die Verwendung der kostenlosen App/Software EZCastPro bietet sowohl für den Mod
 
 * Sie müssen die EZCastPro App/Software installieren. Eine umfassende Anleitung, wie Sie die EZCastPro App/Software für Ihr Gerät herunterladen und installieren finden Sie [hier](quickstart.md).
 
-Wenn Ihr Endgerät mit der EZCast Pro Box II über die App/Software EZCastPro verbunden ist, erscheint die Anwendung wie folgt:
+Wenn Ihr Endgerät mit dem EZCast Pro Stick II über die App/Software EZCastPro verbunden ist, erscheint die Anwendung wie folgt:
 
 ![Die EZCast Pro Software für Windows](/images/ProII-Win-App-Advanced-SettingsBox.png)
 
@@ -117,7 +117,7 @@ Das EZCast Pro Gerät kann die Anzeige von bis zu vier Benutzer gleichzeitig auf
 
 # Konferenzsteuerung
 
-Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsentation nach seinem Wunsch auszuführen, indem er verschiedene Kontrollmöglichkeiten verfügt:
+Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsentation nach seinem Wunsch auszuführen, indem er über verschiedene Kontrollmöglichkeiten verfügt:
 
 Der Host kann sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Die Schaltflächen zur `Neupositionierung`, `Vollbild`, oder sogar zum `Trennen`, finden Sie rechts unter Spalten.
 
@@ -216,6 +216,6 @@ Beim Starten der Kamera-Funktion wird Ihre Kamera sofort live übertragen. Auße
 
 # Erweiterte Einstellungen 
 
-Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Box II bequem per Fernzugriff anpassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md).
+Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Stick II bequem per Fernzugriff anpassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md).
 
 ![](/images/adv.settingsapp.png)
