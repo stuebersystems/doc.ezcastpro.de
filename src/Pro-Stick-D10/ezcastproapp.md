@@ -218,4 +218,4 @@ Beim Starten der Kamera-Funktion wird Ihre Kamera sofort live übertragen. Auße
 
 Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Stick II bequem per Fernzugriff anpassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md).
 
-![](/images/adv.settingsapp.png)
+![change](/images/adv.settingsapp.png)
