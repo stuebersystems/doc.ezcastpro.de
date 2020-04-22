@@ -94,36 +94,36 @@ Wenn `Automatischer Ablauf zulassen` aktiviert ist, benötigt kein Gast die Gene
 
 Die obengenannten Eigenschaften befinden sich in der Rubrik [Datenschutz](#datenschutz).
 
-Weitere Einstellungen zur Host-Kontrolle, die Sie permanent in der Firmwarekonfiguration einstellen können, finden Sie in den [Erweiterte Einstellungen -> Host-Kontrolle](adv.settings.md#Host-Steuerung).
+Weitere Einstellungen zur Host-Kontrolle, die Sie permanent in der Firmwarekonfiguration einstellen können, finden Sie in der Rubrik [Erweiterte Einstellungen -> Host-Kontrolle](adv.settings.md#Host-Steuerung).
 
-## Bildschirm aufteilen
+# Bildschirm aufteilen
 
 Die Funktion **Bildschirm aufteilen** ist eine einfache Moderatorkontrolle für den Host mit den folgenden Möglichkeiten: 
 
-* Der Bildschirm des Hosts im Vollbild zeigen.
+* den Bildschirm des Hosts im Vollbild zeigen.
 
-* Die Bildschirmübertragung des Hosts neu positionieren.
+* die Bildschirmübertragung des Hosts neu positionieren.
 
-* Alle Übertragungen beenden und auf die Startseite rückkehren.
+* alle Übertragungen beenden und auf die Startseite rückkehren.
+
+![](/images/Bildschirmaufteilen2.png)
+
+Die Funktion **Bildschirm aufteilen** befindet sich in der linken Panel der App/Software. 
 
 ![](/images/Bildschirmaufteilen1.png)
 
-Das EZCast Pro Gerät kann die Anzeige von bis zu vier Benutzer gleichzeitig auf dem Bildschirm übertragen.
+Das EZCast Pro Gerät kann die Anzeige von bis zu vier Benutzern gleichzeitig auf dem Bildschirm übertragen.
 
 > #### info::Hinweis
-> Die Funktion **Bildschirm aufteilen** kann die Bildschirmübertragung einzelner Gäste weder neu positionieren noch beenden. Für eine etwas ausführlichere Moderatorfunktion empfehlen wir die Verwendung der [Konferenzsteuerung](#Konferenzsteuerung) in den Erweiterte Einstellungen.
-
-![](/images/Bildschirmaufteilen2.png) 
+> Die Funktion **Bildschirm aufteilen** kann die Bildschirmübertragung einzelner Gäste weder neu positionieren noch beenden. Für eine etwas ausführlichere Moderatorfunktion empfehlen wir die Verwendung der [Konferenzsteuerung](#Konferenzsteuerung) unter der Funktion Erweiterte Einstellungen.
 
 # Konferenzsteuerung
 
-Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsentation nach seinem Wunsch auszuführen, indem er über verschiedene Kontrollmöglichkeiten verfügt:
-
-Der Host kann sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Die Schaltflächen zur `Neupositionierung`, `Vollbild`, oder sogar zum `Trennen`, finden Sie rechts unter Spalten.
+Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsentation nach seinem Wunsch auszuführen, indem er über verschiedene Kontrollmöglichkeiten verfügt. Der Host kann sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Die Schaltflächen zur `Neupositionierung`, `Vollbild`, oder sogar zum `Trennen`, finden Sie rechts unter Spalten.
 
 ![](/images/konferensteuerung.png)
 
-*  	Der Host kann auch die Rolle als „Host“ an andere Teilnehmer zuordnen.
+Der Host kann auch die Rolle als „Host“ an andere Teilnehmer zuordnen.
 
 ![](/images/konferensteuerung2.png)
 
@@ -154,24 +154,23 @@ Mit diesen Schaltflächen sind Sie in der Lage, die Qualität einer Videoübertr
 
 # Musik (streamen)
 
+Die kostenlose App/Software EZCastPro verfügt über die Möglichkeit auch Musik zu übertragen. Der Musik-Player ermöglicht Ihnen das Musikstreaming über WLAN, außerdem unterstützt die App ebenfalls die Playlists.
 
-Die kostenlose App/Software EZCastPro verfügt über die Möglichkeit auch Musik zu übertragen.
-	
-Der Musik-Player ermöglicht Ihnen das Musikstreaming über W-LAN, außerdem unterstützt die App ebenfalls die Playlists.
+![Musik wird abgespielt](/images/playlistapp.png)
 
-![](/images/playlistapp.png)
+![Musik wird übertragen](/images/App-Musiccasting.png)
 
 # Video (streamen)
 
-Wenn Sie die Videofunktion der App/Software EZCastPro benutzen, können Sie Ihre Videodateien auf einen Empfänger, auch mit Vollbild-Widergabe übertragen.	Durch die Kontrollleiste der App können Sie die Videowiedergabe steuern.
+Wenn es wichtig ist, ein ruckelfreies Abspielen eines Videos zu gewehrleisten, nutzen Sie die Video-Funktion. Im Gegenteil zur üblichen Spiegelungsfunktion handelt sich um ein Streamen, was bedeutet, dass das Video nur auf dem großen Display anzeigt, anstatt gleichzeitig auf Ihrem Endgerät.
+Sobald Sie die Videodatei auf Ihrem Endgerät bzw. aus Ihrem Netzwerk auswählen, wird einen Zwischenspeicher bzw. einen "Puffer" aufgebaut. Dies kann je nach Endgeräte- und Netzwerkleistung einige Sekunden dauern, bis das Abspielen beginnt.
 
-![](/images/videoapp.png)
+![Durch die Kontrollleiste der App können Sie die Videowiedergabe steuern](/images/videoapp.png)
 
-Außerdem können Sie Untertiteldateien mit Videos synchronisieren, Stellen Sie einfach sicher, dass der Dateiname und Name des Videos derselbe sind. Es wird automatisch während der Wiedergabe angezeigt.
+Außerdem können Sie Untertiteldateien mit Videos synchronisieren, Stellen Sie einfach sicher, dass der Dateiname und der Name des Videos gleich sind. Es wird automatisch während der Wiedergabe angezeigt.
 
-> #### info::Hinweis
->
->Für die Untertitelformate werden die srt, smi, ssa und cdg Formate, mit UTF-8-Kodierung unterstützt.
+>#### info::Hinweis
+>Es werden alle gängigen Videoformate unterstützt. Für die Untertitelformate werden die Formate srt, smi, ssa und cdg mit UTF-8-Kodierung unterstützt.
 
 # AirView
 
