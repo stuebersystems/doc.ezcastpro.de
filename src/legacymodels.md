@@ -1,6 +1,6 @@
 # Ältere Modelle
 
-Dies ist die elektronische Dokumentation für alle [EZCast Pro](https://www.ezcastpro.de) Produkte.
+Dies ist elektronische Dokumentation für ältere [EZCast Pro](https://www.ezcastpro.de) Produkte.
 
 <a href="https://doc.ezcastpro.de/Pro-Stick-D01/" align="left" target="_self"><img src="/images/ezcastpro_stick_small.png" alt="EZCast Pro Stick I"></a>
 
