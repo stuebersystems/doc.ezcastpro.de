@@ -2,9 +2,9 @@
 >
 > Eine PDF-Version dieses Dokuments zum Ausdrucken finden Sie [hier](https://download.stueber.de/doc/de/ezcastpro/Schnellstartanleitung.EZCast.Pro.Stick.II.pdf).
 
-# Inhalt des EZCast Pro Stick II
+# Inhalt der EZCast Pro Stick II
 
-Der EZCast Pro Stick II besteht aus einem EZCast Pro Stick II (dem Empfänger), einem HDMI-Verlängerungskabel, USB-Kabel und einer Schnellstartanleitung (Englisch):
+Der EZCast Pro Stick II besteht aus einem EZCast Pro II Stick (dem Empfänger), einem HDMI-Verlängerungskabel, USB-Kabel und einer Schnellstartanleitung (Englisch):
 
 ![Inhalt des EZCast Pro Stick II](/images/EZCastPro_II_Stick_contents_DE.jpg)
 

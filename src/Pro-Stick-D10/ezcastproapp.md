@@ -1,14 +1,14 @@
 # Wozu braucht man die App/Software?
 
-Die Verwendung der kostenlosen App/Software EZCastPro bietet sowohl für den Moderator als auch für die anderen Teilnehmer einer Präsentation, verschiedene erweiterte Kontrollmöglichkeiten und Funktionen, die sonst bei der eingebauten Übertragungsfunktion eines Geräts nicht möglich sind.
+Die Verwendung der kostenlosen App/Software `EZCastPro` bietet sowohl für den Moderator als auch für die anderen Teilnehmer einer Präsentation, verschiedene erweiterte Kontrollmöglichkeiten und Übertragungsfunktionen, die sonst bei der eingebauten Spiegelungsfunktion eines Geräts nicht möglich sind.
 
 # Voraussetzung
 
-* Sie müssen die EZCastPro App/Software installieren. Eine umfassende Anleitung, wie Sie die EZCastPro App/Software für Ihr Gerät herunterladen und installieren finden Sie [hier](quickstart.md).
+* Sie müssen die EZCastPro App/Software installieren. Eine umfassende Anleitung, wie Sie die `EZCastPro` App/Software für Ihr Gerät herunterladen und installieren finden Sie [hier](quickstart.md).
 
 Wenn Ihr Endgerät mit dem EZCast Pro Stick II über die App/Software EZCastPro verbunden ist, erscheint die Anwendung wie folgt:
 
-![Die EZCast Pro Software für Windows](/images/ProII-Win-App-Advanced-SettingsBox.png)
+![Die EZCast Pro Software für Windows](/images/ProII-Win-App.png)
 
 # Spiegeln | Erweitern | Trennen | Anhalten
 
@@ -22,7 +22,7 @@ Die Rollen von Host und Gast unterscheiden sich mit der Funktionalität.
 
 ## Host
 
-In EZCast Pro heißt der Moderator "Host" und darf sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Standardmäßig wird der erste, der sich in der EZCast Pro Software/App anmeldet, als Host bezeichnet und die anderen Teilnehmer als Gäste. Optional kann ein Nutzer permanent als Host [festgelegt](fixedhost.md) werden. 
+In EZCast Pro heißt der Moderator "Host" und darf sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Standardmäßig wird der erste, der sich in der EZCast Pro App/Software anmeldet, als Host bezeichnet und die anderen Teilnehmer als Gäste. Optional kann ein Nutzer permanent als Host [festgelegt](fixedhost.md) werden. 
 
 ## Gast
 
@@ -30,7 +30,7 @@ Ein Teilnehmer, der sich als Gast angemeldet ist, verfügt über eingeschränkte
 
 In der EZCast Pro Software für Windows und macOS wird die Rolle als Host oben rechts angezeigt, wie unten abgebildet:
 
-![](/images/AppRolle-HostundGast.jpg)
+![](/images/AppRolle-Host.png)
 
 In der App für iOS/Android wird Ihre Rolle bezeichnet, wie unten abgebildet:
 
@@ -42,7 +42,7 @@ In der App für iOS/Android wird Ihre Rolle bezeichnet, wie unten abgebildet:
 
 # Datenschutz
 
-Trotz des Names, befinden sich nicht nur Einstellungen zu der Erheben Ihrer Personen-, Standort- und Nutzungsdaten, sondern auch erweiterte Einstellungen, die mehrere Funktionen der Anwendung betreffen.
+Trotz des Names, befinden sich nicht nur Einstellungen zu der Erhebung Ihrer Personen-, Standort- und Nutzungsdaten, sondern auch erweiterte Einstellungen, die mehrere Funktionen der Anwendung betreffen.
 
 ![](/images/AppDatenschutz.png)
 
@@ -54,19 +54,19 @@ Trotz des Names, befinden sich nicht nur Einstellungen zu der Erheben Ihrer Pers
 
 ## Bevorzugtes Gerät
 
-Mit dieser Option können Sie das aktuelle Gerät als bevorzugtes Gerät festlegen, damit die EZCast Pro Software/App es immer als erstes sucht, ohne dass Sie das Gerät nochmal manuell auswählen müssen.
+Mit dieser Option können Sie das aktuelle Gerät als bevorzugtes Gerät festlegen, damit die EZCast Pro App/Software es immer als erstes sucht, ohne dass Sie das Gerät nochmal manuell auswählen müssen.
 
 ![](/images/App-PreferredDevice.png)
 
 ## Konferenzsteuerung (Einst.)
 
-Der Gast kann die Übertragung seines Bildschirms vom Host zulassen. Wenn die Einstellung `Allow remote mirror` aktiviert ist, ermöglicht es dem Host den Bildschirm eines Gastes zu übertragen, ohne einen manuellen Antrag zum Senden von dem entsprechenden Gast zu benötigen. Diese Option wird nur unter Windows und macOS unterstützt. 
+Der Gast kann die Übertragung seines Bildschirms vom Host zulassen. Wenn die Einstellung `Allow remote mirror` aktiviert ist, ermöglicht es dem Host den Bildschirm eines Gastes zu übertragen, ohne einen manuellen Antrag zum Senden von dem entsprechenden Gast zu benötigen. Diese Option wird derzeit nur unter Windows und macOS unterstützt. 
 
 ![](/images/App-AllowRemoteMirror.png)
 
 ## Host-Kontrolle (Einst.)
 
-Hier befinden sich die Einstellungen `Nicht stören` und `Automatischer Ablauf zulassen` zur Host-Kontrolle. Weitere Informationen zur Host-Kontrolle finden Sie [hier](#host-kontrolle).
+Hier befinden sich die Einstellungen `Nicht stören` und `Automatischer Ablauf zulassen` der Host-Kontrolle. Eine umfassende Anleitung zur Verwendung der Host-Kontrolle finden Sie [hier](#host-kontrolle).
 
 ![](/images/App-DataProtection-HostControl.png)
 
@@ -94,36 +94,36 @@ Wenn `Automatischer Ablauf zulassen` aktiviert ist, benötigt kein Gast die Gene
 
 Die obengenannten Eigenschaften befinden sich in der Rubrik [Datenschutz](#datenschutz).
 
-Weitere Einstellungen zur Host-Kontrolle finden Sie in den [Erweiterte Einstellungen -> Host-Kontrolle](adv.settings.md#Host-Steuerung).
+Weitere Einstellungen zur Host-Kontrolle, die Sie permanent in der Firmwarekonfiguration einstellen können, finden Sie in der Rubrik [Erweiterte Einstellungen -> Host-Kontrolle](adv.settings.md#Host-Steuerung).
 
-## Bildschirm aufteilen
+# Bildschirm aufteilen
 
 Die Funktion **Bildschirm aufteilen** ist eine einfache Moderatorkontrolle für den Host mit den folgenden Möglichkeiten: 
 
-* Der Bildschirm des Hosts im Vollbild zeigen.
+* den Bildschirm des Hosts im Vollbild zeigen.
 
-* Die Bildschirmübertragung des Hosts neu positionieren.
+* die Bildschirmübertragung des Hosts neu positionieren.
 
-* Alle Übertragungen beenden und auf die Startseite rückkehren.
+* alle Übertragungen beenden und auf die Startseite rückkehren.
+
+![](/images/Bildschirmaufteilen2.png)
+
+Die Funktion **Bildschirm aufteilen** befindet sich in der linken Panel der App/Software. 
 
 ![](/images/Bildschirmaufteilen1.png)
 
-Das EZCast Pro Gerät kann die Anzeige von bis zu vier Benutzer gleichzeitig auf dem Bildschirm übertragen.
+Das EZCast Pro Gerät kann die Anzeige von bis zu vier Benutzern gleichzeitig auf dem Bildschirm übertragen.
 
 > #### info::Hinweis
-> Die Funktion **Bildschirm aufteilen** kann die Bildschirmübertragung einzelner Gäste weder neu positionieren noch beenden. Für eine etwas ausführlichere Moderatorfunktion empfehlen wir die Verwendung der [Konferenzsteuerung](#Konferenzsteuerung) in den Erweiterte Einstellungen.
-
-![](/images/Bildschirmaufteilen2.png) 
+> Die Funktion **Bildschirm aufteilen** kann die Bildschirmübertragung einzelner Gäste weder neu positionieren noch beenden. Für eine etwas ausführlichere Moderatorfunktion empfehlen wir die Verwendung der [Konferenzsteuerung](#Konferenzsteuerung) unter der Funktion Erweiterte Einstellungen.
 
 # Konferenzsteuerung
 
-Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsentation nach seinem Wunsch auszuführen, indem er über verschiedene Kontrollmöglichkeiten verfügt:
-
-Der Host kann sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Die Schaltflächen zur `Neupositionierung`, `Vollbild`, oder sogar zum `Trennen`, finden Sie rechts unter Spalten.
+Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsentation nach seinem Wunsch auszuführen, indem er über verschiedene Kontrollmöglichkeiten verfügt. Der Host kann sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Die Schaltflächen zur `Neupositionierung`, `Vollbild`, oder sogar zum `Trennen`, finden Sie rechts unter Spalten.
 
 ![](/images/konferensteuerung.png)
 
-*  	Der Host kann auch die Rolle als „Host“ an andere Teilnehmer zuordnen.
+Der Host kann auch die Rolle als „Host“ an andere Teilnehmer zuordnen.
 
 ![](/images/konferensteuerung2.png)
 
@@ -154,34 +154,33 @@ Mit diesen Schaltflächen sind Sie in der Lage, die Qualität einer Videoübertr
 
 # Musik (streamen)
 
+Die kostenlose App/Software EZCastPro verfügt über die Möglichkeit auch Musik zu übertragen. Der Musik-Player ermöglicht Ihnen das Musikstreaming über WLAN, außerdem unterstützt die App ebenfalls die Playlists.
 
-Die kostenlose App/Software EZCastPro verfügt über die Möglichkeit auch Musik zu übertragen.
-	
-Der Musik-Player ermöglicht Ihnen das Musikstreaming über W-LAN, außerdem unterstützt die App ebenfalls die Playlists.
+![Musik wird abgespielt](/images/playlistapp.png)
 
-![](/images/playlistapp.png)
+![Musik wird übertragen](/images/App-Musiccasting.png)
 
 # Video (streamen)
 
-Wenn Sie die Videofunktion der App/Software EZCastPro benutzen, können Sie Ihre Videodateien auf einen Empfänger, auch mit Vollbild-Widergabe übertragen.	Durch die Kontrollleiste der App können Sie die Videowiedergabe steuern.
+Wenn es wichtig ist, ein ruckelfreies Abspielen eines Videos zu gewehrleisten, nutzen Sie die Video-Funktion. Im Gegenteil zur üblichen Spiegelungsfunktion handelt sich um ein Streamen, was bedeutet, dass das Video nur auf dem großen Display anzeigt, anstatt gleichzeitig auf Ihrem Endgerät.
+Sobald Sie die Videodatei auf Ihrem Endgerät bzw. aus Ihrem Netzwerk auswählen, wird einen Zwischenspeicher bzw. einen "Puffer" aufgebaut. Dies kann je nach Endgeräte- und Netzwerkleistung einige Sekunden dauern, bis das Abspielen beginnt.
 
-![](/images/videoapp.png)
+![Durch die Kontrollleiste der App können Sie die Videowiedergabe steuern](/images/videoapp.png)
 
-Außerdem können Sie Untertiteldateien mit Videos synchronisieren, Stellen Sie einfach sicher, dass der Dateiname und Name des Videos derselbe sind. Es wird automatisch während der Wiedergabe angezeigt.
+Außerdem können Sie Untertiteldateien mit Videos synchronisieren, Stellen Sie einfach sicher, dass der Dateiname und der Name des Videos gleich sind. Es wird automatisch während der Wiedergabe angezeigt.
 
-> #### info::Hinweis
->
->Für die Untertitelformate werden die srt, smi, ssa und cdg Formate, mit UTF-8-Kodierung unterstützt.
+>#### info::Hinweis
+>Es werden alle gängigen Videoformate unterstützt. Für die Untertitelformate werden die Formate srt, smi, ssa und cdg mit UTF-8-Kodierung unterstützt.
 
 # AirView
 
 Mit AirView hat man die Möglichkeit, eine Bildausgabe der Präsentation auf seinem Endgerät anzusehen. Standardmäßig ist diese Funktion freigeschaltet. Sollte diese nicht funktionieren, kontrollieren Sie bitte, ob AirView in der [Konfiguration](adv.settings.md#AirView) der Firmware freigeschaltet ist.
 
-![](/images/airviewapp.png)
+![Ein Endgerät auf ein Public Display und mehrere Endgeräte](/images/airviewapp.png)
 
 In der EZCast Pro Software für Windows und macOS findet man AirView oben rechts.
 
-![](/images/airViewapp2.jpg)
+![](/images/airViewapp2.png)
 
 Mit den Schaltflächen oben rechts können Sie die Bildausgabe starten. Standardmäßig wird ein Bild der Präsentation alle 5 Sekunden aufgenommen, das man Optional herunterladen kann.
 
@@ -215,6 +214,6 @@ Beim Starten der Kamera-Funktion wird Ihre Kamera sofort live übertragen. Auße
 
 # Erweiterte Einstellungen 
 
-Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Stick II bequem per Fernzugriff anpassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md).
+Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen des EZCast Pro Stick II bequem per Fernzugriff anpassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md).
 
 ![](/images/advsettingsapp.png)
