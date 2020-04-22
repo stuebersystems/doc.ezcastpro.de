@@ -14,7 +14,8 @@ Aufgrund einer Limitierung von der Miracast Technik kann nur ein einzelnes Gerä
 
 ![EZCast Pro Box auswählen](/images/ProIIStick-Windows_Miracast_Select_Device.jpg)
 
-Eine Verbindung über Miracast wird hergestellt
+Eine Verbindung über Miracast wird hergestellt:
+
 ![Miracast-Verbindung wird hergestellt](/images/ProIIStick-Windows_Miracast_Connecting.jpg)
 
 * Sie sind nun mit Ihrem Bildschirm per Miracast verbunden. Eine zusätzliche Anzeige taucht in der Systemsteuerung auf. Anzeige-Einstellungen z.B. Auslösung und Skalierung können Sie anpassen, wie gewünscht.

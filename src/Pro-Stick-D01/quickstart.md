@@ -102,9 +102,9 @@ Wenn Sie den EZCast Pro Stick richtig [anschlossen](#Connect_LANBox) haben, ersc
 
 * Zum Spiegeln Ihres Windows/macOS Geräts wählen Sie `Spiegeln`.
 
-![Ihr Windows/Mac-Gerät spiegeln](/images/mac-windows_mirror.jpg)
+![Ihr Windows/Mac-Gerät spiegeln](/images/mac-windows_mirror.png)
 
 * Wenn Sie die Schaltfläche `Erweitern` wählen, wird der Desktop Ihres Windows/macOS Geräts erweitert.
 
-![Windows/macOS Desktop erweitern](/images/mac-windows_extend.jpg)
+![Windows/macOS Desktop erweitern](/images/mac-windows_extend.png)
 
