@@ -68,7 +68,7 @@ Wenn Sie den EZCast Pro Stick richtig [anschlossen](#ezcast-pro-stick-anschließ
 
 * Auf iOS/Android suchen Sie ein Empfängergerät mit Hilfe der Schaltfläche oben rechts:
 
-![Nach EZCast Pro Geräten suchen](/images/iOS_Device-list.jpg)
+![Nach EZCast Pro Geräten suchen](/images/iOS_Device-list.png)
 
 * Wählen Sie Ihren EZCast Pro Stick aus, anschließend finden Sie alle Optionen zum Anzeigen Ihrer Inhalte in der App:
 

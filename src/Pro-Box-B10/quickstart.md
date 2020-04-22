@@ -47,7 +47,7 @@ Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#Connect_ProBoxII) haben,
 
 * Auf iOS/Android suchen Sie ein Empfängergerät mit Hilfe der Schaltfläche oben rechts:
 
-![Nach EZCast Pro Geräten suchen](/images/iOS_Device-list.jpg)
+![Nach EZCast Pro Geräten suchen](/images/iOS_Device-list.png)
 
 * Wählen Sie Ihre EZCast Pro Box II aus, anschließend finden Sie alle Optionen zum Anzeigen Ihrer Inhalte in der App:
 

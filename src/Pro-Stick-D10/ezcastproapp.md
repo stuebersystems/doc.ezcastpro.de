@@ -36,9 +36,9 @@ In der App für iOS/Android wird Ihre Rolle bezeichnet, wie unten abgebildet:
 
 * Wählen Sie die Schaltfläche Einstellungen oben links.
 
-![Einstellungen oben links](/images/App-IosAndroidHost.jpg)
+![Einstellungen oben links](/images/App-IosAndroidHost.png)
 
-![Bezeichnung des Status `Gast`](/images/App-IosAndroidHost2.jpg)
+![Bezeichnung des Status `Gast`](/images/App-IosAndroidHost2.png)
 
 # Datenschutz
 

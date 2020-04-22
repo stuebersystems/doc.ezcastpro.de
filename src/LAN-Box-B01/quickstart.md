@@ -37,7 +37,7 @@ Wenn Sie die EZCast LAN Box richtig [anschlossen](#Connect_LANBox) haben, ersche
 
 * Auf iOS/Android suchen Sie ein Empfängergerät mit Hilfe der Schaltfläche oben rechts:
 
-![Nach EZCast Pro Geräten suchen](/images/iOS_Device-list.jpg)
+![Nach EZCast Pro Geräten suchen](/images/iOS_Device-list.png)
 
 * Wählen Sie Ihre EZCast LAN Box aus, anschließend finden Sie alle Optionen zum Anzeigen Ihrer Inhalte in der App:
 
