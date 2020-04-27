@@ -46,7 +46,7 @@ Nach der Anmeldung erscheinen die folgenden Funktionen:
 
 ## Link-Status {#Link-Status}
 
-Zeigt die verbundenen Nutzer und ihre zugewiesenen Rollen als entweder `Host` oder `Gast`:
+Zeigt die verbundenen Nutzer und ihre zugewiesenen Rollen als entweder `Host` oder `Gast`. Weitere Informationen zum Thema Host und Gast finden Sie [hier](ezcastproapp.md#die-rollen---host-und-gast).
 
 ![](/images/link-status.jpg)
 
@@ -61,6 +61,8 @@ Mit der Konferenzensteuerung können Sie die folgenden Aufgaben durchführen:
 * Geräte auf dem Bildschirm neu positionieren
 
 ![](/images/Conference_Control.jpg)
+
+Eine umfassende Information zu diesem Thema finden Sie [hier](ezcastproapp.md#konferenzsteuerung). 
 
 ## Gerätemanagement {#Geraetemanagement}
 

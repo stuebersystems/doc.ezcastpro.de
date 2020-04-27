@@ -2,20 +2,24 @@
 >
 > Eine PDF-Version dieses Dokuments zum Ausdrucken finden Sie [hier](https://download.stueber.de/doc/de/ezcastpro/Schnellstartanleitung.EZCast.Pro.Stick.II.pdf).
 
-# Inhalt der EZCast Pro Stick II
+# Inhalt des EZCast Pro Stick II
 
-Der EZCast Pro Stick II besteht aus einem EZCast Pro II Stick (dem Empfänger), einem HDMI-Verlängerungskabel, USB-Kabel und einer Schnellstartanleitung (Englisch):
+Der EZCast Pro Stick II besteht aus:
+
+* 1 Empfänger (EZCast Pro Stick II)
+* 1 HDMI-Verlängerungskabel
+* 1 USB C Ladekabel
+* 1 Schnellstartanleitung (auf Englisch)
 
 ![Inhalt des EZCast Pro Stick II](/images/EZCastPro_II_Stick_contents_DE.jpg)
 
-Um den EZCast Pro Stick II mit einem VGA-Anschluss z.B. mit einem älteren Beamer anschließen zu können, empfehlen wir einen [Adapter HDMI Buchse zu VGA Stecker](optimize.md#hdmi-auf-vga-adapter-hdmi-buchse-zu-vga-stecker).
-
 # EZCast Pro Stick II anschließen {#Connect_ProStickII}
 
-* Verbinden Sie den Empfänger, wie unten abgebildet, mit der HDMI-Eingang Ihres Bildschirms. Schließen Sie das Netzteil mit Hilfe des USB-Kabels an. Der EZCast Pro Stick II schaltet sich automatisch ein. 
+* Verbinden Sie den Empfänger, wie unten abgebildet, mit dem HDMI-Eingang Ihres Bildschirms. Um den EZCast Pro Stick II mit einem älteren Beamer mit VGA-Anschluss verbinden zu können, empfehlen wir einen [Adapter HDMI Buchse zu VGA Stecker](optimize.md#hdmi-auf-vga-adapter-hdmi-buchse-zu-vga-stecker).
+Schließen Sie das Netzteil mit Hilfe des USB C Ladekabels an. Der EZCast Pro Stick II schaltet sich automatisch ein. 
 
 > #### primary::Hinweis
-> Zur Stromversorgung schließen Sie den USB-Port des EZCast Pro Stick II mit einem [externen Netzteil](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger) (Min. 5V/1,5A) mit Hilfe des mit gelieferten USB-Kabels an.
+> Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel mit einem [externen Netzteil](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger) (Min. 5V/1,5A) (nicht im Lieferumfang enthalten) an den USB-Port des Sticks an. 
 
 ![HDMI-Port + externes Netzteil (Min. 5V/1,5A)](/images/plugin_HDMI1.5A.jpg)
 
