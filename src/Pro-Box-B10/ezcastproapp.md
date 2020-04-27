@@ -162,7 +162,7 @@ Die kostenlose App/Software EZCastPro verfügt über die Möglichkeit auch Musik
 
 # Video (streamen)
 
-Wenn es wichtig ist, ein ruckelfreies Abspielen eines Videos zu gewährleisten, nutzen Sie die Video-Funktion. Im Gegensatz zur üblichen Spiegelungsfunktion handelt sich um ein Streamen, was bedeutet, dass das Video nur auf dem großen Display anzeigt wird, anstatt gleichzeitig auf Ihrem Endgerät abgespielt zu werden.
+Wenn es wichtig ist, ein ruckelfreies Abspielen eines Videos zu gewehrleisten, nutzen Sie die Video-Funktion. Im Gegenteil zur üblichen Spiegelungsfunktion handelt sich um ein Streamen, was bedeutet, dass das Video nur auf dem großen Display anzeigt, anstatt gleichzeitig auf Ihrem Endgerät.
 Sobald Sie die Videodatei auf Ihrem Endgerät bzw. aus Ihrem Netzwerk auswählen, wird einen Zwischenspeicher bzw. einen "Puffer" aufgebaut. Dies kann je nach Endgeräte- und Netzwerkleistung einige Sekunden dauern, bis das Abspielen beginnt.
 
 ![Durch die Kontrollleiste der App können Sie die Videowiedergabe steuern](/images/videoapp.png)
