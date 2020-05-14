@@ -4,8 +4,7 @@
 
 AirPlay ist die Übertragungstechnologie von Apple zur kabellosen Übertragung von Apple-Geräten auf AirPlay-fähige Empfängergeräte wie Lautsprecher, AV-Empfänger, Stereosysteme und Fernseher.
 
-Mit AirPlay haben Sie die Möglichkeit, Ihr iOS- oder macOS-Gerät ohne die EZCast Pro Software bzw. ohne die App zu präsentieren. Aufgrund einer Limitierung von der AirPlay Technik kann nur ein einzelnes Gerät auf einmal übertragen werden. Splitscreen wird bei AirPlay nicht unterstützt.
-
+Die EZCast Pro Box II ermöglicht es bis zu 4 macOS und iOS-Geräten, über das AirPlay-Protokoll auf einen aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App nutzen zu müssen.
 
 # Per AirPlay verbinden
 
