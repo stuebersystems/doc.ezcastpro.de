@@ -16,9 +16,13 @@ Mit diesen Schaltflächen oben auf der Menüleiste können Sie den Bildschirm Ih
 
 ![](/images/App-Funktion1.png)
 
-# Die Rollen - Host und Gast
+# Die Rollen - Admin, Host und Gast
 
-Die Rollen von Host und Gast unterscheiden sich mit der Funktionalität. 
+Es gibt drei Berechtigungsstufen. Der **Admin** verwaltet die Geräte. Die Rollen von **Host** und **Gast** unterscheiden sich mit der Funktionalität. 
+
+## Admin
+
+Der Admin verwaltet die Geräte und nutzt erweiterte Einstellungen und Funktionen, auf die der Host keinen Zugriff hat, z.B. die Firmware-Aktualisierung.
 
 ## Host
 
