@@ -235,19 +235,19 @@ Ein digitales Zertifikat hochladen.
 
 ![](/images/ezcastpro.II.digital_certificate.jpg)
 
-### Host-Berechtigungen {#Host-Authority}
+### Host-Berechtigungen {#Host-permissions}
 
 Kontrollieren Sie, welche Funktionen der Host im Menü Erweiterte Einstellungen durchführen darf, ohne sich als `Admin` [anmelden](#anmeldung) zu müssen.
 
-![Host-Berechtigungen](/images/Host_authority.jpg)
+![Host-Berechtigungen](/images/Host_permissions.jpg)
 
-Möchten Sie bespielsweise, dass der Host keinen Zugang auf die Schaltfläche `Einstellungen` innerhalb der Software bzw. der App zugelassen wird, dann können Sie die Option `Gerätemanager-Steuerung` auf `Off` (aus) stellen.
+Möchten Sie bespielsweise, dass der Host keinen Zugang auf die Schaltfläche `Einstellungen` innerhalb der Software bzw. der App zugelassen wird, dann können Sie die Option `Gerätemanagement` auf `Aus` stellen.
 
-![Host-Einstellungen können mit Hilfe der Gastbehörde ausgeblendet werden](/images/ezcastpro.II.software.no-hostsettings.jpg)
+![Host-Einstellungen können mit Hilfe der Host-Berechtigungen ausgeblendet werden](/images/ezcastpro.II.software.no-hostsettings.jpg)
 
-![Beim Ausschalten der Funktion Gerätemanager-Steuerung wird die Schaltfläche Host-Einstellungen ausgeblendet](/images/ezcastpro.II.software.hostsettings.hidden.png)
+![Beim Ausschalten der Funktion Gerätemanagement wird die Schaltfläche Host-Einstellungen ausgeblendet](/images/ezcastpro.II.software.hostsettings.hidden.png)
 
-Bei der obigen Konfiguration (die Funktionen Gerätemanager-Steuerung und Netzwerksetup-Steuerung ausschalten) wird nur die Funktion `Konferenzsteuerung` und `Reboot-Steuerung` eingeblendet. Bitte beachten: Die Rubriken `Link-Status` und `Über` stehen immer zur Verfügung.
+Bei der obigen Konfiguration (die Funktionen Gerätemanager-Steuerung und Netzwerksetup-Steuerung ausschalten) wird nur die Funktion `Konferenzsteuerung` und `Neustart` eingeblendet. Bitte beachten: Die Rubriken `Verbundene Geräte` und `Über das Gerät` stehen immer zur Verfügung.
 
 ![Funktion Konferenzensteuerung wird eingeblendet](/images/ezcastpro.II.Host_authority_example.jpg)
 
