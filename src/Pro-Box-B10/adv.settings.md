@@ -119,8 +119,9 @@ Mit einem iOS/macOS Gerät können Sie Ihren Bildschirminhalt auch direkt per Ap
 
 Wählen Sie den Modus für Videowiedergabe aus:
 
-* `Nur Mirror` - Bildschirm und Video-Inhalte werden gespiegelt
-* `Mirror+Streaming` - Bildschirm wird gespiegelt und Online-Videos (z.B. YouTube) werden gestreamt
+* `Auto` - Automatischer Modus
+* `Nur Bildschirm spiegeln` - Bildschirm und Video-Inhalte werden gespiegelt
+* `Spiegeln + Video streamen` - Bildschirm wird gespiegelt und Online-Videos (z.B. YouTube) werden gestreamt
 
 ![](/images/ezcastpro.II.EZAir_Mode.png)
 
@@ -162,9 +163,7 @@ Die Übertragung von ChromeCast-Geräten unterstützen. Eine umfassende Anleitun
 
 ### Miracast {#Miracast}
 
-Die Übertragung von Miracast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Chromecast finden Sie [hier](miracast.md).
-
-**Bitte beachten:** Auf Grund eines Fehlers kann es dazu führen, dass das PIN-Code bei Miracast-Verbindungen nicht akzeptiert wird. Dies wird mit dem nächsten Firmware-Update behoben werden. Bis dahin bitten wir Sie, das PIN-Code für Miracast nicht freizuschalten.
+Die Übertragung von Miracast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Miracast finden Sie [hier](miracast.md).
 
 ![](/images/Miracast.jpg)
 
@@ -173,6 +172,16 @@ Die Übertragung von Miracast-Geräten unterstützen. Eine umfassende Anleitung 
 Um ältere Endgeräte bzw. nicht 5 GHz fähige Geräte zu unterstützen nutzen Sie diese Option, um die EZCast Pro Box II auf die 2,4 GHz-Band umzuschalten.
 
 ![](/images/legacy.wifi.mode.png)
+
+### Zeitgesteuerter Neustart {#timedrestart}
+
+Um die Leistung des EZCast Pro Gerätes zu optimieren, insbesondere bei Geräten, die dauerhaft im Betrieb sind, schalten Sie die Option `Zeitgesteurter Neustart` **EIN**. Der Empfänger startet sich automatisch neu, wenn die folgenden Bedingungen zutreffen:
+
+* Die EZCast Pro Box II war 8 Stunden nicht im Betrieb. 
+* Kein Nutzer ist seit mind. 8 Stunden verbunden.
+* Die Web-Oberfläche der Einstellungen wurde 8 Stunden nicht verwendet.
+
+![Zeitgesteuerter Neustart einschalten](/images/timed.restart.png)
 
 ## Netzwerkmanagement {#Netzwerkmanagement}
 

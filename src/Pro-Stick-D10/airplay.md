@@ -12,6 +12,14 @@ Der EZCast Pro Stick II ermöglicht es bis zu 4 macOS und iOS-Geräten, über da
 
 ![EZCast Pro Startseite](/images/ProIIStick_Startseite.jpg)
 
+
+# Chromecast freischalten
+
+* Um Ihr Endgerät auf die EZCast Pro Box II übertragen zu können, muss die Option `Chromecast` in [Erweitere Einstellungen](adv.settings.md#Chromecast) einmalig freigeschaltet werden:
+
+![](/images/Chromecast-support.jpg)
+
+
 # AirPlay auf iOS
 
 * Von Ihrem iOS-Gerät verbinden Sie sich mit der SSID des Empfängers, die oben auf dem Bildschirm angezeigt wird.
