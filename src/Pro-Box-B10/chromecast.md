@@ -4,24 +4,24 @@
 
 Chromecast ist die Übertragungstechnologie von Google. Mit dem Google Chrome Browser kann man einen Browser-Tab, eine Audio/Video-Datei, oder sogar den gesamten Computerbildschirm auf die EZCast Pro Box II schnell und bequem übertragen. 
 
-![](/images/Chrome_select_stream.jpg)
+Die EZCast Pro Box II ermöglicht es bis zu 4 Windows, Android und ChromeOS-Geräten, über das Chromecast-Protokoll auf einen aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App nutzen zu müssen.
 
-Aufgrund einer Limitierung von der Chromecast Technik kann nur ein einzelnes Gerät auf einmal übertragen werden, Splitscreen wird bei Chromecast auch nicht unterstützt. Außerdem kann keinen Castcode eingestellt werden.
+![](/images/Chrome_select_stream.jpg)
 
 Die Übertragungstechnologie Google Cast ist nun fest eingebauter Bestandteil des Chrome-Browsers und daher mit den folgenden Endgeräten kompatibel: 
 
 * Google Chrome OS,
 * Microsoft Windows 7 oder höher
-* macOS (ab OS X Version 10.9)
+* Android 5.0 oder höher
 * Linux (mit reduziertem Leistungsumfang)
 
 # Voraussetzungen
 
-* Die Chromecast-Funktion benötigt die Firmware-Version `1.5608.9` oder höher. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.5608.9` angezeigt wird, wie unten abgebildet. Wenn nötig,  [aktualisieren](firmware-upgrade.md) Sie bitte Ihre Firmware.
+* Die Chromecast-Funktion mit Unterstützung für aufgeteiltes Display benötigt die Firmware-Version `1.8617.18` oder höher. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.8617.18` angezeigt wird, wie unten abgebildet. Wenn nötig,  [aktualisieren](firmware-upgrade.md) Sie bitte Ihre Firmware.
 
 * Bei der Erstverbindung ist ein WLAN bzw. eine Internetvebindung erforderlich
 
-![Chromecast steht ab der Firmware-Version 1.5608.9 zur Verfügung](/images/ProIIStick_Firmware-Version.1.5608.9.jpg)
+![Chromecast mit Unterstützung für aufgeteiltes Display steht ab der Firmware-Version 1.8617.18 zur Verfügung](/images/ProIIStick_Firmware-Version.1.8617.18.png)
 
 # Chromecast freischalten
 
