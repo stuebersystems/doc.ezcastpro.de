@@ -18,7 +18,7 @@ Mit Hilfe der `Erweiterte Einstellungen` können Sie sich anmelden und die Stand
 
 * Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
 
-![](/images/Win-App-Advanced-Settings.jpg)
+![](/images/Win-App-Advanced-Settings.png)
 
 * Auf iOS/Android wählen Sie die Schaltfläche `Settings` oben links.
 
@@ -36,11 +36,11 @@ Mit Hilfe der `Erweiterte Einstellungen` können Sie sich anmelden und die Stand
 
 * Aus dem Menü oben links wählen Sie `Admin-Einstellungen`.
 
-![](/images/ezcastpro.II.select.admineinstellungen.jpg)
+![](/images/ezcastpro.II.select.admineinstellungen.png)
 
-* Wählen den Punkt `Auf Defaulteinstellung zurücksetzen` aus.
+* Wählen den Punkt `Auf Standardeinstellungen zurücksetzen` aus.
 
-![](/images/ezcastpro.II.Standardeinstellungen.zuruecksetzen.jpg)
+![](/images/ezcastpro.II.Standardeinstellungen.zuruecksetzen.png)
 
 * Zum Bestätigen wählen Sie `Ja`.
 
@@ -58,15 +58,25 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
 ![](/images/Reset_config_complete.jpg)
 
-# Einstellungen nach dem Zurücksetzen
+# Einstellungen nach dem Zurücksetzen {#recommendedsettings}
 
 Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
 
-* [Auflösung](adv.settings.md#Auflösung) z.B.: `AUTO`
-* [Mein Bildschirm](adv.settings.md##Mein-Bildschirm) z.B. unsere Startseite in der deutschen Sprache
-* [Sprache](adv.settings.md#Sprache) z.B.: `DEUTSCH`
-* [WLAN-Modus](adv.settings.md#Wifi-Channel) z.B.: `EUROPE`
-* [Android Audioübertragung](adv.settings.md#Android-Audio-Streaming) z.B.: `EIN`
+Firmware-Version: 1.8617.18
 
+**Gerätemanagement**
+* [Sprache](adv.settings.md#Sprache): `DEUTSCH`
+* [Android Audioübertragung](adv.settings.md#Android-Audio-Streaming): `EIN`
+* [AirView](adv.settings.md#AirView): `EIN`
+* [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `EIN`
 
+**Netzwerkmanagement**
+* [WLAN-Modus](adv.settings.md#Wifi-Channel): `EUROPE`, `Bandbreite = 20MHz`
 
+**Admineinstellungen**
+* [Mein Bildschirm](adv.settings.md##Mein-Bildschirm): unsere [Startseite](https://download.stueber.de/doc/de/ezcastpro/EZCastProV2_StartseiteDE.png) in der deutschen Sprache
+* [Host-Berechtigungen](adv.settings.md#Host-permissions):
+ * `Konferenzsteuerung = Ein`
+ * `Netzwerkmanagement = Aus`
+ * `Gerätemanagement = Aus`
+ * `Neustart = Ein`

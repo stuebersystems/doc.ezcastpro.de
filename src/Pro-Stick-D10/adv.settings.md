@@ -219,7 +219,7 @@ Legen Sie ein benutzerdefiniertes Kennwort für das WLAN des Pro Sticks fest und
 
 Um störende WLAN-Signale zu vermeiden, können Sie den WLAN-Modus anpassen.
 
-![](/images/ezcastpro.II.wifi.kanal.jpg)
+![](/images/ezcastpro.II.wifi.kanal.png)
 
 ## Admineinstellungen {#Admineinstellungen}
 

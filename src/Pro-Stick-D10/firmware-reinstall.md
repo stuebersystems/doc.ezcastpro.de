@@ -127,19 +127,7 @@ Der EZCast Pro Stick II ist wieder einsatzbereit.
 > Bitte beachten: Bei einer Neuinstallation der Firmware werden die fabrikseitigen Einstellungen des Geräts wiederhergestellt. Bitte prüfen Sie nach der Neuinstallation unsere [empfohlene Einstellungen](#Recommendedsettings).
 
 
-# Einstellungen nach der Neuinstallation {#Recommendedsettings}
+# Einstellungen nach der Neuinstallation {#recommendedsettings}
 
-Nach der Neuinstallation werden Sie bei der ersten Anmeldung auf der [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
-
-* [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): [Unsere Startseite](https://download.stueber.de/doc/de/ezcastpro/EZCastProV2_StartseiteDE.png) in der deutschen Sprache
-* [Sprache](adv.settings.md#Sprache): `DEUTSCH`
-* [WLAN-Modus](adv.settings.md#Wifi-Channel): `Land = EUROPE`, `Bandbreite = 20MHz`
-* [Android-Audio-Streaming](adv.settings.md#Android-Audio-Streaming): `EIN`
-* [Gastbehörde](adv.settings.md#Host-Authority):
-
-Dem Host Zugang nur auf die Konferenzsteuerung und die Reboot-Steuerung zulassen:
-
-`Admineinstellungen` -> `Gastbehörde`
-	
-![](/images/Host_authority.jpg)
+Bei einer Neuinstallation der Firmware werden alle Einstellungen zurückgesetzt. Unsere empfohlene Einstellungen finden Sie [hier](reset.md#recommendedsettings).
 

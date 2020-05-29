@@ -8,7 +8,7 @@ Jetzt können Sie sich allerdings als permanenter Host der EZCast Pro Box II fes
 
 In der Software für Windows/macOS wird Ihre Rolle als Host/Gast bezeichnet, wie unten abgebildet:
 
-![](/images/ProIIStick_Host.jpg)
+![](/images/AppRolle-Host.png)
 
 In der App für iOS/Android wird Ihre Rolle bezeichnet, wie unten abgebildet:
 
@@ -26,7 +26,7 @@ Einen festgelegten Host können Sie ab der Firmware-Version `1.4807.0` auswähle
 
 * Schalten Sie die EZCast Pro Box II ein. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.4807.0` angezeigt wird, wie unten abgebildet. Wenn nötig, aktualisieren Sie bitte Ihre [Firmware](firmware-upgrade.md).
 
-![Festgelegter Host wird ab der Firmware-Version 1.4807.0 ermöglicht](/images/ProIIStick_Firmware-Version.jpg)
+![Festgelegter Host wird ab der Firmware-Version 1.4807.0 ermöglicht](/images/ProIIStick_Firmware-Version.1.8617.18.png)
 
 # Festgelegter Host einstellen
 
@@ -38,7 +38,7 @@ Das Updaten der Firmware kann über `Erweiterte Einstellungen` eines beliebigen 
 
 * Wählen Sie `Erweiterte Einstellungen` unten links.
 
-![](/images/ProII-Win-App-Advanced-Settings.jpg)
+![](/images/ProII-Win-App-Advanced-Settings.png)
 
 # Anmeldung
 
@@ -48,25 +48,25 @@ Das Updaten der Firmware kann über `Erweiterte Einstellungen` eines beliebigen 
 
 * Während der ersten Anmeldung, müssen Sie das Admin-Kennwort ändern. Danach müssen Sie sich noch einmal anmelden.
 
-![](/images/new_password.jpg)
+![](/images/new_password.png)
 
 ## Konfiguration
 
 * Aus dem Menü wählen Sie die `Admineinstellungen` aus:
 
-![](/images/ezcastpro.II.select.admineinstellungen.jpg)
+![](/images/ezcastpro.II.select.admineinstellungen.png)
 
-* Wählen Sie den Menüpunkt `Fixierter Host` aus:
+* Wählen Sie den Menüpunkt `Festgelegter Host` aus:
 
-![](/images/ezcastpro.II.admineinstellungen.fixedhost.jpg)
+![](/images/ezcastpro.II.admineinstellungen.fixedhost.png)
 
-* Entweder wählen Sie einen aktuell verbundenen Benutzer aus oder legen Sie eine bestimmte IP-Adresse fest:
+* Entweder wählen Sie einen aktuell verbundenen Benutzer aus oder geben Sie eine feste IP-Adresse an:
 
-![](/images/ProIIStick_Fixedhost.Select.jpg)
+![](/images/ProIIStick_Fixedhost.Select.png)
 
 * Um die Einstellung freizuschalten, müssen Sie die Pro Box II neustarten. Im Menü wählen Sie `Neustarten`.
 
-![](/images/prostickII_menu.neustart.jpg)
+![](/images/prostickII_menu.neustart.png)
 
 * Dann wählen Sie die Schaltfläche `Neustarten`.
 

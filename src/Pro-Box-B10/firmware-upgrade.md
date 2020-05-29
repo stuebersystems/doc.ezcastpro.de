@@ -16,7 +16,7 @@ Das Updaten der Firmware kann per die `Erweiterte Einstellungen` eines beliebige
 
 * Wählen Sie `Erweiterte Einstellungen` unten links.
 
-![](/images/ProII-Win-App-Advanced-Settings.jpg)
+![](/images/ProII-Win-App-Advanced-Settings.png)
 
 # Anmeldung
 
@@ -26,17 +26,17 @@ Das Updaten der Firmware kann per die `Erweiterte Einstellungen` eines beliebige
 
 * Während der ersten Anmeldung, müssen Sie das Admin-Kennwort ändern. Danach müssen Sie sich noch einmal anmelden.
 
-![](/images/new_password.jpg)
+![](/images/new_password.png)
 
 # Firmware-Upgrade ausführen
 
 * Aus dem Menü wählen Sie die `Admineinstellungen` aus:
 
-![](/images/ezcastpro.II.select.admineinstellungen.jpg)
+![](/images/ezcastpro.II.select.admineinstellungen.png)
 
 * Wenn eine neue Firmware-Version zur Verfügung steht, wird es mit `Neue Version!` neben dem Menüpunkt `Aktualisierung` angezeigt. Um fortzusetzen wählen Sie diese Schaltfläche aus:
 
-![](/images/ProIIStick_Startseite_Firmware-Menuoption.jpg)
+![](/images/ProIIStick_Startseite_Firmware-Menuoption.png)
 
 * Die neue Firmware-Version wird im Feld Server-Version angezeigt. Zum bestätigen wählen Sie `Aktualisierung`.
 
