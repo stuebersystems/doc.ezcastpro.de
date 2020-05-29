@@ -42,9 +42,9 @@ Mit Hilfe der `Erweiterte Einstellungen` können Sie sich anmelden und die Stand
 
 ![](/images/ezcastpro.II.Standardeinstellungen.zuruecksetzen.jpg)
 
-* Zum Bestätigen wählen Sie `Yes`.
+* Zum Bestätigen wählen Sie `Ja`.
 
-![](/images/reset_confirm.png)
+![](/images/Reset.png)
 
 # Zurücksetzen per Reset-Schalter 
 
@@ -60,13 +60,13 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
 # Einstellungen nach dem Zurücksetzen
 
-Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
+Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
 
 * [Auflösung](adv.settings.md#Auflösung) z.B.: `AUTO`
 * [Mein Bildschirm](adv.settings.md##Mein-Bildschirm) z.B. unsere Startseite in der deutschen Sprache
 * [Sprache](adv.settings.md#Sprache) z.B.: `DEUTSCH`
 * [WLAN-Modus](adv.settings.md#Wifi-Channel) z.B.: `EUROPE`
-* [Android-Audio-Streaming](adv.settings.md#Android-Audio-Streaming) z.B.: `ON`
+* [Android Audioübertragung](adv.settings.md#Android-Audio-Streaming) z.B.: `EIN`
 
 
 

@@ -24,7 +24,7 @@ Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viel
 
 * Während der ersten Anmeldung, müssen Sie das Admin-Kennwort ändern. Danach müssen Sie sich noch einmal anmelden.
 
-![](/images/new_password.jpg)
+![](/images/new_password.png)
 
 # Optionen des Hauptmenüs
 
@@ -48,7 +48,7 @@ Nach der Anmeldung erscheinen die folgenden Funktionen:
 
 Zeigt die verbundenen Nutzer und ihre zugewiesenen Rollen als entweder `Host` oder `Gast`. Weitere Informationen zum Thema Host und Gast finden Sie [hier](ezcastproapp.md#die-rollen---host-und-gast).
 
-![](/images/link-status.jpg)
+![](/images/link-status.png)
 
 ## Konferenzsteuerung {#Konferenzsteuerung}
 
@@ -113,7 +113,7 @@ Mit Vollbild-Modus wird die Eingabe des Endgeräts automatisch angepasst, um das
 
 ![Das iPad wird im Vollbild angezeigt](/images/NEC_E506_Vollbild.png)
 
-### AirPlay Modus {#AirPlayMode}
+### AirPlay-Modus {#AirPlayMode}
 
 Mit einem iOS/macOS Gerät können Sie Ihren Bildschirminhalt auch direkt per Apple AirPlay übertragen. Das bedeutet, Sie benötigen in diesem Fall keine EZCast Pro Software. Diese Funktion ist 'out-the-box' freigegeben. Eine umfassende Anleitung zur Verwendung von AirPlay finden Sie [hier](airplay.md).
 
@@ -135,7 +135,7 @@ AirView ein- oder ausschalten. Eine umfassende Anleitung zur Verwendung von AirV
 
 EZNote ein- oder ausschalten.
 
-![](/images/EZNote.jpg)
+![](/images/EZNote.png)
 
 ### Castcode-Kontrolle {#Castcode-Kontrolle}
 
@@ -145,7 +145,9 @@ Legen Sie fest, ob jeder Gast einen vierstelligen Code eingeben muss, um Inhalte
 
 ### Max. Verbindungen {#MaxVerbindungen}
 
-Hier geben Sie die maximale Benutzeranzahl des Empfängers an.
+Bei dieser Einstellung handelt es sich die maximale Zahl der direkten Verbindungen, die der EZCast Pro Stick II unterstützen soll. Zusätzlich werden noch 32 Verbindungen über Router unterstützt. 
+
+Bitte beachten: Je größer jedoch die Anzahl der angeschlossenen Benutzer ist, desto geringer ist die Bandbreite für jeden Benutzer
 
 ![](/images/ezcastpro.II.max.verbindungen.png)
 
@@ -153,19 +155,19 @@ Hier geben Sie die maximale Benutzeranzahl des Empfängers an.
 
 Die Übertragung von Android-Ton über die Android-App unterstützen.
 
-![](/images/Android-Audio-Streaming.jpg)
+![](/images/Android-Audio-Streaming.png)
 
 ### ChromeCast {#Chromecast}
 
 Die Übertragung von ChromeCast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Chromecast finden Sie [hier](chromecast.md).
 
-![](/images/Chromecast-support.jpg)
+![](/images/Chromecast-support.png)
 
 ### Miracast {#Miracast}
 
 Die Übertragung von Miracast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Miracast finden Sie [hier](miracast.md).
 
-![](/images/Miracast.jpg)
+![](/images/Miracast.png)
 
 ### Legacy-Modus (2,4 GHz WLAN) {#legacymode}
 
@@ -191,7 +193,7 @@ Im diesem Bereich können Sie Einstellungen zu dem Internet, IP-Einstellungen un
 
 Verbinden Sie den Pro Stick mit Ihrem WLAN-Router.
 
-**Bitte beachten:** Der EZCast Pro Stick II kann nur mit einem `5GHz WLAN-Router` verbunden werden, es sei denn Sie haben den [Legacy-WiFi-Modus](#legacymode) freigeschaltet.
+**Bitte beachten:** Der EZCast Pro Stick II kann nur mit einem `5GHz WLAN-Router` verbunden werden, es sei denn Sie haben den [Legacy-Modus (2,4 GHz WLAN)](#legacymode) freigeschaltet.
 
 ![](/images/EZCastPro.II.Wifi.Internet.jpg)
 
@@ -199,19 +201,19 @@ Verbinden Sie den Pro Stick mit Ihrem WLAN-Router.
 
 Wenn die Verbindung von EZCast Pro Stick II mit dem Internet bzw. mit Ihrem Router dauerhaft gemerkt werden soll, muss diese Option freigeschaltet sein. Wenn nicht, wird die Verbindung mit Ihrem Router nach einem Neustart des Sticks nicht automatisch wiederhergestellt.  
 
-![](/images/ezcastpro.II.remember.password.jpg)
+![](/images/ezcastpro.II.remember.password.png)
 
 ### WLAN IP-Einstellungen {#WLAN-IP-Einstellungen}
 
 Weisen Sie dem Pro Stick II eine statische IP-Adresse zu oder setzen Sie automatische IP-Adressierung (DHCP).
 
-![](/images/static-IP.jpg)
+![](/images/static-IP.png)
 
 ### WLAN-Kennwort ändern bzw. nicht sichtbar {#WLAN-Kennwort}
 
 Legen Sie ein benutzerdefiniertes Kennwort für das WLAN des Pro Sticks fest und wählen Sie, ob das Kennwort aus Sicherheitsgründen ausgeblendet werden soll.
 
-![](/images/ezcastpro.II.kennwort.jpg)
+![](/images/ezcastpro.II.kennwort.png)
 
 ### WLAN-Kanal {#Wifi-Channel}
 
@@ -239,7 +241,7 @@ Ein digitales Zertifikat hochladen.
 
 Kontrollieren Sie, welche Funktionen der Host im Menü Erweiterte Einstellungen durchführen darf, ohne sich als `Admin` [anmelden](#anmeldung) zu müssen.
 
-![Host-Berechtigungen](/images/Host_permissions.jpg)
+![Host-Berechtigungen](/images/Host_permissions.png)
 
 Möchten Sie bespielsweise, dass der Host keinen Zugang auf die Schaltfläche `Einstellungen` innerhalb der Software bzw. der App zugelassen wird, dann können Sie die Option `Gerätemanagement` auf `Aus` stellen.
 
@@ -249,13 +251,13 @@ Möchten Sie bespielsweise, dass der Host keinen Zugang auf die Schaltfläche `E
 
 Bei der obigen Konfiguration (die Funktionen Gerätemanager-Steuerung und Netzwerksetup-Steuerung ausschalten) wird nur die Funktion `Konferenzsteuerung` und `Neustart` eingeblendet. Bitte beachten: Die Rubriken `Verbundene Geräte` und `Über das Gerät` stehen immer zur Verfügung.
 
-![Funktion Konferenzensteuerung wird eingeblendet](/images/ezcastpro.II.Host_authority_example.jpg)
+![Funktion Konferenzensteuerung wird eingeblendet](/images/ezcastpro.II.Host_authority_example.png)
 
 ### Host-Kontrolle {#Host-Kontrolle}
 
 Der erste Benutzer, der sich über die Software bzw. über die App verbindet, wird als Moderator (Host) bezeichnet und die anderen als Gäste. Standardmäßig muss jeder Antrag zum Senden vom Host genehmigt werden, in dem er mit entweder `Vollbild`, `Teilen`, oder `Ablehnen` antwortet: 
 
-![](/images/host.control_answer.jpg)
+![](/images/host.control_answer.png)
 
 **Antrag automatisch genehmigen**
 
@@ -265,7 +267,7 @@ Wenn `Antrag automatisch genehmigen` auf `On` eingestellt ist, wird der Antrag z
 
 Standardmäßig ist diese Funktion freigeschaltet. Dies bedeutet, dass der Bildschirm geteilt wird, um bis zu vier Geräte gleichzeitig zu zeigen, auch bekannt als Splitscreen-Modus. Wenn `Bildschirm teilen` aus ist, übernimmt der nächste genehmigte Sender im Vollbildmodus.
 
-![](/images/host.control.jpg)
+![](/images/host.control.png)
 
 Ein Status der Einstellungen der Host-Steuerung wird auf der Startseite unten angezeigt:
 
@@ -275,7 +277,7 @@ Ein Status der Einstellungen der Host-Steuerung wird auf der Startseite unten an
 
 Kontrollieren Sie, ob verbundene Geräte auf das Internet über den EZCast Pro II Empfänger zugreifen dürfen oder nicht. Standardmäßig werden alle Geräte erlaubt:
 
-![](/images/internet_access.jpg)
+![](/images/internet_access.png)
 
 ### SNMP {#SNMP}
 
@@ -289,7 +291,7 @@ Wenn gewünscht, kann man das Bild der Startseite austauschen. Dies ist eine dau
 
 Einen Download der von uns mitgelieferten Startseite finden Sie [hier](https://download.stueber.de/doc/de/ezcastpro/EZCastProV2_StartseiteDE.png).
 
-![](/images/Mein_Bildschirm.jpg)
+![](/images/Mein_Bildschirm.png)
 
 ### OTA-Update-URL {#OTA-Server}
 
@@ -302,7 +304,7 @@ Einen OTA-Server angeben.
 
 Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Ersteinrichtung des Sticks steht Ihnen standardmäßig die **Direkte Verbindung** zur Verfügung.
 
-* **Direkte Verbindung**<br>Sie verbinden Ihr Endgerät (Windows/Android/Apple/etc.) mit dem EZCast Pro Empfänger über die auf dem Bildschirm angezeigte SSID. Dies wird auch als `Peer-to-Peer` bezeichnet. Inhalte vom Internet werden im zweiten Schritt über die [Internetzugang-Funktion](internet.md) des Empfängers zu Ihrem Endgerät geliefert, wenn der Administrator dies freischaltet. Dies bietet im Prinzip die beste Bandbreite zwischen Ihrem Gerät und dem EZCast Pro Empfänger, wenn die Entfernung vom Netzwerk-Zugangspunkt sehr groß ist. Bei dieser Option muss der Benutzer vom bisherigen Netzwerk auf ein anderes Netzwerk d.h. die SSID des Empfängers wechseln.
+* **Direkte Verbindung**<br>Sie verbinden Ihr Endgerät (Windows/Android/Apple/etc.) mit dem Hotspot des EZCast Pro Empfängers über die auf dem Bildschirm angezeigte SSID. Inhalte vom Internet werden im zweiten Schritt über die [Internetzugang-Funktion](internet.md) des Empfängers zu Ihrem Endgerät geliefert, wenn der Administrator dies freischaltet. Dies bietet im Prinzip die beste Bandbreite zwischen Ihrem Gerät und dem EZCast Pro Empfänger, wenn die Entfernung vom Netzwerk-Zugangspunkt sehr groß ist. Bei dieser Option muss der Benutzer vom bisherigen Netzwerk auf ein anderes Netzwerk d.h. die SSID des Empfängers wechseln.
 
 ![Die Zugangsdaten SSID u. Kennwort der direkten Verbindung werden oben angezeigt](/images/ezcastpro.II.Direkte_Verbindung_zugangsdaten.jpg)
 
@@ -312,15 +314,15 @@ Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Erste
 
 ![In der EZCast Pro Software wird eine verfügbare Verbindung über Router mit einem Symbol des Routers rechts angezeigt](/images/ezcastpro.II.App.überRouter_verbinden.png)
 
-Standardmäßig werden beide Wege per die Option `Über Router oder direkte Verbindung` **(Via Router Allowed)** freigeschaltet. Jedoch haben Sie die Wahl beide Möglichkeiten zu erlauben oder eine Seite zu deaktivieren:
+Standardmäßig werden beide Wege per die Option `Über Router oder direkte Verbindung` freigeschaltet. Jedoch haben Sie die Wahl beide Möglichkeiten zu erlauben oder eine Seite zu deaktivieren:
 
-![](/images/Connection_EZCastProII.jpg)
+![](/images/Connection_EZCastProII.png)
 
-* Mit den ersten zwei Optionen `Über Router oder direkte Verbindung` **(Via Router Allowed)** sowie mit `Nur direkte Verbindung` **(Direct Link Only)** werden die SSID und das Kennwort dazu auf der Startseite angezeigt, wie unten abgebildet:
+* Mit den ersten zwei Optionen `Über Router oder direkte Verbindung` sowie mit `Nur direkte Verbindung` werden die SSID und das Kennwort dazu auf der Startseite angezeigt, wie unten abgebildet:
 
 ![](/images/ezcastpro.II.Direkte_Verbindung.jpg)
 
-* Mit `Nur über Router` **(Nur via Router)** wird der Access-Point des EZCast Pro Stick II  ausgeschaltet und Sie können nur über Ihren Router mit den Stick verbinden. Die SSID und das Passwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse des Sticks wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
+* Mit `Nur über Router` wird der Access-Point des EZCast Pro Stick II  ausgeschaltet und Sie können nur über Ihren Router mit dem Stick verbinden. Die SSID und das Kennwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse dem Stick Box wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
 
 ![](/images/ezcastpro.II.Nur.Ueber.Router.jpg)
 
@@ -332,11 +334,11 @@ Standardmäßig werden beide Wege per die Option `Über Router oder direkte Verb
 
 Legen Sie einen bestimmten Benutzer fest, dass sich immer als Host der Präsentation innerhalb der Software bzw. der App bezeichnet wird. Weitere Informationen zu diesem Thema finden Sie [hier](fixedhost.md).
 
-![](/images/ProIIStick_Fixedhost.Select.jpg)
+![](/images/ProIIStick_Fixedhost.Select.png)
 
 ### Upgrade (Firmware) {#Aktualisieren}
 
-Sie können die Firmware des EZCast Pro II Sticks aktualisieren, um die neuesten Erweiterungen und Funktionen nutzen zu können.
+Sie können die Firmware des EZCast Pro Stick II aktualisieren, um die neuesten Erweiterungen und Funktionen nutzen zu können.
 
 ![](/images/Update.jpg)
 
@@ -345,7 +347,7 @@ Klicken Sie [hier](firmware-upgrade.md) für eine vollständige Anleitung zum ak
 
 Nutzen Sie diese Option, um den Pro Stick auf die Standardeinstellungen zurückzusetzen. Weitere Informationen dazu finden Sie [hier](reset.md).
 
-![](/images/Reset.jpg)
+![](/images/Reset.png)
 
 ## Neustarten {#restart}
 

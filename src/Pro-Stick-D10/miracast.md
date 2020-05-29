@@ -38,7 +38,7 @@ Eine Verbindung über Miracast wird hergestellt:
 
 Suchen auf Ihren Android-Gerät nach dem Punkt "Übertragen". Auf Samsung-Geräten heißt dieses Feature `Smart View`. Auf anderen Android-Geräten heißt es `Screen Mirroring`.
 
-![ProIIStick-Android_Miracast_SmartView](/images/ProIIStick-Android_Miracast_SmartView.jpg)
+![Android Miracast per Smart View](/images/ProIIStick-Android_Miracast_SmartView.jpg)
 
 * Wählen Sie anschließend den entsprechenden EZCast Pro Stick II aus. Eine Verbindung über Miracast wird hergestellt:
 
