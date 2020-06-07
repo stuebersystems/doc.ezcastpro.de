@@ -6,7 +6,7 @@ Aufgrund einer Limitierung von der Miracast Technik kann nur ein einzelnes Gerä
 
 * Um Miracast mit der EZCast Pro Box II zu verbinden, stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite auf dem Bildschirm angezeigt ist.
 
-![EZCast Pro Box II Startseite](/images/ProIIStick_Startseite.jpg)
+![EZCast Pro Box II Startseite](/images/Startseite_ProBoxII.png)
 
 # Windows Miracast
 
@@ -31,7 +31,7 @@ Eine Verbindung über Miracast wird hergestellt:
 
 * EZCast Pro Box II kehrt zurück auf die Startseite.
 
-![EZCast Pro Startseite](/images/ProIIStick_Startseite.jpg)
+![EZCast Pro Startseite](/images/Startseite_ProBoxII.png)
 
 # Android Miracast
 
@@ -53,4 +53,4 @@ Sie sind nun mit EZCast Pro II per Miracast verbunden. Dies wird durch folgendes
 
 * EZCast Pro Box II kehrt zurück auf die Startseite.
 
-![EZCast Pro Startseite](/images/ProIIStick_Startseite.jpg)
+![EZCast Pro Startseite](/images/Startseite_ProBoxII.png)

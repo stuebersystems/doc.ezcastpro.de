@@ -4,13 +4,8 @@
 
 AirPlay ist die Übertragungstechnologie von Apple zur kabellosen Übertragung von Apple-Geräten auf AirPlay-fähige Empfängergeräte wie Lautsprecher, AV-Empfänger, Stereosysteme und Fernseher.
 
-Der EZCast Pro Stick II ermöglicht es bis zu 4 macOS und iOS-Geräten, über das AirPlay-Protokoll auf einen aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App nutzen zu müssen.
+Der EZCast Pro Stick II ermöglicht es bis zu 4 macOS und iOS-Geräten, über das AirPlay-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App zu benötigen.
 
-# AirPlay freischalten
-
-* Um Ihr Endgerät auf den EZCast Pro Stick II per AirPlay übertragen zu können, muss die Option `AirPlay` in der Funktion [Erweitere Einstellungen](adv.settings.md#AirPlayMode) einmalig freigeschaltet werden:
-
-![](/images/ezcastpro.II.EZAir_Mode.png)
 
 # Per AirPlay verbinden
 

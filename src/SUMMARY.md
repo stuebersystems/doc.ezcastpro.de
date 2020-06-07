@@ -32,6 +32,7 @@
   * [Firmware aktualisieren](Pro-Box-B10/firmware-upgrade.md)
   * [ProCast](Pro-Box-B10/procast.md)
   * [Firmware neu installieren](Pro-Box-B10/firmware-reinstall.md)
+  * [Touch-Back-Funktion](Pro-Box-B10/touchback.md)
   * [Captive Portal](Pro-Box-B10/captiveportal.md)
 * [Ältere Modelle](legacymodels.md)
   * [Pro Stick I](Pro-Stick-D01/README.md)

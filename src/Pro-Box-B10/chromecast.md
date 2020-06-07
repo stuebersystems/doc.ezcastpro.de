@@ -21,7 +21,7 @@ Die Übertragungstechnologie Google Cast ist nun fest eingebauter Bestandteil de
 
 * Bei der Erstverbindung ist ein WLAN bzw. eine Internetvebindung erforderlich
 
-![Chromecast mit Unterstützung für aufgeteiltes Display steht ab der Firmware-Version 1.8617.18 zur Verfügung](/images/ProIIStick_Firmware-Version.1.8617.18.png)
+![Chromecast mit Unterstützung für aufgeteiltes Display steht ab der Firmware-Version 1.8617.18 zur Verfügung](/images/ProIIBox_Firmware-Version.1.8617.18.png)
 
 # Chromecast freischalten
 

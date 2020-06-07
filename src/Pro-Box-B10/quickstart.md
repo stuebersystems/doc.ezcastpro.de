@@ -42,7 +42,7 @@ Schließen Sie das Netzteil mit Hilfe des USB-Kabels an. Die EZCast Pro Box II s
 
 Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#Connect_ProBoxII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
-![Die Startseite](/images/ProIIStick_Startseite_SSID.jpg)
+![Die Startseite](/images/Startseite_ProBoxII.png)
 
 * Von Ihrem iOS, oder Android Gerät verbinden Sie sich mit der SSID, die oben links auf dem Bildschirm angezeigt wird, wie oben abgebildet. Das Kennwort wird standardmäßig ebenfalls angezeigt.
 
@@ -70,7 +70,7 @@ Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#Connect_ProBoxII) haben,
 
 Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#Connect_ProBoxII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
-![Die Startseite](/images/ProIIStick_Startseite.jpg)
+![Die Startseite](/images/Startseite_ProBoxII.png)
 
 * Von Ihrem Windows, oder macOS Gerät verbinden Sie sich mit der SSID, die oben auf dem Bildschirm angezeigt wird. Das Kennwort wird standardmäßig ebenfalls angezeigt.
 

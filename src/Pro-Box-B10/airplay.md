@@ -16,7 +16,7 @@ Die EZCast Pro Box II ermöglicht es bis zu 4 macOS und iOS-Geräten, über das 
 
 * Um AirPlay mit EZCast Pro zu verbinden, stellen Sie sicher, dass der Empfänger eingeschaltet ist und die Startseite auf dem Bildschirm angezeigt ist.
 
-![EZCast Pro Startseite](/images/ProIIStick_Startseite.jpg)
+![EZCast Pro Startseite](/images/Startseite_ProBoxII.png)
 
 # AirPlay auf iOS
 
@@ -51,7 +51,7 @@ Mit macOS haben Sie die Möglichkeit, macOS-Geräte kabellos über AirPlay zu pr
 * Stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite am Bildschirm angezeigt ist.
 
 
-![EZCast Pro Box II Startseite](/images/ProIIStick_Startseite.jpg)
+![EZCast Pro Box II Startseite](/images/Startseite_ProBoxII.png)
 
 * Auf dem Mac in der Menüleiste klicken Sie auf das AirPlay-Symbol oben im Bildschirm.
 
