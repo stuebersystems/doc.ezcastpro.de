@@ -24,7 +24,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 ![USB-Kabel anschließen](/images/B10_Touch-USB-cable.png)
 
-* Wenn der Empfänger die Touch-Funktionalität Ihres Bildschirms erfolgreich entdeckt, errecheint das Maus-Symbol oben rechts auf der Startseite.
+* Wenn der Empfänger die Touch-Funktionalität Ihres Bildschirms erfolgreich entdeckt hat, errecheint das Maus-Symbol oben rechts auf der Startseite.
 
 ![Die Touch-Back-Funktion ist aktiviert](/images/B10_TouchBack_enabled.png)
 
