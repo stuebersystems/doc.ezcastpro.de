@@ -141,7 +141,13 @@ EZNote ein- oder ausschalten.
 
 Legen Sie fest, ob jeder Gast einen vierstelligen Code eingeben muss, um Inhalte übertragen zu dürfen.
 
-![](/images/ezcastpro.II.castcode-kontrolle.jpg)
+* `AUS` - Kein Passcode wird benötigt
+* `Zufällig` - Zufällig (erneut sich automatisch beim Einschalten bzw. beim Neustart)
+* `Fest` - Einen festens Castcode angeben
+
+Der Castcode wird hier angezeigt:
+
+![Der Castcode](/images/B10_Castcode.png)
 
 ### Max. Verbindungen {#MaxVerbindungen}
 

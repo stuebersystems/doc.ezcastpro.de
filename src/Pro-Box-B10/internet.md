@@ -39,6 +39,6 @@ Wenn die EZCast Pro Box  II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, 
 
 Wenn Sie die EZCast Pro Box lieber per Wireless Access Point verbinden möchten, um auf das Internet zuzugreifen, finden Sie die Möglichkeit dazu im Menü [Erweiterte Einstellungen](adv.settings.md) unter der Rubrik [Netzwerkmanagement](adv.settings.md#Netzwerkmanagement).
 
-![](images/Wifi_Internet.jpg)
+![](/images/Wifi_Internet.jpg)
 
 

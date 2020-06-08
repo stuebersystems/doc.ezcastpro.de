@@ -27,7 +27,7 @@ Die Übertragungstechnologie Google Cast ist nun fest eingebauter Bestandteil de
 
 * Um Ihr Endgerät auf den EZCast Pro Stick II übertragen zu können, muss die Option `Chromecast` in [Erweitere Einstellungen](adv.settings.md#Chromecast) einmalig freigeschaltet werden:
 
-![](/images/Chromecast-support.jpg)
+![](/images/Chromecast-support.png)
 
 # Per Chromecast verbinden
 

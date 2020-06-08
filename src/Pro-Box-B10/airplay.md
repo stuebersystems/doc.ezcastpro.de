@@ -10,7 +10,7 @@ Die EZCast Pro Box II ermöglicht es bis zu 4 macOS und iOS-Geräten, über das 
 
 * Um Ihr Endgerät auf die EZCast Pro Box II per AirPlay übertragen zu können, muss die Option `AirPlay` in der Funktion [Erweitere Einstellungen](adv.settings.md#AirPlayMode) einmalig freigeschaltet werden:
 
-![](/images/ezcastpro.II.EZAir_Mode.png)
+![](/images/ezcastpro.II.EZAir_enable.png)
 
 # Per AirPlay verbinden
 
