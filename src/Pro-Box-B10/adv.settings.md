@@ -1,6 +1,6 @@
 # Erweiterte Einstellungen
 
-Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Box II bequem per Fernzugriff anpassen. Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die Software bzw. die App [installiert] (quickstart.md) haben und mit Ihrer EZCast Pro Box II verbunden sind.
+Mit der Funktion `Erweiterte Einstellungen` können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Box II bequem per Fernzugriff anpassen. Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die Software bzw. die App [installiert] (quickstart.md) haben und mit Ihrer EZCast Pro Box II verbunden sind.
 
 * Rufen Sie die Software bzw. die App `EZCastPro`auf Ihrem Gerät auf.
 
