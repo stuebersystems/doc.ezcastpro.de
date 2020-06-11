@@ -6,6 +6,8 @@ AirPlay ist die Übertragungstechnologie von Apple zur kabellosen Übertragung v
 
 Die EZCast Pro Box II ermöglicht es bis zu 4 macOS und iOS-Geräten, über das AirPlay-Protokoll auf einen aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App nutzen zu müssen.
 
+<iframe width="700" height="394" src="https://www.youtube.com/embed/UMHHFNFskMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # AirPlay freischalten
 
 * Um Ihr Endgerät auf die EZCast Pro Box II per AirPlay übertragen zu können, muss die Option `AirPlay` in der Funktion [Erweitere Einstellungen](adv.settings.md#AirPlayMode) einmalig freigeschaltet werden:
