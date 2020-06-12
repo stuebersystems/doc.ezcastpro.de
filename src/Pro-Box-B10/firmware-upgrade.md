@@ -52,3 +52,7 @@ Die neue Firmware wird heruntergeladen und automatisch installiert.
 Nach dem Neustart wird die aktuelle Version der Firmware unten rechts auf der Startseite angezeigt:
 
 ![](/images/ProIIStick_Firmware-Version.jpg)
+
+# Einstellungen nach der Firmware-Aktualiserung {#recommendedsettings}
+
+Nach einer Firmware-Aktualiserung stehen neue Funktionen zur Verfügung. Unsere empfohlene Einstellungen finden Sie [hier](reset.md#recommendedsettings).

@@ -2,7 +2,7 @@
 
 Dies ist die elektronische Dokumentation für den [EZCast Pro Box II](https://www.ezcastpro.de). Zur Einrichtung Ihres Geräts schauen Sie sich die [Schnellstartanleitung](quickstart.md) an.
 
-![](/images/ezcastproII_box_small.jpg)
+![EZCast Pro Box II](/images/ezcastproII_box_small.jpg)
 
 Das Dokumentationsportal von STÜBER SYSTEMS finden Sie unter [doc.stueber.de](https://doc.stueber.de).
 
@@ -12,5 +12,6 @@ EZCast Pro Box II [Datenblatt als PDF herunterladen](https://download.stueber.de
 
 <a href="https://download.stueber.de/doc/de/ezcastpro/ezcastpro-box-II.brochure.de.pdf" align="left" target="_blank"><img src="/images/ezcastpro-box-II.brochure_Seite_1.png" alt="EZCast Pro Box II Datenblatt"></a>
 
+# Video-Einführung
 
-
+<iframe width="700" height="394" src="https://www.youtube.com/embed/zq9lRXVevTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

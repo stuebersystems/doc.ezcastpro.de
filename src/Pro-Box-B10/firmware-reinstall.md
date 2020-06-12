@@ -6,7 +6,7 @@ Sie können die EZCast Pro Box II wiederherstellen, indem Sie die Firmware neu i
 
 * Die EZCast Pro Box II läuft nicht stabil und ein [Reset](reset.md) hat nicht geholfen.
 
-* Sie haben die Wahl: Installieren Sie entweder einfach die [neuste Firmware](#neuste-firmware-installieren) oder eine [andere Firmware](#andere-firmware-installieren)
+* Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder eine andere Firmware.
 
 > #### info::Hinweis
 >
@@ -22,7 +22,7 @@ Sie können die EZCast Pro Box II wiederherstellen, indem Sie die Firmware neu i
 
 # EZCast Pro Repair Tool installieren
 
-* Laden Sie das [EZCast Pro Repair Tool](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/EZCast_Pro_Repair_Tool.zip) herunter.
+* Laden Sie das [EZCast Pro Repair Tool](http://download.stueber.de/doc/de/ezcastpro/EZCast_Pro_Repair_Tool.zip) herunter.
 
 * Extrahieren Sie die Datei **EZCast_Pro_Repair_Tool.zip**.
 
@@ -95,15 +95,10 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                       | Herunterladen
 ------------------------- | ------------
-1.7545.10 (Beta) | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.10.gz)
-1.7545.7 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.7.gz)
-1.7545.1 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7545.1.gz)
-1.7094.0 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.7094.0.gz)
-1.6557.27 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.6557.27.gz)
-1.6557.21 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.6557.21.gz)
-1.5608.24 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.5608.24.gz)
-1.5608.19 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.5608.19.gz)
-1.4756.0 | [Herunterladen](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/firmwares/D10/D10_1.4756.0.gz)
+1.8617.21 | [Herunterladen](http://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.8617.21.gz)
+1.8617.18 | [Herunterladen](http://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.8617.18.gz)
+1.7545.8 | [Herunterladen](http://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.8.gz)
+1.7545.1 | [Herunterladen](http://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.1.gz)
 
 * Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
@@ -131,22 +126,10 @@ Die EZCast Pro Box II ist wieder einsatzbereit.
 
 > #### info::HINWEIS
 >
-> Bitte beachten: Bei einer Neuinstallation der Firmware werden die fabrikseitigen Einstellungen des Geräts wiederhergestellt. Bitte prüfen Sie nach der Neuinstallation unsere [empfohlene Einstellungen](#Recommendedsettings).
+> Bitte beachten: Bei einer Neuinstallation der Firmware werden die fabrikseitigen Einstellungen des Geräts wiederhergestellt. Bitte prüfen Sie nach der Neuinstallation unsere [empfohlene Einstellungen](reset.md#recommendedsettings).
 
 
-# Einstellungen nach der Neuinstallation {#Recommendedsettings}
+# Einstellungen nach der Neuinstallation {#recommendedsettings}
 
-Nach der Neuinstallation werden Sie bei der ersten Anmeldung auf der [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
-
-* [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): [Unsere Startseite](https://download.stueber.de/doc/de/ezcastpro/EZCastProV2_StartseiteDE.png) in der deutschen Sprache
-* [Sprache](adv.settings.md#Sprache): `DEUTSCH`
-* [WLAN-Modus](adv.settings.md#Wifi-Channel): `Land = EUROPE`, `Bandbreite = 20MHz`
-* [Android-Audio-Streaming](adv.settings.md#Android-Audio-Streaming): `EIN`
-* [Gastbehörde](adv.settings.md#Host-Authority):
-
-Dem Host Zugang nur auf die Konferenzsteuerung und die Reboot-Steuerung zulassen:
-
-`Admineinstellungen` -> `Gastbehörde`
-	
-![](/images/Host_authority.jpg)
+Bei einer Neuinstallation der Firmware werden alle Einstellungen zurückgesetzt. Unsere empfohlene Einstellungen finden Sie [hier](reset.md#recommendedsettings).
 

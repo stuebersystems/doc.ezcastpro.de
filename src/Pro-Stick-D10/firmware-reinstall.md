@@ -6,7 +6,7 @@ Sie können den EZCast Pro Stick II wiederherstellen, indem Sie die Firmware neu
 
 * Der EZCast Pro Stick II läuft nicht stabil und ein [Reset](reset.md) hat nicht geholfen.
 
-* Sie haben die Wahl: Installieren Sie entweder einfach die [neuste Firmware](#neuste-firmware-installieren) oder eine [andere Firmware](#andere-firmware-installieren)
+* Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder eine andere Firmware.
 
 > #### info::Hinweis
 >
@@ -22,7 +22,7 @@ Sie können den EZCast Pro Stick II wiederherstellen, indem Sie die Firmware neu
 
 # EZCast Pro Repair Tool installieren
 
-* Laden Sie das [EZCast Pro Repair Tool](ftp://ftp.stueber.de/pub/doc/de/ezcastpro/EZCast_Pro_Repair_Tool.zip) herunter.
+* Laden Sie das [EZCast Pro Repair Tool](http://download.stueber.de/doc/de/ezcastpro/EZCast_Pro_Repair_Tool.zip) herunter.
 
 * Extrahieren Sie die Datei **EZCast_Pro_Repair_Tool.zip**.
 
@@ -93,6 +93,7 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                       | Herunterladen
 ------------------------- | ------------
+1.8617.21 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.8617.21.gz)
 1.8617.18 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.8617.18.gz)
 1.7545.8 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.7545.8.gz)
 1.6557.27 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.6557.27.gz)
@@ -124,7 +125,7 @@ Der EZCast Pro Stick II ist wieder einsatzbereit.
 
 > #### info::HINWEIS
 >
-> Bitte beachten: Bei einer Neuinstallation der Firmware werden die fabrikseitigen Einstellungen des Geräts wiederhergestellt. Bitte prüfen Sie nach der Neuinstallation unsere [empfohlene Einstellungen](#Recommendedsettings).
+> Bitte beachten: Bei einer Neuinstallation der Firmware werden die fabrikseitigen Einstellungen des Geräts wiederhergestellt. Bitte prüfen Sie nach der Neuinstallation unsere [empfohlene Einstellungen](reset.md#recommendedsettings).
 
 
 # Einstellungen nach der Neuinstallation {#recommendedsettings}

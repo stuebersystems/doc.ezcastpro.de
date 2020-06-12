@@ -71,10 +71,10 @@ Firmware-Version: 1.8617.18
 * [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `EIN`
 
 **Netzwerkmanagement**
-* [WLAN-Modus](adv.settings.md#Wifi-Channel): `EUROPE`, `Bandbreite = 20MHz`
+* [WLAN-Modus](adv.settings.md#Wifi-Channel):  `Land = EUROPE`, `Kanal = Auto`, `Bandbreite = 20MHz`
 
 **Admineinstellungen**
-* [Mein Bildschirm](adv.settings.md##Mein-Bildschirm): unsere [Startseite](https://download.stueber.de/doc/de/ezcastpro/EZCastProV2_StartseiteDE.png) in der deutschen Sprache
+* [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): unsere [Startseite](https://download.stueber.de/doc/de/ezcastpro/EZCastProV2_StartseiteDE.png) in der deutschen Sprache
 * [Host-Berechtigungen](adv.settings.md#Host-permissions):
  * `Konferenzsteuerung = Ein`
  * `Netzwerkmanagement = Aus`
