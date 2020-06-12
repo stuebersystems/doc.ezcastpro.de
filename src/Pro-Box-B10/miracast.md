@@ -6,36 +6,13 @@ Aufgrund einer Limitierung von der Miracast Technik kann nur ein einzelnes Gerä
 
 * Um Miracast mit der EZCast Pro Box II zu verbinden, stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite auf dem Bildschirm angezeigt ist.
 
-![EZCast Pro Box II Startseite](/images/Startseite_ProBoxII.png)
-
-# Windows Miracast
-
-* Drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie den EZCast Pro Box II aus:
-
-![EZCast Pro Box auswählen](/images/ProIIStick-Windows_Miracast_Select_Device.jpg)
-
-Eine Verbindung über Miracast wird hergestellt:
-
-![Miracast-Verbindung wird hergestellt](/images/ProIIStick-Windows_Miracast_Connecting.jpg)
-
-* Sie sind nun mit Ihrem Bildschirm per Miracast verbunden. Eine zusätzliche Anzeige taucht in der Systemsteuerung auf. Anzeige-Einstellungen z.B. Auslösung und Skalierung können Sie anpassen, wie gewünscht.
-![Miracast-Anzeige in der Systemsteuerung](/images/Miracast_Display.jpg)
-
-* Um die Miracast-Anzeige zu trennen, rufen Sie das Dialogfenster `PROJIZIEREN` auf, indem Sie die Tastenkombination `[Windows]` + `[P]` drücken, anschließend wählen Sie `Mit drahtloser Anzeige verbinden`.
-
-![Mit drahtloser Anzeige verbinden](/images/Connect_to_a_wireless_display.jpg)
-
-* Klicken Sie auf `Trennen`. Die drahtlose Anzeige wird getrennt:
-
-![Drahtlose Anzeige trennen](/images/ProIIStick-Windows_Miracast_Disconnect.jpg)
-
-* EZCast Pro Box II kehrt zurück auf die Startseite.
-
-![EZCast Pro Startseite](/images/Startseite_ProBoxII.png)
+![EZCast Pro Box II Startseite](/images/ProIIStick_Startseite.jpg)
 
 # Android Miracast
 
-Suchen auf Ihren Android-Gerät nach dem Punkt "Übertragen". Auf Samsung-Geräten heißt dieses Feature `Smart View`. Auf anderen Android-Geräten heißt es `Screen Mirroring`.
+<iframe width="700" height="394" src="https://www.youtube.com/embed/6ippkeYC8fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Suchen auf Ihren Android-Gerät nach dem Punkt "Übertragen". Auf Samsung-Geräten heißt dieses Feature `Smart View`. Auf anderen Android-Geräten heißt es `Screen Mirroring`.
 
 ![Android Miracast per Smart View](/images/ProIIStick-Android_Miracast_SmartView.jpg)
 
@@ -53,4 +30,30 @@ Sie sind nun mit EZCast Pro II per Miracast verbunden. Dies wird durch folgendes
 
 * EZCast Pro Box II kehrt zurück auf die Startseite.
 
-![EZCast Pro Startseite](/images/Startseite_ProBoxII.png)
+![EZCast Pro Startseite](/images/ProIIStick_Startseite.jpg)
+
+# Windows Miracast
+
+* Drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie die EZCast Pro Box II aus:
+
+![EZCast Pro Box auswählen](/images/ProIIStick-Windows_Miracast_Select_Device.jpg)
+
+Eine Verbindung über Miracast wird hergestellt:
+
+![Miracast-Verbindung wird hergestellt](/images/ProIIStick-Windows_Miracast_Connecting.jpg)
+
+* Sie sind nun mit Ihrem Bildschirm per Miracast verbunden. Eine zusätzliche Anzeige taucht in der Systemsteuerung auf. Anzeige-Einstellungen z.B. Auslösung und Skalierung können Sie anpassen, wie gewünscht.
+
+![Miracast-Anzeige in der Systemsteuerung](/images/Miracast_Display.jpg)
+
+* Um die Miracast-Anzeige zu trennen, rufen Sie das Dialogfenster `PROJIZIEREN` auf, indem Sie die Tastenkombination `[Windows]` + `[P]` drücken, anschließend wählen Sie `Mit drahtloser Anzeige verbinden`.
+
+![Mit drahtloser Anzeige verbinden](/images/Connect_to_a_wireless_display.jpg)
+
+* Klicken Sie auf `Trennen`. Die drahtlose Anzeige wird getrennt:
+
+![Drahtlose Anzeige trennen](/images/ProIIStick-Windows_Miracast_Disconnect.jpg)
+
+* EZCast Pro Box II kehrt zurück auf die Startseite.
+
+![EZCast Pro Startseite](/images/ProIIStick_Startseite.jpg)

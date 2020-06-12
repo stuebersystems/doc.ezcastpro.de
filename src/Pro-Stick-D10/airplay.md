@@ -10,7 +10,7 @@ Der EZCast Pro Stick II ermöglicht es bis zu 4 macOS und iOS-Geräten, über da
 
 # AirPlay freischalten
 
-* Um Ihr Endgerät auf den EZCast Pro Stick II übertragen zu können, muss die Option `AirPlay` in der Funktion [Erweitere Einstellungen](adv.settings.md#AirPlayMode) einmalig freigeschaltet werden:
+* Um Ihr Endgerät auf den EZCast Pro Stick II übertragen zu können, muss die Option `AirPlay` in [Erweitere Einstellungen](adv.settings.md#AirPlayMode) einmalig freigeschaltet werden:
 
 ![](/images/ezcastpro.II.EZAir_enable.png)
 

@@ -4,6 +4,8 @@ ProCast ist eine Übertragung vom einem Bildschirm auf mehrere Displays z.B. von
 
 ![](/images/procasting.png)
 
+<iframe width="700" height="394" src="https://www.youtube.com/embed/ONVcowW-T-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Wo wird ProCast eingesetzt?
 
 * Bei Musikveranstalltungen und Vorträgen, wo die Sichtbarkeit verbessert werden soll.
@@ -14,7 +16,7 @@ ProCast ist eine Übertragung vom einem Bildschirm auf mehrere Displays z.B. von
 
 * [Schließen Sie](quickstart.md#Connect_ProIIStick) die EZCast Pro Box II an jedem Display an, auf das Sie übertragen möchten.
 
-* Der Computer von dem Sie übertragen, sowie die EZCast Pro Box II müssen sich im gleichen Netzwerk befinden, indem Sie die Box mit Ihrem [Router](internet.md) verbinden.
+* Der Computer von dem Sie übertragen, sowie alle EZCast Pro Box II müssen sich im gleichen Netzwerk befinden, indem Sie die Box mit Ihrem [Router](internet.md) verbinden.
 
 ## Software installieren {#InstallSoftware}
 
