@@ -1,6 +1,6 @@
 # Über diese Dokumentation
 
-Dies ist die elektronische Dokumentation für alle [EZCast Pro](https://www.ezcastpro.de) Produkte.
+Dies ist die elektronische Dokumentation für alle [EZCast Pro](https://www.ezcastpro.de) Produkte. Wählen Sie Ihr Gerät aus:
 
 <a href="https://doc.ezcastpro.de/Pro-Stick-D10/" align="left" target="_self"><img src="/images/ezcastproII_stick_small.png" alt="EZCast Pro Stick II"></a>
 

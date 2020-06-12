@@ -22,15 +22,15 @@ Sie können den EZCast Pro Stick II wiederherstellen, indem Sie die Firmware neu
 
 # EZCast Pro Repair Tool installieren
 
-* Laden Sie das [EZCast Pro Repair Tool](http://download.stueber.de/doc/de/ezcastpro/EZCast_Pro_Repair_Tool.zip) herunter.
+* Laden Sie das [EZCast Pro Stick II (D10) Repair Tool](http://download.stueber.de/doc/de/ezcastpro/repair_tools/EZCastPro.D10.Repair.Tool.zip) herunter.
 
-* Extrahieren Sie die Datei **EZCast_Pro_Repair_Tool.zip**.
+* Extrahieren Sie die Datei **EZCastPro.D10.Repair.Tool.zip**.
 
-![EZCast_Pro_Repair_Tool.zip extrahieren](/images/EZCastPro_Repair_Tool_Extract.jpg) 
+![EZCastPro.D10.Repair.Tool.zip extrahieren](/images/D10.Repair_Tool_Extract.png) 
 
-* Installieren Sie die Treiber, indem Sie die Batchdatei `EZCast_Pro_Repair_Tool\usb_driver\install.bat` als Administrator ausführen.
+* Installieren Sie die Treiber, indem Sie die Batchdatei `EZCastPro.D10.Repair.Tool\usb_driver\install.bat` als Administrator ausführen.
 
-![install.bat als Administrator ausführen](/images/EZCastPro_Upgrade_Tool_Run.As.Administrator.jpg)
+![install.bat als Administrator ausführen](/images/D10.install.bat.png)
 
 * Wenn die folgende Sicherheitsmeldung erscheint, wählen Sie **„Installieren“**:
 
@@ -55,9 +55,9 @@ Wenn der Treiber richtig installiert ist und der EZCast Pro Stick II angeschloss
 
 # Neuste Firmware installieren
 
-* Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
+* Im Ordner `EZCastPro.D10.Repair.Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
 
-![EZCastUpdate.exe ausführen](/images/EZCastPro_Repair_Tool_EZCastUpdate.exe.jpg)
+![EZCastUpdate.exe ausführen](/images/D10.Repair_Tool_Update.exe.png)
 
 Das folgende Fenster erscheint. Wenn der EZCast Pro Stick II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
 
@@ -99,9 +99,9 @@ Firmware                       | Herunterladen
 1.6557.27 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.6557.27.gz)
 
 
-* Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
+* Im Ordner `EZCastPro.D10.Repair.Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
-![Update_for_localfile.exe ausführen](/images/EZCastPro_Repair_Tool_Update_for_localfile.exe.jpg)
+![Update_for_localfile.exe ausführen](/images/D10.localfile.exe.png)
 
 Das folgende Fenster erscheint. Wenn der EZCast Pro Stick II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
 
