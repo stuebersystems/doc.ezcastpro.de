@@ -19,7 +19,10 @@ Zur Einrichtung Ihres Geräts schauen Sie sich die [Schnellstartanleitung](quick
 | Funkreichweite | Bis zu 10m |
 | WLAN-Übertragungsrate |  866 MBit/s |
 
+# EG Konformitätserklärung
 
+[EG Konformitätserklärung für den EZCast Pro Stick II](https://download.stueber.de/doc/de/ezcastpro/ezcastpro-stick-II.konformitaetserklaerung.pdf)
+ 
 # Datenblatt
 
 EZCast Pro Stick II [Datenblatt als PDF herunterladen](https://download.stueber.de/doc/de/ezcastpro/ezcastpro-stick-II.brochure.de.pdf).
