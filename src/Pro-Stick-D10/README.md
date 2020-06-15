@@ -28,4 +28,4 @@ EZCast Pro Stick II [Datenblatt als PDF herunterladen](https://download.stueber.
 
 # Video-Einführung
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/YfugTJEISvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/YfugTJEISvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>.
