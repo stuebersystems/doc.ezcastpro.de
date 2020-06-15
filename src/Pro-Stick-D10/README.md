@@ -1,10 +1,24 @@
 # Über diese Dokumentation
 
-Dies ist die elektronische Dokumentation für den [EZCast Pro Stick II](https://www.ezcastpro.de). Zur Einrichtung Ihres Geräts schauen Sie sich die [Schnellstartanleitung](quickstart.md) an.
+Dies ist die elektronische Dokumentation für den [EZCast Pro Stick II](https://www.ezcastpro.de). 
 
 ![EZCast Pro Stick II](/images/ezcastproII_stick_small.png)
 
 Das Dokumentationsportal von STÜBER SYSTEMS finden Sie unter [doc.stueber.de](https://doc.stueber.de).
+
+# Schnellstartanleitung
+
+Zur Einrichtung Ihres Geräts schauen Sie sich die [Schnellstartanleitung](quickstart.md) an.
+
+# WLAN-Spezifikation
+
+|  | EZCast Pro Stick II |
+| :---- | :---- |
+| WLAN-Standard | 802.11ac 2T2R | 
+| WLAN-Frequenz | 5Ghz: 5.150Ghz~5.825Ghz |
+| Funkreichweite | Bis zu 10m |
+| WLAN-Übertragungsrate |  866Mbps |
+
 
 # Datenblatt
 
