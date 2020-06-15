@@ -14,8 +14,8 @@ Zur Einrichtung Ihres Geräts schauen Sie sich die [Schnellstartanleitung](quick
 
 |  | EZCast Pro Stick II |
 | :---- | :---- |
-| WLAN-Standard | 802.11 ac 2T2R | 
-| WLAN-Frequenz | 5 GHz: 5.150Ghz~5.825Ghz |
+| WLAN-Standard | 802.11ac 2T2R | 
+| WLAN-Frequenzblock (5 GHz-Band) |  5150-5825 MHz |
 | Funkreichweite | Bis zu 10m |
 | WLAN-Übertragungsrate |  866 MBit/s |
 
