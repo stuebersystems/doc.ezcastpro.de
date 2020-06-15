@@ -6,7 +6,7 @@ Sie können den EZCast Pro Stick II wiederherstellen, indem Sie die Firmware neu
 
 * Der EZCast Pro Stick II läuft nicht stabil und ein [Reset](reset.md) hat nicht geholfen.
 
-* Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder eine andere Firmware.
+Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder eine andere Firmware.
 
 > #### info::Hinweis
 >
