@@ -23,6 +23,7 @@ Zur Einrichtung Ihres Geräts schauen Sie sich die [Schnellstartanleitung](quick
 
 [EG Konformitätserklärung für die EZCast Pro Box II](https://download.stueber.de/doc/de/ezcastpro/ezcastpro-box-II.konformitaetserklaerung.pdf)
 
+[EG Konformitätserklärung für das Netzteil der EZCast Pro Box II](https://download.stueber.de/doc/de/quattropod/netzteil.konformitaetserklaerung.pdf)
 # Datenblatt
 
 EZCast Pro Box II [Datenblatt als PDF herunterladen](https://download.stueber.de/doc/de/ezcastpro/ezcastpro-box-II.brochure.de.pdf).
