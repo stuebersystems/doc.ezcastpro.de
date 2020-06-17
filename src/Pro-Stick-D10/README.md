@@ -16,7 +16,7 @@ Zur Einrichtung Ihres Geräts schauen Sie sich die [Schnellstartanleitung](quick
 | :---- | :---- |
 | WLAN-Standard | 802.11ac 2T2R | 
 | WLAN-Frequenzblock (5 GHz-Band) |  5150-5825 MHz |
-| Funkreichweite | Bis zu 10m |
+| Funkreichweite (Sichtlinie) | Bis zu 10m |
 | WLAN-Übertragungsrate |  866 MBit/s |
 
 # EG Konformitätserklärung
