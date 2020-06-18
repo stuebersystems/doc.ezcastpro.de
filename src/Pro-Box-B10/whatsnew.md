@@ -7,8 +7,8 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 > Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
 # EZCast Pro Stick II Firmware - 1.8617.21
-* FIX: Nach dem Ausschalten des Legacy-Modus wurden Einstellungen des WLANs verloren
-* FIX: Bug im zeitgesteuerten Neustart behoben
+* FIX: Nach dem Ausschalten des Legacy-Modus gingen Einstellungen des WLANs verloren
+* FIX: Bug beim zeitgesteuerten Neustart behoben
 
 # EZCast Pro Box II Firmware - 1.8617.18
 
