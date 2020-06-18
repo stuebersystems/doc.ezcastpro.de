@@ -22,11 +22,11 @@ Sie können die EZCast Pro Box II wiederherstellen, indem Sie die Firmware neu i
 
 # EZCast Pro Repair Tool installieren
 
-* Laden Sie das [EZCast Pro Repair Tool](http://download.stueber.de/doc/de/ezcastpro/EZCast_Pro_Repair_Tool.zip) herunter.
+* Laden Sie das [EZCast Pro Box II (B10) Repair Tool](https://download.stueber.de/doc/de/ezcastpro/repair_tools/EZCastPro.B10.Repair.Tool.zip) herunter.
 
-* Extrahieren Sie die Datei **EZCast_Pro_Repair_Tool.zip**.
+* Extrahieren Sie die Datei **EZCastPro.B10.Repair.Tool.zip**.
 
-![EZCast_Pro_Repair_Tool.zip extrahieren](/images/EZCastPro_Repair_Tool_Extract.jpg) 
+![EZCastPro.B10.Repair.Tool.zip extrahieren](/images/EZCastPro_Repair_Tool_Extract.jpg) 
 
 * Installieren Sie die Treiber, indem Sie die Batchdatei `EZCast_Pro_Repair_Tool\usb_driver\install.bat` als Administrator ausführen.
 
@@ -95,10 +95,10 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                       | Herunterladen
 ------------------------- | ------------
-1.8617.21 | [Herunterladen](http://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.8617.21.gz)
-1.8617.18 | [Herunterladen](http://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.8617.18.gz)
-1.7545.8 | [Herunterladen](http://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.8.gz)
-1.7545.1 | [Herunterladen](http://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.1.gz)
+1.8617.21 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.8617.21.gz)
+1.8617.18 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.8617.18.gz)
+1.7545.8 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.8.gz)
+1.7545.1 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.1.gz)
 
 * Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 

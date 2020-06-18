@@ -22,7 +22,7 @@ Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder e
 
 # EZCast Pro Repair Tool installieren
 
-* Laden Sie das [EZCast Pro Stick II (D10) Repair Tool](http://download.stueber.de/doc/de/ezcastpro/repair_tools/EZCastPro.D10.Repair.Tool.zip) herunter.
+* Laden Sie das [EZCast Pro Stick II (D10) Repair Tool](https://download.stueber.de/doc/de/ezcastpro/repair_tools/EZCastPro.D10.Repair.Tool.zip) herunter.
 
 * Extrahieren Sie die Datei **EZCastPro.D10.Repair.Tool.zip**.
 
