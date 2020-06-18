@@ -1,4 +1,4 @@
-# Über diese Dokumentation
+# Was ist neu?
 
 Wählen Sie Ihr EZCast Pro II Gerät aus, um sich über die neusten Updates Ihres Gerät zu informieren:
 

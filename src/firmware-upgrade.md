@@ -1,4 +1,4 @@
-# Über diese Dokumentation
+# Firmware aktualisieren
 
 Wählen Sie Ihr Gerät aus, um zu erfahren, wie Sie Ihr Gerät auf den neusten Stand bringen:
 
