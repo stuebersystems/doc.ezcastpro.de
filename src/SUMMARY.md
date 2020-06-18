@@ -59,6 +59,8 @@
     * [Einstellungen zurücksetzen](LAN-Box-B01/reset.md)
 * [Anschlüsse](ports.md)
 * [Datensicherheit](datasecurity.md)
+* [Firmware aktualisieren](firmware-upgrade.md)
+* [Was ist neu?](whatsnew.md)
 
 
 
