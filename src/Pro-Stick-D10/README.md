@@ -10,13 +10,13 @@ Das Dokumentationsportal von STÜBER SYSTEMS finden Sie unter [doc.stueber.de](h
 
 Zur Einrichtung Ihres Geräts schauen Sie sich die [Schnellstartanleitung](quickstart.md) an.
 
-# WLAN-Spezifikation
+# Spezifikation
 
 |  | EZCast Pro Stick II |
 | :---- | :---- |
 | Funkreichweite (Sichtlinie) | Bis zu 10m |
 | Stromversorguing | DC-in 5V 1,5A |
-| Stromverbrauch | 7,5 (7500 mW)
+| Stromverbrauch | 7,5 W (7500 mW)
 | WLAN-Standard | 802.11ac 2T2R | 
 | WLAN-Frequenzblock (5 GHz-Band) |  5150-5825 MHz |
 | WLAN-Übertragungsrate |  866 MBit/s |
