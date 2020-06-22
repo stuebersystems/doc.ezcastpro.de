@@ -14,10 +14,12 @@ Zur Einrichtung Ihres Geräts schauen Sie sich die [Schnellstartanleitung](quick
 
 |  | EZCast Pro Box II |
 | :---- | :---- |
+| Funkreichweite (Sichtlinie) | Bis zu 30m |
+| Stromverbrauch | 10W (10000 mW)
 | WLAN-Standard | 802.11ac 2T2R | 
 | WLAN-Frequenzblock (5 GHz-Band) |  5150-5825 MHz |
-| Funkreichweite (Sichtlinie) | Bis zu 30m |
 | WLAN-Übertragungsrate |  866 MBit/s |
+
 
 # EG Konformitätserklärung
 

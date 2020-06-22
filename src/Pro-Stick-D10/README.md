@@ -14,9 +14,11 @@ Zur Einrichtung Ihres Geräts schauen Sie sich die [Schnellstartanleitung](quick
 
 |  | EZCast Pro Stick II |
 | :---- | :---- |
+| Funkreichweite (Sichtlinie) | Bis zu 10m |
+| Stromversorguing | DC-in 5V 1,5A |
+| Stromverbrauch | 7,5 (7500 mW)
 | WLAN-Standard | 802.11ac 2T2R | 
 | WLAN-Frequenzblock (5 GHz-Band) |  5150-5825 MHz |
-| Funkreichweite (Sichtlinie) | Bis zu 10m |
 | WLAN-Übertragungsrate |  866 MBit/s |
 
 # EG Konformitätserklärung
