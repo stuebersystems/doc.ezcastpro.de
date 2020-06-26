@@ -62,7 +62,7 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
 Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
 
-Firmware-Version: 1.8617.18
+Firmware-Version: 1.8617.21
 
 **Gerätemanagement**
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`

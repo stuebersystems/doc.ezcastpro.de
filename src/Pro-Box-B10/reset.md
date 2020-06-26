@@ -52,9 +52,9 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
 * Mit Hilfe eines kleinen "Stifts" halten Sie den Reset-Schalter ca. 10 Sekunden lang gedrückt. Der Reset-Schalter befindet sich an der Rückseite der Box oben dem USB-Anschluss.
 
-![Reset-Schalter ca. 10 Sekunden lang gedrückt halten](/images/Press-Reset-Button_B10.jpg)
+![Reset-Schalter ca. 10 Sekunden lang gedrückt halten](/images/Press-Reset-Button_B10.png)    
 
-* Wenn die folgende Meldung erscheint, lassen Sie den Reset-Schalter los.
+* Wenn die folgende Meldung erscheint, lassen Sie den Reset-Schalter los. 
 
 ![](/images/Reset_config_complete.jpg)
 
@@ -62,7 +62,7 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
 Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
 
-Firmware-Version: 1.8617.18
+Firmware-Version: 1.8617.21
 
 **Gerätemanagement**
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`

@@ -22,7 +22,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 * Schließen Sie das USB-Kabel Ihres touchfähigen Bildschirms an den USB-Anschluss mit dem Kennzeichen "USB" des Empfängers an.
 
-![USB-Kabel anschließen](/images/B10_Touch-USB-cable.png)
+![USB-Kabel anschließen](/images/IMG_4504_M.png) 
 
 * Wenn der Empfänger die Touch-Funktionalität Ihres Bildschirms erfolgreich entdeckt hat, errecheint das Maus-Symbol oben rechts auf der Startseite.
 
