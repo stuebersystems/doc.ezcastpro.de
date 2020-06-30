@@ -42,7 +42,7 @@ Schließen Sie das Netzteil mit Hilfe des USB C Ladekabels an. Der EZCast Pro St
 
 Wenn Sie den EZCast Pro Stick II richtig [anschlossen](#Connect_ProStickII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
-![Die Startseite](/images/ProIIStick_Startseite_SSID.jpg)
+![Die Startseite](/images/ProIIStick_Startseite.jpg)
 
 * Von Ihrem iOS, oder Android Gerät verbinden Sie sich mit der SSID, die oben links auf dem Bildschirm angezeigt wird, wie oben abgebildet. Das Kennwort wird standardmäßig ebenfalls angezeigt.
 

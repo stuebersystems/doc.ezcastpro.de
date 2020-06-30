@@ -8,15 +8,15 @@ Mit AirPlay haben Sie die Möglichkeit, Ihr iOS- oder macOS-Gerät ohne die EZCa
 
 * Von Ihrem iOS-Gerät verbinden Sie sich mit der SSID des Empfängers, die oben auf dem Bildschirm angezeigt wird.
 
-![EZCast Pro Startseite](/images/iOS_WiFi-Connect.jpg)
+![EZCast Pro Startseite](/images/iOS_WiFi-Connect.png)
 
 * Das Kennwort wird standardmäßig ebenfalls angezeigt (PSK).
 
-![EZCast Pro Startseite](/images/iOS_WiFi-Password.jpg)
+![EZCast Pro Startseite](/images/iOS_WiFi-Password.png)
 
 * Auf Ihrem iOS-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das Kontrollzentrum aufzurufen.
 
-![Kontrollzentrum öffnen](/images/Open_iOS-ControlCenter.jpg)
+![Kontrollzentrum öffnen](/images/iOS-Kontrolzentrum_aufrufen.png)
 
 * Im Kontrollzentrum tippen Sie auf `AirPlay`, anschließend wählen Sie die EZCast Pro Box aus.
 
@@ -24,11 +24,11 @@ Mit AirPlay haben Sie die Möglichkeit, Ihr iOS- oder macOS-Gerät ohne die EZCa
 >
 > Wenn der EZCast Pro Empfänger unter AirPlay nicht zu sehen ist, stellen Sie sicher, dass Ihr iOS-Gerät mit dem Empfänger verbunden ist.
 
-![Den EZCast Pro Empfänger](/images/Select-iOS-AirPlay-Synchr.jpg)
+![Den EZCast Pro Empfänger](/images/iOS-AirPlay-Synchr_auswaehlen.png)
 
 * Um die Übertragung von AirPlay vom iOS-Gerät zu beenden, tippen Sie nochmal auf `AirPlay` im Kontrollzentrum, anschließend wählen Sie `AirPlay-Synchr. ausschalten` aus.
 
-![AirPlay-Synchr. ausschalten](/images/Stop-iOS-AirPlay-Synchr.jpg)
+![AirPlay-Synchr. ausschalten](/images/iOS-AirPlay-Synchr_ausschalten.png)
 
 # AirPlay auf macOS
 
