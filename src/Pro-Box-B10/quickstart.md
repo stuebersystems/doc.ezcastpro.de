@@ -76,7 +76,7 @@ Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#Connect_ProBoxII) haben,
 
 * Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf.
 
-![Starten Sie die Software EZCastPro](/images/EZCastPro_Start_Software.jpg)
+![Starten Sie die Software EZCastPro](/images/EZCastPro_Start_Software.png)
 
 * Wählen Sie die EZCast Pro Box II aus, wie unten abgebildet:
 

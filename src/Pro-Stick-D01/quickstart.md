@@ -94,7 +94,7 @@ Wenn Sie den EZCast Pro Stick richtig [anschlossen](#Connect_LANBox) haben, ersc
 
 * Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf.
 
-![Starten Sie die Software EZCastPro](/images/EZCastPro_Start_Software.jpg)
+![Starten Sie die Software EZCastPro](/images/EZCastPro_Start_Software.png)
 
 * Wählen Sie den EZCast Pro Stick aus, wie unten abgebildet:
 

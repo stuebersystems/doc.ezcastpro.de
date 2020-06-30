@@ -63,7 +63,7 @@ Wenn Sie die EZCast LAN Box richtig [anschlossen](#Connect_LANBox) haben, ersche
 
 * Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf.
 
-![Starten Sie die Software EZCastPro](/images/EZCastPro_Start_Software.jpg)
+![Starten Sie die Software EZCastPro](/images/EZCastPro_Start_Software.png)
 
 * Wählen Sie die EZCast LAN Box aus, wie unten abgebildet:
 

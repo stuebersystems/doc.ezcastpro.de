@@ -76,7 +76,7 @@ Wenn Sie den EZCast Pro Stick II richtig [anschlossen](#Connect_ProStickII) habe
 
 * Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf.
 
-![Starten Sie die Software EZCastPro](/images/EZCastPro_Start_Software.jpg)
+![Starten Sie die Software EZCastPro](/images/EZCastPro_Start_Software.png)
 
 * Wählen Sie den EZCast Pro Stick II aus, wie unten abgebildet:
 

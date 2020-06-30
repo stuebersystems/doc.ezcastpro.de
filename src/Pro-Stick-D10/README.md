@@ -12,7 +12,7 @@ Zur Einrichtung Ihres Geräts schauen Sie sich die [Schnellstartanleitung](quick
 
 # Spezifikation
 
-| EZCast Pro Stick II | |
+|  | EZCast Pro Stick II |
 | :---- | :---- |
 | Funkreichweite (Sichtlinie) | Bis zu 10m |
 | Stromversorguing | DC-in 5V 1,5A |
