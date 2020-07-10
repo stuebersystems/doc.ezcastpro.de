@@ -17,6 +17,9 @@ Zur Einrichtung Ihres Geräts schauen Sie sich die [Schnellstartanleitung](quick
 | Funkreichweite (Sichtlinie) | Bis zu 10m |
 | Stromversorguing | DC-in 5V 1,5A |
 | Stromverbrauch | 7,5 W (7500 mW)
+| Strahlungsleistung (5 Ghz) | 802.11a /54Mbps : 13 dBm ± 1.5 dB @ EVM ≤ -25dB |
+|  | 802.11n /MCS7 : 12 dBm ± 1.5 dB @ EVM ≤ -28dB |
+|  | 802.11ac /MCS9 : 10 dBm ± 1.5 dB @ EVM ≤ -32dB |
 | WLAN-Standard | 802.11ac 2T2R | 
 | WLAN-Frequenzblock (5 GHz-Band) |  5150-5825 MHz |
 | WLAN-Übertragungsrate |  866 MBit/s |
