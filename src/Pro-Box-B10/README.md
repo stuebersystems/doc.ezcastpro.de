@@ -39,3 +39,9 @@ EZCast Pro Box II [Datenblatt als PDF herunterladen](https://download.stueber.de
 # Video-Einführung
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/zq9lRXVevTk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Produktvergleich der EZCast Pro Serie
+
+Entscheiden Sie sich für das passende Gerät mit dem [Produktvergleich](https://download.stueber.de/doc/de/ezcastpro/ezcastpro.produktvergleich.de.pdf) der EZCast Pro Serie:
+
+<a href="https://download.stueber.de/doc/de/ezcastpro/ezcastpro.produktvergleich.de.pdf" align="left" target="_self"><img src="/images/ezcastpro.produktvergleich.de.png" alt="EZCast Pro Produktvergleich"></a>
