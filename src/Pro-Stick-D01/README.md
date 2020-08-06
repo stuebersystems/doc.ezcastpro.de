@@ -12,5 +12,6 @@ EZCast Pro Stick [Datenblatt als PDF herunterladen](https://download.stueber.de/
 
 <a href="https://download.stueber.de/doc/de/ezcastpro/ezcastpro-stick.brochure.de.pdf" align="left" target="_blank"><img src="/images/EZCastProStick.Datenblatt.de_Page1.jpg" alt="EZCast Pro Stick Datenblatt"></a>
 
+# Video-Einführung
 
-
+<iframe width="700" height="394" src="https://www.youtube.com/embed/BvfaABNX_8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>.

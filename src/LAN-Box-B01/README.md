@@ -11,3 +11,7 @@ Das Dokumentationsportal von STÜBER SYSTEMS finden Sie unter [doc.stueber.de](h
 EZCast Pro LAN Box [Datenblatt als PDF herunterladen](https://download.stueber.de/doc/de/ezcastpro/ezcastpro-lanbox.brochure.de.pdf).
 
 <a href="https://download.stueber.de/doc/de/ezcastpro/ezcastpro-lanbox.brochure.de.pdf" align="left" target="_blank"><img src="/images/EZCastProLANBox.Datenblatt.de_Page1.jpg" alt="EZCast Pro LAN Box Datenblatt"></a>
+
+# Video-Einführung
+
+<iframe width="700" height="394" src="https://www.youtube.com/embed/JxhczPxaOPE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>.
