@@ -4,50 +4,51 @@ In der folgenden Tabelle sind die von EZCast Pro verwendeten Anschlüsse aufgef�
 
 # AirPlay
 
-Port | Typ                   | Protokoll | RFC | Dienst
-:---- | :---------------------- | :------------- | :------------ | :------------
-80 | TCP          | HTTP      | 2616 | AirPlay
-443 | TCP          | HTTPS      | - | AirPlay
-554 | UDP/TCP          | RTSP      | 2326 | AirPlay
-3689 | TCP          | DAAP      | - | iTunes Music Sharing / AirPlay
-5297 | TCP          | -      | - | Bonjour
-5289 | TCP/UDP          | -      | - | Bonjour
-5353 | UDP          | MDNS      | - | Bonjour / AirPlay
-7000 | TCP         | - | - | AirPlay
-7100 | TCP         | - | - | AirPlay
-49159 | UDP          | MDNS (Windows)      | - | Bonjour / AirPlay
-49163 | UDP          | MDNS (Windows)      | - | Bonjour / AirPlay
+Port | Typ                  
+:---- | :----------------------
+7000 | TCP          
+7001 | TCP         
+7100 | TCP         
+5353 | UDP         
 
-# EZCast Protokoll 
+# EZCast Pro App / ProCast
 
 | Port |
 | :---- |
 | 2425 |
 | 63630 |
 
-# HTTP Web-Server für die Erweiterte Einstellungen 
+# ChromeCast
+
+| Port | Typ
+| :---- | :---
+| 80 | TCP
+| 443 | TCP
+| 8008 | TCP
+| 8009 | TCP
+| 53 | UDP
+| 1900 | UDP
+| 5353 | UDP
+
+# HTTP Web-Server für die Web-Oberfläche 
 
 | Port |
-|:---- |
+| :---- |
 | 80 |
 | 8080 |
 
 # Over-The-Air Firmware
 
 | Port |
-|:---- |
+| :---- |
 | 80 |
 | 443 |
 
 # DLNA
 
-| Port | Typ      |
-| :---- | :---- |
-| 1900 | UDP      | 
-| 2869 | TCP      |
-
-
-
-
+| Port | Typ
+| :---- | :---
+| 1900 | UDP
+| 2869 | TCP
 
 
