@@ -1,6 +1,6 @@
 # Erster Einblick in die zukünftigen Funktionen des CMS
 
-Bald steht das Zentrale Management System (CRM) zur Verfügung, welches die zentrale Verwaltung aller Ihrer QuattroPods und EZCast Pro II Empfänger ermöglicht.
+Bald steht das Zentrale Management System (CMS) zur Verfügung, welches die zentrale Verwaltung aller Ihrer QuattroPods und EZCast Pro II Empfänger ermöglicht.
 
 Profitieren Sie von den folgenden Möglichkeiten:
 
