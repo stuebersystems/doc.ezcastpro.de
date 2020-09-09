@@ -20,7 +20,7 @@ ProCast ist eine Übertragung vom einem Bildschirm auf mehrere Displays z.B. von
 
 ## Software installieren {#InstallSoftware}
 
-* Laden Sie bitte die Software für [Windows](https://www.ezcast.com/app/ezcast/procast/windows) oder [macOS](https://www.ezcast.com/app/ezcast/procast/macos) herunter und installieren Sie sie.
+* Laden Sie bitte die kostenlose Software für [Windows](https://ezcast-pro.com/download/procast-app/windows/) oder [macOS](https://ezcast-pro.com/download/procast-app/macos/) herunter und installieren Sie sie.
 
 ## Software bedienen
 
@@ -28,7 +28,8 @@ ProCast ist eine Übertragung vom einem Bildschirm auf mehrere Displays z.B. von
 
 * Rufen Sie die Software `ProCast` auf Ihrem PC oder macOS auf.
 
-* Wählen Sie die Displays aus, auf die Sie übertragen möchten. Wenn Sie auf alle \(bis zu 8\) Displays übertragen möchten, wählen Sie die Schaltfläche `All`, anschließend klicken Sie auf `Spiegeln`.
+* Wählen Sie die Displays aus, auf die Sie übertragen möchten. Wenn eine Übertragung auf alle Displays (bis zu 8 ist möglich) gewünscht ist, wählen Sie die Schaltfläche `Alle`, anschließend klicken Sie auf `Spiegeln`.
 
-![](/images/ProCast.jpg)
+![](/images/ProCast.png)
 
+* In der Symbolleiste finden Sie auch Schaltflächen zum Erweitern, Trennen sowie Ein- und Ausschalten des Tons.
