@@ -1,6 +1,7 @@
 > #### info::Hinweis
 >
-> Eine PDF-Version dieses Dokuments zum Ausdrucken finden Sie [hier](https://download.stueber.de/doc/de/ezcastpro/Schnellstartanleitung.EZCast.Pro.Stick.II.pdf).
+> Die Schnellstartanleitung steht Ihnen als PDF-Dokument im [A4](https://download.stueber.de/doc/de/ezcastpro/schnellstartanleitungen/A4_StickII.pdf) und [A7](https://download.stueber.de/doc/de/ezcastpro/schnellstartanleitungen/A7_StickII.pdf)-Format zur verfügung.
+
 
 # Inhalt des EZCast Pro Stick II
 
