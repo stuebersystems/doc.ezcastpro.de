@@ -10,7 +10,7 @@ Die EZCast Pro Box II besteht aus:
 * 1 Empfänger (EZCast Pro Box II)
 * 1 HDMI-Kabel (1m)
 * 1 HDMI auf HDMI/VGA-Buchse/Audio 3,5 mm Adapter
-* 1,5V/2A Universal Stromadapter
+* 5V/2A Universal Stromadapter
 * 1 Schnellstartanleitung (auf Englisch)
 
 ![Inhalt der EZCast Pro Box II](/images/B10-Inhalte.png)
