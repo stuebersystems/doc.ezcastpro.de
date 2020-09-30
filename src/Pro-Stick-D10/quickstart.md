@@ -10,7 +10,7 @@ Der EZCast Pro Stick II besteht aus:
 * 1 Empfänger (EZCast Pro Stick II)
 * 1 HDMI-Verlängerungskabel
 * 1 USB C Ladekabel
-* 1 Schnellstartanleitung (auf Englisch)
+* 1 Schnellstartanleitung
 
 ![Inhalt des EZCast Pro Stick II](/images/EZCastPro_II_Stick_contents_DE.jpg)
 
