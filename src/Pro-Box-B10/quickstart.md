@@ -33,10 +33,7 @@ Schließen Sie das Netzteil mit Hilfe des USB-Kabels an. Die EZCast Pro Box II s
 
 * Suchen Sie die App `EZCast Pro` im **Apple App-Store**  oder im **Google Play Store** und installieren Sie sie.
 
-![EZCast Pro im Apple App-Store](/images/EZCastProApp_AppleStore.jpg)
-
-![EZCast Pro im Google Play Store](/images/EZCastProApp_PlayStore.jpg)
-
+![EZCast Pro im Apple App-Store und Google Play Store](/images/EZCastProApp_AppleStore.png)
 
 ## App mit EZCast Pro Box II verbinden
 
