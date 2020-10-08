@@ -1,21 +1,20 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/o78chi88v9pg8mea?svg=true)](https://ci.appveyor.com/project/stueber/doc-ezcastpro-de)
-
 # EZCast Pro Dokumentation
 
-Dies ist die deutsche Dokumentation zu unseren EZCast Pro-Produkten. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
+Dies ist die deutsche Dokumentation zu [EZCast Pro](https://ezcastpro.stueber.de). Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert. 
 
-> ## Wichtiger Hinweis:
-> Die hier verwendete Open Source-Version von GitBook wird nicht mehr weiterentwickelt. Die aktuelle Version von GitBook ist nicht Open Source. 
+## MkDocs unter Windows installieren
 
-## Gitbook unter Windows installieren
-
-1. Du musst zunächst [node.js installieren](https://nodejs.org/de/download). Node.js enthält bereits den Package Manager npm.
+1. Installiere [Python](https://www.python.org). Gehe dazu auf die [Python-Download-Seite](https://www.python.org/downloads/) und lade Dir die aktuellste Version für Windows herunter. 
 
 2. Starte das Installationspaket und beantworte alle Fragen.
 
 3. Öffne die Eingabeaufforderung als Administrator.
 
-4. Tippe jetzt den Befehl `npm install gitbook-cli -g` ein, um eine lokale Version von GitBook zu installieren.
+4. Tippe die Befehle `python --version` und `pip --version` ein, um die Python-Installation zu überprüfen. In beiden Fällen sollte eine Versionsnummer als Ausgabe in der Eingabeaufforderung erscheinen.
+
+5. Tippe jetzt den Befehl `pip install mkdocs mkdocs-material`, um das Python-Package *MkDocs* und das Theme *Material for MkDocs* zu installieren.
+
+6. Ein letzter Test: Tippe den Befehl `mkdocs --version` ein. Eine Versionsnummer in der Eingabeaufforderung zeigt Dir erneut, dass alles korrekt installiert wurde.
 
 ## Repository klonen
 
@@ -37,21 +36,22 @@ Willst du mit Git erstmal nichts zu tun haben, kannst Du das Repository auch als
 
 3. Entpacke das Zip-Archiv in einen lokalen Ordner Deiner Wahl, z.B. `c:\docs\ezcastpro`.
 
-## Mit GitBook arbeiten
+## Mit MkDocs arbeiten
 
-Du hast node.js und das Package GitBook installiert, Du hast dieses Repository geklont oder als Zip-Archiv heruntergeladen. Jetzt kannst Du die Dokumentation lokal auf deinem Rechner generieren:
+Du hast Python und das Package MkDocs installiert, Du hast dieses Repository geklont oder als Zip-Archiv heruntergeladen. Jetzt kannst Du die Dokumentation lokal auf deinem Rechner generieren:
 
-1. Starte die Eingabeaufforderung und wechsle in den Ordner `c:\docs\ezcastpro\src`.
+1. Starte die Eingabeaufforderung und wechsle in den Ordner `c:\docs\ezcastpro`.
 
-2. Zunächst musst Du alle für die Dokumentation benötigten GitBook-Plugins installieren. Tippe dazu den Befehl `gitbook install` ein. Die GitBook-Plugins werden installiert. Dies musst Du nur einmal für diese Dokumentation machen.
+2. Tippe den Befehl `mkdocs build` ein. Die Dokumentation wird neu generiert.
 
-3. Tippe den Befehl `gitbook build` ein. Die EZCast Pro-Dokumentation wird neu generiert.
+3. Um Dir das Ergebnis anzeigen zu lassen, tippe den Befehl `mkdocs serve` ein und öffne die Url `http://127.0.0.1:8000` in Deinem Webbrowser.
 
-4. Um Dir das Ergebnis anzeigen zu lassen, wechsle in den Ordner `c:\docs\ezcastpro\src\_book` und öffne die Datei `index.html` in Deinem Webbrowser.
+Das Inhaltsverzeichnis findest Du in der Datei `mkdocs.yml`, die einzelnen Kapitel im Unterordner `docs`. 
 
-Das Inhaltsverzeichnis findest Du in der Datei `SUMMARY.md`. 
+## Kann ich mithelfen?
 
-## Weitere Informationen
+Ja, sehr gerne. Der beste Weg mitzuhelfen ist es, Rückmeldung per Issue-Tracker zu geben und/oder Korrekturen per Pull-Request zu übermitteln.
 
-+ [Alles zum Thema Git](https://git-scm.com/book/de/v2)
-+ [GitBook auf GitHub](https://github.com/GitbookIO/gitbook)
+## Code of conduct (Verhaltensregeln)
+
+In diesem Projekt wurde der [STÜBER SYSTEMS Code of conduct](https://www.stueber.de/code-of-conduct.php) übernommen.

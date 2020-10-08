@@ -1,0 +1,153 @@
+# Project information
+site_name: EZCast Pro Dokumentation
+site_url: 'https://doc.ezcastpro.de'
+site_author: 'STÜBER SYSTEMS GmbH'
+site_description: >-
+    Unsere Dokumentation für alle EZCast Pro Produkte. 
+
+# Repository
+repo_name: 'Auf GitHub'
+repo_url: 'https://github.com/stuebersystems/doc.ezcastpro.de'
+
+# Copyright
+copyright: '&copy; 2020 STÜBER SYSTEMS GmbH'
+
+# Configuration
+theme:
+    name: material
+    custom_dir: overrides
+
+    # 404 page
+    static_templates:
+        - 404.html
+
+    # Don't include MkDocs' JavaScript
+    include_search_page: false
+    search_index_only: true
+
+    # Default values, taken from mkdocs_theme.yml
+    language: de
+    features:
+        - navigation.tabs
+        - navigation.instant
+    palette:
+        scheme: default
+    font: 
+        text: Roboto
+        code: Roboto Mono
+    favicon: assets/img/favicon.ico
+    logo: assets/img/logo.svg
+
+# Legal links
+extra:
+    legal:
+        - label: Impressum
+          link: https://www.stueber.de/imprint.php
+        - label: Datenschutz
+          link: https://legal.stueber.de/privacy.php
+
+# Customization
+extra_css:
+    - assets/css/custom.css
+
+# Plugins
+plugins:
+    - search
+    - minify:
+        minify_html: true
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.abbr
+  - markdown.extensions.attr_list
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+
+# Page tree
+nav:
+- Überblick: 
+    - Einführung: index.md
+    - Was ist neu?: whatsnew.md
+    - Anschlüsse: ports.md
+    - Datensicherheit: datasecurity.md
+    - Firmware aktualisieren: firmware-upgrade.md
+- Pro Stick II: 
+    - Überblick: pro-stick-d10/intro.md
+    - Schnellstartanleitung: pro-stick-d10/quickstart.md
+    - Was ist neu?: pro-stick-d10/whatsnew.md
+    - Einrichtungshinweise: pro-stick-d10/optimize.md
+    - Anleitungen nach Gerätetyp: 
+        - "Anleitung: AirPlay": pro-stick-d10/airplay.md
+        - "Anleitung: Chromecast": pro-stick-d10/chromecast.md
+        - "Anleitung: Miracast": pro-stick-d10/miracast.md
+    - EZCastPro App/Software: pro-stick-d10/ezcastproapp.md
+    - Internetzugang: pro-stick-d10/internet.md
+    - Erweiterte Funktionen: 
+        - Erweiterte Einstellungen: pro-stick-d10/adv.settings.md
+        - Festgelegter Host: pro-stick-d10/fixedhost.md
+        - ProCast: pro-stick-d10/procast.md
+        - Captive Portal: pro-stick-d10/captiveportal.md
+    - Firmware aktualisieren: pro-stick-d10/firmware-upgrade.md
+    - Problembehandlung: 
+        - Einstellungen zurücksetzen: pro-stick-d10/reset.md
+        - Firmware neu installieren: pro-stick-d10/firmware-reinstall.md
+    - CMS: pro-stick-d10/cms.md 
+- Pro Box II: 
+    - Überblick: pro-box-b10/intro.md
+    - Schnellstartanleitung: pro-box-b10/quickstart.md
+    - Was ist neu?: pro-box-b10/whatsnew.md
+    - Einrichtungshinweise: pro-box-b10/optimize.md
+    - Anleitungen nach Gerätetyp: 
+        - "Anleitung: AirPlay": pro-box-b10/airplay.md
+        - "Anleitung: Chromecast": pro-box-b10/chromecast.md
+        - "Anleitung: Miracast": pro-box-b10/miracast.md
+    - EZCastPro App/Software: pro-box-b10/ezcastproapp.md
+    - Internetzugang: pro-box-b10/internet.md
+    - Erweiterte Funktionen:
+        - Erweiterte Einstellungen: pro-box-b10/adv.settings.md
+        - Festgelegter Host: pro-box-b10/fixedhost.md
+        - ProCast: pro-box-b10/procast.md
+        - Touch-Back-Funktion: pro-box-b10/touchback.md
+        - Captive Portal: pro-box-b10/captiveportal.md
+    - Firmware aktualisieren: pro-box-b10/firmware-upgrade.md  
+    - Problembehandlung: 
+        - Einstellungen zurücksetzen: pro-box-b10/reset.md
+        - Firmware neu installieren: pro-box-b10/firmware-reinstall.md  
+    - CMS: pro-box-b10/cms.md 
+- Ältere Modelle: 
+    - Einführung: legacymodels.md
+    - Pro Stick I: 
+        - Überblick: pro-stick-d01/intro.md
+        - Schnellstartanleitung: pro-stick-d01/quickstart.md
+        - "Anleitung: AirPlay": pro-stick-d01/airplay.md
+        - "Anleitung: Miracast": pro-stick-d01/miracast.md
+        - Internetzugang: pro-stick-d01/internet.md
+        - Erweiterte Einstellungen: pro-stick-d01/adv.settings.md
+        - Einstellungen zurücksetzen: pro-stick-d01/reset.md
+    - Pro LAN Box: 
+        - Überblick: lan-box-b01/intro.md
+        - Schnellstartanleitung: lan-box-b01/quickstart.md
+        - "Anleitung: AirPlay": lan-box-b01/airplay.md
+        - "Anleitung: Miracast": lan-box-b01/miracast.md
+        - Internetzugang: lan-box-b01/internet.md
+        - Erweiterte Einstellungen: lan-box-b01/adv.settings.md
+        - Einstellungen zurücksetzen: lan-box-b01/reset.md
