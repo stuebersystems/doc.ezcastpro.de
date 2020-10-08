@@ -16,16 +16,10 @@ copyright: '&copy; 2020 STÜBER SYSTEMS GmbH'
 theme:
     name: material
     custom_dir: overrides
-
-    # 404 page
     static_templates:
         - 404.html
-
-    # Don't include MkDocs' JavaScript
     include_search_page: false
     search_index_only: true
-
-    # Default values, taken from mkdocs_theme.yml
     language: de
     features:
         - navigation.tabs
