@@ -32,11 +32,9 @@ theme:
         - navigation.instant
     palette:
         scheme: default
-    font: 
-        text: Roboto
-        code: Roboto Mono
     favicon: assets/img/favicon.ico
     logo: assets/img/logo.svg
+    font: false
 
 # Legal links
 extra:
