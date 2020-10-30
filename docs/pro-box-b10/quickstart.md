@@ -33,7 +33,7 @@ Mit der App können Sie die Inhalte Ihres Geräts übertragen und sie enthält v
 
 ### App installieren {#InstallApp}
 
-Suchen Sie die App **EZCast Pro** im *Apple App-Store* oder im *Google Play Store* und installieren Sie diese von dort.
+Suchen Sie die App **EZCast Pro** im [Apple App-Store](https://apps.apple.com/app/ezcast-pro/id897830705) oder im [Google Play Store](https://play.google.com/store/apps/details?id=com.actionsmicro.ezcastpro) und installieren Sie diese von dort.
 
 Apple App-Store:
 
