@@ -313,7 +313,7 @@ Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Erste
 
     Der EZCast Pro Empfänger wurde im Vorab vom Administrator per die [Internetzugang-Funktion](internet.md) des Empfängers mit Ihrem Router verbunden. Inhalte vom Internet werden im ersten Schritt von Ihrer Netzinfrastruktur zu Ihrem Gerät geliefert. Im zweiten Schritt verbinden Sie Ihr Endgerät (Windows/Android/Apple/etc.) mit dem EZCast Pro Empfänger. Bei dieser Option muss der Benutzer auf kein anderes Netzwerk wechseln.
 
-    ![In der EZCast Pro Software wird eine verfügbare Verbindung über Router mit einem Symbol des Routers rechts angezeigt](/assets/img/ezcastpro.II.App.überRouter_verbinden.png)
+    ![In der EZCast Pro Software wird eine verfügbare Verbindung über Router mit einem Symbol des Routers rechts angezeigt](/assets/img/ezcastpro.II.App.connect.via.Router.png)
 
 Standardmäßig werden beide Wege per die Option `Über Router oder direkte Verbindung` freigeschaltet. Jedoch haben Sie die Wahl beide Möglichkeiten zu erlauben oder eine Seite zu deaktivieren:
 
