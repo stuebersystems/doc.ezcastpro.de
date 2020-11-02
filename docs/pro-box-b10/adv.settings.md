@@ -72,6 +72,14 @@ Hier können Sie den Gerätenamen ändern. Aus Sicherheitsgründen kann die SSID
 
 ![](/assets/img/ezcastpro.II.geraetename.png)
 
+Die EZCast Pro Box II verfügt über drei Netzwerkschnittstellen. Beim Deaktivieren der SSID (wlan1) wird die Box nur über Router oder Miracast (P2P) erreichbar.
+
+| wlan | Bemerkung |
+| :------------- |:-----:|
+| wlan0 | Router / AccessPoint |
+| wlan1 | softAP (Direkte Verbindung) SSID/HotSpot |
+| wlan2 | P2P, MiraCast |
+
 #### Auflösung {#Auflösung}
 
 Hier wählen Sie die Ausgabeauflösung der EZCast Pro Box II aus. Sie können entweder eine bestimmte Auflösung auswählen oder wählen Sie einfach `Auto` und die Pro Box II stellt die optimale Auslösung für Ihren Bildschirm automatisch ein.
@@ -319,7 +327,7 @@ Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Erste
 
     In der EZCast Pro Software wird eine verfügbare Verbindung über Router mit einem Symbol des Routers rechts angezeigt:
 	
-    ![In der EZCast Pro Software wird eine verfügbare Verbindung über Router mit einem Symbol des Routers rechts angezeigt](/assets/img/ezcastpro.II.App.überRouter_verbinden.png)
+    ![In der EZCast Pro Software wird eine verfügbare Verbindung über Router mit einem Symbol des Routers rechts angezeigt](/assets/img/ezcastpro.II.App.connect.via.Router.png)
 
 Standardmäßig werden beide Wege per die Option `Über Router oder direkte Verbindung` freigeschaltet. Jedoch haben Sie die Wahl beide Möglichkeiten zu erlauben oder eine Seite zu deaktivieren:
 

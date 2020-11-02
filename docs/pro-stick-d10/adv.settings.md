@@ -72,6 +72,15 @@ Hier können Sie den Gerätenamen ändern. Aus Sicherheitsgründen kann die SSID
 
 ![](/assets/img/ezcastpro.II.geraetename.png)
 
+Der EZCast Pro Stick II verfügt über drei Netzwerkschnittstellen. Beim Deaktivieren der SSID (wlan1) wird der Stick nur über Router oder Miracast (P2P) erreichbar.
+
+| wlan | Bemerkung |
+| :------------- |:-----:|
+| wlan0 | Router / AccessPoint |
+| wlan1 | softAP (Direkte Verbindung) SSID/HotSpot |
+| wlan2 | P2P, MiraCast |
+
+
 #### Auflösung {#Auflösung}
 
 Hier wählen Sie die Ausgabeauflösung des EZCast Pro Stick II aus. Sie können entweder eine bestimmte Auflösung auswählen oder wählen Sie einfach `Auto` und der Pro Stick II stellt die optimale Auslösung für Ihren Bildschirm automatisch ein.
