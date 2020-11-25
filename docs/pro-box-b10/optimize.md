@@ -33,4 +33,10 @@ Mit [diesem Stromadapter](https://www.amazon.de/Stromadapter-Schuko-Buchse-Kaltg
 ![Stromadapter Schuko Buchse auf Kaltgeräte Stecker](/assets/img/Power_Adaptor_Female_to_IEC-Plug.jpg)
 
 
+## Ersatz Stromkabel
 
+### USB 2.0 Typ A Stecker zu 5,5/2,1 mm 
+
+Ersatzstromkabel [USB 2.0 Typ A Stecker zu 5,5/2,1 mm](https://www.amazon.de/dp/B00M552AE2/ref=psdc_1626220031_t2_B00JA8U7Y2?language=en_GB&th=1) sind im Amazon Store zu bestellen:
+
+![USB 2.0 Typ A Stecker zu 5,5/2,1 mm](/assets/img/USB-2.0-TypA-Stecker-to-5.5-2.1mm.jpg)
