@@ -38,7 +38,11 @@ Stellen Sie sicher, dass der EZCast Pro Stick II keine Hindernisse zum Router bz
 
 ### Samsung USB-Netzteil (5V/2A) {#Samsung_USB-Netzteil_5V_2A}
 
-Der EZCast Pro Stick II benötigt eine stabile Stromversorgung von mindestens 5V/1,5A. Obwohl an vielen Beamern und Bildschirmen ein USB-Anschluss zur Verfügung steht, ist die Versorgungsleistung leider oft unzureichend. Deshalb empfehlen wir die Verwendung eines externen Netzteils, wie zum Beispiel das [Samsung USB-Netzteil (5V/2A)](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger). Dieses Netzteil liefert einen USB-Anschluss mit 5V/2A für den EZCast Pro Stick II.
+Der EZCast Pro Stick II benötigt eine stabile Stromversorgung von mindestens 5V/1,5A. Stellen Sie sicher, dass Ihr EZCast Pro Stick II über eine ausreichende Stromversorgung verfügt, um eine stabile Leistung des eingebetteten WLAN-Moduls zu gewährleisten. Obwohl an vielen Beamern und Bildschirmen ein USB-Anschluss zur Verfügung steht, ist die Versorgungsleistung leider oft unzureichend. Deshalb empfehlen wir die Verwendung eines externen Netzteils:
+
+![USB-Netzteil (5V/2A)](/assets/img/EZCastProII.USBCharger.png)
+
+Das [Samsung USB-Netzteil (5V/2A)](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger) liefert einen USB-Anschluss mit 5V/2A für den EZCast Pro Stick II.
 
 ![Samsung USB-Netzteil (5V/2A)](/assets/img/Samsung USB-Netzteil.jpg)
 

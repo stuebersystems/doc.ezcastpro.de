@@ -18,9 +18,13 @@ Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 
 ### Samsung USB-Netzteil (5V/2A) {#Samsung_USB-Netzteil_5V_2A}
 
+Die EZCast Pro Box II benötigt eine stabile Stromversorgung von mindestens 5V/2A. Stellen Sie sicher, dass Ihre EZCast Pro Box II über eine ausreichende Stromversorgung verfügt, um eine stabile Leistung des eingebetteten WLAN-Moduls zu gewährleisten. Obwohl an vielen Beamern und Bildschirmen ein USB-Anschluss zur Verfügung steht, ist die Versorgungsleistung leider oft unzureichend. Deshalb empfehlen wir die Verwendung eines externen Netzteils:
+
+![USB-Netzteil (5V/2A)](/assets/img/EZCastProII.USBCharger.png)
+
 Die EZCast Pro Box II benötigt eine stabile Stromversorgung von 5V/2A. Obwohl an vielen Beamern und Bildschirmen ein USB-Anschluss zur Verfügung steht, ist die Versorgungsleistung leider oft unzureichend. Deshalb empfehlen wir die Verwendung eines externen Netzteils, wie zum Beispiel das [Samsung USB-Netzteil (5V/2A)](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger). Dieses Netzteil liefert einen USB-Anschluss mit 5V/2A für die EZCast Pro Box II.
 
-![EZCast Pro Stick II und Samsung USB-Netzteil](/assets/img/IMG_4185c.jpg)
+![EZCast Pro Box II und Samsung USB-Netzteil](/assets/img/IMG_4185c.jpg)
 
 ### 2in1-Steckdose und USB-Netzteil (5V/2A) {#2in1_USB_Adapter_Steckdose}
 
