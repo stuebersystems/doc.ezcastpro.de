@@ -68,9 +68,9 @@ Haben Sie festgestellt, dass bestimmte Funktionen von EZCast Pro über Ihre Infr
 
 ![die Dateien extrahieren](/assets/img/PortQryUI_extract.png)
  
-* Die `portqueryui.exe` muss nicht installiert werden, sondern kann einfach per Doppelklick gestartet werden:
+* Die `PortQueryUI.exe` muss nicht installiert werden, sondern kann einfach per Doppelklick gestartet werden:
 
-![portqueryui.exe per Doppelklick starten](/assets/img/portqueryui.exe.png)
+![PortQueryUI.exe per Doppelklick starten](/assets/img/portqueryui.exe.png)
 
 ### Ports abfragen
 
@@ -95,7 +95,7 @@ PortQueryUI.exe meldet den Status eines TCP/IP-Ports auf eine der folgenden drei
 
 `LISTENING` - Abhören
 
-Der Port auf dem ausgewählten EZCast Pro Gerät wird von einem Prozess abgehört. Portqueryui.exe hat eine Antwort vom Port erhalten.
+Der Port auf dem ausgewählten EZCast Pro Gerät wird von einem Prozess abgehört. PortQueryUI.exe hat eine Antwort vom Port erhalten.
 
 `NOT LISTENING` - Nicht abhören
 
@@ -103,6 +103,6 @@ Der Zielport auf dem EZCast Pro Gerät wird nicht von einem Prozess abgehört. �
 
 `Filtered`
 
-Der Port auf dem ausgewählten EZCast Pro Gerät wird gefiltert. Portqueryui.exe hat keine Antwort vom Port erhalten. Ein Prozess hört den Port möglicherweise ab oder nicht. Standardmäßig werden die TCP-Ports dreimal abgefragt, und die UDP-Ports werden einmal abgefragt, bevor ein Bericht angibt, dass der Port gefiltert wird.
+Der Port auf dem ausgewählten EZCast Pro Gerät wird gefiltert. PortQueryUI.exe hat keine Antwort vom Port erhalten. Ein Prozess hört den Port möglicherweise ab oder nicht. Standardmäßig werden die TCP-Ports dreimal abgefragt, und die UDP-Ports werden einmal abgefragt, bevor ein Bericht angibt, dass der Port gefiltert wird.
 
 ![Abfrage Ergebnisse](/assets/img/TCP.results.png)
