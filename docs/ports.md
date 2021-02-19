@@ -56,7 +56,7 @@ Port | Typ
 
 ## EZCast Pro verwendete Anschlüsse untersuchen
 
-Haben Sie festgestellt, dass bestimmte Funktionen von EZCast Pro über Ihre Infrustruktur nicht funktionieren? Microsoft stellt eine grafische Benutzeroberfläche des Tools namens PortQueryUI bereit, die zur Fehlersuche in solchen Szenarien mit Port-Konnektivitätsproblemen verwendet werden kann. Dieses Tool können Sie zur Behebung von TCP/IP-Verbindungsproblemen verwenden. Das Hilfsprogramm meldet den Portstatus von TCP- und UDP-Ports auf einem Computer, den Sie auswählen.
+Haben Sie festgestellt, dass bestimmte Funktionen von EZCast Pro über Ihre Infrustruktur nicht funktionieren? Microsoft stellt eine grafische Benutzeroberfläche des Tools namens PortQueryUI bereit, die zur Fehlersuche in solchen Szenarien mit Port-Konnektivitätsproblemen verwendet werden kann. Dieses Tool können Sie zur Behebung von TCP/IP-Verbindungsproblemen verwenden. Das Hilfsprogramm meldet den Portstatus von TCP- und UDP-Ports auf einem Gerät, das Sie auswählen.
 
 ### PortQueryUI.exe herunterladen
 
