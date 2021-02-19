@@ -78,14 +78,12 @@ Haben Sie festgestellt, dass bestimmte Funktionen von EZCast Pro über Ihre Infr
 
 ![Infrustruktur IP-Adresse notieren](/assets/img/Infrustructure_IPaddress.png)
 
-* Im Feld `destination IP` geben Sie die Infrustruktur IP-Adresse ein. Geben Sie anschließend die zu prüfenden Ports an und klicken Sie auf `Query`, wie zum Beispiel:
+Im Feld `destination IP` geben Sie die Infrustruktur IP-Adresse ein. Geben Sie anschließend die zu prüfenden Ports an und klicken Sie auf `Query`, wie zum Beispiel:
 
 Für die Funktion `ChromeCast`:
 
 * `Ports to query` = **80,443,8008,8009**
 * `Protocol` = **TCP**
-
-* Im Feld `destination IP` geben Sie die Infrustruktur IP-Adresse ein. Geben Sie anschließend die zu prüfenden Ports an und klicken Sie auf `Query`, wie zum Beispiel:
 
 ![Ports angeben](/assets/img/TCP.png)
 
