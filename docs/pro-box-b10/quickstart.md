@@ -72,7 +72,7 @@ Gehen Sie jetzt wie folgt vor:
 
 1.  Von Ihrem Windows, oder macOS Gerät verbinden Sie sich mit der SSID, die oben auf dem Bildschirm angezeigt wird. Das Kennwort wird standardmäßig ebenfalls angezeigt.
 
-2.  Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf.
+2.  Rufen Sie die Software **EZCastPro** auf Ihrem Gerät auf.
 
     ![Starten Sie die Software EZCastPro](/assets/img/EZCastPro_Start_Software.png)
 
