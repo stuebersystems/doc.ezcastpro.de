@@ -33,21 +33,15 @@ Mit der App können Sie die Inhalte Ihres Geräts übertragen und sie enthält v
 
 ### App installieren {#InstallApp}
 
-Suchen Sie die App **EZCast Pro** im [Apple App-Store](https://apps.apple.com/app/ezcast-pro/id897830705) oder im [Google Play Store](https://play.google.com/store/apps/details?id=com.actionsmicro.ezcastpro) und installieren Sie diese von dort.
+Suchen Sie die App **EZCast Pro** im [Apple App-Store](https://apps.apple.com/app/ezcast-pro/id897830705) oder im [Google Play Store](https://play.google.com/store/apps/details?id=com.actionsmicro.ezcastpro) und installieren Sie diese von dort:
 
-Apple App-Store:
-
-![EZCast Pro im Apple App-Store](/assets/img/EZCastProApp_AppleStore.jpg)
-
-Google Play Store:
-
-![EZCast Pro im Google Play Store](/assets/img/EZCastProApp_PlayStore.jpg)
+![EZCast Pro im App-Store](/assets/img/EZCastProAppStore.png)
 
 ### App mit EZCast Pro Stick II verbinden
 
 Wenn Sie den EZCast Pro Stick II richtig [angeschlossen](#Connect_ProStickII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
-![Die Startseite](/assets/img/ProIIStick_Startseite.jpg)
+![Die Startseite](/assets/img/ProIIStick_Startseite.png)
 
 Gehen Sie jetzt wie folgt vor:
 
@@ -57,11 +51,11 @@ Gehen Sie jetzt wie folgt vor:
 
 3.  Auf iOS/Android suchen Sie ein Empfängergerät mit Hilfe der Schaltfläche oben rechts:
 
-    ![Nach EZCast Pro Geräten suchen](/assets/img/iOS_Device-list.png)
+    ![Nach EZCast Pro Geräten suchen](/assets/img/Device-list.png)
 
-4.  Wählen Sie Ihren EZCast Pro Stick II aus, anschließend finden Sie alle Optionen zum Anzeigen Ihrer Inhalte in der App:
+4.  Wählen Sie Ihre EZCast Pro Box II aus, anschließend finden Sie alle Optionen zum Anzeigen Ihrer Inhalte in der App:
 
-    ![Ihr EZCast Pro Gerät auswählen](/assets/img/iOS_select-device.jpg)
+    ![Ihr EZCast Pro Gerät auswählen](/assets/img/select-device.png)
 
 ## Windows und macOS
 
@@ -87,7 +81,7 @@ Gehen Sie jetzt wie folgt vor:
 
 3.  Wählen Sie den EZCast Pro Stick II aus, wie unten abgebildet:
 
-    ![Die Geräteliste](/assets/img/mac-windows_device-list.jpg)
+    ![Die Geräteliste](/assets/img/mac-windows_device-list.png)
 
 4.  Zum Spiegeln Ihres Windows/macOS Geräts wählen Sie `Spiegeln`.
 
