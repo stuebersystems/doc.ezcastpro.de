@@ -69,7 +69,7 @@ Laden Sie bitte die Software für [Windows](https://www.ezcast.com/app/ezcast/pr
 
 Wenn Sie den EZCast Pro Stick II richtig [angeschlossen](#Connect_ProStickII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
-![Die Startseite](/assets/img/ProIIStick_Startseite.jpg)
+![Die Startseite](/assets/img/ProIIStick_Startseite.png)
 
 Gehen Sie jetzt wie folgt vor:
 

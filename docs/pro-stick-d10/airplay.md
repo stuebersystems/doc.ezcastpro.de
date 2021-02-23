@@ -25,7 +25,7 @@ Um Ihr Endgerät auf den EZCast Pro Stick II übertragen zu können, muss die Op
 
 Um AirPlay mit EZCast Pro zu verbinden, stellen Sie sicher, dass der Empfänger eingeschaltet ist und die Startseite auf dem Bildschirm angezeigt wird.
 
-![EZCast Pro Startseite](/assets/img/ProIIStick_Startseite.jpg)
+![EZCast Pro Startseite](/assets/img/ProIIStick_Startseite.png)
 
 ## AirPlay auf iOS
 
@@ -59,7 +59,7 @@ Mit macOS haben Sie die Möglichkeit, macOS-Geräte kabellos über AirPlay zu pr
 
 Stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite am Bildschirm angezeigt ist.
 
-![EZCast Pro Stick II Startseite](/assets/img/ProIIStick_Startseite.jpg)
+![EZCast Pro Stick II Startseite](/assets/img/ProIIStick_Startseite.png)
 
 Auf dem Mac in der Menüleiste klicken Sie auf das AirPlay-Symbol oben im Bildschirm.
 

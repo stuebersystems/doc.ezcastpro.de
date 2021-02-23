@@ -6,7 +6,7 @@ Aufgrund einer Limitierung von der Miracast Technik kann nur ein einzelnes Gerä
 
 Um Miracast mit dem EZCast Pro Stick II zu verbinden, stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite auf dem Bildschirm angezeigt ist.
 
-![EZCast Pro Stick II Startseite](/assets/img/ProIIStick_Startseite.jpg)
+![EZCast Pro Stick II Startseite](/assets/img/ProIIStick_Startseite.png)
 
 ## Android Miracast
 
@@ -39,7 +39,7 @@ Um die Miracast-Anzeige zu trennen, drücken Sie das o.g. Symbol, anschließend 
 
 EZCast Pro Stick II kehrt zurück auf die Startseite.
 
-![EZCast Pro Startseite](/assets/img/ProIIStick_Startseite.jpg)
+![EZCast Pro Startseite](/assets/img/ProIIStick_Startseite.png)
 
 ## Windows Miracast
 
@@ -65,4 +65,4 @@ Klicken Sie auf `Trennen`. Die drahtlose Anzeige wird getrennt:
 
 EZCast Pro Stick II kehrt zurück auf die Startseite.
 
-![EZCast Pro Startseite](/assets/img/ProIIStick_Startseite.jpg)
+![EZCast Pro Startseite](/assets/img/ProIIStick_Startseite.png)
