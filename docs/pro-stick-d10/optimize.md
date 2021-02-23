@@ -32,7 +32,7 @@ Versuchen Sie den Abstand zu reduzieren oder installieren Sie einen zusätzliche
 
 Stellen Sie sicher, dass der EZCast Pro Stick II keine Hindernisse zum Router bzw. zum Access-Point hat. Wenn notwendig, installieren Sie einen zusätzlichen Access-Point.
 
-![EZCast Pro Stick II](/assets/img/ProIIStick.Poor.Internet.Signal.jpg)
+![EZCast Pro Stick II](/assets/img/ProII.Poor.Internet.Signal.jpg)
 
 ## Zubehör
 

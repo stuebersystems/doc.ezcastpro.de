@@ -12,7 +12,7 @@ Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 **Es liegen Wände oder andere Gegenstände zwischen der EZCast Pro Box II und dem Router bzw. dem Wireless-Access-Point, welche die Signalstärke verschlechtern.**
 * Stellen Sie sicher, dass der EZCast Pro Box II keine Hindernisse zum Router bzw. zum Access-Point hat. Wenn notwendig, installieren Sie einen zusätzlichen Access-Point.
 
-![EZCast Pro Box II](/assets/img/ProIIStick.Poor.Internet.Signal.jpg)
+![EZCast Pro Box II](/assets/img/ProII.Poor.Internet.Signal.jpg)
 
 ## Zubehör
 
