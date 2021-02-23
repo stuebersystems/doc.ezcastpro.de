@@ -20,7 +20,7 @@ Sollten Sie eine schlechte Übertragungsqualität feststellen, liegt es wahrsche
 
 ## Internet-Router-Signalstärke
 
-Ein rot angezeigtes Internet-Router-Symbol bezieht sich auf eine schlechte Signalstärke zwischen dem EZCast Pro Stick II und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind bzw. wenn Sie [Verbindungen](adv.settings.md#Connection_to_Receiver) "`nur über Router`" erlauben.
+Ein rot angezeigtes Internet-Router-Symbol bezieht sich auf eine schlechte Signalstärke zwischen dem EZCast Pro Stick II und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind bzw. wenn Sie [Verbindungen](adv.settings.md#Connection_to_Receiver) `nur über Router` erlauben.
 
 Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 
@@ -36,19 +36,15 @@ Stellen Sie sicher, dass der EZCast Pro Stick II keine Hindernisse zum Router bz
 
 ## Zubehör
 
-### Samsung USB-Netzteil (5V/2A) {#Samsung_USB-Netzteil_5V_2A}
+### USB-Netzteil (5V/2A) {#Samsung_USB-Netzteil_5V_2A}
 
-Der EZCast Pro Stick II benötigt eine stabile Stromversorgung von mindestens 5V/1,5A. Stellen Sie sicher, dass Ihr EZCast Pro Stick II über eine ausreichende Stromversorgung verfügt, um eine stabile Leistung des eingebetteten WLAN-Moduls zu gewährleisten. Obwohl an vielen Beamern und Bildschirmen ein USB-Anschluss zur Verfügung steht, ist die Versorgungsleistung leider oft unzureichend. Deshalb empfehlen wir die Verwendung eines externen Netzteils:
+Der EZCast Pro Stick II benötigt eine stabile Stromversorgung von mindestens 5V/1,5A. Obwohl an vielen Beamern und Bildschirmen ein USB-Anschluss zur Verfügung steht, ist die Versorgungsleistung leider oft unzureichend. Ohne eine ausreichende Stromversorgung lässt sich der Stick zwar einschalten, wird aber zu Leistungsproblemen führen. Wenn Sie Zweifel haben, ob Ihr Beamer bzw. Ihr Bildschirm eine ausreichendene Stromstärke liefern kann, empfehlen wir Ihnen die Verwendung eines externen Netzteils (5V/2A):
 
 ![USB-Netzteil (5V/2A)](/assets/img/EZCastProII.USBCharger.png)
 
 Das [Samsung USB-Netzteil (5V/2A)](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger) liefert einen USB-Anschluss mit 5V/2A für den EZCast Pro Stick II.
 
 ![Samsung USB-Netzteil (5V/2A)](/assets/img/Samsung USB-Netzteil.jpg)
-
-Schließen Sie einfach das mitgelieferte USB-C-Kabel mit dem USB-C-Anschluss auf dem EZCast Pro Stick II und mit dem Samsung USB-Netzteil an:
-
-![EZCast Pro Stick II und Samsung USB-Netzteil](/assets/img/IMG_4185c.jpg)
 
 ### 2in1-Steckdose und USB-Netzteil (5V/2A) {#2in1_USB_Adapter_Steckdose}
 
