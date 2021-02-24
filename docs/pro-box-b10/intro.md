@@ -1,4 +1,4 @@
-# Der EZCast Pro II Box
+# Die EZCast Pro II Box
 
 ![EZCast Pro Box II][1]{: align=left } Erkunden Sie die Möglichkeiten der [EZCast Pro Box II][2]. 
 
