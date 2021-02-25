@@ -4,7 +4,7 @@ Chromecast ist die Übertragungstechnologie von Google. Mit dem Google Chrome Br
 
 Der EZCast Pro Stick II ermöglicht es bis zu 4 Windows, Android und ChromeOS-Geräten, über das Chromecast-Protokoll auf einen aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App nutzen zu müssen.
 
-![](/assets/img/Chrome_select_stream.jpg)
+![](/assets/img/Chrome_select_stream2.png)
 
 Die Übertragungstechnologie Google Cast ist nun fest eingebauter Bestandteil des Chrome-Browsers und daher mit den folgenden Endgeräten kompatibel: 
 
@@ -27,13 +27,13 @@ Um Ihr Endgerät auf den EZCast Pro Stick II übertragen zu können, muss die Op
 
 ![](/assets/img/Chromecast-support.png)
 
-## Per Chromecast verbinden
+## Aus dem Chrome-Browser Streamen
 
 Rufen Sie Chrome auf Ihrem Computer auf. Mit dem neusten Google Chrome Browser wird die Funktion **Streamen...** mitgeliefert. Falls der Chrome Browser auf Ihrem Computer nicht vorhanden ist, installieren Sie die Software [hier](http://google.de/chrome) kostenlos.
 
 Wählen Sie über die drei Punkte oben rechts den Menüpunkt `Streamen...`
 
-![Streamen..](/assets/img/Chrome_stream.jpg)
+![Streamen..](/assets/img/Chrome_stream.png)
 
 Wählen Sie die gewünschte Übertragungsquelle aus:
 
@@ -41,16 +41,16 @@ Wählen Sie die gewünschte Übertragungsquelle aus:
 + `Desktop streamen` - Überträgt den gesamten Computerbildschirm 
 + `Datei streamen` - Bietet beste Leistung zum Video abspielen
 
-![Übertragungsquelle](/assets/img/Chrome_select_stream2.jpg)
+![Übertragungsquelle](/assets/img/Chrome_select_stream2.png)
 
 Um die Übertragung zu starten, wählen Sie einfach den gewünschten Empfänger aus.
 
-![Übertragung starten](/assets/img/Chrome_start_stream.jpg)
+![Übertragung starten](/assets/img/Chrome_start_stream.png)
 
 Um die Übertragung zu beenden, klicken Sie nochmal auf den Empfänger.
 
-![Übertragung beenden](/assets/img/end_stream.jpg)
+![Übertragung beenden](/assets/img/end_stream.png)
 
-Per Rechtsklick auf dem Symbol kann man das Streamen-Symbol immer zeigen
+Per Rechtsklick kann man Cast-Symbol an die Symbolleiste anheften:
 
-![Streamen-Symbol immer zeigen](/assets/img/Always_show_icon.jpg)
+![Streamen-Symbol immer zeigen](/assets/img/Always_show_icon.png)
