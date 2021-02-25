@@ -6,7 +6,7 @@ Der EZCast Pro Stick II ermöglicht es bis zu 4 macOS und iOS-Geräten, über da
 
 !!! info iOS-Gerät-Bildschirmübertragung mit EZCast Pro"
 
-    [![Mirror your iOS device with AirPlay][1]{: align=left }][2]
+    [![iOS-Gerät-Bildschirmübertragung mit EZCast Pro][1]{: align=left }][2]
 	
 	Ein kurzes Video, das die Bildschirmübertragung per iPhone vorstellt.
 	
