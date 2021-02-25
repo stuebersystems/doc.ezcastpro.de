@@ -4,11 +4,11 @@ Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höhe
 
 Aufgrund einer Limitierung von der Miracast Technik kann nur ein einzelnes Gerät auf einmal übertragen werden. Für Splitscreen benötigen Sie die EZCast Pro [Software](quickstart.md#windows-und-macos) bzw. [App](quickstart.md#android-und-ios).
 
-!!! info "Miracast mit Android und EZCast Pro Stick II"
+!!! info "Miracast mit Android und EZCast Pro II"
 
-    [![Miracast mit Android und EZCast Pro Stick II][1]{: align=left }][2]
+    [![Miracast mit Android und EZCast Pro II][1]{: align=left }][2]
 	
-	Anleitung: Bildschirmübertragung von Android über Miracast mit EZCast Pro Stick II
+	Anleitung: Bildschirmübertragung von Android über Miracast mit EZCast Pro II
 	
 	[Zum YouTube-Video][2]
 
@@ -17,7 +17,7 @@ Aufgrund einer Limitierung von der Miracast Technik kann nur ein einzelnes Gerä
   
 ## Miracast auf EZCast Pro freischalten
 
-Standardmäßig ist AirPlay auf EZCast Pro II-Geräten aktiviert. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `AirPlay` unter [Erweiterte Einstellungen](adv.settings.md#AirPlayMode):
+Standardmäßig ist Miracast auf EZCast Pro II-Geräten aktiviert. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `Miracast` unter [Erweiterte Einstellungen](adv.settings.md#Miracast):
 
 ![](/assets/img/Miracast.png)
 
@@ -27,7 +27,7 @@ Um Miracast mit dem EZCast Pro Stick II zu verbinden, stellen Sie sicher, dass d
 
 ![EZCast Pro Stick II Startseite](/assets/img/ProIIStick_Startseite.png)
 
-Drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie den EZCast Pro Stick II aus:
+Drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie den EZCast Pro Gerät aus:
 
 ![EZCast Pro Stick auswählen](/assets/img/ProIIStick-Windows_Miracast_Select_Device.jpg)
 
