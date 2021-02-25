@@ -41,7 +41,7 @@ Suchen Sie die App **EZCast Pro** im [Apple App-Store](https://apps.apple.com/ap
 
 Wenn Sie den EZCast Pro Stick II richtig [angeschlossen](#Connect_ProStickII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
-![Die Startseite](/assets/img/ProIIStick_Startseite.png)
+![Die Startseite](/assets/img/ProIIDongle_landingpage.png)
 
 Gehen Sie jetzt wie folgt vor:
 
@@ -69,7 +69,7 @@ Laden Sie bitte die Software für [Windows](https://www.ezcast.com/app/ezcast/pr
 
 Wenn Sie den EZCast Pro Stick II richtig [angeschlossen](#Connect_ProStickII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
-![Die Startseite](/assets/img/ProIIStick_Startseite.png)
+![Die Startseite](/assets/img/ProIIDongle_landingpage.png)
 
 Gehen Sie jetzt wie folgt vor:
 
