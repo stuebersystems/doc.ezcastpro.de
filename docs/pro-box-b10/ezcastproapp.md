@@ -63,7 +63,7 @@ Mit dieser Option können Sie das aktuelle Gerät als bevorzugtes Gerät festleg
 
 ### Konferenzsteuerung (Einst.)
 
-Der Gast kann die Übertragung seines Bildschirms vom Host zulassen. Wenn die Einstellung `Allow remote mirror` aktiviert ist, ermöglicht es dem Host den Bildschirm eines Gastes zu übertragen, ohne einen manuellen Antrag zum Senden von dem entsprechenden Gast zu benötigen. Diese Option wird derzeit nur unter Windows und macOS unterstützt. 
+Der Gast kann die Übertragung seines Bildschirms vom Host auf Verlangen zulassen. Wenn die Einstellung `Allow remote mirror` aktiviert ist, ermöglicht es dem Host den Bildschirm eines Gastes zu übertragen, ohne einen manuellen Antrag zum Senden von dem entsprechenden Gast zu benötigen. Diese Option wird derzeit nur unter Windows und macOS unterstützt. 
 
 ![](/assets/img/App-AllowRemoteMirror.png)
 
