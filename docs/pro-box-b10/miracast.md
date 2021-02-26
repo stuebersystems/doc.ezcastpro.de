@@ -43,11 +43,7 @@ Sie sind nun mit Ihrem Bildschirm per Miracast verbunden. Eine zusätzliche Anze
 
 ![Miracast-Anzeige in der Systemsteuerung](/assets/img/Miracast_Display.jpg)
 
-Um die Miracast-Anzeige zu trennen, rufen Sie das Dialogfenster `PROJIZIEREN` auf, indem Sie die Tastenkombination `[Windows]` + `[P]` drücken, anschließend wählen Sie `Mit drahtloser Anzeige verbinden`.
-
-![Mit drahtloser Anzeige verbinden](/assets/img/Connect_to_a_wireless_display.jpg)
-
-Klicken Sie auf `Trennen`. Die drahtlose Anzeige wird getrennt:
+Um die Miracast-Anzeige zu trennen, rufen Sie das Dialogfenster erneut `VERBINDEN` auf, indem Sie die Tastenkombination `[Windows]` + `[K]` drücken und klicken Sie auf `Trennen`:
 
 ![Drahtlose Anzeige trennen](/assets/img/ProIIStick-Windows_Miracast_Disconnect.jpg)
 
