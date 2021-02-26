@@ -26,7 +26,7 @@ Der Admin verwaltet die Geräte und nutzt erweiterte Einstellungen und Funktione
 
 ### Host
 
-In EZCast Pro heißt der Moderator "Host" und darf sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Standardmäßig wird der erste, der sich in der EZCast Pro App/Software anmeldet, als Host bezeichnet und die anderen Teilnehmer als Gäste. Optional kann ein Nutzer permanent als Host [festgelegt](fixedhost.md) werden. 
+In EZCast Pro heißt der Moderator "Host" und darf sich entscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Standardmäßig wird der erste, der sich in der EZCast Pro App/Software anmeldet, als Host bezeichnet und die anderen Teilnehmer als Gäste. Optional kann ein Nutzer permanent als Host [festgelegt](fixedhost.md) werden. 
 
 ### Gast
 
