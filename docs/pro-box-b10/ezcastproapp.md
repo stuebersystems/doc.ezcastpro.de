@@ -20,7 +20,7 @@ Mit diesen Schaltflächen oben auf der Menüleiste können Sie den Bildschirm Ih
 
 Es gibt drei Berechtigungsstufen. Der **Admin** verwaltet die Geräte. Die Rollen von **Host** und **Gast** unterscheiden sich mit der Funktionalität. 
 
-## #Admin
+### Admin
 
 Der Admin verwaltet die Geräte und nutzt erweiterte Einstellungen und Funktionen, auf die der Host keinen Zugriff hat, z.B. die Firmware-Aktualisierung.
 
@@ -40,9 +40,8 @@ In der App für iOS/Android wird Ihre Rolle bezeichnet, wie unten abgebildet:
 
 Wählen Sie die Schaltfläche Einstellungen oben links.
 
-![Einstellungen oben links](/assets/img/App-IosAndroidHost.png)
 
-![Bezeichnung des Status `Gast`](/assets/img/App-IosAndroidHost2.png)
+![Einstellungen oben links](/assets/img/App-IosAndroidHost.png)
 
 ## Datenschutz
 

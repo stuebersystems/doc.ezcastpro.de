@@ -6,7 +6,7 @@ Die Verwendung der kostenlosen App/Software **EZCastPro** bietet sowohl für den
 
 Sie müssen die EZCastPro-App bzw. -Software installieren. Eine umfassende Anleitung, wie Sie die App/Software für Ihr Gerät herunterladen und installieren finden Sie [hier](quickstart.md).
 
-Wenn Ihr Endgerät mit dem EZCast Pro Stick II über die App/Software EZCastPro verbunden ist, erscheint die Anwendung wie folgt:
+Wenn Ihr Endgerät mit der EZCast Pro Box II über die App/Software EZCastPro verbunden ist, erscheint die Anwendung wie folgt:
 
 ![Die EZCast Pro Software für Windows](/assets/img/ProII-Win-App.png)
 
@@ -41,8 +41,6 @@ In der App für iOS/Android wird Ihre Rolle bezeichnet, wie unten abgebildet:
 Wählen Sie die Schaltfläche Einstellungen oben links.
 
 ![Einstellungen oben links](/assets/img/App-IosAndroidHost.png)
-
-![Bezeichnung des Status `Gast`](/assets/img/App-IosAndroidHost2.png)
 
 ## Datenschutz
 
@@ -223,6 +221,6 @@ Die Lehrerin überträgt eine Live-Aufnahme ihrer Kamera links auf den Beamer. R
 
 ## Erweiterte Einstellungen 
 
-Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen des EZCast Pro Stick II bequem per Fernzugriff anpassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md).
+Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Box II bequem per Fernzugriff anpassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md).
 
 ![](/assets/img/advsettingsapp.png)
