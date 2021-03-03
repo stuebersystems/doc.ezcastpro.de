@@ -20,13 +20,13 @@ Mit diesen Schaltflächen oben auf der Menüleiste können Sie den Bildschirm Ih
 
 Es gibt drei Berechtigungsstufen. Der **Admin** verwaltet die Geräte. Die Rollen von **Host** und **Gast** unterscheiden sich mit der Funktionalität. 
 
-## #Admin
+### Admin
 
 Der Admin verwaltet die Geräte und nutzt erweiterte Einstellungen und Funktionen, auf die der Host keinen Zugriff hat, z.B. die Firmware-Aktualisierung.
 
 ### Host
 
-In EZCast Pro heißt der Moderator "Host" und darf sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Standardmäßig wird der erste, der sich in der EZCast Pro App/Software anmeldet, als Host bezeichnet und die anderen Teilnehmer als Gäste. Optional kann ein Nutzer permanent als Host [festgelegt](fixedhost.md) werden. 
+In EZCast Pro heißt der Moderator "Host" und darf sich entscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Standardmäßig wird der erste, der sich in der EZCast Pro App/Software anmeldet, als Host bezeichnet und die anderen Teilnehmer als Gäste. Optional kann ein Nutzer permanent als Host [festgelegt](fixedhost.md) werden. 
 
 ### Gast
 
@@ -40,9 +40,8 @@ In der App für iOS/Android wird Ihre Rolle bezeichnet, wie unten abgebildet:
 
 Wählen Sie die Schaltfläche Einstellungen oben links.
 
-![Einstellungen oben links](/assets/img/App-IosAndroidHost.png)
 
-![Bezeichnung des Status `Gast`](/assets/img/App-IosAndroidHost2.png)
+![Einstellungen oben links](/assets/img/App-IosAndroidHost.png)
 
 ## Datenschutz
 
@@ -64,7 +63,7 @@ Mit dieser Option können Sie das aktuelle Gerät als bevorzugtes Gerät festleg
 
 ### Konferenzsteuerung (Einst.)
 
-Der Gast kann die Übertragung seines Bildschirms vom Host zulassen. Wenn die Einstellung `Allow remote mirror` aktiviert ist, ermöglicht es dem Host den Bildschirm eines Gastes zu übertragen, ohne einen manuellen Antrag zum Senden von dem entsprechenden Gast zu benötigen. Diese Option wird derzeit nur unter Windows und macOS unterstützt. 
+Der Gast kann die Übertragung seines Bildschirms vom Host auf Verlangen zulassen. Wenn die Einstellung `Allow remote mirror` aktiviert ist, ermöglicht es dem Host den Bildschirm eines Gastes zu übertragen, ohne einen manuellen Antrag zum Senden von dem entsprechenden Gast zu benötigen. Diese Option wird derzeit nur unter Windows und macOS unterstützt. 
 
 ![](/assets/img/App-AllowRemoteMirror.png)
 

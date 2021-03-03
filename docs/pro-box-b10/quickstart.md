@@ -9,15 +9,12 @@
 
 ## Inhalt der EZCast Pro Box II
 
-![Inhalt der EZCast Pro Box II](/assets/img/B10-Inhalte.png)
+| Die EZCast Pro Box II besteht aus |   |
+| :----: | :----: |
+| ![](/assets/img/Contents.B10.png)<br>EZCast Pro Box II | ![](/assets/img/Contents_1M.HDMI.Cable.png) <br>HDMI-Kabel (1m) |
+| ![](/assets/img/Contents_USB_Charger.png)<br>USB Ladekabel | ![](/assets/img/Contents.Adapter.png)<br>HDMI auf HDMI/VGA-Buchse<br>mit Audio 3,5 mm Adapter |
+| ![](/assets/img/Contents.PowerSupply.png)<br>5V/2A Universal Stromadapter | ![](/assets/img/Contents.QSG.png)<br>Schnellstartanleitung |
 
-Die EZCast Pro Box II besteht aus:
-
-*  1 Empfänger (EZCast Pro Box II)
-*  1 HDMI-Kabel (1m)
-*  1 HDMI auf HDMI/VGA-Buchse/Audio 3,5 mm Adapter
-*  5V/2A Universal Stromadapter
-*  1 Schnellstartanleitung
 
 ## EZCast Pro Box II anschließen {#Connect_ProBoxII}
 
@@ -33,15 +30,9 @@ Mit der App können Sie die Inhalte Ihres Geräts übertragen und sie enthält v
 
 ### App installieren {#InstallApp}
 
-Suchen Sie die App **EZCast Pro** im [Apple App-Store](https://apps.apple.com/app/ezcast-pro/id897830705) oder im [Google Play Store](https://play.google.com/store/apps/details?id=com.actionsmicro.ezcastpro) und installieren Sie diese von dort.
+Suchen Sie die App **EZCast Pro** im [Apple App-Store](https://apps.apple.com/app/ezcast-pro/id897830705) oder im [Google Play Store](https://play.google.com/store/apps/details?id=com.actionsmicro.ezcastpro) und installieren Sie diese von dort:
 
-Apple App-Store:
-
-![EZCast Pro im Apple App-Store](/assets/img/EZCastProApp_AppleStore.jpg)
-
-Google Play Store:
-
-![EZCast Pro im Google Play Store](/assets/img/EZCastProApp_PlayStore.jpg)
+![EZCast Pro im App-Store](/assets/img/EZCastProAppStore.png)
 
 ### App mit EZCast Pro Box II verbinden
 
@@ -57,11 +48,11 @@ Gehen Sie jetzt wie folgt vor:
 
 3.  Auf iOS/Android suchen Sie ein Empfängergerät mit Hilfe der Schaltfläche oben rechts:
 
-    ![Nach EZCast Pro Geräten suchen](/assets/img/iOS_Device-list.png)
+    ![Nach EZCast Pro Geräten suchen](/assets/img/Device-list.png)
 
 4.  Wählen Sie Ihre EZCast Pro Box II aus, anschließend finden Sie alle Optionen zum Anzeigen Ihrer Inhalte in der App:
 
-    ![Ihr EZCast Pro Gerät auswählen](/assets/img/iOS_select-device.jpg)
+    ![Ihr EZCast Pro Gerät auswählen](/assets/img/select-device.png)
 
 ## Windows und macOS
 
@@ -81,13 +72,13 @@ Gehen Sie jetzt wie folgt vor:
 
 1.  Von Ihrem Windows, oder macOS Gerät verbinden Sie sich mit der SSID, die oben auf dem Bildschirm angezeigt wird. Das Kennwort wird standardmäßig ebenfalls angezeigt.
 
-2.  Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf.
+2.  Rufen Sie die Software **EZCastPro** auf Ihrem Gerät auf.
 
     ![Starten Sie die Software EZCastPro](/assets/img/EZCastPro_Start_Software.png)
 
 3.  Wählen Sie die EZCast Pro Box II aus, wie unten abgebildet:
 
-    ![Die Geräteliste](/assets/img/mac-windows_device-list.jpg)
+    ![Die Geräteliste](/assets/img/mac-windows_device-list.png)
 
 4.  Zum Spiegeln Ihres Windows/macOS Geräts wählen Sie `Spiegeln`.
 

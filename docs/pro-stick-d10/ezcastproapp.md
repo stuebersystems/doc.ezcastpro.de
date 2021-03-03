@@ -6,7 +6,7 @@ Die Verwendung der kostenlosen App/Software **EZCastPro** bietet sowohl für den
 
 Sie müssen die EZCastPro-App bzw. -Software installieren. Eine umfassende Anleitung, wie Sie die App/Software für Ihr Gerät herunterladen und installieren finden Sie [hier](quickstart.md).
 
-Wenn Ihr Endgerät mit dem EZCast Pro Stick II über die App/Software EZCastPro verbunden ist, erscheint die Anwendung wie folgt:
+Wenn Ihr Endgerät mit der EZCast Pro Box II über die App/Software EZCastPro verbunden ist, erscheint die Anwendung wie folgt:
 
 ![Die EZCast Pro Software für Windows](/assets/img/ProII-Win-App.png)
 
@@ -26,7 +26,7 @@ Der Admin verwaltet die Geräte und nutzt erweiterte Einstellungen und Funktione
 
 ### Host
 
-In EZCast Pro heißt der Moderator "Host" und darf sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Standardmäßig wird der erste, der sich in der EZCast Pro App/Software anmeldet, als Host bezeichnet und die anderen Teilnehmer als Gäste. Optional kann ein Nutzer permanent als Host [festgelegt](fixedhost.md) werden. 
+In EZCast Pro heißt der Moderator "Host" und darf sich entscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Standardmäßig wird der erste, der sich in der EZCast Pro App/Software anmeldet, als Host bezeichnet und die anderen Teilnehmer als Gäste. Optional kann ein Nutzer permanent als Host [festgelegt](fixedhost.md) werden. 
 
 ### Gast
 
@@ -41,8 +41,6 @@ In der App für iOS/Android wird Ihre Rolle bezeichnet, wie unten abgebildet:
 Wählen Sie die Schaltfläche Einstellungen oben links.
 
 ![Einstellungen oben links](/assets/img/App-IosAndroidHost.png)
-
-![Bezeichnung des Status `Gast`](/assets/img/App-IosAndroidHost2.png)
 
 ## Datenschutz
 
@@ -64,7 +62,7 @@ Mit dieser Option können Sie das aktuelle Gerät als bevorzugtes Gerät festleg
 
 ### Konferenzsteuerung (Einst.)
 
-Der Gast kann die Übertragung seines Bildschirms vom Host zulassen. Wenn die Einstellung `Allow remote mirror` aktiviert ist, ermöglicht es dem Host den Bildschirm eines Gastes zu übertragen, ohne einen manuellen Antrag zum Senden von dem entsprechenden Gast zu benötigen. Diese Option wird derzeit nur unter Windows und macOS unterstützt. 
+Der Gast kann die Übertragung seines Bildschirms vom Host auf Verlangen zulassen. Wenn die Einstellung `Allow remote mirror` aktiviert ist, ermöglicht es dem Host den Bildschirm eines Gastes zu übertragen, ohne einen manuellen Antrag zum Senden von dem entsprechenden Gast zu benötigen. Diese Option wird derzeit nur unter Windows und macOS unterstützt. 
 
 ![](/assets/img/App-AllowRemoteMirror.png)
 
@@ -223,6 +221,6 @@ Die Lehrerin überträgt eine Live-Aufnahme ihrer Kamera links auf den Beamer. R
 
 ## Erweiterte Einstellungen 
 
-Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen des EZCast Pro Stick II bequem per Fernzugriff anpassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md).
+Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Box II bequem per Fernzugriff anpassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md).
 
 ![](/assets/img/advsettingsapp.png)

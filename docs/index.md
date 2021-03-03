@@ -4,13 +4,13 @@ EZCast Pro ist ein Präsentationssystem zum kabellosen Übertragen von Bildschir
 
 Die EZCast Pro Serie gibt es in zwei Varianten: 
 
-!!! info "EZCast Pro Stick II"
+!!! info "![](/assets/img/ezcastpro.stick2.black.png)" 
 
     [![EZCast Pro Stick II][1]{: align=left }][2] Der EZCast Pro Stick II dient als Empfänger bei einer kabellosen Präsentation und wird über HDMI mit einem Bildschirm oder einem Projektor verbunden. Anschließend können Sie Ihren aktuellen Bildschirminhalt übertragen.
 	
 	[Zum EZCast Pro Stick II][2]
 	
-!!! info "EZCast Pro Box II"
+!!! info "![](/assets/img/ezcastpro.box2.black.logo.png)"
 
     [![EZCast Pro Box II][3]{: align=left }][4] Die EZCast Pro Box II dient als Empfänger bei einer kabellosen Präsentation und wird per HDMI mit einem Bildschirm oder einem Projektor verbunden. Anschließend können Sie Ihren aktuellen Bildschirminhalt übertragen.
 	

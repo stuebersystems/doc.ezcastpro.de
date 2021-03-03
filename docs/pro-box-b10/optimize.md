@@ -12,9 +12,19 @@ Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 **Es liegen Wände oder andere Gegenstände zwischen der EZCast Pro Box II und dem Router bzw. dem Wireless-Access-Point, welche die Signalstärke verschlechtern.**
 * Stellen Sie sicher, dass der EZCast Pro Box II keine Hindernisse zum Router bzw. zum Access-Point hat. Wenn notwendig, installieren Sie einen zusätzlichen Access-Point.
 
-![EZCast Pro Box II](/assets/img/ProIIStick.Poor.Internet.Signal.jpg)
+![EZCast Pro Box II](/assets/img/ProII.Poor.Internet.Signal.jpg)
 
 ## Zubehör
+
+### Samsung USB-Netzteil (5V/2A) {#Samsung_USB-Netzteil_5V_2A}
+
+Die EZCast Pro Box II benötigt eine stabile Stromversorgung von mindestens 5V/2A. Stellen Sie sicher, dass Ihre EZCast Pro Box II über eine ausreichende Stromversorgung verfügt, um eine stabile Leistung des eingebetteten WLAN-Moduls zu gewährleisten. Obwohl an vielen Beamern und Bildschirmen ein USB-Anschluss zur Verfügung steht, ist die Versorgungsleistung leider oft unzureichend. Deshalb empfehlen wir die Verwendung eines externen Netzteils:
+
+![USB-Netzteil (5V/2A)](/assets/img/EZCastProII.USBCharger.png)
+
+Die EZCast Pro Box II benötigt eine stabile Stromversorgung von 5V/2A. Obwohl an vielen Beamern und Bildschirmen ein USB-Anschluss zur Verfügung steht, ist die Versorgungsleistung leider oft unzureichend. Deshalb empfehlen wir die Verwendung eines externen Netzteils, wie zum Beispiel das [Samsung USB-Netzteil (5V/2A)](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger). Dieses Netzteil liefert einen USB-Anschluss mit 5V/2A für die EZCast Pro Box II.
+
+![EZCast Pro Box II und Samsung USB-Netzteil](/assets/img/IMG_4185c.jpg)
 
 ### 2in1-Steckdose und USB-Netzteil (5V/2A) {#2in1_USB_Adapter_Steckdose}
 
@@ -33,4 +43,10 @@ Mit [diesem Stromadapter](https://www.amazon.de/Stromadapter-Schuko-Buchse-Kaltg
 ![Stromadapter Schuko Buchse auf Kaltgeräte Stecker](/assets/img/Power_Adaptor_Female_to_IEC-Plug.jpg)
 
 
+## Ersatz Stromkabel
 
+### USB 2.0 Typ A Stecker zu 5,5/2,1 mm 
+
+Ersatzstromkabel [USB 2.0 Typ A Stecker zu 5,5/2,1 mm](https://www.amazon.de/dp/B00M552AE2/ref=psdc_1626220031_t2_B00JA8U7Y2?language=en_GB&th=1) sind im Amazon Store zu bestellen:
+
+![USB 2.0 Typ A Stecker zu 5,5/2,1 mm](/assets/img/USB-2.0-TypA-Stecker-to-5.5-2.1mm.jpg)
