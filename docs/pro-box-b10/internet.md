@@ -10,6 +10,8 @@ Für die EZCast Pro Box II wird eine Internetverbindung in folgenden Fällen ben
 
 * Sie möchten per Fernzugriff auf die Erweiterte Einstellungen zugreifen, um die EZCast Pro Box  II zu verwalten.
 
+* Integriertes Netzwerk: Wenn alle Ihre Endgeräte und EZCast Pro-Geräte im gleichen Netzwerk organisiert sind, entfällt die Notwendigkeit, jedes Mal zur SSID des EZCast Pro zu wechseln, wenn Sie Ihren Bildschirm in einem anderen Raum übertragen möchten.
+
 !!! info "Hinweis"
 
     Eine Miracast-Verbindung mit der EZCast Pro Box II wird als zusätzliche WLAN-Verbindung nur zur Übertragung des Bildschirms ausgebaut. Für die Internetinhalte verwendet das Endgerät die bisherige bzw. die zuletzt verbundene WLAN/LAN Internetverbindung oder es nutzt den mobilen Datenzugang eines Providers. Weitere Informationen zu Miracast finden Sie [hier](miracast.md).
