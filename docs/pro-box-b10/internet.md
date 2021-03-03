@@ -4,7 +4,7 @@
 
 Für die EZCast Pro Box II wird eine Internetverbindung in folgenden Fällen benötigt:
 
-* Sie sind mit der EZCast Pro Box II verbunden z.B. per [Apple AirPlay](airplay.md) oder die [Software](quickstart.md#windows-und-macos) und möchten Inhalte vom Internet präsentieren.
+* Sie möchten Inhalte vom Internet über [Apple AirPlay](airplay.md), [Chromecast](chromecast.md) oder die EZCast Pro  [Software bzw. die App](ezcastproapp.md) übertragen.
 
 * Sie möchten die EZCast Pro Box II auf die neueste Firmware-Version [aktualisieren](firmware-upgrade.md).
 
