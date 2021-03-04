@@ -38,7 +38,7 @@ Suchen Sie die App **EZCast Pro** im [Apple App-Store](https://apps.apple.com/ap
 
 Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#Connect_ProBoxII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
-![Die Startseite](/assets/img/Startseite_ProBoxII.png)
+![Die Startseite](/assets/img/B10_landingpage.png)
 
 Gehen Sie jetzt wie folgt vor:
 
@@ -66,7 +66,7 @@ Laden Sie bitte die Software für [Windows](https://www.ezcast.com/app/ezcast/pr
 
 Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#Connect_ProBoxII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
-![Die Startseite](/assets/img/Startseite_ProBoxII.png)
+![Die Startseite](/assets/img/B10_landingpage.png)
 
 Gehen Sie jetzt wie folgt vor:
 

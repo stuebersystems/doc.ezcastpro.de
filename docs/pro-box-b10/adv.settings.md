@@ -335,7 +335,7 @@ Standardmäßig werden beide Wege per die Option `Über Router oder direkte Verb
 
 Mit den ersten zwei Optionen `Über Router oder direkte Verbindung` sowie mit `Nur direkte Verbindung` werden die SSID und das Kennwort dazu auf der Startseite angezeigt, wie unten abgebildet:
 
-![](/assets/img/Startseite_ProBoxII.png)
+![](/assets/img/B10_landingpage.png)
 
 Mit `Nur über Router` wird der Access-Point der EZCast Pro Box II  ausgeschaltet und Sie können nur über Ihren Router mit der Box verbinden. Die SSID und das Kennwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse der Box wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
 
