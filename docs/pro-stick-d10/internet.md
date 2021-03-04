@@ -4,15 +4,13 @@
 
 Für den EZCast Pro Stick II wird eine Internet-Verbindung in folgenden Fällen benötigt:
 
-* Sie möchten Inhalte vom Internet über [Apple AirPlay](airplay.md), [Chromecast](chromecast.md) oder die EZCast Pro  [Software bzw. die App](ezcastproapp.md) übertragen.
-
-* Sie sind mit dem Pro Stick II verbunden z.B. per [Apple AirPlay](airplay.md) oder die [Software](quickstart.md#windows-und-macos) und möchten Inhalte vom Internet präsentieren.
+* Sie sind mit dem Pro Stick II per [Apple AirPlay](airplay.md), [Chromecast](chromecast.md) oder die EZCast Pro [Software bzw. die App](ezcastproapp.md) verbunden und möchten Inhalte vom Internet präsentieren.
 
 * Sie möchten den Pro Stick II auf die neueste Firmware-Version [aktualisieren](firmware-upgrade.md).
 
-* Sie möchten per Fernzugriff auf die Erweiterte Einstellungen zugreifen, um der EZCast Pro Stick II zu verwalten.
-
-* Integriertes Netzwerk: Wenn alle Ihre Endgeräte und EZCast Pro-Geräte im gleichen Netzwerk organisiert sind, entfällt die Notwendigkeit, jedes Mal zur SSID des EZCast Pro zu wechseln, wenn Sie Ihren Bildschirm in einem anderen Raum übertragen möchten.
+* Sie möchten per Fernzugriff auf die Funktion [Erweiterte Einstellungen](adv.settings.md) zugreifen, um den EZCast Pro Stick II zu verwalten.
+  
+* Integriertes Netzwerk: Wenn alle Ihre Endgeräte und EZCast Pro-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des EZCast Pro zu wechseln, wenn Sie Ihren Bildschirm in einen anderen Raum übertragen möchten.
 
 !!! info "Hinweis"
 

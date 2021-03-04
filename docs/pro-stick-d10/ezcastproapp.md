@@ -179,13 +179,18 @@ Außerdem können Sie Untertiteldateien mit Videos synchronisieren, Stellen Sie 
 
     Es werden alle gängigen Videoformate unterstützt. Für die Untertitelformate werden die Formate srt, smi, ssa und cdg mit UTF-8-Kodierung unterstützt.
 
+
 ## AirView
 
 Mit AirView hat man die Möglichkeit, eine Bildausgabe der Präsentation auf seinem Endgerät anzusehen. Standardmäßig ist diese Funktion freigeschaltet. Sollte diese nicht funktionieren, kontrollieren Sie bitte, ob AirView in der [Konfiguration](adv.settings.md#AirView) der Firmware freigeschaltet ist.
 
 ![Ein Endgerät auf ein Public Display und mehrere Endgeräte](/assets/img/airviewapp.png)
 
-In der EZCast Pro Software für Windows und macOS findet man AirView oben rechts.
+Die Funktion AirView ist
+
+* in der EZCast Pro Software für Windows und macOS oben rechts 
+
+* und in der App für Android und iOS in der Funktionsliste zu finden.
 
 ![](/assets/img/airViewapp2.png)
 

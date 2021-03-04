@@ -4,13 +4,13 @@
 
 Für die EZCast Pro Box II wird eine Internetverbindung in folgenden Fällen benötigt:
 
-* Sie möchten Inhalte vom Internet über [Apple AirPlay](airplay.md), [Chromecast](chromecast.md) oder die EZCast Pro  [Software bzw. die App](ezcastproapp.md) übertragen.
+* Sie sind mit der Pro Box II per [Apple AirPlay](airplay.md), [Chromecast](chromecast.md) oder die EZCast Pro [Software bzw. die App](ezcastproapp.md) verbunden und möchten Inhalte vom Internet präsentieren.
 
-* Sie möchten die EZCast Pro Box II auf die neueste Firmware-Version [aktualisieren](firmware-upgrade.md).
+* Sie möchten die Pro Box II auf die neueste Firmware-Version [aktualisieren](firmware-upgrade.md).
 
-* Sie möchten per Fernzugriff auf die Erweiterte Einstellungen zugreifen, um die EZCast Pro Box  II zu verwalten.
-
-* Integriertes Netzwerk: Wenn alle Ihre Endgeräte und EZCast Pro-Geräte im gleichen Netzwerk organisiert sind, entfällt die Notwendigkeit, jedes Mal zur SSID des EZCast Pro zu wechseln, wenn Sie Ihren Bildschirm in einem anderen Raum übertragen möchten.
+* Sie möchten per Fernzugriff auf die Funktion [Erweiterte Einstellungen](adv.settings.md) zugreifen, um die EZCast Pro Box II zu verwalten.
+  
+* Integriertes Netzwerk: Wenn alle Ihre Endgeräte und EZCast Pro-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des EZCast Pro zu wechseln, wenn Sie Ihren Bildschirm in einen anderen Raum übertragen möchten.
 
 !!! info "Hinweis"
 

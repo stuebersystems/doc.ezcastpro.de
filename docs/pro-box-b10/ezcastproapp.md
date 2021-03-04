@@ -183,7 +183,11 @@ Mit AirView hat man die Möglichkeit, eine Bildausgabe der Präsentation auf sei
 
 ![Ein Endgerät auf ein Public Display und mehrere Endgeräte](/assets/img/airviewapp.png)
 
-In der EZCast Pro Software für Windows und macOS findet man AirView oben rechts.
+Die Funktion AirView ist
+
+* in der EZCast Pro Software für Windows und macOS oben rechts 
+
+* und in der App für Android und iOS in der Funktionsliste zu finden.
 
 ![](/assets/img/airViewapp2.png)
 
