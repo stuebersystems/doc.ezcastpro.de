@@ -50,7 +50,7 @@ Trotz des Names, befinden sich nicht nur Einstellungen zu der Erhebung Ihrer Per
 
 ### Name personalisieren
 
-Wenn Sie zum ersten Mal die App aufrufen, ist es empfehlenswert Ihren Namen in der Software einzugeben. So kann der Host leichter erkennen, welcher Teilnehmer übertragen möchte bzw. von wem er einen Antrag zum Senden erhält:
+Wenn Sie zum ersten Mal die App aufrufen, ist es empfehlenswert Ihren Namen in der Software einzugeben. Trotz der Bezeichnung "Hostname" ist er eigentlich eine Kennung sowohl für Gäste als auch für den Host. So kann der Host leichter erkennen, welcher Teilnehmer übertragen möchte bzw. von wem er einen Antrag zum Senden erhält:
 
 ![](/assets/img/AppHostName.jpg)
 
