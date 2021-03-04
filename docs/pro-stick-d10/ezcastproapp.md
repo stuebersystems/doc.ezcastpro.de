@@ -98,7 +98,7 @@ Wenn `Automatischer Ablauf zulassen` aktiviert ist, benötigt kein Gast die Gene
 
 Die obengenannten Eigenschaften befinden sich in der Rubrik [Datenschutz](#datenschutz).
 
-Weitere Einstellungen zur Host-Kontrolle, die Sie permanent in der Firmwarekonfiguration einstellen können, finden Sie in der Rubrik [Erweiterte Einstellungen -> Host-Kontrolle](adv.settings.md#Host-Steuerung).
+Weitere Einstellungen zur Host-Kontrolle, die Sie permanent in der Firmwarekonfiguration einstellen können, finden Sie in der Rubrik [Erweiterte Einstellungen -> Host-Kontrolle](adv.settings.md#Host-Kontrolle).
 
 ## Bildschirm aufteilen
 
@@ -144,7 +144,7 @@ Die Funktion Konferenzsteuerung befindet sich unter der Rubrik **Erweiterte Eins
 
 !!! tip "Hinweis"
 
-    Um auf die Konferenzsteuerung zugreifen zu können, muss der `Admin` dem Host die entsprechende Berechtigung in der Gast-Behörde zulassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md#Host-Authority).
+    Um auf die Konferenzsteuerung zugreifen zu können, muss der `Admin` dem Host die entsprechende Berechtigung zulassen. Weitere Informationen zu diesem Thema finden Sie [hier](adv.settings.md#Host-permissions).
 								
 ## Aktualisieren
 
