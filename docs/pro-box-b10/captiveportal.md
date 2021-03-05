@@ -8,7 +8,7 @@ Ein Captive Portal präsentiert dem Benutzer eine Anmeldeseite, die sich nach de
 
 Da ein Captive Portal ein manuelles Eingeben der Zugangsdaten benötigt, kann EZCast Pro sich nicht in einem Captive Portal anmelden. Jedoch, es ist möglich EZCast Pro in Ihre Infrastruktur zu integrieren, in dem Sie eine `MAC-Authentifizierung` als eine Ausnahme auf Ihrem Router bzw. auf Ihrer Firewall erstellen, damit dieser Schritt entfällt.
 
-Die MAC-Adresse der EZCast Pro Box II ist im Rubrik `Über` in den [Erweiterten Einstellungen](adv.settings.md) zu finden:
+Die MAC-Adresse der EZCast Pro Box II ist im Rubrik `Über das Gerät` in der Funktion [Erweiterte Einstellungen](adv.settings.md) zu finden:
 
 ![MAC-Adresse im Rubrik Über](/assets/img/D10.About.MAC.png)
 
@@ -20,13 +20,13 @@ Es gibt anschließend eine mögliche Sicherheitslücke, die Sie leicht überwind
 
 Damit die EZCast Pro Box II den Nutzern keinen Zugang zu Ihrem Netzwerk ermöglicht, ohne sich erst über das Captive Portal anmelden zu müssen, stellen Sie die Verbindungsmöglichkeit der EZCast Pro Box II auf `Nur via Router` um.
 
-![Verbindung - Nur via Router](/assets/img/Connection_EZCastProII.jpg)
+![Verbindung - Nur via Router](/assets/img/ezcastpro.II.via.Router.only.settings.png)
 
 Weitere Informationen bzgl. `Direkte Verbindung` und `Über Router` [finden Sie hier](adv.settings.md#Connection_to_Receiver).
 
-Mit `Nur über Router` **(Nur via Router)** wird der Access-Point der EZCast Pro Box II  ausgeschaltet und Sie können nur über Ihren Router mit der Box verbinden. Die SSID und das Passwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse der Box wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
+Mit der Einstellung `Nur über Router` wird der Access-Point der EZCast Pro Box II  ausgeschaltet und Sie können nur über Ihren Router mit der Box verbinden. Die SSID und das Passwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse der Box wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
 
-![](/assets/img/ezcastpro.II.Nur.Ueber.Router.jpg)
+![](/assets/img/ezcastpro.II.via.Router.only.png)
 
 !!! info "Info"
 

@@ -314,7 +314,7 @@ Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Erste
 
     Sie verbinden Ihr Endgerät (Windows/Android/Apple/etc.) mit dem Hotspot des EZCast Pro Empfängers über die auf dem Bildschirm angezeigte SSID. Inhalte vom Internet werden im zweiten Schritt über die [Internetzugang-Funktion](internet.md) des Empfängers zu Ihrem Endgerät geliefert, wenn der Administrator dies freischaltet. Dies bietet im Prinzip die beste Bandbreite zwischen Ihrem Gerät und dem EZCast Pro Empfänger, wenn die Entfernung vom Netzwerk-Zugangspunkt sehr groß ist. Bei dieser Option muss der Benutzer vom bisherigen Netzwerk auf ein anderes Netzwerk d.h. die SSID des Empfängers wechseln.
 
-    ![Die Zugangsdaten SSID u. Kennwort der direkten Verbindung werden oben angezeigt](/assets/img/ezcastpro.II.Direkte_Verbindung_zugangsdaten.jpg)
+    ![Die Zugangsdaten SSID u. Kennwort der direkten Verbindung werden oben angezeigt](/assets/img/ezcastpro.II.ssid_password.png)
 
     ![In der EZCast Pro Software wird eine verfügbare direkte Verbindung mit einem Symbol des Sticks rechts angezeigt](/assets/img/ezcastpro.II.App.Direkte_Verbindung.png)
 
@@ -330,11 +330,11 @@ Standardmäßig werden beide Wege per die Option `Über Router oder direkte Verb
 
 Mit den ersten zwei Optionen `Über Router oder direkte Verbindung` sowie mit `Nur direkte Verbindung` werden die SSID und das Kennwort dazu auf der Startseite angezeigt, wie unten abgebildet:
 
-![](/assets/img/ezcastpro.II.Direkte_Verbindung.jpg)
+![](/assets/img/ProIIDongle_landingpage.png)
 
 Mit `Nur über Router` wird der Access-Point des EZCast Pro Stick II  ausgeschaltet und Sie können nur über Ihren Router mit dem Stick verbinden. Die SSID und das Kennwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse dem Stick Box wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
 
-![](/assets/img/ezcastpro.II.Nur.Ueber.Router.jpg)
+![](/assets/img/ezcastpro.II.via.Router.only.png)
 
 !!! warning "Achtung"
 
@@ -370,4 +370,4 @@ Nutzen Sie diese Option, um den Pro Stick neu zu starten.
 
 Nutzen Sie diese Option, um eine Übersicht des Pro Sticks z.B. Firmware-Version, IP-Adresse sowie Daten zum WLAN zu erhalten.
 
-![](/assets/img/D10.about_stick.jpg)
+![](/assets/img/D10.about_stick.png)

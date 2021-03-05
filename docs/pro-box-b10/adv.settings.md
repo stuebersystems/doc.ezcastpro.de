@@ -315,7 +315,7 @@ Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Erste
 
     Die Zugangsdaten SSID u. Kennwort der direkten Verbindung werden oben angezeigt: 
 
-    ![Die Zugangsdaten SSID u. Kennwort der direkten Verbindung werden oben angezeigt](/assets/img/ezcastpro.II.Box_Direkte_Verbindung_zugangsdaten.png)
+    ![Die Zugangsdaten SSID u. Kennwort der direkten Verbindung werden oben angezeigt](/assets/img/ezcastpro.II.ssid_password.png)
 
     In der EZCast Pro Software wird eine verfügbare direkte Verbindung mit einem Symbol der Box rechts angezeigt: 
 
@@ -339,7 +339,7 @@ Mit den ersten zwei Optionen `Über Router oder direkte Verbindung` sowie mit `N
 
 Mit `Nur über Router` wird der Access-Point der EZCast Pro Box II  ausgeschaltet und Sie können nur über Ihren Router mit der Box verbinden. Die SSID und das Kennwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse der Box wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
 
-![](/assets/img/ezcastpro.II.Nur.Ueber.Router.jpg)
+![](/assets/img/ezcastpro.II.via.Router.only.png)
 
 !!! warning "Achtung"
 
@@ -375,4 +375,4 @@ Nutzen Sie diese Option, um die Pro Box neu zu starten.
 
 Nutzen Sie diese Option, um eine Übersicht der Pro Box z.B. Firmware-Version, IP-Adresse sowie Daten zum WLAN zu erhalten.
 
-![](/assets/img/D10.about_stick.jpg)
+![](/assets/img/D10.about_stick.png)
