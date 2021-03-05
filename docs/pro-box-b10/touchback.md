@@ -14,7 +14,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 ## Firmware-Version prüfen
 
-* Schalten Sie die EZCast Pro Box II ein. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.8617.18` angezeigt wird, wie unten abgebildet. Wenn nötig, aktualisieren Sie bitte Ihre [Firmware](firmware-upgrade).
+* Schalten Sie die EZCast Pro Box II ein. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.8617.18` angezeigt wird, wie unten abgebildet. Wenn nötig, aktualisieren Sie bitte Ihre [Firmware](firmware-upgrade.md).
 
 ![Touch-Back-Funktion wird ab der Firmware-Version 1.8617.18 freigeschaltet](/assets/img/ProIIBox_Firmware-Version.png)
 
