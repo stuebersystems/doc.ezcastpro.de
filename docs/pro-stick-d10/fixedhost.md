@@ -10,13 +10,9 @@ In der Software für Windows/macOS wird Ihre Rolle als Host/Gast bezeichnet, wie
 
 ![](/assets/img/AppRolle-Host.png)
 
-In der App für iOS/Android wird Ihre Rolle bezeichnet, wie unten abgebildet:
+In der App für iOS/Android können Sie die Bezeichnung Ihrer Rolle einsehen, indem Sie oben links auf Einstellungen tippen:
 
-* Wählen Sie die Schaltfläche `Einstellungen` oben links.
-
-![](/assets/img/iOS_settings.jpg)
-
-![](/assets/img/ProIIStick_Gast.jpg)
+![](/assets/img/App-IosAndroidHost.png)
 
 ## Voraussetzungen
 
