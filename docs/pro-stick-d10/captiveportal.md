@@ -16,11 +16,11 @@ Eine MAC-Adresse ist die bessere Wahl als die Verwendung einer IP-Adresse, da si
 
 ## Die Direkte Verbindung deaktivieren
 
-Damit der EZCast Pro Stick II den Nutzern keinen Zugang zu Ihrem Netzwerk ermöglicht, ohne sich erst über das Captive Portal anmelden zu müssen, stellen Sie die Verbindungsmöglichkeit des EZCast Pro Stick II auf `Nur via Router` um.
+Damit der EZCast Pro Stick II den Nutzern keinen Zugang zu Ihrem Netzwerk ermöglicht, ohne sich erst über das Captive Portal anmelden zu müssen, stellen Sie die Verbindungsmöglichkeit des EZCast Pro Stick II auf `Nur über Router` um.
 
-![Verbindung - Nur via Router](/assets/img/ezcastpro.II.via.Router.only.settings.png)
+![Verbindung - Nur über Router](/assets/img/ezcastpro.II.via.Router.only.settings.png)
 
-Weitere Informationen bzgl. `Direkte Verbindung` und `Über Router` [finden Sie hier](adv.settings.md#Connection_to_Receiver).
+Weitere Informationen zu den Netzwerkschnittstellen von EZCast Pro II sind im Rubrik [Verbindung](adv.settings.md#networkinterfaces) in der Funktion Erweiterte Einstellungen zu finden.
 
 Mit der Einstellung `Nur über Router` wird der Access-Point des EZCast Pro Stick II ausgeschaltet und Sie können nur über Ihren Router mit den Stick verbinden. Die SSID und das Passwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse des Sticks wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
 

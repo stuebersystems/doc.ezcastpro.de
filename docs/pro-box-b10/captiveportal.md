@@ -18,11 +18,11 @@ Eine MAC-Adresse ist die bessere Wahl als die Verwendung einer IP-Adresse, da si
 
 Es gibt anschließend eine mögliche Sicherheitslücke, die Sie leicht überwinden können:
 
-Damit die EZCast Pro Box II den Nutzern keinen Zugang zu Ihrem Netzwerk ermöglicht, ohne sich erst über das Captive Portal anmelden zu müssen, stellen Sie die Verbindungsmöglichkeit der EZCast Pro Box II auf `Nur via Router` um.
+Damit die EZCast Pro Box II den Nutzern keinen Zugang zu Ihrem Netzwerk ermöglicht, ohne sich erst über das Captive Portal anmelden zu müssen, stellen Sie die Verbindungsmöglichkeit der EZCast Pro Box II auf `Nur über Router` um.
 
 ![Verbindung - Nur via Router](/assets/img/ezcastpro.II.via.Router.only.settings.png)
 
-Weitere Informationen bzgl. `Direkte Verbindung` und `Über Router` [finden Sie hier](adv.settings.md#Connection_to_Receiver).
+Weitere Informationen zu den Netzwerkschnittstellen von EZCast Pro II sind im Rubrik [Verbindung](adv.settings.md#networkinterfaces) in der Funktion Erweiterte Einstellungen zu finden.
 
 Mit der Einstellung `Nur über Router` wird der Access-Point der EZCast Pro Box II  ausgeschaltet und Sie können nur über Ihren Router mit der Box verbinden. Die SSID und das Passwort werden ausgegraut und die vom Router vergebenen IP-Adresse bzw. die statische IP-Adresse der Box wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
 

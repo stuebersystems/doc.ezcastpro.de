@@ -306,7 +306,7 @@ Einen OTA-Server angeben.
 
 ![](/assets/img/OTA_server.jpg)
 
-#### Verbindung (mit dem Empfänger) {#Connection_to_Receiver}
+### Verbindung (Netzwerkschnittstellen) {#networkinterfaces}
 
 Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Ersteinrichtung des Sticks steht Ihnen standardmäßig die **Direkte Verbindung** zur Verfügung.
 
@@ -324,7 +324,7 @@ Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Erste
 
     ![In der EZCast Pro Software wird eine verfügbare Verbindung über Router mit einem Symbol des Routers rechts angezeigt](/assets/img/ezcastpro.II.App.connect.via.Router.png)
 
-Standardmäßig werden beide Wege per die Option `Über Router oder direkte Verbindung` freigeschaltet. Jedoch haben Sie die Wahl beide Möglichkeiten zu erlauben oder eine Seite zu deaktivieren:
+Standardmäßig werden beide Netzwerkschnittstellen durch die Einstellung `Über Router oder direkte Verbindung` freigeschaltet. Sie haben jedoch die Wahl, eine der Netzwerkschnittstellen zu deaktivieren:
 
 ![](/assets/img/Connection_EZCastProII.png)
 

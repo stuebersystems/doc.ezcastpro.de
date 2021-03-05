@@ -20,7 +20,7 @@ Sollten Sie eine schlechte Übertragungsqualität feststellen, liegt es wahrsche
 
 ## Internet-Router-Signalstärke
 
-Ein rot angezeigtes Internet-Router-Symbol bezieht sich auf eine schlechte Signalstärke zwischen dem EZCast Pro Stick II und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind bzw. wenn Sie [Verbindungen](adv.settings.md#Connection_to_Receiver) `nur über Router` erlauben.
+Ein rot angezeigtes Internet-Router-Symbol bezieht sich auf eine schlechte Signalstärke zwischen dem EZCast Pro Stick II und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind bzw. wenn Sie [Verbindungen](adv.settings.md#networkinterfaces) `nur über Router` erlauben.
 
 Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 
