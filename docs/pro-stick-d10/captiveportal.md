@@ -10,7 +10,7 @@ Da ein Captive Portal ein manuelles Eingeben der Zugangsdaten benötigt, kann EZ
 
 Die MAC-Adresse des EZCast Pro Stick II ist im Rubrik `Über` in den [Erweiterten Einstellungen](adv.settings.md) zu finden:
 
-![MAC-Adresse im Rubrik Über](/assets/img/D10.About.MAC.jpg)
+![MAC-Adresse im Rubrik Über](/assets/img/D10.About.MAC.png)
 
 Eine MAC-Adresse ist die bessere Wahl als die Verwendung einer IP-Adresse, da sich die MAC-Adresse nicht ändert. Bitte wenden Sie sich an Ihre IT-Abteilung, um die MAC-Adresse des EZCast Pro Stick II zuzulassen.
 
