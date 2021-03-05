@@ -19,7 +19,7 @@ Die Chromecast-Funktion mit Unterstützung für aufgeteiltes Display benötigt d
 
 Bei der Erstverbindung ist ein WLAN bzw. eine Internetvebindung erforderlich
 
-![Chromecast mit Unterstützung für aufgeteiltes Display steht ab der Firmware-Version 1.8617.18 zur Verfügung](/assets/img/ProIIStick_Firmware-Version.1.8617.18.png)
+![Chromecast mit Unterstützung für aufgeteiltes Display steht ab der Firmware-Version 1.8617.18 zur Verfügung](/assets/img/ProIIDongle_Firmware-Version.png)
 
 ## Chromecast freischalten
 

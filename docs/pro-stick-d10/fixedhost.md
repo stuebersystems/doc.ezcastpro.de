@@ -22,7 +22,7 @@ Einen festgelegten Host können Sie ab der Firmware-Version `1.4807.0` auswähle
 
 * Schalten Sie den EZCast Pro Stick II ein. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.4807.0` angezeigt wird, wie unten abgebildet. Wenn nötig, aktualisieren Sie bitte Ihre [Firmware](firmware-upgrade.md).
 
-![Festgelegter Host wird ab der Firmware-Version 1.4807.0 ermöglicht](/assets/img/ProIIStick_Firmware-Version.1.8617.18.png)
+![Festgelegter Host wird ab der Firmware-Version 1.4807.0 ermöglicht](/assets/img/ProIIDongle_Firmware-Version.png)
 
 ## Wie lege ich den Host fest?
 
