@@ -34,7 +34,7 @@ Sie können die EZCast Pro Box II wiederherstellen, indem Sie die Firmware neu i
 
 * Wenn die folgende Sicherheitsmeldung erscheint, wählen Sie **„Installieren“**:
 
-![Wählen Sie Installieren](/assets/img/EZCastPro_Upgrade_Tool_Driver.Install.jpg)
+![Wählen Sie Installieren](/assets/img/EZCastPro_Upgrade_Tool_Driver.Install.png)
 
 
 ## USB Typ A Kabel anschließen

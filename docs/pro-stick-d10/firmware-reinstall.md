@@ -34,7 +34,7 @@ Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder e
 
 * Wenn die folgende Sicherheitsmeldung erscheint, wählen Sie **„Installieren“**:
 
-![Wählen Sie Installieren](/assets/img/EZCastPro_Upgrade_Tool_Driver.Install.jpg)
+![Wählen Sie Installieren](/assets/img/EZCastPro_Upgrade_Tool_Driver.Install.png)
 
 
 ## USB Typ C Kabel anschließen
