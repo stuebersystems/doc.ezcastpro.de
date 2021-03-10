@@ -56,7 +56,7 @@ Nach dem Neustart wird die aktuelle Version der Firmware unten rechts auf der St
 
 ## Einstellungen nach der Firmware-Aktualiserung {#recommendedsettings}
 
-Nach einer Firmware-Aktualiserung stehen neue Funktionen zur Verfügung. Unsere empfohlene Einstellungen [finden Sie hier](reset.md#recommendedsettings).
+Nach einer Firmware-Aktualiserung überprüfen Sie alle Einstellungen und neue Funktionen, die zur Verfügung. Unsere empfohlene Einstellungen [finden Sie hier](reset.md#recommendedsettings).
 
 !!! tip "Hinweis"
     

@@ -352,7 +352,7 @@ Sie können die Firmware des EZCast Pro Stick II aktualisieren, um die neuesten 
 
 ![](/assets/img/Update.jpg)
 
-Klicken Sie [hier](firmware-upgrade.md) für eine vollständige Anleitung zum aktualisieren der Firmware.
+Klicken Sie [hier](firmware-upgrade.md) für eine vollständige Anleitung zum Aktualisieren der Firmware.
 
 #### Auf Standardeinstellungen zurücksetzen {#Reset}
 
