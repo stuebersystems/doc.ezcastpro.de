@@ -4,17 +4,13 @@ Mit der Funktion `Erweiterte Einstellungen` können Sie die Firmware aktualisier
 
 Rufen Sie die Software bzw. die App `EZCastPro`auf Ihrem Gerät auf.
 
-Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
+* Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
 
-![](/assets/img/ProII-Win-App-Advanced-Settings.png)
+![](/assets/img/Win-App-Advanced-Settings.png)
 
-Auf iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links.
+* Auf iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
 
-![die Schaltfläche `Einstellungen' auf Auf iOS/Android](/assets/img/App-IosAndroidHost.png)
-
-Auf iOS/Android wählen Sie anschließend `Erweitert` bzw. `Erweiterte Einstellungen`.
-
-![](/assets/img/iOS_adv-settings.jpg)
+![](/assets/img/iOS_adv-settings.png)
 
 ## Anmeldung
 
@@ -101,13 +97,13 @@ Hier legen Sie fest, ob die Anzeige Ihres Endgeräts auf dem externen Bildschirm
 
 ![](/assets/img/ezcastpro.II.anzeigemodus.png)
 
-##### ORIGINAL
+##### Original
 
 Mit Original-Modus wird das ursprüngliche Seitenverhältnis des Endgeräts z.B. eines iPads auf dem externen Bildschirm bzw. auf dem Beamer angezeigt:
 
 ![Das iPad wird im Original angezeigt](/assets/img/NEC_E506_Original.png)
 
-##### VOLLBILD
+##### Vollbild
 
 Mit Vollbild-Modus wird die Eingabe des Endgeräts automatisch angepasst, um das gleiche Seitenverhältnis wie der externe Bildschirm bzw. der Beamer zu haben:
 
@@ -305,7 +301,7 @@ Einen OTA-Server angeben.
 
 ![](/assets/img/OTA_server.jpg)
 
-### Verbindung (Netzwerkschnittstellen) {#networkinterfaces}
+#### Verbindung (Netzwerkschnittstellen) {#networkinterfaces}
 
 Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Ersteinrichtung der Box steht Ihnen standardmäßig die **Direkte Verbindung** zur Verfügung.
 

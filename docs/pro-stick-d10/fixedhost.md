@@ -14,10 +14,6 @@ In der App für iOS/Android können Sie die Bezeichnung Ihrer Rolle einsehen, in
 
 ![](/assets/img/App-IosAndroidHost.png)
 
-## Voraussetzungen
-
-Einen festgelegten Host können Sie ab der Firmware-Version `1.4807.0` auswählen.
-
 ## Firmware-Version prüfen
 
 * Schalten Sie den EZCast Pro Stick II ein. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.4807.0` angezeigt wird, wie unten abgebildet. Wenn nötig, aktualisieren Sie bitte Ihre [Firmware](firmware-upgrade.md).
@@ -32,9 +28,13 @@ Das Updaten der Firmware kann über `Erweiterte Einstellungen` eines beliebigen 
 
 * Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf.
 
-* Wählen Sie `Erweiterte Einstellungen` unten links.
+* Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
 
-![](/assets/img/ProII-Win-App-Advanced-Settings.png)
+![](/assets/img/Win-App-Advanced-Settings.png)
+
+* Auf iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
+
+![](/assets/img/iOS_adv-settings.png)
 
 ### Anmeldung
 

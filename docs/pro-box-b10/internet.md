@@ -2,7 +2,7 @@
 
 ## Wozu braucht die EZCast Pro Box II einen Internetzugang?
 
-Für die EZCast Pro Box II wird eine Internetverbindung in folgenden Fällen benötigt:
+Für die EZCast Pro Box II wird eine Internet-Verbindung in folgenden Fällen benötigt:
 
 * Sie sind mit der Pro Box II per [Apple AirPlay](airplay.md), [Chromecast](chromecast.md) oder die EZCast Pro [Software bzw. die App](ezcastproapp.md) verbunden und möchten Inhalte vom Internet präsentieren.
 
@@ -14,32 +14,62 @@ Für die EZCast Pro Box II wird eine Internetverbindung in folgenden Fällen ben
 
 !!! info "Hinweis"
 
-    Eine Miracast-Verbindung mit der EZCast Pro Box II wird als zusätzliche WLAN-Verbindung nur zur Übertragung des Bildschirms ausgebaut. Für die Internetinhalte verwendet das Endgerät die bisherige bzw. die zuletzt verbundene WLAN/LAN Internetverbindung oder es nutzt den mobilen Datenzugang eines Providers. Weitere Informationen zu Miracast finden Sie [hier](miracast.md).
+    Eine Miracast-Verbindung mit der EZCast Pro Box II wird als zusätzliche WLAN-Verbindung nur zur Übertragung des Bildschirms ausgebaut. Für die Internetinhalte verwendet das Endgerät die bisherige bzw. die zuletzt verbundene WLAN/LAN Internetverbindung oder es nutzt den mobilen Datenzugang eines Providers. Weitere Informationen zu Miracast [finden Sie hier](miracast.md).
 
-## Wie verbinde ich die EZCast Pro Box  II mit einem WLAN-Router?
+## EZCast Pro Box II mit WLAN verbinden
 
-Mit dem Internet verbunden sein, bedeutet, die EZCast Pro Box  II mit Ihrem WLAN-Router zu verbinden. 
+Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie Ihr EZCast Pro Gerät mit Ihrem WLAN vebinden.
 
-Um auf das Internet zuzugreifen, finden Sie die Möglichkeit unter [Internet](adv.settings.md#Internet) in der Rubrik Netzwerkmanagement der [Erweiterte Einstellungen](adv.settings.md#Netzwerkmanagement).
+### Erweiterte Einstellungen öffnen
 
-![](/assets/img/EZCast_Wifi_Internet.jpg)
+* Rufen Sie die App bzw. die Software `EZCastPro` auf Ihrem Gerät auf und wählen Sie die Pro Box II aus der Geräteliste aus.
 
-Wenn die EZCast Pro Box II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen auf dem Bildschirm angezeigt, wie unten abgebildet:
+* Auf Windows/macOS wählen Sie `Erweiterte Einstellungen` unten links:
 
-![](/assets/img/ProStickII_connected_to_router.jpg)
+![](/assets/img/Win-App-Advanced-Settings.png)
 
-### Netzwerkkabel anschließen und verbinden
+* Auf iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
+
+![](/assets/img/iOS_adv-settings.png)
+
+### Sich als Admin anmelden
+
+* Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#zurücksetzen-per-reset-schalter) zurück.
+
+![](/assets/img/EZCastII_Login.png)
+
+### Networkeinstellungen auswählen
+
+* Aus dem Menü oben links wählen Sie `Networkeinstellungen`.
+
+![](/assets/img/ezcastpro.II.select.networksettings.png)
+
+* Wählen den Punkt `Mit 5GHz WLAN-Router/AP verbinden` aus.
+
+![](/assets/img/ezcastpro.II.select.connect5ghz.png)
+
+* Verbinden Sie die Pro Box mit Ihrem WLAN-Router.
+
+![](/assets/img/EZCastPro.II.Wifi.Internet.jpg)
+
+!!! tip "Hinweis"
+    
+	Bitte beachten: Standardmäßig kann die EZCast Pro Box II nur mit einem 5GHz WLAN-Router verbunden werden. Sie können jedoch den [Legacy-Modus (2,4 GHz WLAN)](adv.settings#legacymode) aktivieren.
+
+* Wenn die EZCast Pro Box II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+
+![](/assets/img/ProDongleII_connected_to_router.png)
+
+### EZCast Pro Box II mit LAN verbinden
 
 Schließen Sie dazu ein Netzwerkkabel in den `Ethernet` Anschluss an der Rückseite der EZCast Pro Box an und verbinden Sie das Kabel mit Ihrem Netzwerk bzw. mit Ihrem Router.
 
 ![](/assets/img/B10_ports.png)
 
-### 5Ghz WIFI-Netwerk scannen und verbinden {#Wireless_Access_Point}
-
 !!! tip "Bitte beachten"
     
-	Wenn die EZCast Pro Box II mit Ihrem Netzwerk per Ethernetkabel verbunden ist, wird diese Funktion (STA-Modus) automatisch deaktiviert.
+	Wenn ein LAN-Kabel an der Box angeschlossen ist, wird der Internetzugang per WLAN automatisch deaktiviert.
 
-Wenn Sie die EZCast Pro Box lieber per Wireless Access Point verbinden möchten, um auf das Internet zuzugreifen, finden Sie die Möglichkeit dazu im Menü [Erweiterte Einstellungen](adv.settings.md) unter der Rubrik [Netzwerkmanagement](adv.settings.md#Netzwerkmanagement).
+* Wenn die EZCast Pro Box II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
-![](/assets/img/Wifi_Internet.jpg)
+![](/assets/img/ProDongleII_connected_to_router.png)

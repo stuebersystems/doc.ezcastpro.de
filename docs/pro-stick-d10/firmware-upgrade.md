@@ -10,25 +10,27 @@ Wenn Ihr EZCast Pro Stick II nicht mit dem Internet verbunden ist, [klicken Sie 
 
 ## Firmware aktualisieren
 
-### Erweiterte Einstellungen aufrufen
+Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie die Aktualisierung der Firmware ausführen.
 
-Das Updaten der Firmware kann per die `Erweiterte Einstellungen` eines beliebigen End-Geräts durchgeführt werden. In diesem Beispiel zeigen wir Ihnen, wie das Upgrade von einem Windows-PC vorgenommen wird.
+### Erweiterte Einstellungen öffnen
 
-*   Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die [Software](quickstart.md#InstallSoftware) installiert haben und mit Ihrem EZCast Pro Stick II verbunden sind.
+* Rufen Sie die App bzw. die Software `EZCastPro` auf Ihrem Gerät auf und wählen Sie den Pro Stick II aus der Geräteliste aus.
 
-*   Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf.
+* Auf Windows/macOS wählen Sie `Erweiterte Einstellungen` unten links:
 
-*   Wählen Sie `Erweiterte Einstellungen` unten links.
+![](/assets/img/Win-App-Advanced-Settings.png)
 
-    ![](/assets/img/ProII-Win-App-Advanced-Settings.png)
+* Auf iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
 
-### Admin-Anmeldung
+![](/assets/img/iOS_adv-settings.png)
 
-*   Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#zurücksetzen-per-reset-schalter) zurück.
+### Sich als Admin anmelden
 
-    ![](/assets/img/EZCastII_Login.png)
+* Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#zurücksetzen-per-reset-schalter) zurück.
 
-### Firmware-Upgrade ausführen
+![](/assets/img/EZCastII_Login.png)
+
+### Upgrade ausführen
 
 *   Aus dem Menü wählen Sie die `Admineinstellungen` aus:
 

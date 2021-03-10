@@ -16,15 +16,46 @@ Für den EZCast Pro Stick II wird eine Internet-Verbindung in folgenden Fällen 
 
     Eine Miracast-Verbindung mit dem EZCast Pro Stick II wird als zusätzliche WLAN-Verbindung nur zur Übertragung des Bildschirms ausgebaut. Für die Internetinhalte verwendet das Endgerät die bisherige bzw. die zuletzt verbundene WLAN/LAN Internetverbindung oder es nutzt den mobilen Datenzugang eines Providers. Weitere Informationen zu Miracast [finden Sie hier](miracast.md).
 
-## Wie verbinde ich den Pro Stick II mit einem WLAN-Router?
+## EZCast ProStick II mit WLAN verbinden
 
-Mit dem Internet verbunden sein, bedeutet, den Pro Stick II mit Ihrem WLAN-Router zu verbinden. 
+Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie Ihr EZCast Pro Gerät mit Ihrem WLAN vebinden.
 
-Um auf das Internet zuzugreifen, finden Sie die Möglichkeit unter [Internet](adv.settings.md#Internet) in der Rubrik Netzwerkmanagement der [Erweiterte Einstellungen](adv.settings.md#Netzwerkmanagement).
+### Erweiterte Einstellungen öffnen
 
-![](/assets/img/EZCast_Wifi_Internet.jpg)
+* Rufen Sie die App bzw. die Software `EZCastPro` auf Ihrem Gerät auf und wählen Sie den Pro Stick II aus der Geräteliste aus.
 
-Wenn der Pro Stick II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen auf dem Bildschirm angezeigt, wie unten abgebildet:
+* Auf Windows/macOS wählen Sie `Erweiterte Einstellungen` unten links:
 
-![](/assets/img/ProStickII_connected_to_router.jpg)
+![](/assets/img/Win-App-Advanced-Settings.png)
 
+* Auf iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
+
+![](/assets/img/iOS_adv-settings.png)
+
+### Sich als Admin anmelden
+
+* Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#zurücksetzen-per-reset-schalter) zurück.
+
+![](/assets/img/EZCastII_Login.png)
+
+### Networkeinstellungen auswählen
+
+* Aus dem Menü oben links wählen Sie `Networkeinstellungen`.
+
+![](/assets/img/ezcastpro.II.select.networksettings.png)
+
+* Wählen den Punkt `Mit 5GHz WLAN-Router/AP verbinden` aus.
+
+![](/assets/img/ezcastpro.II.select.connect5ghz.png)
+
+* Verbinden Sie den Pro Stick mit Ihrem WLAN-Router.
+
+![](/assets/img/EZCastPro.II.Wifi.Internet.jpg)
+
+!!! tip "Hinweis"
+    
+	Bitte beachten: Standardmäßig kann der EZCast Pro Stick II nur mit einem 5GHz WLAN-Router verbunden werden. Sie können jedoch den [Legacy-Modus (2,4 GHz WLAN)](adv.settings#legacymode) aktivieren.
+
+* Wenn der EZCast Pro Stick II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+
+![](/assets/img/ProDongleII_connected_to_router.png)
