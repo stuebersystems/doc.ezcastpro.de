@@ -6,6 +6,22 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
+## EZCast Pro Stick II Firmware - 1.9871.34
+
+**Neue Funktionen:**
+
+* Zentrales Managementsystem Unterstützung ([CMS](cms.md))
+* Neue WLAN-Kanal Einstellung für den [Legacy-Modus (2,4 GHz WLAN)](adv.settings.md#legacymode)
+
+**Fixes:**
+
+* Verbesserte ImWeb Einstellung
+* [Android Audioübertragung](adv.settings.md#Android-Audio-Streaming) `EIN` als Standard eingestellt
+* Optimierter Energieverbrauch
+* Verbesserter Web-Zugangsschutz 
+* Aktualisierte Benutzerobefläche für die Funktionen "Musik" und "Video" in der EZCast Pro App
+* Bugs behoben
+
 ## EZCast Pro Stick II Firmware - 1.8617.21
 
 **Fixes:**
