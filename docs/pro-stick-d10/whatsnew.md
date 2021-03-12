@@ -35,7 +35,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 
 *  Geteilter Bildschirm über [Chromecast](chromecast.md): Bildschirmübertragung nativ von bis 4 Google Cast Geräten auf einem geteilten Bildschirm
 *  [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): Um die Systemleistung und Systemstabilität zu optimieren, kann der Empfänger nach 8 Stunden Inaktivität neu gestartet werden
-*  Die Funktion AirView wurde um die [Castcode-Sicherheit](adv.settings.md#Castcode-Kontrolle) erweitert.
+*  Die Funktion AirView wurde um die [Castcode-Sicherheit](castcode.md) erweitert.ssss
 *  [Automatischer Modus](adv.settings.md#AirPlayMode) wurde zur AirPlay-Funktion hinzugefügt
 *  Unterstützung der AES-Verschlüsselung für die Datenübertragung zwischen dem Web-Browser und dem EZCast Pro Stick II
 

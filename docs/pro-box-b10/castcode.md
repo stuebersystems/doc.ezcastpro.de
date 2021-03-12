@@ -49,7 +49,7 @@ Wenn ein Miracast-Gerät EZCast Pro einen Antrag zum Spiegeln sendet, taucht der
 
 ## Wie lege ich den Castcode fest?
 
-Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie Funktion Castcode einstellen.
+Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie die Funktion Castcode einstellen.
 
 ### Erweiterte Einstellungen öffnen
 

@@ -145,6 +145,8 @@ Der Castcode wird hier angezeigt:
 
 ![Der Castcode](/assets/img/B10_Castcode.png)
 
+Eine umfassende Anleitung zur Verwendung von Castcode finden Sie [hier](castcode.md).
+
 #### Max. Verbindungen {#MaxVerbindungen}
 
 Bei dieser Einstellung handelt es sich die maximale Zahl der direkten Verbindungen, die der EZCast Pro Stick II unterstützen soll. Zusätzlich werden noch 32 Verbindungen über Router unterstützt. 

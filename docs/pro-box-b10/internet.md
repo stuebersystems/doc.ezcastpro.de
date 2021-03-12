@@ -60,9 +60,9 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 ![](/assets/img/ProDongleII_connected_to_router.png)
 
-### EZCast Pro Box II mit LAN verbinden
+## EZCast Pro Box II mit LAN verbinden
 
-Schließen Sie dazu ein Netzwerkkabel in den `Ethernet` Anschluss an der Rückseite der EZCast Pro Box an und verbinden Sie das Kabel mit Ihrem Netzwerk bzw. mit Ihrem Router.
+Schließen Sie dazu ein Netzwerkkabel in den `ETHERNET` Anschluss an der Rückseite der EZCast Pro Box an und verbinden Sie das Kabel mit Ihrem Netzwerk bzw. mit Ihrem Router.
 
 ![](/assets/img/B10_ports.png)
 
