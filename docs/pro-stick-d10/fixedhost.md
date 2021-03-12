@@ -14,19 +14,13 @@ In der App für iOS/Android können Sie die Bezeichnung Ihrer Rolle einsehen, in
 
 ![](/assets/img/App-IosAndroidHost.png)
 
-## Firmware-Version prüfen
-
-* Schalten Sie den EZCast Pro Stick II ein. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.4807.0` angezeigt wird, wie unten abgebildet. Wenn nötig, aktualisieren Sie bitte Ihre [Firmware](firmware-upgrade.md).
-
-![Festgelegter Host wird ab der Firmware-Version 1.4807.0 ermöglicht](/assets/img/ProIIDongle_Firmware-Version.png)
-
 ## Wie lege ich den Host fest?
 
-Das Updaten der Firmware kann über `Erweiterte Einstellungen` eines beliebigen Endgeräts durchgeführt werden. In diesem Beispiel zeigen wir Ihnen, wie das Upgrade von einem Windows-PC vorgenommen wird.
+Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie Funktion Festgelegter Host einstellen.
 
-* Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die [Software](quickstart.md#InstallSoftware) installiert haben und mit Ihrem EZCast Pro Stick II verbunden sind.
+### Erweiterte Einstellungen öffnen
 
-* Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf.
+* Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf und wählen Sie den Pro Stick II aus der Geräteliste aus.
 
 * Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
 
@@ -36,7 +30,7 @@ Das Updaten der Firmware kann über `Erweiterte Einstellungen` eines beliebigen 
 
 ![](/assets/img/iOS_adv-settings.png)
 
-### Anmeldung
+### Sich als Admin anmelden
 
 * Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#zurücksetzen-per-reset-schalter) zurück.
 

@@ -14,19 +14,13 @@ In der App für iOS/Android können Sie die Bezeichnung Ihrer Rolle einsehen, in
 
 ![](/assets/img/App-IosAndroidHost.png)
 
-## Firmware-Version prüfen
+## Wie lege ich den Host fest?
 
-* Schalten Sie die EZCast Pro Box II ein. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.4807.0` angezeigt wird, wie unten abgebildet. Wenn nötig, aktualisieren Sie bitte Ihre [Firmware](firmware-upgrade.md).
+Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie Funktion Festgelegter Host einstellen.
 
-![Festgelegter Host wird ab der Firmware-Version 1.4807.0 ermöglicht](/assets/img/ProIIBox_Firmware-Version.png)
+### Erweiterte Einstellungen öffnen
 
-## Festgelegter Host einstellen
-
-Das Updaten der Firmware kann über `Erweiterte Einstellungen` eines beliebigen Endgeräts durchgeführt werden. In diesem Beispiel zeigen wir Ihnen, wie das Upgrade von einem Windows-PC vorgenommen wird.
-
-* Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die [Software](quickstart.md#InstallSoftware) installiert haben und mit Ihrer EZCast Pro Box II verbunden sind.
-
-* Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf.
+* Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf und wählen Sie die Pro Box II aus der Geräteliste aus.
 
 * Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
 
@@ -36,7 +30,7 @@ Das Updaten der Firmware kann über `Erweiterte Einstellungen` eines beliebigen 
 
 ![](/assets/img/iOS_adv-settings.png)
 
-### Anmeldung
+### Sich als Admin anmelden
 
 * Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#zurücksetzen-per-reset-schalter) zurück.
 
@@ -56,7 +50,7 @@ Das Updaten der Firmware kann über `Erweiterte Einstellungen` eines beliebigen 
 
 ![](/assets/img/ezcastpro.II.admineinstellungen.fixedhost.png)
 
-* Entweder wählen Sie einen aktuell verbundenen Benutzer aus oder geben Sie eine feste IP-Adresse an:
+* Entweder wählen Sie einen aktuell verbundenen Benutzer aus oder geben Sie eine feste IP-Adresse an
 
 ![](/assets/img/ProIIStick_Fixedhost.Select.png)
 
