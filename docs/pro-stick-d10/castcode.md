@@ -2,8 +2,8 @@
 
 Der Castcode gewährleistet zusätzliche Sicherheit gegen unberechtigte Bildschirmübertragung, indem jeder Gast einen vierstelligen Code eingeben muss, um Inhalte übertragen zu dürfen. So können Sie sicherstellen, dass nur Teilnehmer Inhalte übertragen, die im gleichem Raum sind. Die folgenden Einstellungen stehen zur Verfügung:
 
-* `AUS` - Kein Passcode wird benötigt
-* `Zufällig` - Zufällig (erneut sich automatisch beim Einschalten bzw. beim Neustart)
+* `AUS` - Kein Castcode wird benötigt
+* `Zufällig` - Zufällig (erneurt sich automatisch beim Einschalten bzw. beim Neustart)
 * `Fest` - Einen festens Castcode angeben
 
 Der Castcode wird oben mitten der Startseite angezeigt:
@@ -14,17 +14,20 @@ Das Endgerät gibt den Castcode ein, dann darf die Bildschirmübertragung beginn
 
 ![Der Castcode](/assets/img/Enddevice_MiracastPin.png)
 
-## Welche Gerätetypen unterstützt der Castcode?
+## Welche Streamingprotokollen unterstützt der Castcode?
 
-Der Castcode wird bei einem Antrag zum Senden von folgenden Gerätetypen aufgefordert:
+Der Castcode wird bei einem Antrag zum Senden von folgenden Streamingprotokollen bzw. Anwendungen angefordert:
 
 * Die EZCast Pro Software für Windows und macOS
 * Die EZCast Pro App für Android und iOS
 * AirPlay auf iOS und macOS
 
-## Welche Gerätetypen unterstützt der Castcode nicht?
+## Welche Streamingprotokollen unterstützt der Castcode nicht?
 
-Aufgrund einer Limitierung der Protokolle kann der Castcode unter folgenden Gerätetypen nicht unterstützt werden. Trotzdem können Sie gegen unberechtigte Bildschirmübertragung schützen:
+Aufgrund einer Limitierung der Protokollen kann der Castcode unter folgenden Streamingprotokollen nicht unterstützt werden. Trotzdem können Sie sich gegen unberechtigte Bildschirmübertragung schützen:
+
+* Google Cast
+* Miracast
 
 ### Google Cast
 
@@ -72,7 +75,7 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 ### Castcode einstellen
 
-* Aus dem Menü wählen Sie die `Gerätemanagement` aus:
+* Aus dem Menü wählen Sie `Gerätemanagement` aus:
 
 ![](/assets/img/ezcastpro.II.select.devicemanagement.png)
 
@@ -88,7 +91,7 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 ![](/assets/img/prostickII_menu.neustart.png)
 
-* Dann wählen Sie die Schaltfläche `Neustarten`.
+* Dann wählen Sie erneurt die Schaltfläche `Neustarten`.
 
 ![](/assets/img/restart.jpg)
 
