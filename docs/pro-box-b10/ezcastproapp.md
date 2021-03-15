@@ -136,9 +136,7 @@ Wie kann man die `Konferenzsteuerung` öffnen?
 
 Die Funktion Konferenzsteuerung befindet sich unter der Rubrik **Erweiterte Einstellungen**. 
 
-![](/assets/img/adv.settingsapp.png)
-
-![](/assets/img/Konferenzsteuerung6.png)
+![](/assets/img/ezcastpro.II.select.conferencecontrol.png)
 
 !!! tip "Hinweis"
 

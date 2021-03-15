@@ -12,19 +12,15 @@ Da das Zurücksetzen der Einstellungen nur über den Bereich `Erweiterte Einstel
 
 Mit Hilfe der Erweiterte Einstellungen können Sie sich anmelden und die Standardeinstellungen zurücksetzen. Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die [App](quickstart.md#InstallApp) installiert haben und dass Sie mit Ihrem EZCast Pro Stick [verbunden](quickstart.md#app-mit-ezcast-pro-stick-verbinden) sind.
 
-Rufen Sie die App `EZCastPro`auf Ihrem Gerät auf und wählen Sie den Pro Stick aus der Geräteliste aus.
+Rufen Sie die Software bzw. die App `EZCastPro`auf Ihrem Gerät auf.
 
-Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
+* Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
 
-![](/assets/img/Win-App-Advanced-Settings.jpg)
+![](/assets/img/Win-App-Advanced-Settings.png)
 
-Auf iOS/Android wählen Sie die Schaltfläche `Settings` oben links.
+* Auf iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
 
-![](/assets/img/iOS_settings.jpg)
-
-Auf iOS/Android wählen Sie anschließend `Advanced Settings` bzw. `Erweiterte Einstellungen`.
-
-![](/assets/img/iOS_adv-settings.jpg)
+![](/assets/img/iOS_adv-settings.png)
 
 ## Anmeldung
 
@@ -38,11 +34,11 @@ Standardmäßig lautet das Kennwort `000000` oder `Connect4`. Wenn dieses Kennwo
 
 Aus dem Menü oben links wählen Sie `Admin-Einstellungen`.
 
-![](/assets/img/ezcastpro.II.select.admineinstellungen.jpg)
+![](/assets/img/Admin-Settings.jpg)
 
 Wählen den Punkt `Auf Defaulteinstellung zurücksetzen` aus.
 
-![](/assets/img/ezcastpro.II.Standardeinstellungen.zuruecksetzen.jpg)
+![](/assets/img/ezcastpro.II.Standardeinstellungen.zuruecksetzen.png)
 
 Zum Bestätigen wählen Sie `Yes`.
 

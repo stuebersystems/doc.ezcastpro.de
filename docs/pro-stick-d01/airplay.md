@@ -18,19 +18,19 @@ Das Kennwort wird standardmäßig ebenfalls angezeigt (PSK).
 
 Auf Ihrem iOS-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das Kontrollzentrum aufzurufen.
 
-![Kontrollzentrum öffnen](/assets/img/iOS-Kontrolzentrum_aufrufen.png)
+![Kontrollzentrum öffnen](/assets/img/iOS-controlcenter.png)
 
-Im Kontrollzentrum tippen Sie auf `AirPlay`, anschließend wählen Sie den EZCast Pro Stick aus.
+Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend wählen Sie den EZCast Pro Stick II aus.
 
 !!! warning "Wichtig"
 
     Wenn der EZCast Pro Empfänger unter AirPlay nicht zu sehen ist, stellen Sie sicher, dass Ihr iOS-Gerät mit dem Empfänger verbunden ist.
 
-![Den EZCast Pro Empfänger](/assets/img/iOS-AirPlay-Synchr_auswaehlen.png)
+![Den EZCast Pro Empfänger](/assets/img/iOS_AirPlay_select.png)
 
 Um die Übertragung von AirPlay vom iOS-Gerät zu beenden, tippen Sie nochmal auf `AirPlay` im Kontrollzentrum, anschließend wählen Sie `AirPlay-Synchr. ausschalten` aus.
 
-![AirPlay-Synchr. ausschalten](/assets/img/iOS-AirPlay-Synchr_ausschalten.png)
+![AirPlay-Synchr. ausschalten](/assets/img/iOS_AirPlay_stop.png)
 
 ## AirPlay auf macOS
 
@@ -44,4 +44,4 @@ Auf dem Mac in der Menüleiste klicken Sie auf das AirPlay-Symbol oben im Bildsc
 
 Wählen Sie den EZCast Pro Stick aus. Wenn der Stick nicht angezeigt wird, stellen Sie sicher, dass Ihr Mac im gleichen Netzwerk verbunden ist wie der EZCast Pro Stick.
 
-![AirPlay: EZCast Pro Stick auswählen](/assets/img/macOS-AirPlay.jpg)
+![AirPlay: EZCast Pro Stick auswählen](/assets/img/iOS_AirPlay_select.png)

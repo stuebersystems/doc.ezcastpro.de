@@ -1,6 +1,6 @@
 # Erweiterte Einstellungen
 
-Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen des EZCast Pro Stick II bequem per Fernzugriff anpassen. Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die [Software bzw. die App installiert haben](quickstart.md) und mit Ihrem EZCast Pro Stick II verbunden sind.
+Mit der Funktion Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen des EZCast Pro Stick II bequem per Fernzugriff anpassen. Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die [Software bzw. die App installiert haben](quickstart.md) und mit Ihrem EZCast Pro Stick II verbunden sind.
 
 Rufen Sie die Software bzw. die App `EZCastPro`auf Ihrem Gerät auf.
 

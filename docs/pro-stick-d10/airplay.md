@@ -33,7 +33,7 @@ Auf Ihrem iOS-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das 
 
 ![Kontrollzentrum öffnen](/assets/img/iOS-controlcenter.png)
 
-Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend wählen Sie den EZCast Pro Stick II aus. list.
+Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend wählen Sie den EZCast Pro Stick II aus.
 
 !!! tip "Hinweis"
 

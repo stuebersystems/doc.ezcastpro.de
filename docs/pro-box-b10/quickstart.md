@@ -22,7 +22,7 @@ Verbinden Sie den Empfänger, wie unten abgebildet, mit dem HDMI-Eingang Ihres B
 
 Schließen Sie das Netzteil mit Hilfe des USB-Kabels an. Die EZCast Pro Box II schaltet sich automatisch ein. 
 
-![HDMI-Port + externes Netzteil (Min. 5V/2A)](/assets/img/B10_anschließen.png)
+![HDMI-Port + externes Netzteil (Min. 5V/2A)](/assets/img/B10_setup.png)
 
 ## Android und iOS
 

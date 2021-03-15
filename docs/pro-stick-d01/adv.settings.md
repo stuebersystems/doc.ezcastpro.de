@@ -1,20 +1,16 @@
 # Erweiterte Einstellungen
 
-Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen des Pro Sticks bequem per Fernzugriff anpassen. Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die [App installiert](quickstart.md#InstallApp) haben und mit Ihrem EZCast Pro Stick [verbunden](quickstart.md#app-mit-ezcast-pro-stick-verbinden) sind.
+Mit der Funktion Erweiterte Einstellungen können Sie die Firmware aktualisieren und viele Einstellungen des EZCast Pro Stick I bequem per Fernzugriff anpassen. Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die [Software bzw. die App installiert haben](quickstart.md) und mit dem Stick verbunden sind.
 
-* Rufen Sie die App `EZCastPro`auf Ihrem Gerät auf.
+Rufen Sie die Software bzw. die App `EZCastPro`auf Ihrem Gerät auf.
 
 * Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
 
-![](/assets/img/Win-App-Advanced-Settings.jpg)
+![](/assets/img/Win-App-Advanced-Settings.png)
 
-* Auf iOS/Android wählen Sie die Schaltfläche `Settings` oben links.
+* Auf iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
 
-![](/assets/img/iOS_settings.jpg)
-
-* Auf iOS/Android wählen Sie anschließend `Erweiterte Einstellungen` bzw. `Advanced Settings`.
-
-![](/assets/img/iOS_adv-settings.jpg)
+![](/assets/img/iOS_adv-settings.png)
 
 ## Anmeldung
 
@@ -28,7 +24,7 @@ Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viel
 
 * Während der ersten Anmeldung, müssen Sie das Admin-Kennwort ändern. Danach müssen Sie sich noch einmal anmelden.
 
-![](/assets/img/new_password.jpg)
+![](/assets/img/new_password.png)
 
 * Um das Menü aufzuklappen, klicken Sie auf das Menü-Symbol oben links.
 
@@ -43,12 +39,10 @@ Mit den Erweiterte Einstellungen können Sie die Firmware aktualisieren und viel
 Mit der Konferenzensteuerung können Sie die folgenden Aufgaben durchführen:
 
 * Alle Geräte trennen
-
-* Gastgeber wechseln
-
+* Die Role als Host bzw. als Moderator einem Gast zuordnen
 * Geräte auf dem Bildschirm neu positionieren
 
-![](/assets/img/Conference_Control.jpg)
+![](/assets/img/Conference_Control.png)
 
 ## Gerätemanagement {#Geraetemanagement}
 
@@ -94,9 +88,9 @@ Legen Sie fest, ob jeder Gast einen vierstelligen Code eingeben muss, um Inhalte
 
 ### AirView {#AirView}
 
-AirDisk ein- oder ausschalten.
+AirView ein- oder ausschalten.
 
-![](/assets/img/AirView.jpg)
+![](/assets/img/AirView.png)
 
 ## Netzwerkmanagement {#Netzwerkmanagement}
 
@@ -114,7 +108,7 @@ Verbinden Sie den Pro Stick mit Ihrem WLAN-Router.
 
 Weisen Sie dem Pro Stick eine statische IP-Adresse zu oder setzen Sie automatische IP-Adressierung (DHCP).
 
-![](/assets/img/static-IP.jpg)
+![](/assets/img/static-IP.png)
 
 ### WIFI-Kennwort {#WIFI-Kennwort}
 
@@ -162,7 +156,7 @@ Ein digitales Zertifikat hochladen.
 
 Kontrollieren Sie, welche Funktionen der Host im Menü [Erweiterte Einstellungen](adv.settings.md) durchführen darf, ohne sich als `Admin` [anmelden](#anmeldung) zu müssen.
 
-![Host-Autorität](/assets/img/Host_authority.jpg)
+![Host-Berechtigungen](/assets/img/Host_permissions.png)
 
 Bei der obigen Konfiguration wird beispielsweise nur die Funktion `Konferenzensteuerung` eingeblendet. Bitte beachten: Die Rubriken `Status des Links` und `Über` stehen immer zur Verfügung.
 
@@ -172,7 +166,7 @@ Bei der obigen Konfiguration wird beispielsweise nur die Funktion `Konferenzenst
 
 Kontrollieren Sie, ob verbundene Geräte auf das Internet über den EZCast Pro Empfänger zugreifen dürfen oder nicht. Standardmäßig werden alle Geräte erlaubt:
 
-![](/assets/img/internet_access.jpg)
+![](/assets/img/internet_access.png)
 
 ### SNMP {#SNMP}
 
@@ -234,7 +228,7 @@ Sie können die Firmware des Empfängers aktualisieren, um die neuesten Erweiter
 
 Nutzen Sie diese Option, um der Pro Stick auf die Standard-Einstellungen zurückzusetzen. Weitere Informationen dazu finden Sie [hier](reset.md).
 
-![](/assets/img/Reset.jpg)
+![](/assets/img/Reset.png)
 
 ## Über {#Ueber}
 

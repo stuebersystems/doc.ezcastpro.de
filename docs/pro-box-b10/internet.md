@@ -42,7 +42,7 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 * Aus dem Menü oben links wählen Sie `Networkeinstellungen`.
 
-![](/assets/img/ezcastpro.II.select.networksettings.png)
+![](/assets/img/ezcastpro.II.select.networkmanagement.png)
 
 * Wählen den Punkt `Mit 5GHz WLAN-Router/AP verbinden` aus.
 
