@@ -20,7 +20,7 @@ Auf Ihrem iOS-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das 
 
 ![Kontrollzentrum öffnen](/assets/img/iOS-controlcenter.png)
 
-Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend wählen Sie den EZCast Pro Stick II aus.
+Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend wählen Sie den EZCast Pro Stick aus.
 
 !!! warning "Wichtig"
 
@@ -28,7 +28,7 @@ Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend w�
 
 ![Den EZCast Pro Empfänger](/assets/img/iOS_AirPlay_select.png)
 
-Um die Übertragung von AirPlay vom iOS-Gerät zu beenden, tippen Sie nochmal auf `AirPlay` im Kontrollzentrum, anschließend wählen Sie `AirPlay-Synchr. ausschalten` aus.
+Um die Übertragung von AirPlay vom iOS-Gerät zu beenden, tippen Sie nochmal auf `AirPlay` im Kontrollzentrum, anschließend wählen Sie `Synchronisierung stoppen` aus.
 
 ![AirPlay-Synchr. ausschalten](/assets/img/iOS_AirPlay_stop.png)
 
