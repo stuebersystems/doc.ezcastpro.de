@@ -44,7 +44,7 @@ Auf dem Mac in der Menüleiste klicken Sie auf das AirPlay-Symbol oben im Bildsc
 
 Wählen Sie die EZCast Pro Box aus. Wenn die Box nicht angezeigt wird, stellen Sie sicher, dass Ihr Mac im gleichen Netzwerk verbunden ist wie die EZCast Pro Box.
 
-![AirPlay: EZCast Pro Box auswählen](/assets/img/macOS-AirPlay.jpg)
+![AirPlay: EZCast Pro Stick auswählen](/assets/img/iOS_AirPlay_select.png)
 
 
 
