@@ -12,7 +12,7 @@ Die EZCast Pro Serie gibt es in zwei Varianten:
 	
 !!! info "![](/assets/img/ezcastpro.box2.black.logo.png)"
 
-    [![EZCast Pro Box II][3]{: align=left }][4] Die EZCast Pro Box II dient als Empfänger bei einer kabellosen Präsentation und wird per HDMI mit einem Bildschirm oder einem Projektor verbunden. Anschließend können Sie Ihren aktuellen Bildschirminhalt übertragen.
+    [![EZCast Pro Box II][3]{: align=left }][4] Die EZCast Pro Box II verfügt über alle grundlegenden Funktionen des Stick und viel mehr. Die EZCast Pro Box II wird über das mitgelieferte USB-Ladegerät mit Strom versorgt. Die Box kann dann entweder über WLAN oder Netzwerkkabel (PoE) in Ihr Netzwerk integriert werden, so dass Sie Ihren Bildschirm übertragen und Internetinhalte streamen können. Die Pro Box II ist außerdem mit einer externen Antenne für eine verbesserte kabellose Reichweite und einer Befestigungsmöglichkeit über VESA ausgestattet und unterstützt Touch-Back-Funktion von Ihrem Display.
 	
 	[Zur EZCast Pro Box II][4]
 
