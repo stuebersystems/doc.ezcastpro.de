@@ -2,7 +2,7 @@
 
 EZCast Pro ist ein Präsentationssystem zum kabellosen Übertragen von Bildschirminhalten auf ein Public Display oder einen Projektor.
 
-Die EZCast Pro Serie gibt es in zwei Varianten: 
+Die EZCast Pro II Serie gibt es in zwei Varianten: 
 
 <div class="md-showcase">
 	<img src="assets/img/stick2.png" alt="Abbildung: EZCast Pro Stick II">
