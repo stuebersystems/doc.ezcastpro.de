@@ -26,15 +26,29 @@ Schließen Sie das Netzteil mit Hilfe des USB-Kabels an. Die EZCast Pro Box II s
 
 ## Android und iOS
 
-Mit der App können Sie die Inhalte Ihres Geräts übertragen und sie enthält viele weiteren Funktionen. Mit einem iPad oder iPhone können Sie Ihren Bildschirminhalt auch per [Apple AirPlay](airplay.md) übertragen. Das bedeutet, Sie benötigen in diesem Fall keine App. Außerdem können Sie den Bildschirm Ihres Android-Geräts per [Miracast](miracast.md) übertragen, indem Sie die Funktion `Smart View` auf Ihrem Android-Gerät ausführen.
+Mit EZCast Pro stehen Ihnen zwei Möglichkeiten zur Verfügung:
 
-### App installieren {#InstallApp}
+* Wer nur schnell seinen Bildschirm übertragen möchte, kann nach dem Prinzip Bring Your Own Device (BYOD) sofort loslegen, indem er die eingebaute [Bildschirmübertragungsfunktionalität](#Android_and_iOS_no_app) seines Gerätes verwendet. Das heißt in diesem Fall müssen Sie gar keine App herunterladen!
+
+* Die Verwendung der kostenlosen [App EZCastPro](#InstallApp) bietet sowohl für den Moderator als auch für die anderen Teilnehmer einer Präsentation, verschiedene erweiterte Kontrollmöglichkeiten und Übertragungsfunktionen, die sonst bei der eingebauten Spiegelungsfunktion eines Geräts nicht möglich sind.
+
+### a) Ohne App. Einfache Bildschirmübertragung {#Android_and_iOS_no_app}
+
+Unterstützt werden alle gängigen Streamingprotokollen. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
+
+* [AirPlay](airplay.md)
+* [Google Cast](chromecast.md)
+* [Miracast](miracast.md)
+
+### b) Erweiterte Funktion. EZCast Pro App 
+
+#### App installieren {#InstallApp}
 
 Suchen Sie die App **EZCast Pro** im [Apple App-Store](https://apps.apple.com/app/ezcast-pro/id897830705) oder im [Google Play Store](https://play.google.com/store/apps/details?id=com.actionsmicro.ezcastpro) und installieren Sie diese von dort:
 
 ![EZCast Pro im App-Store](/assets/img/EZCastProAppStore.png)
 
-### App mit EZCast Pro Box II verbinden
+#### App mit EZCast Pro verbinden
 
 Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#Connect_ProBoxII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
@@ -56,13 +70,27 @@ Gehen Sie jetzt wie folgt vor:
 
 ## Windows und macOS
 
-Mit der Software können Sie die Inhalte Ihres Geräts übertragen und sie enthält viele weiteren Funktionen. Mit einem Apple Mac können Sie Ihren Bildschirminhalt auch per [Apple AirPlay](airplay.md) übertragen. Das bedeutet, Sie benötigen in diesem Fall keine Software. Außerdem können Sie den Bildschirm Ihres Windows-PCs per [Miracast](miracast.md) übertragen, indem Sie die Funktion `drahtlose Anzeige` auf Ihrem Windows-PC ausführen.
+Mit EZCast Pro stehen Ihnen zwei Möglichkeiten zur Verfügung:
 
-### Software installieren {#InstallSoftware}
+* Wer nur schnell seinen Bildschirm übertragen möchte, kann nach dem Prinzip Bring Your Own Device (BYOD) sofort loslegen, indem er die eingebaute [Bildschirmübertragungsfunktionalität](#Windows_and_macOS_no_software) seines Gerätes verwendet. Das heißt in diesem Fall müssen Sie gar keine Software herunterladen!
+
+* Die Verwendung der kostenlosen [Software EZCastPro](#InstallSoftware) bietet sowohl für den Moderator als auch für die anderen Teilnehmer einer Präsentation, verschiedene erweiterte Kontrollmöglichkeiten und Übertragungsfunktionen, die sonst bei der eingebauten Spiegelungsfunktion eines Geräts nicht möglich sind.
+
+### a) Ohne Software. Einfache Bildschirmübertragung {#Windows_and_macOS_no_software}
+
+Unterstützt werden alle gängigen Streamingprotokollen. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
+
+* [AirPlay](airplay.md)
+* [Google Cast](chromecast.md)
+* [Miracast](miracast.md)
+
+### b) Erweiterte Funktion. EZCast Pro Software 
+
+#### Software Installieren {#InstallSoftware}
 
 Laden Sie bitte die Software für [Windows](https://www.ezcast.com/app/ezcast/pro/windows) oder [macOS](https://www.ezcast.com/app/ezcast/pro/macos) herunter und installieren Sie diese.
 
-### Software mit EZCast Pro Box II verbinden
+#### Software mit EZCast Pro verbinden
 
 Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#Connect_ProBoxII) haben, erscheint folgende Startseite auf dem Bildschirm:
 
