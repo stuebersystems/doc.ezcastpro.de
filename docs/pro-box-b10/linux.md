@@ -37,7 +37,7 @@ $ sudo apt install ./google-chrome-stable_current_amd64.deb
 
 ## 1. Aus dem Chrome-Browser Streamen {#linuxchromecast}
 
-* Suchen Sie Google Chrome suchen und führen Sie ihn aus:
+* Suchen Sie Google Chrome und führen Sie ihn aus:
 
 ![](/assets/img/Linux.Launch.Chrome.png)
 
@@ -95,7 +95,7 @@ Gehen Sie jetzt wie folgt vor:
 
 	![Nach EZCast Pro Geräten suchen](/assets/img/chrome-windows_device-list.png)
 
-5.  Um Ihrem Bildschirm zu spiegeln, wählen die Schaltfläche `Spiegel Ein`:
+5.  Um Ihren Bildschirm zu spiegeln, wählen die Schaltfläche `Spiegel Ein`:
 
     ![Ihr EZCast Pro Gerät auswählen](/assets/img/chromeextension.mirror.png)
 
