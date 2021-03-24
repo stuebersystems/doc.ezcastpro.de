@@ -23,7 +23,7 @@ Bei der Erstverbindung ist ein WLAN bzw. eine Internetvebindung erforderlich
 
 ## Chromecast freischalten
 
-Um Ihr Endgerät auf den EZCast Pro Stick II übertragen zu können, muss die Option `Chromecast` in [Erweitere Einstellungen](adv.settings.md#Chromecast) einmalig freigeschaltet werden:
+Standardmäßig ist Chromecast auf EZCast Pro II-Geräten aktiviert. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `Chromecast` unter [Erweiterte Einstellungen](adv.settings.md#Chromecast):
 
 ![](/assets/img/Chromecast-support.png)
 
@@ -51,6 +51,6 @@ Um die Übertragung zu beenden, klicken Sie nochmal auf den Empfänger.
 
 ![Übertragung beenden](/assets/img/end_stream.png)
 
-Per Rechtsklick kann man Cast-Symbol an die Symbolleiste anheften:
+Per Rechtsklick kann man Streamen-Symbol an die Symbolleiste anheften:
 
 ![Streamen-Symbol immer zeigen](/assets/img/Always_show_icon.png)

@@ -92,10 +92,11 @@ nav:
         - "Anleitung: Chromecast": pro-stick-d10/chromecast.md
         - "Anleitung: Miracast": pro-stick-d10/miracast.md
     - Anleitungen nach<br>Betriebssystem: 
-        - "Anleitung: Windows": pro-stick-d10/quickstart/#windows-und-macos
-        - "Anleitung: macOS": pro-stick-d10/quickstart/#windows-und-macos
-        - "Anleitung: iOS": pro-stick-d10/quickstart/#android-und-ios
         - "Anleitung: Android": pro-stick-d10/quickstart/#android-und-ios
+        - "Anleitung: iOS": pro-stick-d10/quickstart/#android-und-ios
+        - "Anleitung: macOS": pro-stick-d10/quickstart/#windows-und-macos
+        - "Anleitung: Linux": pro-stick-d10/linux.md
+        - "Anleitung: Windows": pro-stick-d10/quickstart/#windows-und-macos
     - EZCastPro App/Software: pro-stick-d10/ezcastproapp.md
     - Internetzugang: pro-stick-d10/internet.md
     - Erweiterte Funktionen: 
@@ -119,11 +120,12 @@ nav:
         - "Anleitung: Chromecast": pro-box-b10/chromecast.md
         - "Anleitung: Miracast": pro-box-b10/miracast.md
     - Anleitungen nach<br>Betriebssystem: 
-        - "Anleitung: Windows": pro-box-b10/quickstart/#windows-und-macos
-        - "Anleitung: macOS": pro-box-b10/quickstart/#windows-und-macos
+        - "Anleitung: Android": pro-box-b10/quickstart/#android-und-ios
         - "Anleitung: iOS": pro-box-b10/quickstart/#android-und-ios
-        - "Anleitung: Android": pro-box-b10/quickstart/#android-und-ios    
-    - EZCastPro App/Software: pro-box-b10/ezcastproapp.md
+        - "Anleitung: macOS": pro-box-b10/quickstart/#windows-und-macos
+        - "Anleitung: Linux": pro-box-b10/linux.md
+        - "Anleitung: Windows": pro-box-b10/quickstart/#windows-und-macos
+    - EZCastPro App/Software: pro-box-b10/ezcastproapp.md    
     - Internetzugang: pro-box-b10/internet.md
     - Erweiterte Funktionen:
         - Castcode: pro-box-b10/castcode.md
