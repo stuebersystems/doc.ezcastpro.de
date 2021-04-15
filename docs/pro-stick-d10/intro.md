@@ -55,3 +55,13 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der E
 Die [EG-Konformitätserklärung für den EZCast Pro Stick II][8] erklärt die Konformität mit europäischen Richtlinien.
 
   [8]: https://download.stueber.de/doc/de/ezcastpro/ezcastpro-stick-II.konformitaetserklaerung.pdf
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
