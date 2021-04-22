@@ -99,12 +99,13 @@ nav:
         - "Anleitung: Windows": pro-stick-d10/quickstart/#windows-und-macos
     - EZCastPro App/Software: pro-stick-d10/ezcastproapp.md
     - Internetzugang: pro-stick-d10/internet.md
-    - Erweiterte Funktionen: 
+    - Erweiterte Funktionen:
+        - Captive Portal: pro-stick-d10/captiveportal.md
         - Castcode: pro-stick-d10/castcode.md
+        - Dynamisches Hintergrundbild: pro-stick-b10/dynamicwallpaper.md
         - Erweiterte Einstellungen: pro-stick-d10/adv.settings.md
         - Festgelegter Host: pro-stick-d10/fixedhost.md
         - ProCast: pro-stick-d10/procast.md
-        - Captive Portal: pro-stick-d10/captiveportal.md
     - Firmware aktualisieren: pro-stick-d10/firmware-upgrade.md
     - Problembehandlung: 
         - Einstellungen zurücksetzen: pro-stick-d10/reset.md
