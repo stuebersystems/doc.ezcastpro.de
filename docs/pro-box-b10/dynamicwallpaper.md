@@ -85,7 +85,7 @@ Unsere Beispieldatei `wallpaper_file.json` zum steht Ihnen [hier](https://downlo
 
 ![](/assets/img/Dynamic.Wallpaper.savefiles.usb.png)
 
-* Stecken Sie den USB-Steck an den USB-Anschluss des Empfängers an. Die LED `USB` leuchtet weiß.
+* Stecken Sie den USB-Stick an den USB-Anschluss des Empfängers an. Die LED `USB` leuchtet weiß.
 
 ![](/assets/img/EZP-connect.USBStick.png)
 	
