@@ -56,7 +56,7 @@ Port | Typ
 
 ## EZCast Pro verwendete Anschlüsse untersuchen
 
-Haben Sie festgestellt, dass bestimmte Funktionen von EZCast Pro über Ihre Infrustruktur nicht funktionieren? Microsoft stellt eine grafische Benutzeroberfläche des Tools namens PortQueryUI bereit, die zur Fehlersuche in solchen Szenarien mit Port-Konnektivitätsproblemen verwendet werden kann. Dieses Tool können Sie zur Behebung von TCP/IP-Verbindungsproblemen verwenden. Das Hilfsprogramm meldet den Portstatus von TCP- und UDP-Ports auf einem Gerät, das Sie auswählen.
+Haben Sie festgestellt, dass bestimmte Funktionen von EZCast Pro über Ihre Infrastruktur nicht funktionieren? Microsoft stellt eine grafische Benutzeroberfläche des Tools namens PortQueryUI bereit, die zur Fehlersuche in solchen Szenarien mit Port-Konnektivitätsproblemen verwendet werden kann. Dieses Tool können Sie zur Behebung von TCP/IP-Verbindungsproblemen verwenden. Das Hilfsprogramm meldet den Portstatus von TCP- und UDP-Ports auf einem Gerät, das Sie auswählen.
 
 ### PortQueryUI.exe herunterladen
 
@@ -74,11 +74,11 @@ Haben Sie festgestellt, dass bestimmte Funktionen von EZCast Pro über Ihre Infr
 
 ### Ports abfragen
 
-* Notieren Sie sich die Infrustruktur IP-Adresse, die unten links auf der Startseite angezeigt wird:
+* Notieren Sie sich die Infrastruktur IP-Adresse, die unten links auf der Startseite angezeigt wird:
 
-![Infrustruktur IP-Adresse notieren](/assets/img/Infrustructure_IPaddress.png)
+![Infrastruktur IP-Adresse notieren](/assets/img/Infrustructure_IPaddress.png)
 
-Im Feld `destination IP` geben Sie die Infrustruktur IP-Adresse ein. Geben Sie anschließend die zu prüfenden Ports an und klicken Sie auf `Query`, wie zum Beispiel:
+Im Feld `destination IP` geben Sie die Infrastruktur IP-Adresse ein. Geben Sie anschließend die zu prüfenden Ports an und klicken Sie auf `Query`, wie zum Beispiel:
 
 Für die Funktion `ChromeCast`:
 
@@ -97,7 +97,7 @@ Der Port auf dem ausgewählten EZCast Pro Gerät wird von einem Prozess abgehör
 
 `NOT LISTENING` - Nicht abhören
 
-Der Zielport auf dem EZCast Pro Gerät wird nicht von einem Prozess abgehört. Überprüfen Sie bitte Ihre Infrustruktur, um Netzwerkverbindungen für den Port zu erlauben.
+Der Zielport auf dem EZCast Pro Gerät wird nicht von einem Prozess abgehört. Überprüfen Sie bitte Ihre Infrastruktur, um Netzwerkverbindungen für den Port zu erlauben.
 
 `Filtered`
 
