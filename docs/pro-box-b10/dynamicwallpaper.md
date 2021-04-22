@@ -1,99 +1,108 @@
 # Dynamisches Hintergrundbild
 
-Was ist Dynamisches Hintergrundbild?
+## Was ist ein Dynamisches Hintergrundbild?
 
-Mit Hilfe von dynamisches Hintergrundbild könnte die Startseite ihres EZCastpro Geräts sowohl mit Bildern als auch mit Video angepasst werden, zudem ermöglicht diese Funktion ebenso das Abspielen von bestimmten Bildern bzw. Video-Dateien direkt von EZCastpro Gerät auf dem Bildschirm ohne weiteres Endgerät zu benutzen.
+Das dynamische Hintergrundbild, ist eine Funktion, die nach einer einstellbaren Zeit der Inaktivität automatisch gestartet wird und eine Sammlung von Bildern bzw. Videos auf dem Bildschirm anzeigt. Es dient folgenden Zwecken:
 
-## Wo findet man die Funktion „dynamisches Hintergrundbild“?
+* Bildschirmschoner-Funktion
 
-Um diese Funktion aufzufinden, benötigen Sie im EZCastpro App die „erweiterte Einstellungen“ aufrufen und sich als Admin anmelden
+* Werbezwecke in Geschäften
 
-![Host Control](/assets/img/ezcastpro.II.select.adminsettings.png)
+* Public Display / Digital Signage
 
-## Erweiterte Einstellungen aufrufen
+## Erstellen einer JSON-Datei
 
-Die Anmeldung kann per Erweiterte Einstellungen eines beliebigen End-Geräts durchgeführt werden. In diesem Beispiel zeigen wir Ihnen, wie die Anmeldung von einem Windows-PC vorgenommen wird.
+Gehen Sie wie folgt vor:
 
-* Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die Software installiert haben und mit Ihrer EZCast Pro Gerät verbunden sind.
-* Rufen Sie die Software EZCastPro auf Ihrem Gerät auf
-* Wählen Sie Erweiterte Einstellungen unten links. 
+* Öffnen Sie den Windows-Editor (oder einen anderen Texteditor) und erzeugen Sie eine neue leere Datei.
 
-## Anmeldung
+* Kopieren Sie die JSON-Textblöcke in den Texteditor, die unter zu finden sind und ändern Sie den Inhalt nach Ihren Wünschen ab. Für zusätzliche Einträge kopieren Sie die Abschnitte, die in geschweiften Klammern `{}` eingeschlossen sind, so oft wie nötig.
 
-* Geben Sie das Admin-Kennwort ein und klicken Sie auf OK, um sich anzumelden. Standardmäßig lautet das Kennwort 000000. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per Reset-Schalter zurück.
-* Während der ersten Anmeldung, müssen Sie das Admin-Kennwort ändern. Danach müssen Sie sich noch einmal anmelden
 
-Nach Anmeldung  wählen Sie die Option dynamisches Hintergrundbild und schalten Sie die ein.
+### Inhalte aus dem Internet
 
-![Host Control](/assets/img/dyn.hintergrund.ein.png)
+Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.stueber.de/doc/de/content/wallpaper_file.json) zum Download zur Verfügung. 
 
-* Anschließend können Sie der „Silent-Modus“ ein- oder ausschalten und die Leerlaufzeit der Aktivierung des dynamischen Hintergrunds festlegen.
-
-Um die Video- und Bildinhalte auf dem Bildschirm abspielen zu lassen, ist die JSON-Datei erforderlich, die als URL oder als USB-Stick zugreifen könnte: 
-
-![Host Control](/assets/img/URL.USBDISK.png)
-
-* Bei URL wird nach Aktiviren der Funktion dynamisches Hintergrundbild die JSON-Datei automatisch vom Webserver zugreifen werden.
-* Bei der Verwendung von USB-Stick soll der mit dem EZCast Pro Box angeschlossen sein, um die JSON-Datei von dem Stick zugreifen zu können.
-
-![Host Control](/assets/img/URLlink.png)
-
-* um die Video- und Bildinhalte zutreffend auf dem Bildschirm abspielen zu können, sollte die von Ihnen eingegebene Code mit dem unten abgebildeten Beispielcode übereinstimmen
-* Bitte benennen die von Ihnen geschriebenen JSON- Datei als „wallpaper_file“. 
-
- ```` xml
+```` xml
 {
    "slideshow": [
-     
-	
-	  	                {
-         "image_url": "http://assests.stueber.de/pictures/wallpapersden.com_london-city-bus_1920x1080.jpg",
-                  "attribution": "london City",
+		{
+         "image_url": "https://download.stueber.de/doc/de/content/pic1.jpg",
+         "attribution": "Test Picture 1",
          "duration": 10,
-      },
-
-	  	                {
-         "image_url": "http://assests.stueber.de/pictures/wallpapersden.com_flower-sunflower-sky_1920x1080.jpg
-                  "attribution": " sunflower",
+		},
+		{
+         "image_url": "https://download.stueber.de/doc/de/content/pic2.jpg",
+         "attribution": "Test Picture 2",
          "duration": 10,
-      },
-
-        {
-         "url": "http://1assests.stueber.de/videos/D10.introducing.de.mp4",
-         "title": "Test video 1",
-      },
-
-	  	  	       
-   ],
-"next": ""
+		},
+		{
+         "url": "https://download.stueber.de/doc/de/content/video1.mp4",
+         "title": "EZCast Pro Stick II",
+		},  	  	       
+	],
+	"next": ""
 }
- ````
+````
 
+!!! info "Hinweis"
 
+    Es werden nur die Dateiformate `.MP4` und `.JPG` unterstützt.
 
-* In dem Code entspricht sich " image_url "- für Bilddatei und " url " – steht für Videoinhalten
-* Beim Ausführen des Codes könnte auch den Titel und Dauer ein beliebiges Video und/ Oder Bilddatei bestimmt werden.
-* Es wurde nur die MP4- für die Videoinhalten und JPG-formaten für die Bilddateien unterstützt. 
+* Speichern Sie die Datei als `wallpaper_file.json` ab und laden Sie die Datei auf einen Webserver hoch, auf den das EZCast Pro Gerät zugreifen kann.
 
-Sie können ihre JSON-Datei entweder auf webzugänglichen Server oder auf dem USB-Stick, um weitere Verwendung zu speichern. 
+### Inhalte auf einem USB-Stick
 
+Unsere Beispieldatei `wallpaper_file.json` zum steht Ihnen [hier](https://download.stueber.de/doc/de/content/usb/wallpaper_file.json) zum Download zur Verfügung. 
+
+```` xml
+{
+   "slideshow": [
+		{
+         "image_url": "/media/usb0/usbwallpaper/pic1.jpg",
+         "attribution": "Test Picture 1",
+         "duration": 10,
+		},
+		{
+         "image_url": "/media/usb0/usbwallpaper/pic2.jpg",
+         "attribution": "Test Picture 2",
+         "duration": 10,
+		},
+		{
+         "url": "/media/usb0/usbwallpaper/video1.mp4",
+         "title": "EZCast Pro Stick II",
+		},  	  	       
+	],
+	"next": ""
+}
+````
+
+!!! info "Hinweis"
+
+    Es werden nur die Dateiformate `.MP4` und `.JPG` unterstützt.
+
+* Speichern Sie die Datei als `wallpaper_file.json` zusammen mit den Bildern- und Videodateien im Wurzelverzeichnis eines USB-Sticks ab.
+
+![](/assets/img/Dynamic.Wallpaper.savefiles.usb.png)
+
+* Stecken Sie den USB-Steck an den USB-Anschluss des Empfängers an. Die LED `USB` leuchtet weiß.
+
+![](/assets/img/EZP-connect.USBStick.png)
 	
-	
-	
-	
-### Miracast
+### JSON-Syntax
 
-Das Protokoll Miracast unterstützt keinen vierstelligen Castcode, sondern einen achtstelligen Pincode, den Sie unter der Funktion [Erweiterte Einstellungen](adv.settings.md#Miracast) freischalten können:
+* `image_url` Der Pfad zur Bilddatei.
 
-![Host Control](/assets/img/Miracast.png)
+* `attribution` Das Titel der.
 
-Wenn ein Miracast-Gerät EZCast Pro einen Antrag zum Spiegeln sendet, taucht der achtstellige Pincode in gelb oben auf der Startseite auf. Diesen Pin muss man auf dem Endgerät eingeben, bevor die Bildschirmübertagung beginnen darf.
+* `duration` Die Anzeigedauer der Bilddatei.
 
-![Host Control](/assets/img/ProIIDongle_MiracastPin.png)
+* `url` Der Pfad zur Bilddatei.
 
-## Wie lege ich den Castcode fest?
 
-Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie die Funktion Castcode einstellen.
+## Wie legt man das Dynamische Hintergrundbild fest?
+
+Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie die Funktion Dynamisches Hintergrundbild einstellen.
 
 ### Erweiterte Einstellungen öffnen
 
@@ -117,25 +126,38 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 ![](/assets/img/new_password.png)
 
-### Castcode einstellen
+### Dynamisches Hintergrundbild einstellen
 
-* Aus dem Menü wählen Sie `Gerätemanagement` aus:
+* Aus dem Menü wählen Sie `Admineinstellungen` aus:
 
-![](/assets/img/ezcastpro.II.select.devicemanagement.png)
+![](/assets/img/ezcastpro.II.select.adminsettings.png)
 
-* Wählen Sie den Menüpunkt `Castcode-Kontrolle` aus:
+Nach Anmeldung  wählen Sie die Option dynamisches Hintergrundbild und schalten Sie die ein.
 
-![](/assets/img/ezcastpro.II.devicemanagement.castcode.png)
+![Host Control](/assets/img/dyn.hintergrund.ein.png)
 
-* Wählen die gewünschte Einstellung aus:
+* `Dynamisches Hintergrund` - Aktivieren Sie diesen Punkt, um die Funktion freizuschalten.
 
-![](/assets/img/ezcastpro.II.select.castcode.png)
+* `Silent-Modus` - Wenn Sie keinen Ton hören möchten, aktivieren Sie diesen Punkt.
 
-* Um die Einstellung freizuschalten, müssen Sie die Pro Box II neustarten. Im Menü wählen Sie `Neustarten`.
+![](/assets/img/Dynamic.Wallpaper.activate.png)
 
-![](/assets/img/prostickII_menu.neustart.png)
+Wenn Inhalte aus dem Intenet abgespielt werden sollen, wählen Sie die Registerkarte `URL` und geben Sie den Pfad zur JSON-Datei an. 
 
-* Dann wählen Sie erneurt die Schaltfläche `Neustarten`.
+![Host Control](/assets/img/Dynamic.Wallpaper.URL.png)
 
-![](/assets/img/restart.jpg)
+Wenn Inhalte auf einem USB-Stick abgespielt werden sollen, wählen Sie die Registerkarte `USB Disk` und geben Sie den Pfad zur JSON-Datei an. 
 
+![Host Control](/assets/img/Dynamic.Wallpaper.USB.png)
+
+Geben Sie eine Dauer von Inaktivität in Minuten an, bevor die Funktion Dynamisches Hintergrundbild ausgeführt werden soll:
+
+![Host Control](/assets/img/Dynamic.Wallpaper.minutes.png)
+
+Legen Sie fest, wann die Funktion Dynamisches Hintergrund beenden werden soll:
+
+![Host Control](/assets/img/Dynamic.Wallpaper.end.png)
+
+!!! info "Hinweis"
+
+    Das Aktivieren der Funktion Dynamisches Hintergrundbild wird nach einem Neustart des EZCast Pro Gerätes wirksam.

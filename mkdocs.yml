@@ -128,13 +128,13 @@ nav:
     - EZCastPro App/Software: pro-box-b10/ezcastproapp.md    
     - Internetzugang: pro-box-b10/internet.md
     - Erweiterte Funktionen:
+        - Captive Portal: pro-box-b10/captiveportal.md
         - Castcode: pro-box-b10/castcode.md
+        - Dynamisches Hintergrundbild: pro-box-b10/dynamicwallpaper.md
         - Erweiterte Einstellungen: pro-box-b10/adv.settings.md
         - Festgelegter Host: pro-box-b10/fixedhost.md
         - ProCast: pro-box-b10/procast.md
         - Touch-Back-Funktion: pro-box-b10/touchback.md
-        - Dynamicwallpaper: pro-box-b10/dynamicwallpaper.md
-        - Captive Portal: pro-box-b10/captiveportal.md
     - Firmware aktualisieren: pro-box-b10/firmware-upgrade.md  
     - Problembehandlung: 
         - Einstellungen zurücksetzen: pro-box-b10/reset.md

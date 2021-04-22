@@ -40,7 +40,7 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 ![](/assets/img/new_password.png)
 
-### Konfiguration
+### Festgeleger Host einstellen
 
 * Aus dem Menü wählen Sie die `Admineinstellungen` aus:
 
