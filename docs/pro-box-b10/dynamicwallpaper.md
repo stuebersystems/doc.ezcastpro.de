@@ -45,6 +45,16 @@ Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.s
 }
 ````
 
+### JSON-Syntax
+
+* `image_url` Der Pfad zur Bilddatei.
+
+* `attribution` Das Titel der.
+
+* `duration` Die Anzeigedauer der Bilddatei.
+
+* `url` Der Pfad zur Bilddatei.
+
 !!! info "Hinweis"
 
     Es werden nur die Dateiformate `.MP4` und `.JPG` unterstützt.
@@ -89,16 +99,6 @@ Unsere Beispieldatei `wallpaper_file.json` zum steht Ihnen [hier](https://downlo
 
 ![](/assets/img/EZP-connect.USBStick.png)
 	
-### JSON-Syntax
-
-* `image_url` Der Pfad zur Bilddatei.
-
-* `attribution` Das Titel der.
-
-* `duration` Die Anzeigedauer der Bilddatei.
-
-* `url` Der Pfad zur Bilddatei.
-
 
 ## Wie legt man das Dynamische Hintergrundbild fest?
 
@@ -146,7 +146,7 @@ Wenn Inhalte aus dem Intenet abgespielt werden sollen, wählen Sie die Registerk
 
 ![Host Control](/assets/img/Dynamic.Wallpaper.URL.png)
 
-Wenn Inhalte auf einem USB-Stick abgespielt werden sollen, wählen Sie die Registerkarte `USB Disk` und geben Sie den Pfad zur JSON-Datei an. 
+Wenn Inhalte auf einem USB-Stick abgespielt werden sollen, wählen Sie die Registerkarte `USB Disk`. 
 
 ![Host Control](/assets/img/Dynamic.Wallpaper.USB.png)
 
