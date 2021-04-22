@@ -297,6 +297,12 @@ Einen Download der von uns mitgelieferten Startseite finden Sie [hier](https://d
 
 ![](/assets/img/Mein_Bildschirm.png)
 
+#### Dynamisches Hintergrundbild {#Dynamicwallpaper}
+
+Das dynamische Hintergrundbild, ist eine Funktion, die nach einer einstellbaren Zeit der Inaktivität automatisch gestartet wird und eine Sammlung von Bildern bzw. Videos auf dem Bildschirm anzeigt.
+
+Eine umfassende Anleitung zur Verwendung von Castcode finden Sie [hier](dynamicwallpaper.md).
+
 #### OTA-Update-URL {#OTA-Server}
 
 Einen OTA-Server angeben.

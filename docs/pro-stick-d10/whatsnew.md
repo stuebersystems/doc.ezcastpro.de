@@ -47,3 +47,15 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 *  Bei der Erstinstallation wurde zur Optimierung der WLAN-Adapter-Einstellungen folgende Auswahl hinzugefügt:
    ![](/assets/img/wifi.land.selection.png)
 
+## EZCast Pro Stick II Firmware - 1.7545.7
+
+**Neue Funktionen:**
+
+* [Dynamisches Hintergrundbild](dynamicwallpaper.md): Eine Sammlung von Bildern bzw. Videos auf dem Bildschirm abspielen
+
+**Fixes:**
+
+* Verbesserte Miracast-Stabilität
+* Tippfehler in der Funktion Erweiterte Einstellungen
+* Standard-Bandbreite des WLANs von 80MHz auf 20MHz geändert
+

@@ -51,4 +51,12 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 *  Verbessertes Layout des geteilten Bildschirms
 *  Problem mit direkter und über Router -Verbindungen behoben
 *  Bei der Erstinstallation wurde zur Optimierung der WLAN-Adapter-Einstellungen folgende Auswahl hinzugefügt:
+
    ![](/assets/img/wifi.land.selection.png)
+   
+
+## EZCast Pro Box II Firmware - 1.7367.0
+
+**Neue Funktionen:**
+
+* [Dynamisches Hintergrundbild](dynamicwallpaper.md): Eine Sammlung von Bildern bzw. Videos auf dem Bildschirm abspielen

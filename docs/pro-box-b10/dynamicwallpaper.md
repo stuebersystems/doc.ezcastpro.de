@@ -49,11 +49,11 @@ Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.s
 
 * `image_url` Der Pfad zur Bilddatei.
 
-* `attribution` Das Titel der.
+* `attribution` Das Titel der Bilddatei.
 
 * `duration` Die Anzeigedauer der Bilddatei.
 
-* `url` Der Pfad zur Bilddatei.
+* `url` Der Pfad zur Videodatei.
 
 !!! info "Hinweis"
 
@@ -154,7 +154,7 @@ Geben Sie eine Dauer von Inaktivität in Minuten an, bevor die Funktion Dynamisc
 
 ![Host Control](/assets/img/Dynamic.Wallpaper.minutes.png)
 
-Legen Sie fest, wann die Funktion Dynamisches Hintergrund beenden werden soll:
+Legen Sie fest, wann die Funktion Dynamisches Hintergrund beendet werden soll:
 
 ![Host Control](/assets/img/Dynamic.Wallpaper.end.png)
 
