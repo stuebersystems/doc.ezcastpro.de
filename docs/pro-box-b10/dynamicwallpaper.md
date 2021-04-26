@@ -21,7 +21,12 @@ Gehen Sie wie folgt vor:
 
 ### Inhalte aus dem Internet
 
-Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.stueber.de/doc/de/content/wallpaper_file.json) zum Download zur Verfügung. 
+Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.stueber.de/doc/de/content/wallpaper_file.json) zum Download zur Verfügung.
+
+!!! info "Hinweis"
+
+    Es werden nur die Dateiformate `.MP4` und `.JPG` unterstützt.
+	
 
 ```` xml
 {
@@ -38,13 +43,53 @@ Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.s
 		},
 		{
          "url": "https://download.stueber.de/doc/de/content/video1.mp4",
-         "title": "EZCast Pro Stick II",
+         "title": "QuattroPod USB - Kabelloses Präsentieren der nächsten Generation",
 		},  	  	       
 	],
 	"next": ""
 }
 ````
 
+### Inhalte auf einem USB-Stick
+
+Unsere Beispieldatei `wallpaper_file.json` zum steht Ihnen [hier](https://download.stueber.de/doc/de/content/usb/wallpaper_file.json) zum Download zur Verfügung. 
+
+!!! info "Hinweis"
+
+    Es werden nur die Dateiformate `.MP4` und `.JPG` unterstützt.
+	
+```` xml
+{
+   "slideshow": [
+		{
+         "image_url": "/media/usb0/pic1.jpg",
+         "attribution": "Test Picture 1",
+         "duration": 10,
+		},
+		{
+         "image_url": "/media/usb0/pic2.jpg",
+         "attribution": "Test Picture 2",
+         "duration": 10,
+		},
+		{
+         "url": "/media/usb0/video1.mp4",
+         "title": "QuattroPod USB - Kabelloses Präsentieren der nächsten Generation",
+		},  	  	       
+	],
+	"next": ""
+}
+````
+
+* Speichern Sie die Datei als `wallpaper_file.json` zusammen mit den Bildern- und Videodateien im Wurzelverzeichnis eines USB-Sticks ab.
+
+![](/assets/img/Dynamic.Wallpaper.savefiles.usb.png)
+
+* Stecken Sie den USB-Stick an den USB-Anschluss des Empfängers an. Die LED `USB` leuchtet weiß.
+
+![](/assets/img/EZP-connect.USBStick.png)
+
+* Speichern Sie die Datei als `wallpaper_file.json` ab und laden Sie die Datei auf einen Webserver hoch, auf den das EZCast Pro Gerät zugreifen kann.
+	
 ### JSON-Syntax
 
 * `image_url` Der Pfad zur Bilddatei.
@@ -54,51 +99,6 @@ Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.s
 * `duration` Die Anzeigedauer der Bilddatei.
 
 * `url` Der Pfad zur Videodatei.
-
-!!! info "Hinweis"
-
-    Es werden nur die Dateiformate `.MP4` und `.JPG` unterstützt.
-
-* Speichern Sie die Datei als `wallpaper_file.json` ab und laden Sie die Datei auf einen Webserver hoch, auf den das EZCast Pro Gerät zugreifen kann.
-
-### Inhalte auf einem USB-Stick
-
-Unsere Beispieldatei `wallpaper_file.json` zum steht Ihnen [hier](https://download.stueber.de/doc/de/content/usb/wallpaper_file.json) zum Download zur Verfügung. 
-
-```` xml
-{
-   "slideshow": [
-		{
-         "image_url": "/media/usb0/usbwallpaper/pic1.jpg",
-         "attribution": "Test Picture 1",
-         "duration": 10,
-		},
-		{
-         "image_url": "/media/usb0/usbwallpaper/pic2.jpg",
-         "attribution": "Test Picture 2",
-         "duration": 10,
-		},
-		{
-         "url": "/media/usb0/usbwallpaper/video1.mp4",
-         "title": "EZCast Pro Stick II",
-		},  	  	       
-	],
-	"next": ""
-}
-````
-
-!!! info "Hinweis"
-
-    Es werden nur die Dateiformate `.MP4` und `.JPG` unterstützt.
-
-* Speichern Sie die Datei als `wallpaper_file.json` zusammen mit den Bildern- und Videodateien im Wurzelverzeichnis eines USB-Sticks ab.
-
-![](/assets/img/Dynamic.Wallpaper.savefiles.usb.png)
-
-* Stecken Sie den USB-Stick an den USB-Anschluss des Empfängers an. Die LED `USB` leuchtet weiß.
-
-![](/assets/img/EZP-connect.USBStick.png)
-	
 
 ## Wie legt man das Dynamische Hintergrundbild fest?
 

@@ -38,7 +38,7 @@ Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.s
 		},
 		{
          "url": "https://download.stueber.de/doc/de/content/video1.mp4",
-         "title": "EZCast Pro Stick II",
+         "title": "QuattroPod USB - Kabelloses Präsentieren der nächsten Generation",
 		},  	  	       
 	],
 	"next": ""
