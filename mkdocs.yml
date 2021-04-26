@@ -87,16 +87,16 @@ nav:
     - Schnellstartanleitung: pro-stick-d10/quickstart.md
     - Was ist neu?: pro-stick-d10/whatsnew.md
     - Einrichtungshinweise: pro-stick-d10/optimize.md
-    - Anleitungen nach<br>Streamingprotokoll: 
-        - "Anleitung: AirPlay": pro-stick-d10/airplay.md
-        - "Anleitung: Chromecast": pro-stick-d10/chromecast.md
-        - "Anleitung: Miracast": pro-stick-d10/miracast.md
     - Anleitungen nach<br>Betriebssystem: 
         - "Anleitung: Android": pro-stick-d10/quickstart/#android-und-ios
         - "Anleitung: iOS": pro-stick-d10/quickstart/#android-und-ios
         - "Anleitung: macOS": pro-stick-d10/quickstart/#windows-und-macos
         - "Anleitung: Linux": pro-stick-d10/linux.md
         - "Anleitung: Windows": pro-stick-d10/quickstart/#windows-und-macos
+    - Anleitungen nach<br>Streamingprotokoll: 
+        - "Anleitung: AirPlay": pro-stick-d10/airplay.md
+        - "Anleitung: Chromecast": pro-stick-d10/chromecast.md
+        - "Anleitung: Miracast": pro-stick-d10/miracast.md    
     - EZCastPro App/Software: pro-stick-d10/ezcastproapp.md
     - Internetzugang: pro-stick-d10/internet.md
     - Erweiterte Funktionen:
@@ -116,16 +116,16 @@ nav:
     - Schnellstartanleitung: pro-box-b10/quickstart.md
     - Was ist neu?: pro-box-b10/whatsnew.md
     - Einrichtungshinweise: pro-box-b10/optimize.md
-    - Anleitungen nach<br>Streamingprotokoll: 
-        - "Anleitung: AirPlay": pro-box-b10/airplay.md
-        - "Anleitung: Chromecast": pro-box-b10/chromecast.md
-        - "Anleitung: Miracast": pro-box-b10/miracast.md
     - Anleitungen nach<br>Betriebssystem: 
         - "Anleitung: Android": pro-box-b10/quickstart/#android-und-ios
         - "Anleitung: iOS": pro-box-b10/quickstart/#android-und-ios
         - "Anleitung: macOS": pro-box-b10/quickstart/#windows-und-macos
         - "Anleitung: Linux": pro-box-b10/linux.md
         - "Anleitung: Windows": pro-box-b10/quickstart/#windows-und-macos
+    - Anleitungen nach<br>Streamingprotokoll: 
+        - "Anleitung: AirPlay": pro-box-b10/airplay.md
+        - "Anleitung: Chromecast": pro-box-b10/chromecast.md
+        - "Anleitung: Miracast": pro-box-b10/miracast.md        
     - EZCastPro App/Software: pro-box-b10/ezcastproapp.md    
     - Internetzugang: pro-box-b10/internet.md
     - Erweiterte Funktionen:
