@@ -21,7 +21,12 @@ Gehen Sie wie folgt vor:
 
 ### Inhalte aus dem Internet
 
-Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.stueber.de/doc/de/content/wallpaper_file.json) zum Download zur Verfügung. 
+Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.stueber.de/doc/de/content/wallpaper_file.json) zum Download zur Verfügung.
+
+!!! info "Hinweis"
+
+    Es werden nur die Dateiformate `.MP4` und `.JPG` unterstützt.
+	
 
 ```` xml
 {
@@ -45,13 +50,6 @@ Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.s
 }
 ````
 
-!!! info "Hinweis"
-
-    Es werden nur die Dateiformate `.MP4` und `.JPG` unterstützt.
-
-* Speichern Sie die Datei als `wallpaper_file.json` ab und laden Sie die Datei auf einen Webserver hoch, auf den das EZCast Pro Gerät zugreifen kann.
-
-
 ### JSON-Syntax
 
 * `image_url` Der Pfad zur Bilddatei.
@@ -61,7 +59,6 @@ Unsere Beispieldatei `wallpaper_file.json` steht Ihnen [hier](https://download.s
 * `duration` Die Anzeigedauer der Bilddatei.
 
 * `url` Der Pfad zur Videodatei.
-
 
 ## Wie legt man das Dynamische Hintergrundbild fest?
 
@@ -105,13 +102,9 @@ Nach Anmeldung  wählen Sie die Option dynamisches Hintergrundbild und schalten 
 
 ![](/assets/img/Dynamic.Wallpaper.activate.png)
 
-Wenn Inhalte aus dem Intenet abgespielt werden sollen, wählen Sie die Registerkarte `URL` und geben Sie den Pfad zur JSON-Datei an. 
+Unter der Registerkarte `URL` und geben Sie den Pfad zur JSON-Datei an. 
 
 ![Host Control](/assets/img/Dynamic.Wallpaper.URL.png)
-
-Wenn Inhalte auf einem USB-Stick abgespielt werden sollen, wählen Sie die Registerkarte `USB Disk` und geben Sie den Pfad zur JSON-Datei an. 
-
-![Host Control](/assets/img/Dynamic.Wallpaper.USB.png)
 
 Geben Sie eine Dauer von Inaktivität in Minuten an, bevor die Funktion Dynamisches Hintergrundbild ausgeführt werden soll:
 
