@@ -158,6 +158,15 @@ Legen Sie fest, wann die Funktion Dynamisches Hintergrund beendet werden soll:
 
 ![Host Control](/assets/img/Dynamic.Wallpaper.end.png)
 
+* Um die Einstellung freizuschalten, müssen Sie das EZCast Pro Gerät neustarten. Im Menü wählen Sie `Neustarten`.
+
+![](/assets/img/prostickII_menu.neustart.png)
+
+* Dann wählen Sie erneurt die Schaltfläche `Neustarten`.
+
+![](/assets/img/restart.jpg)
+
+
 !!! info "Hinweis"
 
     Das Aktivieren der Funktion Dynamisches Hintergrundbild wird nach einem Neustart des EZCast Pro Gerätes wirksam.
