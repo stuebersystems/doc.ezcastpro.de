@@ -132,7 +132,7 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 ![](/assets/img/ezcastpro.II.select.adminsettings.png)
 
-Nach Anmeldung  wählen Sie die Option dynamisches Hintergrundbild und schalten Sie die ein.
+Wählen Sie den Menüpunkt `Dynamisches Hintergrundbild`.
 
 ![Host Control](/assets/img/dyn.hintergrund.ein.png)
 
