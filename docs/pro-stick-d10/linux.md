@@ -20,7 +20,7 @@ Standardmäßig ist Chromecast auf EZCast Pro II-Geräten aktiviert. Sollten Sie
 
 ## Google Chrome installieren
 
-* Drücken Sie `STRG+Alt+T`, um ein Terminal-Fenster zu öffnen.
+* Drücken Sie `STRG` + `Alt` + `T`, um ein Terminal-Fenster zu öffnen.
 
 * Paketlisten aktualisieren
 
