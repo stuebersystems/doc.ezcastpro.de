@@ -7,6 +7,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
 ## EZCast Pro Stick II Firmware - 1.9871.34
+2020.09.04
 
 **Neue Funktionen:**
 
@@ -23,6 +24,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 * Bugs behoben
 
 ## EZCast Pro Stick II Firmware - 1.8617.21
+2020.06.05
 
 **Fixes:**
 
@@ -30,6 +32,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 *  Bug beim zeitgesteuerten Neustart behoben
 
 ## EZCast Pro Stick II Firmware - 1.8617.18
+2020.05.27
 
 **Neue Funktionen:**
 
@@ -48,10 +51,11 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
    ![](/assets/img/wifi.land.selection.png)
 
 ## EZCast Pro Stick II Firmware - 1.7545.7
+2020.02.14
 
 **Neue Funktionen:**
 
-* [Dynamisches Hintergrundbild](dynamicwallpaper.md): Eine Sammlung von Bildern bzw. Videos auf dem Bildschirm abspielen
+* [Dynamisches Hintergrundbild](dynamicwallpaper.md): Eine Sammlung von Bildern bzw. Videos nach einer einstellbaren Zeit der Inaktivität auf dem Bildschirm abspielen
 
 **Fixes:**
 

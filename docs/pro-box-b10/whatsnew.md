@@ -7,12 +7,14 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
 ## EZCast Pro Box II Firmware - 1.9871.37
+2020.09.18
 
 **Fixes:**
 
 * Allgemeine Bugs behoben
 
 ## EZCast Pro Box II Firmware - 1.9871.34
+2020.09.04
 
 **Neue Funktionen:**
 
@@ -29,6 +31,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 * Bugs behoben
 
 ## EZCast Pro Box II Firmware - 1.8617.21
+2020.06.05
 
 **Fixes:**
 
@@ -36,6 +39,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 *  Bug beim zeitgesteuerten Neustart behoben
 
 ## EZCast Pro Box II Firmware - 1.8617.18
+2020.05.27
 
 **Neue Funktionen:**
 
@@ -56,7 +60,8 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
    
 
 ## EZCast Pro Box II Firmware - 1.7367.0
+2020.01.10
 
 **Neue Funktionen:**
 
-* [Dynamisches Hintergrundbild](dynamicwallpaper.md): Eine Sammlung von Bildern bzw. Videos auf dem Bildschirm abspielen
+* [Dynamisches Hintergrundbild](dynamicwallpaper.md): Eine Sammlung von Bildern bzw. Videos nach einer einstellbaren Zeit der Inaktivität auf dem Bildschirm abspielen
