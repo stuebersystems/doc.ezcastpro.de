@@ -6,6 +6,19 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
+## EZCast Pro Box II Firmware - 1.12170.15
+2021.05.11
+
+* Unterstützung für Router über den WLAN-Sicherheitsstandard WPA3
+* Geteilter Bildschirm über [Miracast](miracast.md): Bildschirmübertragung nativ von bis 4 Miracast Geräten auf einem geteilten Bildschirm
+* Regelmäßige Aktualisierung des Castcodes
+* Verbesserte Leistung von Airview
+* Verbesserte Benutzeroberfläche der WLAN-Energieoptionen
+
+**Fixes:**
+
+* Allgemeine Bugs behoben
+
 ## EZCast Pro Box II Firmware - 1.9871.37
 2020.09.18
 
