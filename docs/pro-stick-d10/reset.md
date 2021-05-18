@@ -59,17 +59,22 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
 ![](/assets/img/Reset_config_complete.png)
 
+*  Bei der Erstanmeldung nach dem Zurücksetzen muss das Land ausgewählt werden:
+
+   ![](/assets/img/wifi.land.selection.png)
+   
 ## Einstellungen nach dem Zurücksetzen {#recommendedsettings}
 
 Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
 
-Firmware-Version: 1.9871.34
+Firmware-Version: 1.12170.15
 
 **Gerätemanagement**
 
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
 * [Android Audioübertragung](adv.settings.md#Android-Audio-Streaming): `EIN`
 * [AirView](adv.settings.md#AirView): `EIN`
+* [Castcode](adv.settings.md#Castcode): `Zufällig`
 * [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `EIN`
 
 **Netzwerkmanagement**

@@ -61,6 +61,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 *  Verbessertes Layout des geteilten Bildschirms
 *  Problem mit direkter und über Router -Verbindungen behoben
 *  Bei der Erstinstallation wurde zur Optimierung der WLAN-Adapter-Einstellungen folgende Auswahl hinzugefügt:
+
    ![](/assets/img/wifi.land.selection.png)
 
 ## EZCast Pro Stick II Firmware - 1.7545.7

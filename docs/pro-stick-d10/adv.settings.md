@@ -134,7 +134,7 @@ EZNote ein- oder ausschalten.
 
 ![](/assets/img/EZNote.png)
 
-#### Castcode-Kontrolle {#Castcode-Kontrolle}
+#### Castcode-Kontrolle {#Castcode}
 
 Legen Sie fest, ob jeder Gast einen vierstelligen Code eingeben muss, um Inhalte übertragen zu dürfen.
 
