@@ -6,7 +6,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
-## EZCast Pro Box II Firmware - 1.12170.15
+## EZCast Pro Box II Firmware - 1.12170.16
 2021.05.11
 
 * Unterstützung für Router über den WLAN-Sicherheitsstandard WPA3
