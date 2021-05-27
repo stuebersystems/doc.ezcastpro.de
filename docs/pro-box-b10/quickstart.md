@@ -12,7 +12,7 @@
 | Die EZCast Pro Box II besteht aus |   |
 | :----: | :----: |
 | ![](/assets/img/Contents.B10.png)<br>EZCast Pro Box II | ![](/assets/img/Contents_1M.HDMI.Cable.png) <br>HDMI-Kabel (1m) |
-| ![](/assets/img/Contents_USB_Charger.png)<br>USB Ladekabel | ![](/assets/img/Contents.Adapter.png)<br>HDMI auf HDMI/VGA-Buchse<br>mit Audio 3,5 mm Adapter |
+| ![](/assets/img/Contents_USB_Charger.png)<br>USB Ladekabel  (1 m) | ![](/assets/img/Contents.Adapter.png)<br>HDMI auf HDMI/VGA-Buchse<br>mit Audio 3,5 mm Adapter |
 | ![](/assets/img/Contents.PowerSupply.png)<br>5V/2A Universal Stromadapter | ![](/assets/img/Contents.QSG.png)<br>Schnellstartanleitung |
 
 
