@@ -12,7 +12,7 @@
 | Der EZCast Pro Stick II besteht aus |   |
 | :----: | :----: |
 | ![](/assets/img/Contents.D10.png)<br>EZCast Pro Stick II | ![](/assets/img/Contents_HDMI.Extension.png) <br>HDMI-Verlängerungskabel (0,2 m) |
-| ![](/assets/img/Contents_USBC.png)<br>USB C Ladekabel (0,8 m) | ![](/assets/img/Contents.QSG.png)<br>Schnellstartanleitung |
+| ![](/assets/img/Contents_USBC.png)<br>USB C Ladekabel  (1 m) | ![](/assets/img/Contents.QSG.png)<br>Schnellstartanleitung |
 
 
 ## EZCast Pro Stick II anschließen {#Connect_ProStickII}
