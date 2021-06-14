@@ -56,6 +56,6 @@ Klar kann man den Empfänger mit [Tesa Powerstrips](https://www.amazon.de/dp/B09
 
 ![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/tesa.png)
 
-Bitte beachten: Stellen Sie bei der Befestigung des Empfängers sicher, dass zwischen den Antenne und dem Wireless Access Point sowie den Endgeräten eine direkte Sichtlinie besteht, um WLAN-Signalstörung zu vermeiden:
+Bitte beachten: Stellen Sie bei der Befestigung des Empfängers sicher, dass zwischen der Antenne und dem Wireless Access Point sowie den Endgeräten eine direkte Sichtlinie besteht, um WLAN-Signalstörung zu vermeiden:
 
 ![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/RX_mounted.png)
