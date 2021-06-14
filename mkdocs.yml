@@ -86,7 +86,6 @@ nav:
     - Überblick: pro-stick-d10/intro.md
     - Schnellstartanleitung: pro-stick-d10/quickstart.md
     - Was ist neu?: pro-stick-d10/whatsnew.md
-    - Einrichtungshinweise: pro-stick-d10/optimize.md
     - Anleitungen nach<br>Betriebssystem: 
         - "Anleitung: Android": pro-stick-d10/quickstart/#android-und-ios
         - "Anleitung: iOS": pro-stick-d10/quickstart/#android-und-ios
@@ -99,6 +98,7 @@ nav:
         - "Anleitung: Miracast": pro-stick-d10/miracast.md    
     - EZCastPro App/Software: pro-stick-d10/ezcastproapp.md
     - Internetzugang: pro-stick-d10/internet.md
+    - Einrichtungshinweise: pro-stick-d10/setup-tipps.md  
     - Erweiterte Funktionen:
         - Captive Portal: pro-stick-d10/captiveportal.md
         - Castcode: pro-stick-d10/castcode.md
@@ -128,6 +128,7 @@ nav:
         - "Anleitung: Miracast": pro-box-b10/miracast.md        
     - EZCastPro App/Software: pro-box-b10/ezcastproapp.md    
     - Internetzugang: pro-box-b10/internet.md
+    - Einrichtungshinweise: pro-box-b10/setup-tipps.md  
     - Erweiterte Funktionen:
         - Captive Portal: pro-box-b10/captiveportal.md
         - Castcode: pro-box-b10/castcode.md
