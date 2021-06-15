@@ -124,7 +124,7 @@ Wählen Sie den Modus für Videowiedergabe aus:
 
 #### AirView {#AirView}
 
-AirView ein- oder ausschalten. Eine umfassende Anleitung zur Verwendung von AirView finden Sie [hier](ezcastproapp.md#airview.md).
+AirView ein- oder ausschalten. Eine umfassende Anleitung zur Verwendung von AirView finden Sie [hier](ezcastproapp.md#airview).
 
 ![](/assets/img/AirView.png)
 

@@ -45,12 +45,12 @@ Zeigt die verbundenen Nutzer und ihre zugewiesenen Rollen als entweder `Host` od
 Mit der Konferenzensteuerung können Sie die folgenden Aufgaben durchführen:
 
 * Alle Geräte trennen
-* Die Role als Host bzw. als Gastgeber einem Gast zuordnen
+* Die Role als Host bzw. als Moderator einem Gast zuordnen
 * Geräte auf dem Bildschirm neu positionieren
 
 ![](/assets/img/Conference_Control.png)
 
-Eine umfassende Information zu diesem Thema finden Sie [hier](ezcastproapp.md#konferenzsteuerung). 
+Eine umfassende Information zu diesem Thema finden Sie [hier](conference-control.md). 
 
 ### Gerätemanagement {#Geraetemanagement}
 
@@ -123,7 +123,7 @@ Wählen Sie den Modus für Videowiedergabe aus:
 
 #### AirView {#AirView}
 
-AirView ein- oder ausschalten. Eine umfassende Anleitung zur Verwendung von AirView finden Sie [hier](ezcastproapp.md#airview.md).
+AirView ein- oder ausschalten. Eine umfassende Anleitung zur Verwendung von AirView finden Sie [hier](ezcastproapp.md#airview).
 
 ![](/assets/img/AirView.png)
 
