@@ -65,3 +65,5 @@ Klar kann man den Empfänger mit [Tesa Montagepads](https://www.amazon.de/dp/B00
 ![tesa montagepads](/assets/img/RX_mounted.png)
 
 ![tesa montagepads](/assets/img/RX_mounted.wrong.png)
+
+![tesa montagepads](/assets/img/RX_mounted.huawei.png)
