@@ -107,9 +107,10 @@ nav:
         - Festgelegter Host: pro-stick-d10/fixedhost.md
         - ProCast: pro-stick-d10/procast.md
     - Firmware aktualisieren: pro-stick-d10/firmware-upgrade.md
-    - Problembehandlung: 
+    - Problembehandlung:   
         - Einstellungen zurücksetzen: pro-stick-d10/reset.md
         - Firmware neu installieren: pro-stick-d10/firmware-reinstall.md
+        - Logdatei: pro-stick-d10/logfile.md
     - CMS: pro-stick-d10/cms.md 
 - Pro Box II: 
     - Überblick: pro-box-b10/intro.md
@@ -140,6 +141,7 @@ nav:
     - Problembehandlung: 
         - Einstellungen zurücksetzen: pro-box-b10/reset.md
         - Firmware neu installieren: pro-box-b10/firmware-reinstall.md  
+        - Logdatei: pro-box-b10/logfile.md
     - CMS: pro-box-b10/cms.md 
 - Ältere Modelle: 
     - Einführung: legacymodels.md

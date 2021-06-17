@@ -14,7 +14,7 @@ Rufen Sie die Software bzw. die App `EZCastPro`auf Ihrem Gerät auf.
 
 ## Anmeldung
 
-Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird, setzen Sie das Gerät per [Reset-Schalter](reset.md#zurücksetzen-per-reset-schalter) zurück.
+Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird, setzen Sie das Gerät per [Reset-Schalter](reset.md#hardreset) zurück.
 
 ![](/assets/img/EZCastII_Login.png)
 
@@ -342,7 +342,7 @@ Mit `Nur über Router` wird der Access-Point des EZCast Pro Stick II  ausgeschal
 
 !!! warning "Achtung"
 
-    Bitte beachten Sie, dass die Freischaltung der Option `Nur direkte Verbindung` oder `Nur über Router` dazu führt, dass Verbindungen über den anderen Modus nicht mehr möglich sind. Wenn Sie `nur direkt Verbindung` sowie [SSID nicht sichtbar](#Geraetename) oder [Kennwort nicht sichtbar](#WIFI-Kennwort) freigeschalten, dürfen Sie die Zugangsdaten nicht vergessen, sonst müssten Sie ein [Zurücksetzen per Reset-Schalter](reset.md#zurücksetzen-per-reset-schalter) durchführen!
+    Bitte beachten Sie, dass die Freischaltung der Option `Nur direkte Verbindung` oder `Nur über Router` dazu führt, dass Verbindungen über den anderen Modus nicht mehr möglich sind. Wenn Sie `nur direkt Verbindung` sowie [SSID nicht sichtbar](#Geraetename) oder [Kennwort nicht sichtbar](#WIFI-Kennwort) freigeschalten, dürfen Sie die Zugangsdaten nicht vergessen, sonst müssten Sie ein [Zurücksetzen per Reset-Schalter](reset.md#hardreset) durchführen!
 
 #### Festgelegter Host {#Fixedhost}
 
