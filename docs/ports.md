@@ -123,5 +123,5 @@ ntp3.aliyun.com
 
 Für Netzwerkinfrastrukturen, die den Geräten keinen direkten Zugriff auf das Internet erlauben, wird ein eigener lokaler Zeitserver eingesetzt. Um die Zeitsynchronisation der EZCast Pro Geräte mit Ihrem NTP-Server zu integrieren, erstellen Sie bitte einen oder mehrere Einträge auf Ihrem DNS-Server, die auf den entsprechenden lokalen NTP-Server verweisen:
 
-D10 -> Router/DNS (d.h. time.google.com) -> Interner NTP Server -> Internet NTP Server
+EZCast Pro Gerät -> Router/DNS (d.h. time.google.com) -> Interner NTP Server -> Internet NTP Server
 
