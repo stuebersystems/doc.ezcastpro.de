@@ -48,6 +48,6 @@ Mit Hilfe der Funktion Erweiterte Einstellungen können Sie sich anmelden und mi
 
 ![](/assets/img/proII.select.debuglog.png)
 
-* Lassen Sie uns bitte die Logdatei über unser [Ticketsystem](https://support.stueber.de) zukommen lassen: 
+* Lassen Sie uns bitte die Logdatei über unser [Ticketsystem](https://support.stueber.de) zukommen. 
 
 ![](/assets/img/logfile.ticket.png)
