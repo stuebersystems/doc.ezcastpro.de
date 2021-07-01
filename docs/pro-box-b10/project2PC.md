@@ -1,6 +1,6 @@
 # Projizieren auf diesen PC
 
-Es kann vorkommen, dass sich Ihr Windows- bzw. Android-Gerät nicht mit dem EZCast Pro Gerät per Miracast nverbinden lässt. Mit der EZCast Pro App/Software funktioniert ab der Verbindung mit Ihrem Gerät. Für genau diesen Fall finden Sie hier eine Analysemöglichkeit, um den Grund für dieses Problem zu finden.
+Es kann vorkommen, dass sich Ihr Windows- bzw. Android-Gerät nicht mit dem EZCast Pro Gerät per Miracast verbinden lässt. Mit der EZCast Pro App/Software funktioniert ab der Verbindung mit Ihrem Gerät. Für genau diesen Fall finden Sie hier eine Analysemöglichkeit, um den Grund für dieses Problem zu finden.
 
 ![](/assets/img/miracast.connection.failure.png)
 
