@@ -54,7 +54,7 @@ Mit einem [C14 to C13+Euro Y Type Splitter Adapter](https://www.amazon.de/dp/B07
 
 Klar kann man den Empfänger mit [Tesa Powerstrips](https://www.amazon.de/dp/B000KJOC78/ref=cm_sw_em_r_mt_dp_M4BQ8T1ZGDYH04NCHMJ3) gut befestigen, ohne den Bildschirm kaputt zu machen:
 
-![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/tesa.png)
+![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/tesa1.png)
 
 Bitte beachten: Stellen Sie bei der Befestigung des Empfängers sicher, dass zwischen der Antenne und dem Wireless Access Point sowie den Endgeräten eine direkte Sichtlinie besteht, um WLAN-Signalstörung zu vermeiden:
 
