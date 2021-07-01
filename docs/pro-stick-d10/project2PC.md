@@ -38,7 +38,7 @@ Mit der Funktion **Projizieren auf diesen PC** für Windows 10 können Sie fests
 
 ## Windows verbinden
 
-* Auf einem Windows-Gerät drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie Ihren PC aus, auf den Projizieren möchten:
+* Auf einem Windows-Gerät drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie Ihren PC aus, auf den Sie Projizieren möchten:
 
 ![](/assets/img/project2PC.Windows_Miracast_Select_Device.png)
 
