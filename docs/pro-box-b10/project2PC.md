@@ -12,7 +12,7 @@ Mit der Funktion **Projizieren auf diesen PC** für Windows 10 können Sie fests
 
 ![](/assets/img/win10.system.png)
 
-* Im linken Panel klicken Sie auf `Auf diesen PC projizieren`:
+* Im linken Panel klicken Sie auf `Projizieren auf diesen PC`:
 
 ![](/assets/img/project.to.this.pc.png)
 
