@@ -1,10 +1,10 @@
 # Projizieren auf diesen PC
 
-Lässt Ihr Windows- bzw. Ihr Android-Gerät sich mit dem EZCast Pro Gerät per Miracast nicht verbinden aber es funktioniert mit der EZCast Pro App/Software?
+Es kann vorkommen, dass sich Ihr Windows- bzw. Android-Gerät nicht mit dem EZCast Pro Gerät per Miracast nverbinden lässt. Mit der EZCast Pro App/Software funktioniert ab der Verbindung mit Ihrem Gerät. Für genau diesen Fall finden Sie hier eine Analysemöglichkeit, um den Grund für dieses Problem zu finden.
 
 ![](/assets/img/miracast.connection.failure.png)
 
-Mit der Funktion **Projizieren auf diesen PC** für Windows 10 können Sie feststellen, ob das Problem an dem EZCast Pro Gerät liegt oder an Ihrem Endgerät, indem Sie einen Windows 10 PC in einen Miracast-Empfänger umwandeln und versuchen als Test den Bildschirm Ihres Endgerätes stattdessen auf ihn zu übertragen. Der Miracast-Empfänger für Windows 10 ist in wenigen Schritten einzurichten:
+Mit der Funktion **Projizieren auf diesen PC** für Windows 10 können Sie feststellen, ob das Problem an dem EZCast Pro Gerät oder an Ihrem Endgerät liegt. Wandeln Sie dazu den Bildschirm eines Windows 10 PCs in einen Miracast-Empfänger um. In einem Test können Sie dann versuchen, den Bildschirm Ihres Endgerätes per Miracast auf den Bildschirm des Windows 10 PCs zu übertragen:
 
 ## Aktivieren
 
@@ -12,7 +12,7 @@ Mit der Funktion **Projizieren auf diesen PC** für Windows 10 können Sie fests
 
 ![](/assets/img/win10.system.png)
 
-* In der linken Panel klicken Sie auf `Auf diesen PC projizieren`:
+* Im linken Panel klicken Sie auf `Auf diesen PC projizieren`:
 
 ![](/assets/img/project.to.this.pc.png)
 
@@ -24,7 +24,7 @@ Mit der Funktion **Projizieren auf diesen PC** für Windows 10 können Sie fests
 
 ![](/assets/img/project2PC.ask.png)
 
-* Wenn die Anzeige aktiviert ist, können Sie auch eine **PIN** anfordern lassen, um gegen unberechtigte Bildschirmübertragung zu schutzen:
+* Wenn die Anzeige aktiviert ist, können Sie auch eine **PIN** anfordern lassen, um sich gegen unberechtigte Bildschirmübertragung zu schutzen:
 
 ![](/assets/img/project2PC.pin.png)
 
@@ -48,13 +48,13 @@ Mit der Funktion **Projizieren auf diesen PC** für Windows 10 können Sie fests
 
 ## Android verbinden
 
-Auf Ihrem Android-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das **Kontrollzentrum** aufzurufen und wählen Sie die Anwendung zur Bildschirmübertragung. Bei den meisten Geräten heißt es `Drahtlosprojektion`, `Smart View` oder auch `Screen Mirroring`. Wählen Sie anschließend Ihr EZCast Pro Gerät aus. Um die Bildschirmübertragung zum beenden, wählen Sie `Trennen` in selben Bereich.
+Auf Ihrem Android-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das **Kontrollzentrum** aufzurufen und wählen Sie die Anwendung zur Bildschirmübertragung. Bei den meisten Geräten heißt es `Drahtlosprojektion`, `Smart View` oder auch `Screen Mirroring`. Wählen Sie anschließend Ihr EZCast Pro Gerät aus. Um die Bildschirmübertragung zum beenden, wählen Sie `Trennen` im selben Bereich.
 
 ![Screen Mirroring](/assets/img/project2PC.miracast.android.png)
 
 
 ## Deaktivieren
 
-Um die Verbinden-App auf dem PC zu beenden, drucken Sie einfach die Tastenkombination `[Alt]` + `[F4]`. Sie können anschließend die Funktion deaktivieren:
+Um die Verbinden-App auf dem PC zu beenden, drücken Sie einfach die Tastenkombination `[Alt]` + `[F4]`. Sie können anschließend die Funktion deaktivieren:
 
 ![Screen Mirroring](/assets/img/project2PC.alwaysoff.png)
