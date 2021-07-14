@@ -56,7 +56,7 @@ Eine umfassende Information zu diesem Thema finden Sie [hier](ezcastproapp.md#ko
 
 Dieser Bereich hilft Ihnen, Einstellungen wie die [Sprache](#Sprache) der Benutzeroberfläche, die [Auflösung](#Auflösung) oder die Angabe [Max. Verbindungen](#MaxVerbindungen) zu wechseln.
 
-### Sprache {#Sprache}
+#### Sprache {#Sprache}
 
 Unter Sprache wählen die gewünschte Anzeigesprache des Menüs Erweiterte Einstellungen aus.
 
