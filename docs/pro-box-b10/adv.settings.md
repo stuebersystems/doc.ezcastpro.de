@@ -181,11 +181,11 @@ Um ältere Endgeräte bzw. nicht 5 GHz fähige Geräte zu unterstützen nutzen S
 
 #### Zeitgesteuerter Neustart {#timedrestart}
 
-Um die Leistung des EZCast Pro Gerätes zu optimieren, insbesondere bei Geräten, die dauerhaft im Betrieb sind, schalten Sie die Option `Zeitgesteurter Neustart` **EIN**. Der Empfänger startet sich automatisch neu, wenn die folgenden Bedingungen zutreffen:
+Um die Leistung des EZCast Pro Gerätes zu optimieren, insbesondere bei Geräten, die dauerhaft im Betrieb sind, aktivieren Sie die Funktion `Zeitgesteurter Neustart`. Der Empfänger startet sich automatisch neu, wenn die folgenden Bedingungen zutreffen:
 
-* Die EZCast Pro Box II war 8 Stunden nicht im Betrieb. 
-* Kein Nutzer ist seit mind. 8 Stunden verbunden.
-* Die Web-Oberfläche der Einstellungen wurde 8 Stunden nicht verwendet.
+* Die EZCast Pro Box II war 2/4/8 Stunden nicht im Betrieb. 
+* Kein Nutzer ist seit mind. 2/4/8 Stunden verbunden.
+* Die Web-Oberfläche der Einstellungen wurde 2/4/8 Stunden nicht verwendet.
 
 ![Zeitgesteuerter Neustart einschalten](/assets/img/timed.restart.png)
 
