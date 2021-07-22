@@ -1,6 +1,8 @@
 # Über Miracast verbinden
 
-Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höher) oder Android-Geräte (Android 4.4 oder höher) in bester Qualität und mit Sound zu präsentieren. EZCast Pro unterstützt nativ Miracast für Windows-/Android-Geräte. Das bedeutet, Sie benötigen in diesem Fall nicht die EZCast Pro Software bzw. App.
+Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höher) oder Android-Geräte (Android 4.4 oder höher) in bester Qualität und mit Sound zu präsentieren. 
+
+Das EZCast Pro II Gerät ermöglicht es bis zu vier Miracast-Geräten, über das Miracast-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App zu benötigen.
 
 !!! info "Miracast mit Android und EZCast Pro II"
 
@@ -15,13 +17,13 @@ Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höhe
   
 ## Miracast auf EZCast Pro freischalten
 
-Standardmäßig ist Miracast auf EZCast Pro II-Geräten aktiviert. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `Miracast` unter [Erweiterte Einstellungen](adv.settings.md#Miracast):
+Standardmäßig ist Miracast auf EZCast Pro II-Geräten aktiviert und unterstützt den geteilten Bildschirm. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `Miracast` unter [Erweiterte Einstellungen](adv.settings.md#Miracast):
 
 ![](/assets/img/Miracast.png)
 
 ## Miracast auf Windows
 
-Um Miracast mit dem EZCast Pro Stick II zu verbinden, stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite auf dem Bildschirm angezeigt ist.
+Um Miracast mit dem EZCast Pro II Gerät zu verbinden, stellen Sie sicher, dass der Empfänger eingeschalten ist und die Startseite auf dem Bildschirm angezeigt ist.
 
 ![EZCast Pro Stick II Startseite](/assets/img/ProIIDongle_landingpage.png)
 

@@ -6,6 +6,22 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
+## EZCast Pro Stick II Firmware - 1.12170.19
+2021.07.01
+
+**Fixes:**
+
+- Geändertes Verhalten von der Funktion Miracast im AGO-Modus. Das Ändern der SSID im AGO-Modus wird jetzt zugelassen
+- Geändertes Verhalten von der Funktion Miracast im AGO-Modus. Des Ändern des PSK wird jetzt nicht zugelassen
+- Verbesserte GoogleCast-Stabilität
+
+## EZCast Pro Sick II Firmware - 1.12170.17
+2021.06.22
+
+**Fixes:**
+
+- Verbesserte WLAN-Stabilität
+
 ## EZCast Pro Stick II Firmware - 1.12170.16
 2021.05.11
 
