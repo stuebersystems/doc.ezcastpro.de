@@ -72,7 +72,6 @@ Firmware-Version: [1.12170.19](whatsnew.md#ezcast-pro-stick-ii-firmware-11217016
 **Gerätemanagement**
 
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
-* [Android Audioübertragung](adv.settings.md#Android-Audio-Streaming): `EIN`
 * [AirView](adv.settings.md#AirView): `EIN`
 * [Castcode](adv.settings.md#Castcode): `Zufällig`
 * [Miracast](adv.settings.md#Miracast): `Geteilter Bildschirm unterstützt`
