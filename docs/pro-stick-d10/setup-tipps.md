@@ -18,23 +18,23 @@ Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 
 ### Netzteile {#powersupply}
 
-#### Das mitgelieferte USB-Netzteil (5V/2A)
+#### Stromversorgung (5V/1,5A)
 
-Der EZCast Pro Stick II wird mit einem 5V/2A USB-Netzteil geliefert. Als Ersatzteil kann man auch ein anderes Netzteil verwenden. Kontrollieren Sie einfach die Ausgangsleistungs auf dem Typenschild, dass es sich über den Mindeststrom des EZCast Pro Stick II (5V/1,5A) verfügt:
+Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel mit einem USB-Anschluss (Min. 5V/1,5A) (nicht im Lieferumfang enthalten) an den USB-Port des Sticks an. Kontrollieren Sie einfach die Ausgangsleistungs auf dem Typenschild, dass es sich über den Mindeststrom des EZCast Pro Stick II (5V/1,5A) verfügt:
 
 ![USB-Netzteil (5V/2A)](/assets/img/QuattroPod.USBCharger.png)
 
-#### Das Ersatz Samsung USB-Netzteil (5V/2A)
+#### Samsung USB-Netzteil (5V/2A)
 
-Das [Samsung Netzteil (5V/2A](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger) können wir auch empfehlen und ist im Amazon Store zu bestellen:
+Das [Samsung Netzteil (5V/2A)](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger) können wir auch empfehlen und ist im Amazon Store zu bestellen:
 
 ![Samsung USB-Netzteil](/assets/img/Samsung.USB-Netzteil.jpg)
 
-### Stromkabel USB 2.0 Typ A Stecker zu 5,5/2,1 mm 
+### Stromkabel USB 2.0 Type C (1M)
 
-USB-Stromkabel für den Empfänger kann durch das [USB 2.0 Typ A Stecker zu 5,5/2,1 mm](https://www.amazon.de/dp/B00M552AE2/ref=psdc_1626220031_t2_B00JA8U7Y2?language=en_GB&th=1) ersetzt werden und ist im Amazon Store zu bestellen:
+Das mitgelieferte USB-Stromkabel für den Stick kann durch das [USB C Ladekabel 1M](https://www.amazon.de/dp/B089K7KFNV/ref=cm_sw_em_r_mt_dp_H70V90DFZY17F1JW40FV) ersetzt werden und ist im Amazon Store zu bestellen:
 
-![USB 2.0 Typ A Stecker zu 5,5/2,1 mm](/assets/img/USB-2.0-TypA-Stecker-to-5.5-2.1mm.jpg)
+![Stromkabel USB 2.0 Typ C 1M](/assets/img/USBA-2.0-TypeC.jpg)
 
 ## Kabel und Zubehöre
 

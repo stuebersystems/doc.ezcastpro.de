@@ -25,7 +25,7 @@ Schließen Sie das Netzteil mit Hilfe des USB C Ladekabels an. Der EZCast Pro St
 
 !!! tip "Hinweis"
     
-	Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel mit einem [externen Netzteil](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger) (Min. 5V/1,5A) (nicht im Lieferumfang enthalten) an den USB-Port des Sticks an. 
+	Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel mit einem [externen Netzteil](setup-tipps.md#samsung-usb-netzteil-5v2a) (Min. 5V/1,5A) (nicht im Lieferumfang enthalten) an den USB-Port des Sticks an. 
 
 ## Android und iOS
 
