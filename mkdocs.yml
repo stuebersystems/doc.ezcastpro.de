@@ -80,6 +80,7 @@ nav:
     - Einführung: index.md
     - Was ist neu?: whatsnew.md
     - Anschlüsse: ports.md
+    - CMS: cms.md
     - Datensicherheit: datasecurity.md
     - Firmware aktualisieren: firmware-upgrade.md
 - Pro Stick II: 
@@ -145,6 +146,8 @@ nav:
         - Logdatei herunterladen: pro-box-b10/logfile.md
         - Projizieren auf diesen PC: pro-box-b10/project2PC.md
     - CMS: pro-box-b10/cms.md 
+- CMS: 
+    - Einführung: pro-box-b10/cms.md
 - Ältere Modelle: 
     - Einführung: legacymodels.md
     - Pro Stick I: 
