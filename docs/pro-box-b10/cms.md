@@ -44,7 +44,7 @@ Die Software ist unter Windows und macOS verfügbar.
 	[Video ansehen][6]
 
   [5]: /assets/img/video.emergencybroadcasting.jpg
-  [6]: https://assets.stueber.de/videos/cms.quattropod.emergencybroadcasting.de.mp4
+  [6]: https://assets.stueber.de/videos/cms.ezcastpro.emergencybroadcasting.de.mp4
 
 ## Anleitung
 
