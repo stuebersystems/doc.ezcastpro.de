@@ -11,7 +11,7 @@ Dabei profitieren Sie von folgenden Funktionen:
 
 Die Software ist unter Windows und macOS verfügbar.
 
-## CMS Videos
+## CMS Anleitungsvideos
 
 !!! hint "CMS Einführungsvideo"
 
