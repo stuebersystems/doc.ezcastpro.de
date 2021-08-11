@@ -41,9 +41,9 @@ Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend w�
 
 ![Der EZCast Pro Empfänger](/assets/img/iOS_AirPlay_select.png)
 
-Um die Übertragung von AirPlay vom iOS-Gerät zu beenden, tippen Sie nochmal auf `Bildschirmsynchronisierung` im Kontrollzentrum, anschließend wählen Sie `AirPlay-Synchr. ausschalten` aus.
+Um die Übertragung von AirPlay vom iOS-Gerät zu beenden, tippen Sie nochmal auf `Bildschirmsynchronisierung` im Kontrollzentrum, anschließend wählen Sie `Synchronisierung stoppen` aus.
 
-![AirPlay-Synchr. ausschalten](/assets/img/iOS_AirPlay_stop.png)
+![Synchronisierung stoppen](/assets/img/iOS_AirPlay_stop.png)
 
 ## AirPlay auf macOS
 

@@ -30,7 +30,7 @@ Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend w�
 
 Um die Übertragung von AirPlay vom iOS-Gerät zu beenden, tippen Sie nochmal auf `AirPlay` im Kontrollzentrum, anschließend wählen Sie `Synchronisierung stoppen` aus.
 
-![AirPlay-Synchr. ausschalten](/assets/img/iOS_AirPlay_stop.png)
+![Synchronisierung stoppen](/assets/img/iOS_AirPlay_stop.png)
 
 ## AirPlay auf macOS
 
