@@ -4,7 +4,8 @@ Das CMS (Central Management System) ist eine Software, die eine zentrale Verwalt
 
 Dabei profitieren Sie von folgenden Funktionen:
 
-* Anzeige eines Dashboards über verwendeten Geräte, inkl. Gerätestatus, IP-Adresse, Firmwareversion, etc.
+* Anzeige eines Dashboards über verwendete Geräte
+, inkl. Gerätestatus, IP-Adresse, Firmwareversion, etc.
 * Organisieren von drahtlosen Anzeigegeräte nach Gruppen
 * Gleichzeitiges Konfigurieren all Ihrer QuattroPod- und EZCast Pro II-Geräte
 * Planen von Neustarts und Firmware-Upgrades für mehrere Geräte
@@ -28,7 +29,7 @@ Die Software ist unter Windows und macOS verfügbar.
 
     [![CMS Timer Control][3]{: align=left }][4]
 	
-	Planen Sie, wie die täglichen Startzeiten der Geräte sind und wann das Durchführen von Firmwareupdates erfolgen soll.
+	Planen Sie, wie die täglichen Neustartzeiten der Geräte sind und wann das Durchführen von Firmwareupdates erfolgen soll.
 	
 	[Video ansehen][4]
 
