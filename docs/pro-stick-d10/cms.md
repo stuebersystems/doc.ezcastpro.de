@@ -29,7 +29,7 @@ Die Software ist unter Windows und macOS verfügbar.
 
     [![CMS Timer Control][3]{: align=left }][4]
 	
-	Planen Sie, wie die täglichen Neustartzeiten der Geräte sind und wann das Durchführen von Firmwareupdates erfolgen soll.
+	Planen Sie, wie die täglichen Neustartzeiten der Geräte sind und wann das automatische Durchführen von Firmwareupdates erfolgen soll.
 	
 	[Video ansehen][4]
 
@@ -49,6 +49,6 @@ Die Software ist unter Windows und macOS verfügbar.
 
 ## Anleitung
 
-Bitte beachten: Als Distributor der CMS-Produktschlüssel in Deutschland stellen wir eine Installationsanleitung in deutscher Sprache zur Verfügung, die wir Ihnen zusammen mit dem Produktschlüssel zusenden. Eine umfassende Anleitung zur Verwendung der CMS-Software finden Sie unter [https://ezcast-pro.com](https://ezcast-pro.com/download/) in englischer Sprache:
+Bitte beachten: Für den CMS-Produktschlüssel stellen wir eine Installationsanleitung in deutscher Sprache zur Verfügung, die wir Ihnen zusammen mit dem Produktschlüssel zusenden. Eine umfassende Anleitung zur Verwendung der CMS-Software finden Sie unter [https://ezcast-pro.com](https://ezcast-pro.com/download/) in englischer Sprache:
 
 ![](/assets/img/CMS-userguide.png)
