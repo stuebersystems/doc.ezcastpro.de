@@ -96,8 +96,8 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll: 
         - "Anleitung: AirPlay": pro-stick-d10/airplay.md
         - "Anleitung: Chromecast": pro-stick-d10/chromecast.md
-        - "Anleitung: Miracast": pro-stick-d10/miracast.md    
-    - EZCastPro App/Software: pro-stick-d10/ezcastproapp.md
+        - "Anleitung: Miracast": pro-stick-d10/miracast.md
+    - CMS: pro-stick-d10/cms.md    
     - Internetzugang: pro-stick-d10/internet.md
     - Einrichtungshinweise: pro-stick-d10/setup-tipps.md  
     - Erweiterte Funktionen:
@@ -107,13 +107,13 @@ nav:
         - Erweiterte Einstellungen: pro-stick-d10/adv.settings.md
         - Festgelegter Host: pro-stick-d10/fixedhost.md
         - ProCast: pro-stick-d10/procast.md
+    - EZCastPro App/Software: pro-stick-d10/ezcastproapp.md     
     - Firmware aktualisieren: pro-stick-d10/firmware-upgrade.md
     - Problembehandlung:   
         - Einstellungen zurücksetzen: pro-stick-d10/reset.md
         - Firmware neu installieren: pro-stick-d10/firmware-reinstall.md
         - Logdatei herunterladen: pro-stick-d10/logfile.md
         - Projizieren auf diesen PC: pro-stick-d10/project2PC.md
-    - CMS: pro-stick-d10/cms.md 
 - Pro Box II: 
     - Überblick: pro-box-b10/intro.md
     - Schnellstartanleitung: pro-box-b10/quickstart.md
@@ -127,9 +127,8 @@ nav:
     - Anleitungen nach<br>Streamingprotokoll: 
         - "Anleitung: AirPlay": pro-box-b10/airplay.md
         - "Anleitung: Chromecast": pro-box-b10/chromecast.md
-        - "Anleitung: Miracast": pro-box-b10/miracast.md        
-    - EZCastPro App/Software: pro-box-b10/ezcastproapp.md    
-    - Internetzugang: pro-box-b10/internet.md
+        - "Anleitung: Miracast": pro-box-b10/miracast.md
+    - CMS: pro-box-b10/cms.md        
     - Einrichtungshinweise: pro-box-b10/setup-tipps.md  
     - Erweiterte Funktionen:
         - Captive Portal: pro-box-b10/captiveportal.md
@@ -139,13 +138,14 @@ nav:
         - Festgelegter Host: pro-box-b10/fixedhost.md
         - ProCast: pro-box-b10/procast.md
         - Touch-Back-Funktion: pro-box-b10/touchback.md
-    - Firmware aktualisieren: pro-box-b10/firmware-upgrade.md  
+    - EZCastPro App/Software: pro-box-b10/ezcastproapp.md        
+    - Firmware aktualisieren: pro-box-b10/firmware-upgrade.md
+    - Internetzugang: pro-box-b10/internet.md
     - Problembehandlung: 
         - Einstellungen zurücksetzen: pro-box-b10/reset.md
         - Firmware neu installieren: pro-box-b10/firmware-reinstall.md  
         - Logdatei herunterladen: pro-box-b10/logfile.md
-        - Projizieren auf diesen PC: pro-box-b10/project2PC.md
-    - CMS: pro-box-b10/cms.md 
+        - Projizieren auf diesen PC: pro-box-b10/project2PC.md 
 - CMS: 
     - Einführung: cms.md
 - Ältere Modelle: 
@@ -155,14 +155,14 @@ nav:
         - Schnellstartanleitung: pro-stick-d01/quickstart.md
         - "Anleitung: AirPlay": pro-stick-d01/airplay.md
         - "Anleitung: Miracast": pro-stick-d01/miracast.md
-        - Internetzugang: pro-stick-d01/internet.md
         - Erweiterte Einstellungen: pro-stick-d01/adv.settings.md
         - Einstellungen zurücksetzen: pro-stick-d01/reset.md
+        - Internetzugang: pro-stick-d01/internet.md
     - Pro LAN Box: 
         - Überblick: lan-box-b01/intro.md
         - Schnellstartanleitung: lan-box-b01/quickstart.md
         - "Anleitung: AirPlay": lan-box-b01/airplay.md
         - "Anleitung: Miracast": lan-box-b01/miracast.md
-        - Internetzugang: lan-box-b01/internet.md
         - Erweiterte Einstellungen: lan-box-b01/adv.settings.md
         - Einstellungen zurücksetzen: lan-box-b01/reset.md
+        - Internetzugang: lan-box-b01/internet.md
