@@ -4,8 +4,17 @@ Unter einer Firmware versteht man Software, die in elektronischen Geräten einge
 
 Wählen Sie Ihr Gerät aus, um zu erfahren, wie Sie es auf den neusten Stand bringen:
 
-+ [EZCast Pro Stick II][1]
-+ [EZCast Pro Box II][2]
-
-  [1]: /pro-stick-d10/firmware-upgrade
-  [2]: /pro-box-b10/firmware-upgrade
+<div class="md-showcase">
+	<img src="/assets/img/stick2.png" alt="Abbildung: EZCast Pro Stick II">
+	<div>
+		<img src="/assets/img/ezcastpro.stick2.black.png" alt="Logo: EZCast Pro Stick II">
+		<p><a href="/pro-stick-d10/firmware-upgrade">Zum EZCast Pro Stick II</a></p>
+	</div>
+</div>
+<div class="md-showcase">
+	<img src="/assets/img/box2.png" alt="Abbildung: EZCast Pro Box II">
+	<div>
+		<img src="/assets/img/ezcastpro.box2.black.logo.png" alt="Logo: EZCast Pro Box II">
+		<p><a href="/pro-box-b10/firmware-upgrade">Zur EZCast Pro Box II</a></p>
+	</div>
+</div>
