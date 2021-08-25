@@ -32,7 +32,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der E
 	
 	Ein doppelseitiges PDF zum Teilen oder Ausdrucken.
 	
-	[Zum Datenblatt (PDF)][2]
+	[Zum Datenblatt (PDF)][5]
 
   [4]: /assets/img/stick2.datasheet.png
   [5]: https://download.stueber.de/doc/de/ezcastpro/ezcastpro-stick-II.brochure.de.pdf

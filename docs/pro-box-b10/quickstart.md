@@ -2,10 +2,9 @@
 
 !!! info "Schnellstartanleitung als PDF"
 	
-    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A4-Format][1] und [A6-Format][2] zur Verfügung.
+    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A6-Format][1] zur Verfügung.
 
-  [1]: https://download.stueber.de/doc/de/ezcastpro/schnellstartanleitungen/A4_BoxII.pdf
-  [2]: https://download.stueber.de/doc/de/ezcastpro/schnellstartanleitungen/A6_BoxII.pdf
+  [1]: https://download.stueber.de/doc/de/ezcastpro/schnellstartanleitungen/A6_BoxII.pdf
 
 ## Inhalt der EZCast Pro Box II
 

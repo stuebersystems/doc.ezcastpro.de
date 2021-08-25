@@ -2,10 +2,9 @@
 
 !!! info "Schnellstartanleitung als PDF"
 	
-    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A4-Format][1] und [A7-Format][2] zur Verfügung.
+    Die Schnellstartanleitung steht Ihnen auch als PDF-Dokument im [A7-Format][1] zur Verfügung.
 
-  [1]: https://download.stueber.de/doc/de/ezcastpro/schnellstartanleitungen/A4_StickII.pdf
-  [2]: https://download.stueber.de/doc/de/ezcastpro/schnellstartanleitungen/A7_StickII.pdf
+  [1]: https://download.stueber.de/doc/de/ezcastpro/schnellstartanleitungen/A7_StickII.pdf
 
 ## Inhalt des EZCast Pro Stick II
 
