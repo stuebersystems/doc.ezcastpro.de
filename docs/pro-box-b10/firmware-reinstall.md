@@ -139,7 +139,7 @@ Mit dem CMS (Central Management System) kann man nicht nur die aktuelle Firmware
 
 * Laden Sie eine Firmware von der obigen Tabelle [andere Firmware](#andere-firmware-installieren) herunter.
 
-* Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Device` -> und die Funktion `Device Firmware upgrade`.
+* Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Remote` -> und die Funktion `Device Firmware upgrade`.
 
 ![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade1.png)
 

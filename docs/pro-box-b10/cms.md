@@ -67,6 +67,8 @@ Mit dem Produktschlüssel für die Vollversion der CMS Software profitieren Sie 
 
 * Software ist updatefähig.
 
+Preis auf Anfrage. Bei Interesse an einem Angebot [kontaktieren Sie](https://www.stueber.de/contact.php?from=ezcastpro) uns.
+
 ## Anleitung
 
 Bitte beachten: Für den CMS-Produktschlüssel stellen wir eine Installationsanleitung in deutscher Sprache zur Verfügung, die wir Ihnen zusammen mit dem Produktschlüssel zusenden. Eine umfassende Anleitung zur Verwendung der CMS-Software finden Sie unter [https://ezcast-pro.com](https://ezcast-pro.com/download/) in englischer Sprache:
