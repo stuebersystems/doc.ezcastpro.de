@@ -1,11 +1,12 @@
-Das CMS (Central Management System) ist eine Software, die eine zentrale Verwaltung von EZCast Pro II Geräten und QuattroPod Geräten ermöglicht.
+## Central Management System - Was ist das?
+
+Das CMS ([Central Management System](https://www.ezcastpro.de/cms.php)) ist eine Software, die eine zentrale Verwaltung von EZCast Pro II Geräten und QuattroPod Geräten ermöglicht.
 
 ![](/assets/img/screenshot-cms-windows-01.png)
 
 Dabei profitieren Sie von folgenden Funktionen:
 
-* Anzeige eines Dashboards über verwendete Geräte
-, inkl. Gerätestatus, IP-Adresse, Firmwareversion, etc.
+* Anzeige eines Dashboards über verwendete Geräte, inkl. Gerätestatus, IP-Adresse, Firmwareversion, etc.
 * Organisieren von drahtlosen Anzeigegeräte nach Gruppen
 * Gleichzeitiges Konfigurieren all Ihrer QuattroPod- und EZCast Pro II-Geräte
 * Planen von Neustarts und Firmware-Upgrades für mehrere Geräte
@@ -46,6 +47,24 @@ Die Software ist unter Windows und macOS verfügbar.
 
   [5]: /assets/img/video.emergencybroadcasting.jpg
   [6]: https://assets.stueber.de/videos/cms.ezcastpro.emergencybroadcasting.de.mp4
+
+## Testversion
+
+Sie wollen die CMS Software einmal kennenlernen? Unter den folgenden Links können Sie eine Testversion der CMS Software von den Webseiten des Herstellers laden:
+
+* [Download CMS Software für Windows und Windows](https://ezcast-pro.com/download/cms/windows/)
+
+* [Download CMS Software für macOS](https://ezcast-pro.com/download/cms/macos/)
+
+## Produktschlüssel für die Vollversion
+
+Mit dem Produktschlüssel für die Vollversion der CMS Software profitieren Sie von folgenden Vorteilen:
+
+* Statt max. 3 Geräten können bis zu 255 Geräte verwaltet werden.
+
+* Keine Werbeeinblendung.
+
+* Software ist updatefähig.
 
 ## Anleitung
 

@@ -8,11 +8,14 @@ Sie können den EZCast Pro Stick II wiederherstellen, indem Sie die Firmware neu
 
 Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder eine andere Firmware.
 
+
+## Firmware über USB-Kabel installieren
+
 !!! warning "Achtung"
     
 	Bei einer Neuinstallation der Firmware werden **alle** Einstellungen zurückgesetzt.
-
-## Voraussetzung
+	
+### Voraussetzung
 
 * Sie benötigen einen Windows Computer, um die Firmware-Software auf dem EZCast Pro Stick II einzuspielen.
 
@@ -20,7 +23,7 @@ Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder e
 
 ![Das mitgelieferte USB Typ C Kabel](/assets/img/USB-TypeC-Cable.jpg)
 
-## EZCast Pro Repair Tool installieren
+### EZCast Pro Repair Tool installieren
 
 * Laden Sie das [EZCast Pro Stick II (D10) Repair Tool](https://download.stueber.de/doc/de/ezcastpro/repair_tools/EZCastPro.D10.Repair.Tool.zip) herunter.
 
@@ -36,8 +39,7 @@ Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder e
 
 ![Wählen Sie Installieren](/assets/img/EZCastPro_Upgrade_Tool_Driver.Install.png)
 
-
-## USB Typ C Kabel anschließen
+### USB Typ C Kabel anschließen
 
 !!! hint "Hinweis"
 
@@ -53,7 +55,7 @@ Wenn der Treiber richtig installiert ist und der EZCast Pro Stick II angeschloss
 
 ![EZCastPro Treiber im Geräte-Manager](/assets/img/EZCastPro_Driver.jpg)
 
-## Neuste Firmware installieren
+### Neuste Firmware installieren
 
 * Im Ordner `EZCastPro.D10.Repair.Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
 
@@ -87,7 +89,7 @@ Wenn die Installation erfolgreich durchgeführt wurde, erscheint die folgende Me
 
 Der EZCast Pro Stick II ist wieder einsatzbereit.
 
-## Andere Firmware installieren
+### Andere Firmware installieren
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
@@ -128,6 +130,29 @@ Der EZCast Pro Stick II ist wieder einsatzbereit.
 !!! warning "Achtung"
 
     Bei einer Neuinstallation der Firmware werden die fabrikseitigen Einstellungen des Geräts wiederhergestellt. Bitte prüfen Sie nach der Neuinstallation unsere [empfohlene Einstellungen](reset.md#recommendedsettings).
+
+
+## Firmware mit dem CMS installieren
+
+Mit dem CMS (Central Management System) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren EZCast Pro II Geräten bzw. QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
+
+* Laden Sie eine Firmware von der obigen Tabelle [andere Firmware](#andere-firmware-installieren) herunter.
+
+* Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Device` -> und die Funktion `Device Firmware upgrade`.
+
+![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade1.png)
+
+* Unter der Registerkarte `FILE`, wählen die Schaltfläche `File` und wählen Sie die Firmwaredatei aus, die Sie im ersten Schritt heruntergeladen haben.
+
+![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade2.png)
+
+Die neue Firmware wird heruntergeladen und automatisch installiert. 
+
+!!! warning "Achtung"
+    
+	Unterbrechen Sie während des Updates nicht die Stromversorgung.
+
+![](/assets/img/ProIIStick_Firmware_installing.png)
 
 ## Einstellungen nach der Neuinstallation {#recommendedsettings}
 
