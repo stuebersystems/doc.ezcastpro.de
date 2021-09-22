@@ -54,9 +54,7 @@ Mit einem [C14 to C13+Euro Y Type Splitter Adapter](https://www.amazon.de/dp/B07
 
 Klar kann man den Empfänger mit [UHU Doppelband](https://www.amazon.de/dp/B08XY33P7Z/ref=cm_sw_em_r_mt_dp_ATTVGNT009VNJK1MEE60?_encoding=UTF8&psc=1) gut befestigen, ohne den Bildschirm kaputt zu machen:
 
-![UHU Doppelband](/assets/img/UHU1.png)
-
-![UHU Doppelband](/assets/img/UHU2.png)
+![UHU Doppelband](/assets/img/UHU.png)
 
 !!! tip "Hinweis"
     
