@@ -52,7 +52,7 @@ Mit einem [C14 to C13+Euro Y Type Splitter Adapter](https://www.amazon.de/dp/B07
 
 ### Den Empfänger befestigen: Tesa Montagepads
 
-Klar kann man den Empfänger mit [Tesa Montagepads](https://www.amazon.de/dp/B008MWA6MK/ref=cm_sw_em_r_mt_dp_3861K62GRTEWN6BY3E81) gut befestigen, ohne den Bildschirm kaputt zu machen:
+Klar kann man den Empfänger mit [Tesa Montagepads](https://www.amazon.de/dp/B08XY33P7Z/ref=cm_sw_em_r_mt_dp_ATTVGNT009VNJK1MEE60?_encoding=UTF8&psc=1) gut befestigen, ohne den Bildschirm kaputt zu machen:
 
 ![Tesa Montagepads](/assets/img/tesa1.png)
 
