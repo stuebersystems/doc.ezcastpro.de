@@ -89,7 +89,3 @@ Die neue Firmware wird heruntergeladen und automatisch installiert.
 !!! warning "Achtung"
     
 	Unterbrechen Sie während des Updates nicht die Stromversorgung.
-
-!!! tip "Hinweis"
-
-     Sollten die Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.	
