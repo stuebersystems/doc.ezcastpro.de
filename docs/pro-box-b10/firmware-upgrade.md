@@ -63,4 +63,33 @@ Nach einer Firmware-Aktualiserung überprüfen Sie alle Einstellungen und neue F
 !!! tip "Hinweis"
     
 	Wenn Sie die Funktion Erweiterte Einstellungen in einem Webbrowser statt in der EZCast Pro App/Software ansehen, leeren Sie bitte nach der Aktualisierung der Firmware den Browser-Cache, um alle neu verfügbaren Optionen zu sehen.
-	
+
+## Firmware mit dem CMS installieren
+
+Mit dem CMS ([Central Management System](cms.md)) kann man die neuste Firmware vom Internet auf mehreren EZCast Pro II bzw. QuattroPod Geräten installieren.
+
+* Wenn eine neue Firmware für Ihre EZCast Pro II Geräte zur Verfügung steht, taucht die Meldung ![](/assets/img/CMS-firmware.available.png) neben dem Gerät auf:
+
+![Die Firmware wird installiert](/assets/img/CMS-firmware.OTA.select.devices.png)
+
+* Wählen Sie die gewünschten Geräte aus, anschließend klicken Sie auf die Schaltfläche `Remote` -> und wählen Sie die Funktion `Device firmware upgrade`.
+
+![Die Firmware wird installiert](/assets/img/CMS-firmware.install.latest.firmware.png)
+
+* Unter der Registerkarte `OTA`, klicken Sie einfach auf die Schaltfläche `Apply`, um die Aktualisierung durchzuführen:
+
+![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade.OTA.png)
+
+Die neue Firmware wird heruntergeladen und automatisch installiert.
+
+* Während der Aktualisierung des Empfängers erscheint folgende Meldung:
+
+![Firmware-Version aktualisieren](/assets/img/ProIIStick_Firmware_installing.png)
+
+!!! warning "Achtung"
+    
+	Unterbrechen Sie während des Updates nicht die Stromversorgung.
+
+!!! tip "Hinweis"
+
+     Sollten die Sender nach der Firmware-Aktualisierung nicht mit dem Empfänger verbinden können, müssen sie neu [gekoppelt](pairing.md) werden.	
