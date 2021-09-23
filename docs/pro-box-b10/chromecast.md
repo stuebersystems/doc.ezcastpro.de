@@ -54,3 +54,9 @@ Um die Übertragung zu beenden, klicken Sie nochmal auf den Empfänger.
 Per Rechtsklick kann man Streamen-Symbol an die Symbolleiste anheften:
 
 ![Streamen-Symbol immer zeigen](/assets/img/Always_show_icon.png)
+
+## Die Google Home App (Android)
+
+* In der kostenlosen App `Google Home` unter Android suchen Sie das EZCast Pro II Gerät, anschließend wählen Sie die Schaltfläche Bildschirm streamen.
+
+![](/assets/img/GooleHomeAppStore.png)
