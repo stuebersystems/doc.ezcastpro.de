@@ -57,6 +57,6 @@ Per Rechtsklick kann man Streamen-Symbol an die Symbolleiste anheften:
 
 ## Die Google Home App (Android)
 
-* In der kostenlosen App `Google Home` unter Android suchen Sie das EZCast Pro Gerät, anschließend wählen Sie die Schaltfläche Bildschirm streamen.
+* In der kostenlosen App `Google Home` unter Android suchen Sie das EZCast Pro II Gerät, anschließend wählen Sie die Schaltfläche Bildschirm streamen.
 
 ![](/assets/img/GooleHomeAppStore.png)

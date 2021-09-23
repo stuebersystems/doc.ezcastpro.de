@@ -97,7 +97,7 @@ nav:
         - "Anleitung: AirPlay": pro-stick-d10/airplay.md
         - "Anleitung: Chromecast": pro-stick-d10/chromecast.md
         - "Anleitung: Miracast": pro-stick-d10/miracast.md
-    - CMS: pro-stick-d10/cms.md    
+    - CMS (Central Management System): pro-stick-d10/cms.md    
     - Internetzugang: pro-stick-d10/internet.md
     - Einrichtungshinweise: pro-stick-d10/setup-tipps.md  
     - Erweiterte Funktionen:
@@ -128,7 +128,7 @@ nav:
         - "Anleitung: AirPlay": pro-box-b10/airplay.md
         - "Anleitung: Chromecast": pro-box-b10/chromecast.md
         - "Anleitung: Miracast": pro-box-b10/miracast.md
-    - CMS: pro-box-b10/cms.md        
+    - CMS (Central Management System): pro-box-b10/cms.md        
     - Einrichtungshinweise: pro-box-b10/setup-tipps.md  
     - Erweiterte Funktionen:
         - Captive Portal: pro-box-b10/captiveportal.md
