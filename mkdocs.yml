@@ -80,7 +80,7 @@ nav:
     - Einführung: index.md
     - Was ist neu?: whatsnew.md
     - Anschlüsse: ports.md
-    - CMS: cms.md
+    - CMS (Central Management System): cms.md
     - Datensicherheit: datasecurity.md
     - Firmware aktualisieren: firmware-upgrade.md
 - Pro Stick II: 
