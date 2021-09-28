@@ -95,14 +95,13 @@ Die EZCast Pro Box II ist wieder einsatzbereit.
 
 Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der folgenden Dateien herunter:
 
-Firmware                       | Herunterladen
-------------------------- | ------------
-1.12170.25 (Beta) | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.12170.25.gz)
+Firmware                       | Herunterladen | Bemerkung
+------------------------- | ------------ | ------------
+1.13739.0 (Beta) | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.13739.0.gz) | neues Modul AirPlay mit Onscreen-Code
+1.12170.25 (Beta) | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.12170.25.gz) | CMS-Stabilität verbessert
 1.12170.19 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.12170.19.gz)
 1.12170.16 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.12170.16.gz)
 1.9871.37 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.9871.37.gz)
-1.8617.21 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.8617.21.gz)
-1.7545.8 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.7545.8.gz)
 
 * Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **Update_for_localfile.exe** aus.
 
