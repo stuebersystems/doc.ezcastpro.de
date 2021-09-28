@@ -1,6 +1,6 @@
 # Linux
 
-Obwohl Linux offiziell nicht von EZCast Pro unterstützt wird, stehen Ihnen mit Hilfe des Google Chrome Browsers zwei Möglichkeiten zur Verfügung:
+Mit einem EZCast Pro II Gerät stehen Ihnen mit Hilfe des Google Chrome Browsers zwei Möglichkeiten zur Verfügung:
 
 1. Wer lediglich seinen Bildschirm übertragen möchte, kann die Funktion [Streamen](#linuxchromecast) im Google Chrome Browser verwenden:
 
