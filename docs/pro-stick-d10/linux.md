@@ -4,9 +4,7 @@ Mit einem EZCast Pro II Gerät stehen Ihnen zum Übertragen Ihres Bildschirms mi
 
 1. Wer lediglich seinen Bildschirm übertragen möchte, kann die Funktion [Streamen](#linuxchromecast) im Google Chrome Browser verwenden:
 
-
-
-![Übertragungsquelle](/assets/img/Linux.Chrome_select_stream2.png)
+    ![Übertragungsquelle](/assets/img/Linux.Chrome_select_stream2.png)
 
 2. Die [EZCast Pro Chrome Erweiterung](#LinuxInstallApp) bietet sowohl für den Moderator als auch für die anderen Teilnehmer einer Präsentation, verschiedene erweiterte Kontrollmöglichkeiten und Übertragungsfunktionen, die sonst bei der  Funktion `Streamen..` im Chrome Browser nicht möglich sind:
 
