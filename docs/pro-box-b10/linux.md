@@ -10,7 +10,8 @@ Mit einem EZCast Pro II Gerät stehen Ihnen zum Übertragen Ihres Bildschirms mi
 
 ![Übertragungsquelle](/assets/img/EZCastPro.Chrome.App.png)
 
-In dieser Anleitung wird erklärt, wie man unter Ubuntu 20.04 Google Chrome installiert. Der Chrome Browser kann jedoch auf vielen Distributions wie [Debian](https://www.debian.org/distrib/), [Kali](https://www.kali.org/) und [Linux Mint](https://linuxmint.com/) installiert werden.
+In dieser Anleitung wird erklärt, wie man unter Ubuntu 20.04 Google Chrome installiert. Der Chrome Browser kann jedoch auf vielen Distributions wie [Debian](https://www.debian.org/distrib/), [Kali](https://www.kali.org/), [Linux Mint](https://linuxmint.com/), [Puavo](https://puavo.org/), [Suse](https://www.suse.com/download/sled/) und [LinuxMuster](https://www.linuxmuster.net)installiert werden.
+
 
 ## Chromecast auf EZCast Pro freischalten
 
