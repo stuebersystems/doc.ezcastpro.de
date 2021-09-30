@@ -345,6 +345,8 @@ Mit `Nur über Router` wird der Access-Point des EZCast Pro Gerätes  ausgeschal
 
 ![](/assets/img/Via.Router.B10.png)
 
+![](/assets/img/ezcastpro.II.via.Router.only.png)
+
 !!! warning "Achtung"
 
     Bitte beachten Sie, dass die Freischaltung der Option `Nur direkte Verbindung` oder `Nur über Router` dazu führt, dass Verbindungen über den anderen Modus nicht mehr möglich sind. Wenn Sie `nur direkt Verbindung` sowie [SSID nicht sichtbar](#Geraetename) oder [Kennwort nicht sichtbar](#WIFI-Kennwort) freigeschalten, dürfen Sie die Zugangsdaten nicht vergessen, sonst müssten Sie ein [Zurücksetzen per Reset-Schalter](reset.md#hardreset) durchführen!
