@@ -317,7 +317,7 @@ Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Erste
 
     Sie verbinden Ihr Endgerät (Windows/Android/Apple/etc.) mit dem Hotspot des EZCast Pro Gerätes über die auf dem Bildschirm angezeigte SSID. Inhalte vom Internet werden im zweiten Schritt von Ihrem [Access Point](internet.md) an Ihr Endgerät übermittelt. Dies bietet im Prinzip die beste Bandbreite zwischen Ihrem Gerät und dem EZCast Pro Gerät, wenn die Entfernung vom Netzwerk-Zugangspunkt sehr groß ist. Bei der Direkte Verbindung muss der Benutzer vom bisherigen Netzwerk auf die SSID des EZCast Pro Gerätes wechseln.
 
-    ![](/assets/img/Direct.Connection.D10.png)
+    ![](/assets/img/Direct.Connection.B10.png)
 	
 	Die Zugangsdaten SSID und Kennwort der Direkte Verbindung werden oben auf der Startseite angezeigt:
 	
@@ -327,9 +327,9 @@ Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Erste
 
 *   **Über Router**
 
-    Das EZCast Pro Gerät wurde im Vorab vom Administrator per die Funktion [Internetzugang](internet.md) mit Ihrem Access Point verbunden. Inhalte vom Internet werden im ersten Schritt von Ihrer Netzinfrastruktur an Ihr Endgerät übermittelt. Im zweiten Schritt verbinden Sie Ihr Endgerät (Windows/Android/Apple/etc.) mit dem EZCast Pro Gerät. Bei dieser Option muss der Benutzer auf kein anderes Netzwerk wechseln.
+    Das EZCast Pro Gerät wird vom Administrator per die Funktion [Internetzugang](internet.md) mit Ihrem Access Point verbunden. Inhalte vom Internet werden im ersten Schritt von Ihrer Netzinfrastruktur an Ihr Endgerät übermittelt. Im zweiten Schritt verbinden Sie Ihr Endgerät (Windows/Android/Apple/etc.) mit dem EZCast Pro Gerät. Bei dieser Option muss der Benutzer auf kein anderes Netzwerk wechseln.
 
-    ![](/assets/img/Direct.Connection.B10.png)
+    ![](/assets/img/Via.Router.B10.png)
 	
     ![In der EZCast Pro Software wird ein verfügbares EZCast Pro Gerät über Router mit einem Symbol des Routers rechts angezeigt](/assets/img/ezcastpro.II.App.connect.via.Router.png)
 
@@ -337,7 +337,7 @@ Standardmäßig sind beide Netzwerkschnittstellen durch die Einstellung `Über R
 
 ![](/assets/img/Connection_EZCastProII.png)
 
-Mit den ersten zwei Optionen `Über Router oder direkte Verbindung` sowie mit `Nur direkte Verbindung` werden die SSID und das Kennwort dazu auf der Startseite angezeigt, wie unten abgebildet:
+Mit den ersten zwei Optionen `Über Router oder direkte Verbindung` sowie mit `Nur direkte Verbindung` werden die SSID und das Kennwort auf der Startseite angezeigt, wie unten abgebildet:
 
 ![](/assets/img/ProIIDongle_landingpage.png)
 
