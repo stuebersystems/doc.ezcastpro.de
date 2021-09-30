@@ -339,7 +339,7 @@ Standardmäßig sind beide Netzwerkschnittstellen durch die Einstellung `Über R
 
 Mit den ersten zwei Optionen `Über Router oder direkte Verbindung` sowie mit `Nur direkte Verbindung` werden die SSID und das Kennwort auf der Startseite angezeigt, wie unten abgebildet:
 
-![](/assets/img/ProIIDongle_landingpage.png)
+![](/assets/img/ezcastpro.II.ssid_password.png)
 
 Mit `Nur über Router` wird der Access-Point des EZCast Pro Gerätes  ausgeschaltet und Sie können nur über Ihre Infrastruktur mit dem Gerät verbinden. Die SSID und das Kennwort werden ausgegraut und die vom Router vergebene IP-Adresse bzw. die statische IP-Adresse des EZCast Pro Gerätes wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
 
