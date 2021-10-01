@@ -330,7 +330,7 @@ Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Erste
 
     Das EZCast Pro Gerät wird vom Administrator per die Funktion [Internetzugang](internet.md) mit Ihrem Access Point verbunden. Inhalte vom Internet werden im ersten Schritt von Ihrer Netzinfrastruktur an Ihr Endgerät übermittelt. Im zweiten Schritt verbinden Sie Ihr Endgerät (Windows/Android/Apple/etc.) mit dem EZCast Pro Gerät. Bei dieser Option muss der Benutzer auf kein anderes Netzwerk wechseln.
 
-    ![](/assets/img/Via.Router.B10.png)
+    ![](/assets/img/Via.Router.D10.png)
 	
     ![In der EZCast Pro Software wird ein verfügbares EZCast Pro Gerät über Router mit einem Symbol des Routers rechts angezeigt](/assets/img/ezcastpro.II.App.connect.via.Router.png)
 
