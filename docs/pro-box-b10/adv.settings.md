@@ -341,9 +341,7 @@ Mit den ersten zwei Optionen `Über Router oder direkte Verbindung` sowie mit `N
 
 ![](/assets/img/ezcastpro.II.ssid_password.png)
 
-Mit `Nur über Router` wird der Access-Point des EZCast Pro Gerätes  ausgeschaltet und Sie können nur über Ihre Infrastruktur mit dem Gerät verbinden. Die SSID und das Kennwort werden ausgegraut und die vom Router vergebene IP-Adresse bzw. die statische IP-Adresse des EZCast Pro Gerätes wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
-
-![](/assets/img/Via.Router.B10.png)
+Mit `Nur über Router` wird der Hotspot des EZCast Pro Gerätes ausgeschaltet und Sie können nur über Ihren Access Point bzw. Ihre Infrastruktur mit dem EZCast Pro Gerät verbinden. Die SSID und das Kennwort werden ausgegraut und die von der Infrastruktur vergebene  IP-Adresse auf der Startseite angezeigt, wie unten abgebildet:
 
 ![](/assets/img/ezcastpro.II.via.Router.only.png)
 
