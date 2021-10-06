@@ -314,9 +314,9 @@ Einen OTA-Server angeben.
 
 Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Ersteinrichtung des EZCast Pro Gerätes steht Ihnen standardmäßig die **Direkte Verbindung** zur Verfügung.
 
-*   **Direkte Verbindung**
+##### Direkte Verbindung
 
-    Sie verbinden Ihr Endgerät (Windows/Android/Apple/etc.) mit dem Hotspot des EZCast Pro Gerätes über die auf dem Bildschirm angezeigte SSID. Inhalte vom Internet werden im zweiten Schritt von Ihrem [Access Point](internet.md) an Ihr Endgerät übermittelt. Dies bietet im Prinzip die beste Bandbreite zwischen Ihrem Gerät und dem EZCast Pro Gerät, wenn die Entfernung vom Netzwerk-Zugangspunkt sehr groß ist. Bei der Direkte Verbindung muss der Benutzer vom bisherigen Netzwerk auf die SSID des EZCast Pro Gerätes wechseln.
+Sie verbinden Ihr Endgerät (Windows/Android/Apple/etc.) mit dem Hotspot des EZCast Pro Gerätes über die auf dem Bildschirm angezeigte SSID. Inhalte vom Internet werden im zweiten Schritt von Ihrem [Access Point](internet.md) an Ihr Endgerät übermittelt. Dies bietet im Prinzip die beste Bandbreite zwischen Ihrem Gerät und dem EZCast Pro Gerät, wenn die Entfernung vom Netzwerk-Zugangspunkt sehr groß ist. Bei der Direkte Verbindung muss der Benutzer vom bisherigen Netzwerk auf die SSID des EZCast Pro Gerätes wechseln.
 
     ![](/assets/img/Direct.Connection.D10.png)
 	
