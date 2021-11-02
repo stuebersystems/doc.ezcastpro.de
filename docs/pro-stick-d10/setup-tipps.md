@@ -20,7 +20,7 @@ Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 
 #### Stromversorgung (5V/1,5A)
 
-Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel mit einem USB-Anschluss (Min. 5V/1,5A) (nicht im Lieferumfang enthalten) an den USB-Port des Sticks an. Kontrollieren Sie einfach die Ausgangsleistungs auf dem Typenschild, dass es sich über den Mindeststrom des EZCast Pro Stick II (5V/1,5A) verfügt:
+Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel mit einem USB-Anschluss (Min. 5V/1,5A) (nicht im Lieferumfang enthalten) an den USB-Port des Sticks an. Kontrollieren Sie einfach die Ausgangsleistung auf dem Typenschild, dass es sich über den Mindeststrom des EZCast Pro Stick II (5V/1,5A) verfügt:
 
 ![USB-Netzteil (5V/2A)](/assets/img/QuattroPod.USBCharger.png)
 

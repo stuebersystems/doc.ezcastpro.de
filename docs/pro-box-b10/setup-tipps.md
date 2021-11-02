@@ -20,7 +20,7 @@ Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 
 #### Das mitgelieferte USB-Netzteil (5V/2A)
 
-Die EZCast Pro Box II wird mit einem 5V/2A USB-Netzteil geliefert. Als Ersatzteil kann man auch ein anderes Netzteil verwenden. Kontrollieren Sie einfach die Ausgangsleistungs auf dem Typenschild, dass es sich über den Mindeststrom der EZCast Pro Box II (5V/2A) verfügt:
+Die EZCast Pro Box II wird mit einem 5V/2A USB-Netzteil geliefert. Als Ersatzteil kann man auch ein anderes Netzteil verwenden. Kontrollieren Sie einfach die Ausgangsleistung auf dem Typenschild, dass es sich über den Mindeststrom der EZCast Pro Box II (5V/2A) verfügt:
 
 ![USB-Netzteil (5V/2A)](/assets/img/QuattroPod.USBCharger.png)
 
