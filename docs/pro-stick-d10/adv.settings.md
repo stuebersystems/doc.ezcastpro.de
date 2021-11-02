@@ -312,27 +312,27 @@ Einen OTA-Server angeben.
 
 #### Verbindung (Netzwerkschnittstellen) {#networkinterfaces}
 
-Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Ersteinrichtung des EZCast Pro Gerätes steht Ihnen standardmäßig die **Direkte Verbindung** zur Verfügung.
+Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Ersteinrichtung des EZCast Pro Gerätes stehen Ihnen standardmäßig die **Direkte Verbindung** sowie die Verbindung **Über Router** zur Verfügung.
 
-*   **Direkte Verbindung**
+##### Direkte Verbindung
 
-    Sie verbinden Ihr Endgerät (Windows/Android/Apple/etc.) mit dem Hotspot des EZCast Pro Gerätes über die auf dem Bildschirm angezeigte SSID. Inhalte vom Internet werden im zweiten Schritt von Ihrem [Access Point](internet.md) an Ihr Endgerät übermittelt. Dies bietet im Prinzip die beste Bandbreite zwischen Ihrem Gerät und dem EZCast Pro Gerät, wenn die Entfernung vom Netzwerk-Zugangspunkt sehr groß ist. Bei der Direkte Verbindung muss der Benutzer vom bisherigen Netzwerk auf die SSID des EZCast Pro Gerätes wechseln.
+Sie verbinden Ihr Endgerät z.B. ein iPad mit dem Hotspot des EZCast Pro Gerätes über die auf dem Bildschirm angezeigte SSID. Inhalte vom Internet werden im zweiten Schritt von Ihrem [Access Point](internet.md) an Ihr Endgerät übermittelt. Dies bietet im Prinzip die beste Bandbreite zwischen Ihrem Endgerät und dem EZCast Pro Gerät, wenn die Entfernung zum Access Point sehr groß ist. Bei der Direkte Verbindung muss der Anwender vom bisherigen Netzwerk auf die SSID des EZCast Pro Gerätes wechseln.
 
-    ![](/assets/img/Direct.Connection.D10.png)
+![](/assets/img/Direct.Connection.D10.png)
 	
-	Die Zugangsdaten SSID und Kennwort der Direkte Verbindung werden oben auf der Startseite angezeigt:
+Die Zugangsdaten SSID und Kennwort der Direkte Verbindung werden oben auf der Startseite angezeigt:
 	
-    ![](/assets/img/ezcastpro.II.ssid_password.png)
+![](/assets/img/ezcastpro.II.ssid_password.png)
 
-    ![In der EZCast Pro Software wird eine verfügbare Direkte Verbindung mit dem u.s. Symbol rechts angezeigt](/assets/img/ezcastpro.II.App.Direkte_Verbindung.png)
+![In der EZCast Pro Software wird eine verfügbare Direkte Verbindung mit dem u.s. Symbol rechts angezeigt](/assets/img/ezcastpro.II.App.Direkte_Verbindung.png)
 
-*   **Über Router**
+##### Über Router
 
-    Das EZCast Pro Gerät wird vom Administrator per die Funktion [Internetzugang](internet.md) mit Ihrem Access Point verbunden. Inhalte vom Internet werden im ersten Schritt von Ihrer Netzinfrastruktur an Ihr Endgerät übermittelt. Im zweiten Schritt verbinden Sie Ihr Endgerät (Windows/Android/Apple/etc.) mit dem EZCast Pro Gerät. Bei dieser Option muss der Benutzer auf kein anderes Netzwerk wechseln.
+Das EZCast Pro Gerät wird vom Administrator über die Funktion [Internetzugang](internet.md) mit Ihrem Access Point verbunden. Inhalte vom Internet werden im ersten Schritt von Ihrer Netzwerkinfrastruktur an Ihr Endgerät übermittelt. Im zweiten Schritt verbinden Sie Ihr Endgerät z.B. ein iPad mit dem EZCast Pro Gerät. Bei dieser Schnittstelle muss der Anwender auf kein anderes Netzwerk wechseln.
 
-    ![](/assets/img/Via.Router.D10.png)
+![](/assets/img/Via.Router.D10.png)
 	
-    ![In der EZCast Pro Software wird ein verfügbares EZCast Pro Gerät über Router mit einem Symbol des Routers rechts angezeigt](/assets/img/ezcastpro.II.App.connect.via.Router.png)
+![In der EZCast Pro Software wird ein verfügbares EZCast Pro Gerät über Router mit einem Symbol des Routers rechts angezeigt](/assets/img/ezcastpro.II.App.connect.via.Router.png)
 
 Standardmäßig sind beide Netzwerkschnittstellen durch die Einstellung `Über Router oder direkte Verbindung` freigeschaltet. Sie haben jedoch die Wahl, eine der Netzwerkschnittstellen zu deaktivieren, indem Sie die Einstellung auf entweder `Nur direkte Verbindung` oder `Nur über Router` umstellen:
 
@@ -342,9 +342,7 @@ Mit den ersten zwei Optionen `Über Router oder direkte Verbindung` sowie mit `N
 
 ![](/assets/img/ezcastpro.II.ssid_password.png)
 
-Mit `Nur über Router` wird der Access-Point des EZCast Pro Gerätes  ausgeschaltet und Sie können nur über Ihre Infrastruktur mit dem Gerät verbinden. Die SSID und das Kennwort werden ausgegraut und die vom Router vergebene IP-Adresse bzw. die statische IP-Adresse des EZCast Pro Gerätes wird auf der Startseite angezeigt (unten links), wie unten abgebildet:
-
-![](/assets/img/Via.Router.B10.png)
+Mit `Nur über Router` wird der Hotspot des EZCast Pro Gerätes ausgeschaltet und Sie können nur über Ihren Access Point bzw. Ihre Infrastruktur mit dem EZCast Pro Gerät verbinden. Die SSID und das Kennwort werden ausgegraut und die von der Infrastruktur vergebene  IP-Adresse auf der Startseite angezeigt, wie unten abgebildet:
 
 ![](/assets/img/ezcastpro.II.via.Router.only.png)
 
