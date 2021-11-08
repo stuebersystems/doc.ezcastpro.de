@@ -11,7 +11,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
 **Neue Funktionen:**
 
-- neues Modul AirPlay mit Onscreen-Code
+- neues Modul AirPlay mit [Onscreen-Code](securitycodes.md) und verbesserter Unterstützung für [MDM](https://support.apple.com/de-ch/guide/mdm/mdmbf9e668/web)
 
 **Fixes:**
 

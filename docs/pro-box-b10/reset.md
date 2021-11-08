@@ -66,14 +66,16 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
 Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
 
-Firmware-Version: [1.12170.19](whatsnew.md#ezcast-pro-box-ii-firmware-11217016)
+Firmware-Version: [1.13781.15](whatsnew.md#ezcast-pro-box-ii-firmware-11378115)
 
 **Gerätemanagement**
 
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
 * [AirView](adv.settings.md#AirView): `EIN`
+* [AirPlay OnScreen-Code](adv.settings.md#AirPlayMode): `EIN`
 * [Castcode](adv.settings.md#Castcode): `Zufällig`
-* [Miracast](adv.settings.md#Miracast): `Geteilter Bildschirm unterstützt`
+* [Miracast Pin-Code](adv.settings.md#Miracast): `EIN`
+* [Miracast Geteilter Bildschirm](adv.settings.md#Miracast): `Geteilter Bildschirm unterstützt`
 * [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `2 Stunden`
 
 **Netzwerkmanagement**
@@ -89,5 +91,3 @@ Firmware-Version: [1.12170.19](whatsnew.md#ezcast-pro-box-ii-firmware-11217016)
     * `Neustart = Ein`
 * [Mein Bildschirm](adv.settings.md#Mein-Bildschirm): unsere [Startseite](https://download.stueber.de/doc/de/ezcastpro/EZCastProV2_StartseiteDE.png) in der deutschen Sprache
 * [Zentrales Managementsystem](adv.settings.md#AirView): `EIN`
-
-

@@ -112,7 +112,9 @@ Mit Vollbild-Modus wird die Eingabe des Endgeräts automatisch angepasst, um das
 
 #### AirPlay-Modus {#AirPlayMode}
 
-Mit einem iOS/macOS Gerät können Sie Ihren Bildschirminhalt auch direkt per Apple AirPlay übertragen. Das bedeutet, Sie benötigen in diesem Fall keine EZCast Pro Software. Diese Funktion ist 'out-the-box' freigegeben. Eine umfassende Anleitung zur Verwendung von AirPlay finden Sie [hier](airplay.md).
+Standardmäßig ist das Protokoll AirPlay auf EZCast Pro II-Geräten aktiviert. Sollten Sie die Funktion jedoch deaktivieren bzw. erneut aktivieren wollen, wählen Sie die gewünschte Option aus. Sollten Sie die Funktion jedoch deaktivieren bzw. erneut aktivieren wollen, wählen Sie die gewünschte Option aus. Eine umfassende Anleitung zur Verwendung von AirPlay finden Sie [hier](airplay.md):
+
+![](/assets/img/ezcastpro.II.AirPlay.Settings.png)
 
 Wählen Sie den Modus für Videowiedergabe aus:
 
