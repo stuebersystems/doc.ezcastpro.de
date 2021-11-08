@@ -14,17 +14,17 @@ Das Endgerät gibt den Castcode ein, dann darf die Bildschirmübertragung beginn
 
 ![Der Castcode](/assets/img/Enddevice_MiracastPin.png)
 
-## Welche Streamingprotokollen unterstützt der Castcode?
+## Welche Streamingprotokolle unterstützt der Castcode?
 
-Der Castcode wird bei einem Antrag zum Senden von folgenden Streamingprotokollen bzw. Anwendungen angefordert:
+Der Castcode wird bei einem Antrag zum Senden von folgenden Streamingprotokolle bzw. Anwendungen angefordert:
 
 * Die EZCast Pro Software für Windows und macOS
 * Die EZCast Pro App für Android und iOS
 * AirPlay auf iOS und macOS
 
-## Welche Streamingprotokollen unterstützt der Castcode nicht?
+## Welche Streamingprotokolle unterstützt der Castcode nicht?
 
-Aufgrund einer Limitierung der Protokollen kann der Castcode unter folgenden Streamingprotokollen nicht unterstützt werden. Trotzdem können Sie sich gegen unberechtigte Bildschirmübertragung schützen:
+Aufgrund einer Limitierung der Protokollen kann der Castcode unter folgenden Streamingprotokolle nicht unterstützt werden. Trotzdem können Sie sich gegen unberechtigte Bildschirmübertragung schützen:
 
 * Google Cast
 * Miracast

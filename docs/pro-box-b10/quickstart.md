@@ -33,7 +33,7 @@ Mit EZCast Pro stehen Ihnen zwei Möglichkeiten zur Verfügung:
 
 ### a) Ohne App. Einfache Bildschirmübertragung {#Android_and_iOS_no_app}
 
-Unterstützt werden alle gängigen Streamingprotokollen. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
+Unterstützt werden alle gängigen Streamingprotokolle. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
 
 * [AirPlay](airplay.md)
 * [Google Cast](chromecast.md)
@@ -77,7 +77,7 @@ Mit EZCast Pro stehen Ihnen zwei Möglichkeiten zur Verfügung:
 
 ### a) Ohne Software. Einfache Bildschirmübertragung {#Windows_and_macOS_no_software}
 
-Unterstützt werden alle gängigen Streamingprotokollen. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
+Unterstützt werden alle gängigen Streamingprotokolle. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
 
 * [AirPlay](airplay.md)
 * [Google Cast](chromecast.md)
