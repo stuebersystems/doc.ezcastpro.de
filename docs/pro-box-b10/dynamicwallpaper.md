@@ -162,7 +162,7 @@ Legen Sie fest, wann die Funktion Dynamisches Hintergrund beendet werden soll:
 
 ![](/assets/img/prostickII_menu.neustart.png)
 
-* Dann wählen Sie erneurt die Schaltfläche `Neustarten`.
+* Dann wählen Sie erneut die Schaltfläche `Neustarten`.
 
 ![](/assets/img/restart.jpg)
 

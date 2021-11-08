@@ -3,7 +3,7 @@
 Der Castcode gewährleistet zusätzliche Sicherheit gegen unberechtigte Bildschirmübertragung, indem jeder Gast einen vierstelligen Code eingeben muss, um Inhalte übertragen zu dürfen. So können Sie sicherstellen, dass nur Teilnehmer Inhalte übertragen, die im gleichem Raum sind. Die folgenden Einstellungen stehen zur Verfügung:
 
 * `AUS` - Kein Castcode wird benötigt
-* `Zufällig` - Zufällig (erneurt sich automatisch beim Einschalten bzw. beim Neustart)
+* `Zufällig` - Zufällig (erneut sich automatisch beim Einschalten bzw. beim Neustart)
 * `Fest` - Einen festens Castcode angeben
 
 Der Castcode wird oben mitten der Startseite angezeigt:
@@ -91,7 +91,7 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 ![](/assets/img/prostickII_menu.neustart.png)
 
-* Dann wählen Sie erneurt die Schaltfläche `Neustarten`.
+* Dann wählen Sie erneut die Schaltfläche `Neustarten`.
 
 ![](/assets/img/restart.jpg)
 
