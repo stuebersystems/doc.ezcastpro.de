@@ -14,6 +14,11 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der E
 
 |  | EZCast Pro Stick II |
 | :---- | :---- |
+| CPU |  AM8270 |
+| DRAM | DDR3 1GMB |
+| FLASH | NAND Flash 256MB |
+| I/O |  HDMI out (HDMI 1.4) |
+|     | USB type-C connector for DC 5V |
 | Funkreichweite (Sichtlinie) | Bis zu 10m |
 | Stromversorguing | DC-in 5V 1,5A |
 | Stromverbrauch | 7,5 W (7500 mW)
@@ -23,6 +28,9 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der E
 | WLAN-Standard | 802.11ac 2T2R | 
 | WLAN-Frequenzblock (5 GHz-Band) |  5150-5825 MHz |
 | WLAN-Übertragungsrate |  866 MBit/s |
+| DRM and Link Protection | HDCP2.2 for Miracast | 
+| Betriebstemperatur | 0~40°C | 
+| Lagertemperatur | -20~70°C | 
 
 ## Datenblatt
 

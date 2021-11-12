@@ -14,15 +14,26 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der E
 
 | EZCast Pro Box II | |
 | :---- | :---- |
+| CPU |  ARM based RISC |
+| DRAM | DDR3 1GB |
+| FLASH | NAND Flash 512MB |
+| I/O | HDMI out (HDMI 1.4) |
+|     | USB type-C connector for DC 5V |
+|     | DC 5V |
+|     | Ethernet |
 | Funkreichweite (Sichtlinie) | Bis zu 30m |
 | Stromversorguing | DC-in 5V 2A |
-| Stromverbrauch | 10 W / 10000 mW)
+| Stromverbrauch | 10 W / 10000 mW) |
 | Strahlungsleistung (5 Ghz) | 802.11a /54Mbps : 13 dBm ± 1.5 dB @ EVM ≤ -25dB |
 |  | 802.11n /MCS7 : 12 dBm ± 1.5 dB @ EVM ≤ -28dB |
 |  | 802.11ac /MCS9 : 10 dBm ± 1.5 dB @ EVM ≤ -32dB |
 | WLAN-Standard | 802.11ac 2T2R | 
 | WLAN-Frequenzblock (5 GHz-Band) |  5150-5825 MHz |
 | WLAN-Übertragungsrate |  866 MBit/s |
+| DRM and Link Protection | HDCP2.2 for Miracast | 
+| Betriebstemperatur | 0~40°C | 
+| Lagertemperatur | -20~70°C | 
+
 
 ## Datenblatt
 
