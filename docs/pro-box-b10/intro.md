@@ -14,7 +14,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der E
 
 | EZCast Pro Box II | |
 | :---- | :---- |
-| CPU |  ARM based RISC |
+| CPU |  AM8270 |
 | DRAM | DDR3 1GB |
 | FLASH | NAND Flash 512MB |
 | I/O | HDMI out (HDMI 1.4) |
