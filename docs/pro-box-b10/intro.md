@@ -30,7 +30,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der E
 | WLAN-Standard | 802.11ac 2T2R | 
 | WLAN-Frequenzblock (5 GHz-Band) |  5150-5825 MHz |
 | WLAN-Übertragungsrate |  866 MBit/s |
-| DRM and Link Protection | HDCP2.2 for Miracast | 
+| DRM und Link Protection | HDCP 2.2 für Miracast | 
 | Betriebstemperatur | 0~40°C | 
 | Lagertemperatur | -20~70°C | 
 
