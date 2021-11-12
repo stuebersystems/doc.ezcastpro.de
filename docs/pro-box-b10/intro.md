@@ -17,10 +17,10 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der E
 | CPU |  AM8270 |
 | DRAM | DDR3 1GB |
 | FLASH | NAND Flash 512MB |
-| I/O | HDMI out (HDMI 1.4) |
-|     | USB type-C connector for DC 5V |
-|     | DC 5V |
-|     | Ethernet |
+| I/O | HDMI-out (HDMI 1.4) |
+|     | USB-A |
+|     | 5,5/2,1 mm DC |
+|     | RJ45 (PoE), Gigabit LAN |
 | Funkreichweite (Sichtlinie) | Bis zu 30m |
 | Stromversorguing | DC-in 5V 2A |
 | Stromverbrauch | 10 W / 10000 mW) |
