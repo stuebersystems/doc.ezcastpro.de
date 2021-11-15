@@ -73,7 +73,6 @@ Firmware-Version: [1.13781.15](whatsnew.md#ezcast-pro-stick-ii-firmware-11378115
 
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
 * [AirView](adv.settings.md#AirView): `EIN`
-* [AirPlay OnScreen-Code](adv.settings.md#AirPlayMode): `EIN`
 * [Castcode](adv.settings.md#Castcode): `Zufällig`
 * [Miracast Pin-Code](adv.settings.md#Miracast): `EIN`
 * [Miracast Geteilter Bildschirm](adv.settings.md#Miracast): `Geteilter Bildschirm unterstützt`
