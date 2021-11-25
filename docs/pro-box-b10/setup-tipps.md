@@ -26,13 +26,13 @@ Die EZCast Pro Box II wird mit einem 5V/2A USB-Netzteil geliefert. Als Ersatztei
 
 #### Das Ersatz Samsung USB-Netzteil (5V/2A)
 
-Das [Samsung Netzteil (5V/2A](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger) können wir auch empfehlen und ist im Amazon Store zu bestellen:
+Das **Samsung Netzteil (5V/2A)** können Sie bei Bedarf über uns erwerben:
 
 ![Samsung USB-Netzteil](/assets/img/Samsung.USB-Netzteil.jpg)
 
 ### Stromkabel USB 2.0 Typ A Stecker zu 5,5/2,1 mm 
 
-USB-Stromkabel für den Empfänger kann durch das [USB 2.0 Typ A Stecker zu 5,5/2,1 mm](https://www.amazon.de/dp/B00M552AE2/ref=psdc_1626220031_t2_B00JA8U7Y2?language=en_GB&th=1) ersetzt werden und ist im Amazon Store zu bestellen:
+USB-Stromkabel für den Empfänger kann durch das **USB 2.0 Typ A Stecker zu 5,5/2,1 mm** können Sie bei Bedarf über uns erwerben:
 
 ![USB 2.0 Typ A Stecker zu 5,5/2,1 mm](/assets/img/USB-2.0-TypA-Stecker-to-5.5-2.1mm.jpg)
 
@@ -42,7 +42,7 @@ USB-Stromkabel für den Empfänger kann durch das [USB 2.0 Typ A Stecker zu 5,5/
 
 Wenn der Beamer an der Decke hängt und nur das Stromkabel vom Beamer zur Verfügung steht, oder wenn Sie eine Einkabellösung von der Steckdose zum Displaygerät wollen, stellt sich die Frage, wie der Beamer bzw. der Bildschirm und die EZCast Pro Box II gemeinsam mit Strom versorgt werden können.
 
-Mit einem [C14 to C13+Euro Y Type Splitter Adapter](https://www.amazon.de/dp/B07YR31JJ8/ref=cm_sw_em_r_mt_dp_45Q9J7XZQZZWT8SQSQHB?_encoding=UTF8&psc=1) können Sie das Kaltgerätekabel in Euro-Steckdose und C13-Kabel verwandeln. Dies in Kombination mit dem [Netzteil](#powersupply) kann Strom für beide Geräte ermöglichen.
+Mit einem **C14 to C13+Euro Y Type Splitter Adapter** können Sie das Kaltgerätekabel in Euro-Steckdose und C13-Kabel verwandeln. Dies in Kombination mit dem [Netzteil](#powersupply) kann Strom für beide Geräte ermöglichen.
 
 ![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/C14.to.C13undEuroYType-Splitter-Adapter.png)
 

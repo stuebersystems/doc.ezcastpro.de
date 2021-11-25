@@ -20,19 +20,19 @@ Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 
 #### Stromversorgung (5V/1,5A)
 
-Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel mit einem USB-Anschluss (Min. 5V/1,5A) (nicht im Lieferumfang enthalten) an den USB-Port des Sticks an. Kontrollieren Sie einfach die Ausgangsleistung auf dem Typenschild, dass es sich über den Mindeststrom des EZCast Pro Stick II (5V/1,5A) verfügt:
+Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel mit einem USB-Anschluss (nicht im Lieferumfang enthalten) an den USB-Port des Sticks an. Kontrollieren Sie einfach die Ausgangsleistung auf dem Typenschild, dass es sich über den Mindeststrom des EZCast Pro Stick II (5V/1,5A) verfügt:
 
 ![USB-Netzteil (5V/2A)](/assets/img/QuattroPod.USBCharger.png)
 
 #### Samsung USB-Netzteil (5V/2A)
 
-Das [Samsung Netzteil (5V/2A)](https://www.amazon.de/USB-Netz-Ladeger%C3%A4t-Adapter-SAMSUNG-ETAU90EWE-Wei%C3%9F/dp/B00D2D9LF2/ref=sr_1_64?s=ce-de&ie=UTF8&qid=1531483723&sr=1-64&keywords=USB+charger) können wir auch empfehlen und ist im Amazon Store zu bestellen:
+Das **Samsung Netzteil (5V/2A)** können Sie bei Bedarf über uns erwerben:
 
 ![Samsung USB-Netzteil](/assets/img/Samsung.USB-Netzteil.jpg)
 
 ### Stromkabel USB 2.0 Type C (1M)
 
-Das mitgelieferte USB-Stromkabel für den Stick kann durch das [USB C Ladekabel 1M](https://www.amazon.de/dp/B089K7KFNV/ref=cm_sw_em_r_mt_dp_H70V90DFZY17F1JW40FV) ersetzt werden und ist im Amazon Store zu bestellen:
+Das mitgelieferte USB-Stromkabel können Sie bei Bedarf über uns erwerben:
 
 ![Stromkabel USB 2.0 Typ C 1M](/assets/img/USBA-2.0-TypeC.jpg)
 
@@ -42,7 +42,7 @@ Das mitgelieferte USB-Stromkabel für den Stick kann durch das [USB C Ladekabel 
 
 Wenn der Beamer an der Decke hängt und nur das Stromkabel vom Beamer zur Verfügung steht, oder wenn Sie eine Einkabellösung von der Steckdose zum Displaygerät wollen, stellt sich die Frage, wie der Beamer bzw. der Bildschirm und der EZCast Pro Stick II gemeinsam mit Strom versorgt werden können.
 
-Mit einem [C14 to C13+Euro Y Type Splitter Adapter](https://www.amazon.de/dp/B07YR31JJ8/ref=cm_sw_em_r_mt_dp_45Q9J7XZQZZWT8SQSQHB?_encoding=UTF8&psc=1) können Sie das Kaltgerätekabel in Euro-Steckdose und C13-Kabel verwandeln. Dies in Kombination mit dem [Netzteil](#powersupply) kann Strom für beide Geräte ermöglichen.
+Mit einem **C14 to C13+Euro Y Type Splitter Adapter** können Sie das Kaltgerätekabel in Euro-Steckdose und C13-Kabel verwandeln. Dies in Kombination mit dem [Netzteil](#powersupply) kann Strom für beide Geräte ermöglichen. Diese Produkt können Sie bei Bedarf über uns erwerben.
 
 ![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/C14.to.C13undEuroYType-Splitter-Adapter.png)
 
