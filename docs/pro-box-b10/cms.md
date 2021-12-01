@@ -53,7 +53,7 @@ Die Software ist unter Windows und macOS verfügbar.
 
 Sie wollen die CMS Software einmal kennenlernen? Unter den folgenden Links können Sie eine Testversion der CMS Software von den Webseiten des Herstellers laden:
 
-* [Download CMS Software für Windows und Windows](https://ezcast-pro.com/download/cms/windows/)
+* [Download CMS Software für Windows](https://ezcast-pro.com/download/cms/windows/)
 
 * [Download CMS Software für macOS](https://ezcast-pro.com/download/cms/macos/)
 
