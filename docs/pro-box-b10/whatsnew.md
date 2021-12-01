@@ -6,6 +6,15 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
+- Fixed GoogleCast audio cracking/popping issue
+
+## EZCast Pro Box II Firmware - 1.13781.17
+2021.11.30
+
+**Fixes:**
+
+- GoogleCast-Audio-Problem mit Knacksen/Abbrüchen behoben
+
 ## EZCast Pro Box II Firmware - 1.13781.15
 2021.11.04
 
