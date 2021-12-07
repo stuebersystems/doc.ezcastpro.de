@@ -20,27 +20,31 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
 **Neue Funktionen:**
 
-- neues Modul AirPlay mit [Onscreen-Code](securitycodes.md) und verbesserter Unterstützung für [MDM](https://support.apple.com/de-ch/guide/mdm/mdmbf9e668/web)
+* Neues Modul AirPlay mit [Onscreen-Code](securitycodes.md) und Unterstützung für AirPlay PIN-Code iOS MDM [MDM](https://support.apple.com/de-ch/guide/mdm/mdmbf9e668/web)
+* Open-VPN Unterstützung
 
 **Fixes:**
 
-- CMS-Stabilität verbessert
+*  CMS-Stabilität verbessert
+*  Fehler im WLAN OSD-Symbol behoben
+*  Allgemeine Bugs behoben
+
 
 ## EZCast Pro Box II Firmware - 1.12170.19
 2021.07.01
 
 **Fixes:**
 
-- Geändertes Verhalten von der Funktion Miracast im AGO-Modus. Das Ändern der SSID im AGO-Modus wird jetzt zugelassen
-- Geändertes Verhalten von der Funktion Miracast im AGO-Modus. Des Ändern des PSK wird jetzt nicht zugelassen
-- Verbesserte GoogleCast-Stabilität
+*  Geändertes Verhalten von der Funktion Miracast im AGO-Modus. Das Ändern der SSID im AGO-Modus wird jetzt zugelassen
+*  Geändertes Verhalten von der Funktion Miracast im AGO-Modus. Des Ändern des PSK wird jetzt nicht zugelassen
+*  Verbesserte GoogleCast-Stabilität
 
 ## EZCast Pro Box II Firmware - 1.12170.17
 2021.06.22
 
 **Fixes:**
 
-- Verbesserte WLAN-Stabilität
+*  Verbesserte WLAN-Stabilität
 
 
 ## EZCast Pro Box II Firmware - 1.12170.16
