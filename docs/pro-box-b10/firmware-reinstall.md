@@ -97,7 +97,6 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                       | Herunterladen | Bemerkung
 ------------------------- | ------------ | ------------
-1.14414.0 (Beta) | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.14414.0.gz) | Neue Funktion: Touch-Back über Miracast
 1.13781.15 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.13781.15.gz)
 1.12170.19 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.12170.19.gz)
 1.12170.16 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.12170.16.gz)
