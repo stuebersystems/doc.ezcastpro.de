@@ -44,7 +44,7 @@ USB-Stromkabel für den Empfänger kann durch das **USB 2.0 Typ A Stecker zu 5,5
 
 Wenn der Beamer an der Decke hängt und nur das Stromkabel vom Beamer zur Verfügung steht, oder wenn Sie eine Einkabellösung von der Steckdose zum Displaygerät wollen, stellt sich die Frage, wie der Beamer bzw. der Bildschirm und die EZCast Pro Box II gemeinsam mit Strom versorgt werden können.
 
-Mit einem **C14 to C13+Euro Y Type Splitter Adapter** können Sie das Kaltgerätekabel in Euro-Steckdose und C13-Kabel verwandeln. Dies in Kombination mit dem [Netzteil](#powersupply) kann Strom für beide Geräte ermöglichen.
+Mit einem **C14 to C13+Euro Y Type Splitter Adapter** können Sie das Kaltgerätekabel in Euro-Steckdose und C13-Kabel verwandeln. Dies in Kombination mit dem [Netzteil](#powersupply) kann Strom für beide Geräte ermöglichen. Den Y Type Splitter Adapter können Sie bei Bedarf über uns erwerben.
 
 ![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/C14.to.C13undEuroYType-Splitter-Adapter.png)
 
