@@ -98,7 +98,6 @@ nav:
         - "Anleitung: Chromecast": pro-stick-d10/chromecast.md
         - "Anleitung: Miracast": pro-stick-d10/miracast.md
     - CMS (Central Management System): pro-stick-d10/cms.md    
-    - Internetzugang: pro-stick-d10/internet.md
     - Einrichtungshinweise: pro-stick-d10/setup-tipps.md  
     - Erweiterte Funktionen:
         - Captive Portal: pro-stick-d10/captiveportal.md
@@ -109,6 +108,7 @@ nav:
         - ProCast: pro-stick-d10/procast.md
     - EZCastPro App/Software: pro-stick-d10/ezcastproapp.md     
     - Firmware aktualisieren: pro-stick-d10/firmware-upgrade.md
+    - Internetzugang: pro-stick-d10/internet.md
     - Problembehandlung:   
         - Einstellungen zurücksetzen: pro-stick-d10/reset.md
         - Firmware neu installieren: pro-stick-d10/firmware-reinstall.md
