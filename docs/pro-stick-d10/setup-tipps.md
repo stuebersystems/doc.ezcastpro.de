@@ -36,18 +36,4 @@ Mit einem **C14 to C13+Euro Y Type Splitter Adapter** können Sie das Kaltgerät
 
 ![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/D10.Y-Type-Adapter.png)
 
-### Befestigung für den Empfänger
 
-Den Empfänger kann man mit einem guten Klebeband befestigen, ohne den Bildschirm dabei zu beschädigen. Empfehlen können wir das [UHU Doppelband](https://www.amazon.de/dp/B08XY33P7Z/ref=cm_sw_em_r_mt_dp_ATTVGNT009VNJK1MEE60?_encoding=UTF8&psc=1):
-
-![UHU Doppelband](/assets/img/UHU.png)
-
-!!! tip "Hinweis"
-    
-	Bitte beachten: Stellen Sie bei der Befestigung des Empfängers sicher, dass zwischen der Antenne und dem Wireless Access Point sowie den Endgeräten eine direkte Sichtlinie besteht, um WLAN-Signalstörung zu vermeiden.
-	
-![tesa montagepads](/assets/img/RX_mounted.png)
-
-![tesa montagepads](/assets/img/RX_mounted.wrong.png)
-
-![tesa montagepads](/assets/img/RX_mounted.huawei.png)
