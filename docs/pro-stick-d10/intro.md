@@ -15,7 +15,7 @@ Für einen kompakten Produktvergleich mit den anderen Modell-Varianten aus der E
 |  | EZCast Pro Stick II |
 | :---- | :---- |
 | CPU |  AM8270 |
-| DRAM | DDR3 1GMB |
+| DRAM | DDR3 1GB |
 | FLASH | NAND Flash 256MB |
 | I/O | HDMI-out (HDMI 1.4) |
 |     | USB type-C Anschluss für DC 5V |
