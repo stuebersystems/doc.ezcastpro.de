@@ -9,7 +9,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 * Das neuste [Firmwareupdate](firmware-upgrade.md) für die EZCast Pro Box II.
 
-* Entweder einen [miracast-fähigen Windows 10 PC](#touchviamiracast) oder die [EZCast Pro Software](quickstart.md#InstallSoftware) unter Windows und macOS.
+* Entweder einen [Miracast-fähigen Windows 10 PC](#touchviamiracast) oder die [EZCast Pro Software](quickstart.md#InstallSoftware) unter Windows und macOS.
 
 * nur ein Bildschirm kann zeitgleich übertragen werden (kein aufgeteiltes Display möglich).
 
