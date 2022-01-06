@@ -109,7 +109,8 @@ nav:
     - EZCastPro App/Software: pro-stick-d10/ezcastproapp.md     
     - Firmware aktualisieren: pro-stick-d10/firmware-upgrade.md
     - Internetzugang: pro-stick-d10/internet.md
-    - Problembehandlung:   
+    - Problembehandlung:  
+        - DxDiag erstellen: pro-stick-d10/dxdiag.md    
         - Einstellungen zurücksetzen: pro-stick-d10/reset.md
         - Firmware neu installieren: pro-stick-d10/firmware-reinstall.md
         - Logdatei herunterladen: pro-stick-d10/logfile.md
@@ -142,6 +143,7 @@ nav:
     - Firmware aktualisieren: pro-box-b10/firmware-upgrade.md
     - Internetzugang: pro-box-b10/internet.md
     - Problembehandlung: 
+        - DxDiag erstellen: pro-box-b10/dxdiag.md  
         - Einstellungen zurücksetzen: pro-box-b10/reset.md
         - Firmware neu installieren: pro-box-b10/firmware-reinstall.md  
         - Logdatei herunterladen: pro-box-b10/logfile.md
