@@ -1,12 +1,12 @@
-# Eine DxDiag-Datei erstellen
+# Einen DxDiag-Bericht erstellen
 
-Die DirectX-Diagnose (DxDiag) ist ein Tool in Windows, das unserem Support-Team Informationen zur Behebung technischer Probleme zur Verfügung stellt. Befolgen Sie die folgenden Schritte, um eine DxDiag-Datei zu erstellen und sie uns zukommen zu lassen:
+Die DirectX-Diagnose (DxDiag) ist ein Tool in Windows, das unserem Support-Team Informationen zur Behebung technischer Probleme zur Verfügung stellt. Befolgen Sie die folgenden Schritte, um einen DxDiag-Bericht zu erstellen und ihn uns zukommen zu lassen:
 
 !!! tip "Hinweis"
     
 	Eine Supportleistung bieten wir nur Kunden an, die bei uns bestellt haben. Bitte wenden Sie sich an Ihren Händler.
 
-## Wie erstelle ich eine DxDiag-Datei?
+## Wie erstelle ich einen DxDiag-Bericht?
 
 * Drücken Sie die Tastenkombination `[Windows]` + `[R]` und im Popup-Fenster geben Sie den Befehl `dxdiag` ein. Drücken Sie anschließend die Eingabetaste.
 
