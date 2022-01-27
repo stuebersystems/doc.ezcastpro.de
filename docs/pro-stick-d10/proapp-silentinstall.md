@@ -1,4 +1,4 @@
-# EZCast Pro Software - Unbeaufsichtigte Installation
+# Unbeaufsichtigte Installation der Software
 
 Mit den unten stehenden Befehlen können Sie die EZCast Pro Software unter Windows unbeaufsichtigt (silent) installieren, reparieren und auch wieder deinstallieren.
 
