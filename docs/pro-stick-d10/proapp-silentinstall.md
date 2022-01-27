@@ -13,36 +13,43 @@ Laden Sie die EZCast Pro Software [für Windows herunter](https://www.ezcast.com
 ## Beispiele
 
 + Unbeaufsichtigte Installation:
+
   ``` batch
   EZCastPro_Win2.11.0.175.exe -s
   ```
 
 + Unbeaufsichtigte Installation ohne Neustart:
+
   ``` batch
   EZCastPro_Win2.11.0.175.exe -s -var:Reboot=0
   ```
 
 + Unbeaufsichtigte Installation mit benutzerdefiniertem Ordner:
+
   ``` batch
   EZCastPro_Win2.11.0.175.exe -s var:InstallPath="c:\My Folder"
   ```
 
 + Unbeaufsichtigte Installation mit benutzerdefiniertem Ordner + ohne Neustart:
+
   ``` batch
   EZCastPro_Win2.11.0.175.exe -s var:InstallPath="c:\My Folder" -var:Reboot=0
   ```
 
 + Unbeaufsichtigte Deinstallation:
-  ```` batch
+
+  ``` batch
   EZCastPro_Win2.11.0.175.exe -s -u
-  ````
+  ```
 
 + Unbeaufsichtigte Deinstallation ohne Neustart:
+
   ``` batch
   EZCastPro_Win2.11.0.175.exe -s -u -var:Reboot=0
   ```
 
 + Unbeaufsichtigte Reperatur:
+
   ``` batch
   EZCastPro_Win2.11.0.175.exe -s -r
   ```
