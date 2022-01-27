@@ -50,7 +50,7 @@ Es folgen Beispielaufrufe, die Sie auf Kommandozeilenebene ausführen können.
     EZCastPro_Win2.11.0.175.exe -s -u -var:Reboot=0
     ```
 
-+ Unbeaufsichtigte Reperatur:
++ Unbeaufsichtigte Reparatur:
 
     ```
     EZCastPro_Win2.11.0.175.exe -s -r
