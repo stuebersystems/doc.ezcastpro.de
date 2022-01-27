@@ -4,16 +4,18 @@ Mit den unten stehenden Befehlen können Sie die EZCast Pro Software unter Windo
 
 !!! info "Hinweis"
 
-    Bei Bedarf können Sie von uns ein Installationspaket im **MSI-Format** erhalten. [Schreiben](https://www.stueber.de/contact.php?from=ezcastpro) Sie uns einfach an.
+    Bei Bedarf können Sie von uns ein Installationspaket im **MSI-Format** erhalten. [Schreiben Sie uns einfach an](https://www.stueber.de/contact.php?from=ezcastpro).
 	
 ## Vorbereitung
 
-Laden Sie die EZCast Pro Software [für Windows herunter](https://www.ezcast.com/app/ezcast/pro/windows) 
+Laden Sie die EZCast Pro Software [für Windows herunter](https://www.ezcast.com/app/ezcast/pro/windows).
 
 ## Beispiele
 
-+ Unbeaufsichtigte Installation:
+Es folgen Beispielaufrufe, die Sie auf Kommandozeilenebene ausführen können.
 
++ Unbeaufsichtigte Installation:
+ 
     ```
     EZCastPro_Win2.11.0.175.exe -s
     ```
@@ -48,7 +50,7 @@ Laden Sie die EZCast Pro Software [für Windows herunter](https://www.ezcast.com
     EZCastPro_Win2.11.0.175.exe -s -u -var:Reboot=0
     ```
 
-+ Unbeaufsichtigte Reperatur:
++ Unbeaufsichtigte Reparatur:
 
     ```
     EZCastPro_Win2.11.0.175.exe -s -r
