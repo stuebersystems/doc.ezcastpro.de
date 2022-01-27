@@ -7,7 +7,7 @@ Mit den unten stehenden Befehlen können Sie die EZCast Pro Software unter Windo
 
 !!! info "Hinweis"
 
-    Bei Bedarf können unsere Kunden ein Installationkapet als **MSI-Datei** bei Bedarf über uns erwerden. [Schreiben](https://www.stueber.de/contact.php?from=ezcastpro) Sie uns einfach an.
+    Bei Bedarf können unsere Kunden ein Installationspaket im **MSI-Format** bei Bedarf über uns erwerden. [Schreiben](https://www.stueber.de/contact.php?from=ezcastpro) Sie uns einfach an.
 	
 ## Software unter Windosws herunterladen
 
