@@ -8,7 +8,7 @@ Um von den neusten Funktionen der EZCast Pro Box II zu profitieren, können Sie 
 
 Wenn Ihre EZCast Pro Box II nicht mit dem Internet verbunden ist, [klicken Sie bitte hier](internet.md) und folgen Sie der entsprechenden Anleitung.
 
-## Firmware aktualisieren
+## Firmware per Web-Oberfläche aktualisieren
 
 Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie die Aktualisierung der Firmware ausführen.
 
@@ -56,19 +56,11 @@ Nach dem Neustart wird die aktuelle Version der Firmware unten rechts auf der St
 
 ![](/assets/img/ProIIDongle_Firmware-Version.png)
 
-## Einstellungen nach der Firmware-Aktualiserung {#recommendedsettings}
+## Firmware per Internet mit dem CMS installieren
 
-Nach einer Firmware-Aktualiserung überprüfen Sie alle Einstellungen und neue Funktionen, die zur Verfügung. Unsere empfohlene Einstellungen [finden Sie hier](reset.md#recommendedsettings).
+Mit dem CMS ([Central Management System](cms.md)) kann man die neueste Firmware vom Internet auf mehreren EZCast Pro II bzw. QuattroPod Geräten installieren.
 
-!!! tip "Hinweis"
-    
-	Wenn Sie die Funktion Erweiterte Einstellungen in einem Webbrowser statt in der EZCast Pro App/Software ansehen, leeren Sie bitte nach der Aktualisierung der Firmware den Browser-Cache, um alle neu verfügbaren Optionen zu sehen.
-
-## Firmware mit dem CMS installieren
-
-Mit dem CMS ([Central Management System](cms.md)) kann man die neuste Firmware vom Internet auf mehreren EZCast Pro II bzw. QuattroPod Geräten installieren.
-
-* Wenn eine neue Firmware für Ihre EZCast Pro II Geräte zur Verfügung steht, taucht die Meldung ![](/assets/img/CMS-firmware.available.png) neben dem Gerät auf:
+* Wenn eine neue Firmware für den Empfänger bzw. für den Sender zur Verfügung steht, taucht die Meldung ![](/assets/img/CMS-firmware.available.png) neben dem Gerät auf:
 
 ![Die Firmware wird installiert](/assets/img/CMS-firmware.OTA.select.devices.png)
 
@@ -80,7 +72,7 @@ Mit dem CMS ([Central Management System](cms.md)) kann man die neuste Firmware v
 
 ![Die Firmware wird installiert](/assets/img/CMS-firmware.upgrade.OTA.png)
 
-Die neue Firmware wird heruntergeladen und automatisch installiert.
+Die neue Firmware wird heruntergeladen und automatisch installiert. 
 
 * Während der Aktualisierung des Empfängers erscheint folgende Meldung:
 
@@ -89,3 +81,39 @@ Die neue Firmware wird heruntergeladen und automatisch installiert.
 !!! warning "Achtung"
     
 	Unterbrechen Sie während des Updates nicht die Stromversorgung.
+
+## Firmware ohne Internet mit dem CMS installieren
+
+Mit dem CMS ([Central Management System](cms.md)) ermöglicht es Ihnen auch, die neueste Firmware auf Geräten zu installieren, die nicht mit dem Internet verbunden sind. Bitte nutzen Sie die untenstehenden Links, um die Firmware für Ihre Geräte vorab herunterzuladen:
+
+Geräte               | Herunterladen      |
+------------------------- | ------------------------- | 
+Pro Box II | [Herunterladen](firmware-reinstall.md#B10_install_other_fw)
+
+* Wählen Sie die gewünschten Geräte aus, klicken Sie dann auf die Schaltfläche `Remote` und wählen Sie die Option `Device firmware upgrade`.
+
+![](/assets/img/CMS-firmware.install.latest.firmware.png)
+
+* Unter Registerkarte `FILE`, wählen Sie die Firmware-Datei aus, die Sie zuvor heruntergeladen haben:
+
+![](/assets/img/CMS-firmware.upgrade2.png)
+
+* Klicken Sie auf die Schaltfläche `Apply`, um die Aktualisierung durchzuführen:
+
+![](/assets/img/CMS-firmware.upgrade.FILE.apply.png)
+
+* Während der Aktualisierung des Empfängers erscheint folgende Meldung:
+
+![](/assets/img/ProIIStick_Firmware_installing.png)
+
+!!! warning "Achtung"
+    
+	Unterbrechen Sie während des Updates nicht die Stromversorgung.
+	
+## Einstellungen nach der Firmware-Aktualiserung {#recommendedsettings}
+
+Nach einer Firmware-Aktualiserung überprüfen Sie alle Einstellungen und neue Funktionen, die zur Verfügung. Unsere empfohlene Einstellungen [finden Sie hier](reset.md#recommendedsettings).
+
+!!! tip "Hinweis"
+    
+	Wenn Sie die Funktion Erweiterte Einstellungen in einem Webbrowser statt in der EZCast Pro App/Software ansehen, leeren Sie bitte nach der Aktualisierung der Firmware den Browser-Cache, um alle neu verfügbaren Optionen zu sehen.
