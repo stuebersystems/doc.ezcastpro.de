@@ -88,6 +88,7 @@ Mit dem CMS ([Central Management System](cms.md)) ermöglicht es Ihnen auch, die
 
 Geräte               | Herunterladen      |
 ------------------------- | ------------------------- | 
+Pro Stick II | [Herunterladen](../pro-stick-d10/firmware-reinstall.md#D10_install_other_fw)
 Pro Box II | [Herunterladen](firmware-reinstall.md#B10_install_other_fw)
 
 * Wählen Sie die gewünschten Geräte aus, klicken Sie dann auf die Schaltfläche `Remote` und wählen Sie die Option `Device firmware upgrade`.
