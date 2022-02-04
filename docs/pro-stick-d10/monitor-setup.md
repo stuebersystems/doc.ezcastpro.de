@@ -1,6 +1,6 @@
 # Monitor-Modus
 
-Mit EZCast Pro haben Sie die Möglichkeit Ihren Bildschirm entweder zu duplizieren oder erweitern. Möchten Sie beispielsweise einzelne Fenster z.B. nur Excel anzeigen, können Sie mit einem Klick erweitern und das gewünsche Fenster in den erweitern Desktop ziehen. 
+Mit EZCast Pro haben Sie die Möglichkeit Ihren Bildschirm entweder zu duplizieren oder erweitern. Möchten Sie beispielsweise einzelne Fenster z.B. nur Excel anzeigen, können Sie mit einem Klick den Beamer als zweiten erweiterten Desktop aktivieren, anschließend das gewünsche Fenster in den erweiterten Desktop verschieben.
 
 
 ## Duplizieren
