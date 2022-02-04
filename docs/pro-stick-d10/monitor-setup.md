@@ -21,7 +21,7 @@ Mit EZCast Pro haben Sie die Möglichkeit Ihren Bildschirm entweder zu duplizier
 
 * Im Erweitern-Modus dient der Beamer nun als zweiter Desktop, in den Sie einzelne Anwendungen und Fenster verschieben können. Die Anzeige auf Ihrem Notebook bleibt privat:
 
-![](/assets/img/clone.desktop.png)
+![](/assets/img/extended.desktop.png)
 
 * Wenn Ihr Windows-Bildschirm per Miracast übertragen wird, drücken Sie das Tastenkürzel `[Windowstaste]` + `[P]`, anschließend klicken auf `Erweitern`. Ihr Desktop wird erweitert.
 
