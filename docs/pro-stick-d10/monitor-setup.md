@@ -19,7 +19,7 @@ Mit EZCast Pro haben Sie die Möglichkeit Ihren Bildschirm entweder zu duplizier
 
 ![](/assets/img/mac-windows_extend.png)
 
-* Im Erweitern-Modus dient der Beamer nun als zweiter Desktop, in den Sie einzelne Anwendungen und Fenster verschieben können. Die Anzeige auf Ihrem Notebook bleibt privat:
+* Im **Erweitern-Modus** dient der Beamer nun als zweiter Desktop, in den Sie einzelne Anwendungen und Fenster verschieben können. Die Anzeige auf Ihrem Notebook bleibt privat:
 
 ![](/assets/img/extended.desktop.png)
 
