@@ -28,7 +28,7 @@ Dabei müssen Sie den `Engineer Mode` aktivieren und die Funktion `Download Debu
 
 ![](/assets/img/Google_Chrome.png)
 
-* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des QuattroPods ein.
+* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des EZCast Pro Gerätes ein.
 
 ![](/assets/img/IP-Address.png)
 
@@ -77,7 +77,7 @@ Mit Hilfe der Funktion **Erweiterte Einstellungen** können Sie sich anmelden un
 
 ![](/assets/img/Google_Chrome.png)
 
-* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des QuattroPods ein.
+* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des EZCast Pro Gerätes ein.
 
 ![](/assets/img/IP-Address.png)
 
@@ -103,7 +103,7 @@ Mit Hilfe der Funktion **Erweiterte Einstellungen** können Sie sich anmelden un
 
 * Klicken Sie auf die Funktion `Debug Over IP`, um den Netzwerkdienst zu aktivieren. Eine Logdatei wird heruntergeladen:
 
-![](/assets/img/proII.select.debugviaip.png)
+![](/assets/img/proII.select.debugviaip.on.png)
 
 * Um die Einstellung freizuschalten, müssen Sie das EZCast Pro Gerät neustarten. Im Hauptmenü wählen Sie `Neustarten`.
 
@@ -149,9 +149,15 @@ Laden Sie die Terminal-Software [Tera Term](https://osdn.net/projects/ttssh2/rel
 
 !!! tip "Hinweis"
     
-	Zu diesem Zeitpunkt werden alle Aktivitäten des EZCast Pro-Geräts in die Protokolldatei eingelesen. An dieser Stelle müssen Sie die Ereignisse reproduzieren, die das Problem verursacht haben, das Sie uns bei der Diagnose helfen möchten. Wenn das Problem z. B. die Berührungsgesten auf dem Bildschirm betrifft, sollten Sie diese jetzt ausführen, bis das Problem wieder auftritt und in der Protokolldatei aufgezeichnet wird.
+	Zu diesem Zeitpunkt werden alle Aktivitäten des EZCast Pro-Geräts in die Protokolldatei eingelesen. An dieser Stelle müssen Sie die Ereignisse reproduzieren, die das Problem verursacht haben z.B. die Berührungsgesten auf dem Bildschirm, sollten Sie diese jetzt ausführen, bis das Problem wieder auftritt und in der Protokolldatei aufgezeichnet wird.
 
 
 * Lassen Sie uns bitte die Logdatei über unser [Ticketsystem](https://support.stueber.de) zukommen. 
 
 ![](/assets/img/logfile.ticket.png)
+
+### Debug Over IP deaktivieren
+
+* Schließlich am Ende des Verfahrens können Sie die Funktion **Debug Over IP** wieder deaktivieren:
+
+![](/assets/img/proII.select.debugviaip.off.png)
