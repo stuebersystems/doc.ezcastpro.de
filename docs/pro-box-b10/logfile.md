@@ -161,3 +161,7 @@ Laden Sie die Terminal-Software [Tera Term](https://osdn.net/projects/ttssh2/rel
 * Schließlich am Ende des Verfahrens können Sie die Funktion **Debug Over IP** wieder deaktivieren:
 
 ![](/assets/img/proII.select.debugviaip.off.png)
+
+* Um den `Engineer Mode` wieder auszublenden, klicken Sie auf die Funktion `Debug Mode`. Sie kehren zurück auf das Hauptmenü:
+
+![](/assets/img/proII.select.engineermode.off.png)
