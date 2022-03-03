@@ -25,7 +25,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 ## Touchback mit Miracast unter Windows 10 {#touchviamiracast}
 
-* Auf einem Windows10-Gerät drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie Ihren PC aus:
+* Auf einem Windows10-Gerät drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie Ihr EZCast Pro Gerät aus, auf das Sie übertragen möchten:
 
 ![](/assets/img/Windows_Miracast_Select_B10_Device.png)
 
