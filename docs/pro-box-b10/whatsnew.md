@@ -8,6 +8,24 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
 - Fixed GoogleCast audio cracking/popping issue
 
+## EZCast Pro Box II Firmware - 1.13781.41
+2022.03.01
+
+**Neue Funktionen:**
+
+* [Touchback mit Miracast unter Windows 10](touchback.md#touchviamiracast)
+
+**Fixes:**
+
+* Bugs behoben
+
+## EZCast Pro Box II Firmware - 1.13781.18
+2022.01.21
+
+**Fixes:**
+
+* Bugs behoben
+
 ## EZCast Pro Box II Firmware - 1.13781.17
 2021.11.30
 
