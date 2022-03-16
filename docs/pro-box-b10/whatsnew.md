@@ -6,6 +6,13 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
+## EZCast Pro Box II Firmware - 1.13781.60
+2022.03.15
+
+**Fixes:**
+
+* Stabilität der Funktion [Touchback mit Miracast unter Windows 10](touchback.md#touchviamiracast) verbessert
+
 ## EZCast Pro Box II Firmware - 1.13781.41
 2022.03.01
 

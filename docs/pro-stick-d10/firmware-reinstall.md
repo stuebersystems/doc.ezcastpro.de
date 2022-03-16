@@ -97,10 +97,7 @@ Firmware                       | Herunterladen | Bemerkung
 ------------------------- | ------------ | ------------
 1.13781.21 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.13781.21.gz)
 1.13781.18 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.13781.18.gz)
-1.13781.17 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.13781.17.gz)
-1.13781.15 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.13781.15.gz)
 1.12170.19 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.12170.19.gz)
-1.12170.16 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.12170.16.gz)
 1.9871.34 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.9871.34.gz)
 
 
