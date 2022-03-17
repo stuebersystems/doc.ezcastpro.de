@@ -62,9 +62,9 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
    ![](/assets/img/wifi.land.selection.png)
    
-## Einstellungen nach dem Zurücksetzen {#recommendedsettings}
+## Empfohlene Einstellungen {#recommendedsettings}
 
-Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden Einstellungen überprüfen:
+Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden empfohlenen Einstellungen überprüfen:
 
 Firmware-Version: [1.13781.60](whatsnew.md#ezcast-pro-box-ii-firmware-11378160)
 
