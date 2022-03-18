@@ -2,7 +2,7 @@
 
 Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres Gerätes durchführen. Unter normalen Bedienungen beim Testen sollte der QuattroPod die Bildschirmübertragung eines Videos ohne Probleme leisten können. Zu diesem Test benötigen Sie folgende Geräte:
 
-* Einen Windows-Notebook, der am Stromnetz angeschlossen ist.
+* Einen Windows-Notebook, der am Stromnetz angeschlossen ist.dd
 
 * Einen QuattroPod-Empfänger.
 
