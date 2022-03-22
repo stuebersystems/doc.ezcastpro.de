@@ -1,19 +1,19 @@
 # Leistungstest durchführen
 
-Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres Gerätes durchführen. Unter normalen Bedienungen beim Testen sollte der QuattroPod die Bildschirmübertragung eines Videos ohne Probleme leisten können. Zu diesem Test benötigen Sie folgende Geräte:
+Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres Gerätes durchführen. Unter normalen Bedienungen beim Testen sollte der QuattroPod die Bildschirmübertragung eines Videos mindestens 6 Stunden ohne Probleme leisten können. Zu diesem Test benötigen Sie folgende Geräte:
 
-* Einen Windows-Notebook, der am Stromnetz angeschlossen ist.dd
+* Einen Windows-Notebook, der am Stromnetz angeschlossen ist.
 
 * Einen QuattroPod-Empfänger.
 
 * Einen QuattroPod-Sender.
 
-## Auto Mouse Mover herunerladen {#automousemover}
+## Auto Mouse Mover herunterladen {#automousemover}
 
 !!! tip "Warning" 
-	Prüfen Sie vor Testbeginn, ob das Netzgerät am Notebook angeschlossen ist, damit der Rechner sich während des Tests nicht ausschaltet.
+	Prüfen Sie vor Testbeginn, ob das Netzgerät am Windows-Notebook angeschlossen ist, damit der Rechner sich während des Tests nicht ausschaltet.
 
-Damit der Windows-PC während des Test nicht in den Energiesparmodus wechselt, laden Sie die Software [![Auto Mouse Mover](/assets/img/automousemover.icon.png)](https://www.murgee.com/auto-mouse-mover/) [Auto Mouse Mover](https://www.murgee.com/auto-mouse-mover/), die Variante `Stand Alone Application`, herunter und extrahieren Sie die .zip-Datei auf Ihrem Windows-PC:
+Damit der Windows-PC während des Test nicht in den Energiesparmodus wechselt, laden Sie die Software [![Auto Mouse Mover](/assets/img/automousemover.icon.png)](https://www.murgee.com/auto-mouse-mover/) [Auto Mouse Mover](https://www.murgee.com/auto-mouse-mover/), die Variante **Stand Alone Application**, herunter und extrahieren Sie die .zip-Datei auf Ihrem Windows-PC:
 
 ![](/assets/img/automousemover.extract.png)
 
@@ -21,7 +21,7 @@ Damit der Windows-PC während des Test nicht in den Energiesparmodus wechselt, l
 
 ![](/assets/img/AutoMouseMover.exe.png)
 
-* Auf der Lizenzvereinbarung wählen Sie `Agree`:
+* Auf der Lizenzvereinbarung wählen Sie `Accept`:
 
 ![](/assets/img/automousemover.agreement.png)
 
@@ -31,20 +31,28 @@ Damit der Windows-PC während des Test nicht in den Energiesparmodus wechselt, l
 
 ## Videodatei wiederholend abspielen
 
-* Laden Sie folgendes Video auf Ihrem Windows-PC herunter, indem Sie per Rechts-Klick das Video im Downloadsordner abspeicher:
+* Laden Sie folgendes [MP4-Video](https://assets.stueber.de/videos/cms.quattropod.introduction.de.mp4) auf Ihrem Windows-PC herunter:
 
-[![EZCast Pro Box II Video](/assets/img/box2.video.png)](https://assets.stueber.de/videos/b10.introduction.de.mp4)
+[![CMS Einführungsvideo](/assets/img/thumbnail.video.cms.png)](https://assets.stueber.de/videos/cms.quattropod.introduction.de.mp4)
 
 * Öffen Sie das Video im **Windows Media Player**: 
 
 ![](/assets/img/video.open.in.mediaplayer.png)
 
-* Klicken Sie auf die Wiederholungstaste:
+* Aktivieren Sie auf die Wiederholungstaste:
 
 ![](/assets/img/mediaplayer.repeat.png)
 
-* Das Video wird wiederholt abgespielt:
+* Das Video wird wiederholt abgespielt und auf das große Display übertragen:
 
 ![](/assets/img/video.playing.png)
 
-dd
+## Sender anschließend und Bildschirm übertragen 
+
+* Schließen Sie den Sender an Ihr Windows-Notebook an und spielgeln Sie den Bildschirm auf das große Display:
+
+![](/assets/img/QSG-TypeC.Windows.png)
+
+!!! tip "Hinweis"
+
+     Lassen Sie die Bildschirmübertragung so lange wie möglich laufen. Sollte die Übertragung abgebrochen wird, lassen Sie uns eine [Log-Datei](logfile.md) zukommen.
