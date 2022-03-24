@@ -6,7 +6,7 @@ Sie können die EZCast Pro Box II wiederherstellen, indem Sie die Firmware neu i
 
 * Die EZCast Pro Box II läuft nicht stabil und ein [Reset](reset.md) hat nicht geholfen.
 
-* Sie haben die Wahl: Installieren Sie entweder einfach die neuste Firmware oder eine andere Firmware.
+* Sie haben die Wahl: Installieren Sie entweder einfach die neueste Firmware oder eine andere Firmware.
 
 ## Firmware über USB-Kabel installieren
 
@@ -57,7 +57,7 @@ Wenn der Treiber richtig installiert ist und die EZCast Pro Box II angeschlossen
 
 ![EZCastPro Treiber im Geräte-Manager](/assets/img/EZCastPro_Driver.jpg)
 
-### Neuste Firmware installieren
+### neueste Firmware installieren
 
 * Im Ordner `EZCast_Pro_Repair_Tool` führen Sie die Datei **EZCastUpdate.exe** aus.
 
@@ -65,7 +65,7 @@ Wenn der Treiber richtig installiert ist und die EZCast Pro Box II angeschlossen
 
 Das folgende Fenster erscheint. Wenn die EZCast Pro Box II im Update-Modus ist, wird im Tool „EZCast device connected“ angezeigt.
 
-* Wählen Sie `Download`, um die neuste Firmware herunterzuladen.
+* Wählen Sie `Download`, um die neueste Firmware herunterzuladen.
 
 ![Die Schaltfläche Download wählen](/assets/img/EZCastUpdate.DeviceConnected.jpg)
 

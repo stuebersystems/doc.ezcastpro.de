@@ -2,7 +2,7 @@
 
 ## Warum aktualisiert man die Firmware? 
 
-Um von den neusten Funktionen des EZCast Pro Stick II zu profitieren, können Sie das neuste Firmware-Update schnell und bequem über das Internet installieren. Bei der Installation einer neuen Firmware werden die bisherigen Einstellungen mitgenommen. Dabei benötigt das EZCast Pro Gerät einen Internetzugang. Dies wird mit dem WLAN-Symbol oben rechts und eine vergebene IP-Adresse Ihres Routers mit der Bezeichnung `Infrustructure IP` unten links auf der Startseite anzeigt, wie unten abgebildet:
+Um von den neuesten Funktionen des EZCast Pro Stick II zu profitieren, können Sie das neueste Firmware-Update schnell und bequem über das Internet installieren. Bei der Installation einer neuen Firmware werden die bisherigen Einstellungen mitgenommen. Dabei benötigt das EZCast Pro Gerät einen Internetzugang. Dies wird mit dem WLAN-Symbol oben rechts und eine vergebene IP-Adresse Ihres Routers mit der Bezeichnung `Infrustructure IP` unten links auf der Startseite anzeigt, wie unten abgebildet:
 
 ![](/assets/img/ProII_fw.upgrade.available.png)
 

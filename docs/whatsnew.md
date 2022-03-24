@@ -1,6 +1,6 @@
 # Was ist neu?
 
-Wählen Sie Ihr Gerät aus, um sich über die neusten Updates zu informieren:
+Wählen Sie Ihr Gerät aus, um sich über die neuesten Updates zu informieren:
 
 <div class="md-showcase">
 	<img src="/assets/img/stick2.png" alt="Abbildung: EZCast Pro Stick II">

@@ -229,7 +229,7 @@ Um störende WLAN-Signale zu vermeiden, können Sie den WLAN-Modus anpassen.
 
 ### Admineinstellungen {#Admineinstellungen}
 
-In diesem Bereich können Sie den EZCast Pro II Empfänger auf die neuste Firmware aktualisieren, auf Standardeinstellungen zurücksetzen und viele anderen erweiterten Einstellungen einsetzen.
+In diesem Bereich können Sie den EZCast Pro II Empfänger auf die neueste Firmware aktualisieren, auf Standardeinstellungen zurücksetzen und viele anderen erweiterten Einstellungen einsetzen.
 
 #### Admin-Kennwort {#Admin-Kennwort}
 

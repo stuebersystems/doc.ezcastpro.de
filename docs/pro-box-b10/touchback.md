@@ -7,7 +7,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 ## Voraussetzungen
 
-* Das neuste [Firmwareupdate](firmware-upgrade.md) für die EZCast Pro Box II.
+* Das neueste [Firmwareupdate](firmware-upgrade.md) für die EZCast Pro Box II.
 
 * Entweder einen [Miracast-fähigen Windows 10 PC](#touchviamiracast) oder die [EZCast Pro Software](quickstart.md#InstallSoftware) unter Windows und macOS.
 

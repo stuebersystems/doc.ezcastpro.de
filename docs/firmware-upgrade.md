@@ -2,7 +2,7 @@
 
 Unter einer Firmware versteht man Software, die in elektronischen Geräten eingebettet ist und dort grundlegende Funktionen leistet. Der Begriff leitet sich davon ab, dass Firmware funktional fest (Englisch: firm) mit der Hardware verbunden ist, was bedeutet, dass das eine ohne das andere nicht nutzbar ist.
 
-Wählen Sie Ihr Gerät aus, um zu erfahren, wie Sie es auf den neusten Stand bringen:
+Wählen Sie Ihr Gerät aus, um zu erfahren, wie Sie es auf den neuesten Stand bringen:
 
 <div class="md-showcase">
 	<img src="/assets/img/stick2.png" alt="Abbildung: EZCast Pro Stick II">
