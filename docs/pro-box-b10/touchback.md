@@ -25,6 +25,10 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 ## Touchback mit Miracast unter Windows 10 {#touchviamiracast}
 
+!!! tip "Hinweis"
+
+     Mit der Firmware-Version 1.13781.41 und höher unterstützt die EZCast Pro Box II Touchback mit Miracast, auch im Englischen als **User Input Back Channel (UIBC)** bekannt. 
+	 
 * Auf einem Windows10-Gerät drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie Ihr EZCast Pro Gerät aus, auf das Sie übertragen möchten:
 
 ![](/assets/img/Windows_Miracast_Select_B10_Device.png)
@@ -36,7 +40,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 * Die Touch-Gesten mit bis zu 6-Fingern Ihres Displays werden an den Rechner zurückgesendet.
 
 ![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/B10_TouchBack_using.png)
-
+ 
 ## Touchback mit der EZCast Pro App
 
 * In der EZCast Pro Software wählen Sie einfach die Schaltfläche `Spiegeln`. Die Touch-Back-Funktion wird nach kurzer Zeit automatisch aktiviert
