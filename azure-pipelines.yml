@@ -1,6 +1,9 @@
 pool:
   vmImage: 'windows-2022'
     
+variables:
+- group: 'github-config'
+    
 steps:
 - task: UsePythonVersion@0
   inputs:
