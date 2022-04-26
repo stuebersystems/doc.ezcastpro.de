@@ -13,14 +13,14 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 
 * Bugs behoben
 
-## EZCast Pro Box II Firmware - 1.13781.17
+## EZCast Pro Stick II Firmware - 1.13781.17
 2021.11.30
 
 **Fixes:**
 
 - GoogleCast-Audio-Problem mit Knacksen/Abbrüchen behoben
 
-## EZCast Pro Box II Firmware - 1.13781.15
+## EZCast Pro Stick II Firmware - 1.13781.15
 2021.11.04
 
 **Neue Funktionen:**
@@ -35,7 +35,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 *  Allgemeine Bugs behoben
 
 
-## EZCast Pro Box II Firmware - 1.12170.19
+## EZCast Pro Stick II Firmware - 1.12170.19
 2021.07.01
 
 **Fixes:**
@@ -44,7 +44,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 *  Geändertes Verhalten von der Funktion Miracast im AGO-Modus. Des Ändern des PSK wird jetzt nicht zugelassen
 *  Verbesserte GoogleCast-Stabilität
 
-## EZCast Pro Box II Firmware - 1.12170.17
+## EZCast Pro Stick II Firmware - 1.12170.17
 2021.06.22
 
 **Fixes:**
