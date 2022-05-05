@@ -159,7 +159,7 @@ Bitte beachten: Je größer jedoch die Anzahl der angeschlossenen Benutzer ist, 
 
 #### Android Audioübertragung {#Android-Audio-Streaming}
 
-Die Übertragung von Android-Ton über die Android-App unterstützen.
+Wenn diese Funktion aktiviert ist, können Sie Audio von einem Bluetooth kompatiblen Gerät (einschließlich Android, Windows, Apple) übertragen. Diese Funktion arbeitet unabhängig von den Protokollen zur Bildschirmübertragung und kann verwendet werden, um einfach Musik abzuspielen. Bitte beachten Sie: Diese Funktion kann nicht mit einem Sicherheitscode bzw. einem Kennwort geschutzt werden.
 
 ![](/assets/img/Android-Audio-Streaming.png)
 
