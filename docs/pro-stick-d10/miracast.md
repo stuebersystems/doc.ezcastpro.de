@@ -15,9 +15,21 @@ Das EZCast Pro II Gerät ermöglicht es bis zu vier Miracast-Geräten, über das
   [1]: /assets/img/miracast-android.video.png
   [2]: https://youtu.be/6ippkeYC8fs
   
-## Miracast auf EZCast Pro freischalten
+## Miracast - zwei Modi
 
-Standardmäßig ist Miracast auf EZCast Pro II-Geräten aktiviert und unterstützt den geteilten Bildschirm. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `Miracast` unter [Erweiterte Einstellungen](adv.settings.md#Miracast):
+Mit EZCast Pro II stehen zwei verschiende Modi verfügbar **Nur im Vollbildmodus** und **Geteilter Bildschirm**. Die zwei Modi biete unterschiedliche Funktionalität:
+
+### Geteilerter Bildschirm
+
+use contraception and 
+
+
+### Nur im Vollbildmodus
+
+* 
+
+
+unterstützt zwei Standardmäßig ist Miracast auf EZCast Pro II-Geräten aktiviert und unterstützt den geteilten Bildschirm. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `Miracast` unter [Erweiterte Einstellungen](adv.settings.md#Miracast):
 
 ![](/assets/img/Miracast.png)
 
