@@ -91,7 +91,7 @@ Es gibt zwei Arten von Miracast-Verbindungen, **P2P** und **Infracast**, die von
 
 ### P2P (Peer-to-Peer)
 
-Der WiFi-Direct-Standard (Peer-to-Peer), der ein direktes Verbinden zweier Wi-Fi-fähiger Geräte ohne zwischengeschalteten Access Point (AP) gestattet. Es gelten die folgenden Eigenschaften:
+Der WiFi-Direct-Standard (Peer-to-Peer), der ein direktes Verbinden zweier WLAN-fähiger Geräte ohne zwischengeschalteten Access Point (AP) gestattet. Es gelten die folgenden Eigenschaften:
 
 * Wird ab Windows 8.1 oder höher unterstützt.
 * Keine WLAN-Infrastruktur erfolderlich.
@@ -124,7 +124,7 @@ Eine Miracastverbindung mit dem EZCast Pro Gerät über Infrastruktur wird herge
 
 Für den Endbenutzer ist der Prozess zur Initiierung einer Miracast-P2P oder Infracast-Verbindung gleich. Man drückt die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen, dann wählt den Empfänger aus der Liste der verfügbaren Geräte aus. 
 
-Es ist möglich während der Bildschirmübertragung, mithilfe des Windows Task-Managers festzustellen, ob ein PC über Infracast verbunden ist: 
+Während der Bildschirmübertragung ist es mithilfe des Windows Task-Managers möglich festzustellen, ob ein PC über Infracast verbunden ist: 
 
 * Öffnen Sie den Task-Manager und wählen Sie die Registerkarte `Leistung`.
 

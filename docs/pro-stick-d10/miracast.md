@@ -91,12 +91,12 @@ Es gibt zwei Arten von Miracast-Verbindungen, **P2P** und **Infracast**, die von
 
 ### P2P (Peer-to-Peer)
 
-Der WiFi-Direct-Standard (Peer-to-Peer), der ein direktes Verbinden zweier Wi-Fi-fähiger Geräte ohne zwischengeschalteten Access Point (AP) gestattet. Es gelten die folgenden Eigenschaften:
+Der WiFi-Direct-Standard (Peer-to-Peer), der ein direktes Verbinden zweier WLAN-fähiger Geräte ohne zwischengeschalteten Access Point (AP) gestattet. Es gelten die folgenden Eigenschaften:
 
 * Wird ab Windows 8.1 oder höher unterstützt.
 * Keine WLAN-Infrastruktur erfolderlich.
 * Wird unter beiden Modi **Nur im Vollbildmodus** und **Geteilter Bildschirm** unterstützt.
-* Maximalabstand von 10 Meter zwischen dem EZCast Pro Gerät und dem Endbenutzer muss berücksichtigt werden.
+* Maximalabstand von 10 Meter zwischen dem EZCast Pro Stick II und dem Endbenutzer muss berücksichtigt werden.
 
 Es ist möglich während der Bildschirmübertragung, mithilfe des Windows Task-Managers festzustellen, ob ein PC über P2P verbunden ist: 
 
@@ -118,11 +118,11 @@ Eine Miracastverbindung mit dem EZCast Pro Gerät über Infrastruktur wird herge
 * Es werden auch Windows-Geräte über LAN-Kabel unterstützt.
 * Es wird kein PIN bzw. kein Sicherheitscode unterstützt.
 * Das Windows-Gerät und das EZCast Pro Gerät müssen sich im gleichen Netzwerk befinden.
-* Maximalabstand von 10 Meter zwischen dem EZCast Pro Gerät und dem AccessPoint muss berücksichtigt werden.
+* Maximalabstand von 10 Meter zwischen dem EZCast Pro Stick II und dem AccessPoint muss berücksichtigt werden.
 	
-Für den Endbenutzer ist der Prozess zur Initiierung einer Miracast-P2P oder Infracast-Verbindung gleich. Man drückt die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen, dann wählt den Empfänger aus der Liste der verfügbaren Geräte aus. 
+Für den Endbenutzer ist der Prozess zur Initiierung einer Miracast-P2P oder Infracast-Verbindung gleich. Man drückt die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen, dann wählt man den Empfänger aus der Liste der verfügbaren Geräte aus. 
 
-Es ist möglich während der Bildschirmübertragung, mithilfe des Windows Task-Managers festzustellen, ob ein PC über Infracast verbunden ist: 
+Während der Bildschirmübertragung ist es mithilfe des Windows Task-Managers möglich festzustellen, ob ein PC über Infracast verbunden ist: 
 
 * Öffnen Sie den Task-Manager und wählen Sie die Registerkarte `Leistung`.
 
