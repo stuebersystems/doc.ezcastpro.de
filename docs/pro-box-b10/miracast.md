@@ -63,7 +63,7 @@ Eine Verbindung über Miracast wird hergestellt:
 
 ![Miracast-Verbindung wird hergestellt](/assets/img/ProIIStick-Windows_Miracast_Connecting.jpg)
 
-Der Aufbau der Miracastverbindung dauert 5 bis 10 Sekunden. Während dieser Zeit sind drei Punkte oben rechts auf der Startseite zu sehen:
+Der Aufbau der Miracast-Verbindung dauert 5 bis 10 Sekunden. Während dieser Zeit sind drei Punkte oben rechts auf der Startseite zu sehen:
 
 ![Miracast-Verbindung wird hergestellt](/assets/img/miracast_connecting.png)
 
@@ -108,7 +108,7 @@ Es ist möglich während der Bildschirmübertragung, mithilfe des Windows Task-M
 
 Die Daten der Bildschirmübertragung werden über ein lokales Netzwerk anstatt über eine P2P-Verbindung gesendet. Weitere Informationen sind im [Microsoft-Artikel](https://docs.microsoft.com/de-de/surface-hub/miracast-over-infrastructure) zu finden.
 
-Eine Miracastverbindung mit dem EZCast Pro Gerät über Infrastruktur wird hergestellt, sofern folgende Voraussetzungen erfüllt sind:
+Eine Miracast-Verbindung mit dem EZCast Pro Gerät über Infrastruktur wird hergestellt, sofern folgende Voraussetzungen erfüllt sind:
 
 * Wird ab Windows 10 Version 1703 und höher unterstützt.
 * Wird [Nur im Vollbildmodus](#ngo-mode) bzw. **nur im NGO-Modus** unterstützt.
