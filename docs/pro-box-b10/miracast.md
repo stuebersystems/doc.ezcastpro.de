@@ -21,7 +21,7 @@ Mit EZCast Pro II stehen zwei verschiedende Modi **Nur im Vollbildmodus** und **
 
 ![](/assets/img/Miracast.png)
 
-### Nur im Vollbildmodus {#ngo-mode}
+### Nur im Vollbildmodus (NGO-Modus) {#ngo-mode}
 
 Im Modus **Nur im Vollbildmodus**, auch bekannt als NGO-Modus (Negotiated Group Owner in englischer Sprache), gelten die folgenden Eigenschaften:
 
@@ -37,7 +37,7 @@ Im Modus **Nur im Vollbildmodus**, auch bekannt als NGO-Modus (Negotiated Group 
     * [Konferenzsteuerung](ezcastproapp.md#conferencecontrol).
     * Die Web-Oberfläche der [Einstellungen](adv.settings.md).
 
-### Geteilter Bildschirm {#ago-mode}
+### Geteilter Bildschirm (AGO-Modus) {#ago-mode}
 
 Mit der Firmware [1.12170.16](whatsnew.md#ezcast-pro-box-ii-firmware-11217016) wurde der Modus **Geteilter Bildschirm**, auch bekannt als AGO-Modus (Autonomous Group Owner in englischer Sprache), eingeführt, um eine Bildschirmübertragung nativ, also ohne zusätzliche EZCast Pro App/Software, von bis zu 4 Geräten einschließlich Miracast-Geräten auf einem geteilten Bildschirm zu ermöglichen. In diesem Modus gelten die folgenden Eigenschaften:
 
