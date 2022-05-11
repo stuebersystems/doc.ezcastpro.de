@@ -34,7 +34,7 @@ Im Modus **Nur im Vollbildmodus**, auch bekannt als NGO-Modus (Negotiated Group 
     * Die Moderator-Funktion bzw. die [Host-Kontrolle](ezcastproapp.md#hostcontrol).
 	* [CMS (Central Management System)](cms.md).
     * [AirView](ezcastproapp.md#airview).
-    * [Konferenzsteuerung](#conferencecontrol).
+    * [Konferenzsteuerung](ezcastproapp.md#conferencecontrol).
     * Die Web-Oberfläche der [Einstellungen](adv.settings.md).
 
 ### Geteilter Bildschirm {#ago-mode}
