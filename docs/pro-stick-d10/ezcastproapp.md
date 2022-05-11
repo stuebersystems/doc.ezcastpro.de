@@ -78,7 +78,7 @@ Sie haben die Wahl, die Erhebung Ihrer Personen-, Standort- und Nutzungsdaten fr
 
 ![](/assets/img/App-Analytik.png)
 
-## Host-Kontrolle
+## Host-Kontrolle {#hostcontrol}
 
 Der erste Benutzer, der sich über die Software bzw. über die App verbindet, wird als Moderator (Host) bezeichnet und die anderen als Gäste. Standardmäßig muss jeder Antrag zum Senden vom Host genehmigt werden, indem er mit entweder `Vollbild`, `Teilen`, oder `Ablehnen` antwortet: 
 
@@ -122,7 +122,7 @@ Das EZCast Pro Gerät kann die Anzeige von bis zu vier Benutzern gleichzeitig au
 
     Die Funktion **Bildschirm aufteilen** kann die Bildschirmübertragung einzelner Gäste weder neu positionieren noch beenden. Für eine etwas ausführlichere Moderatorfunktion empfehlen wir die Verwendung der [Konferenzsteuerung](#Konferenzsteuerung) unter der Funktion Erweiterte Einstellungen.
 
-## Konferenzsteuerung
+## Konferenzsteuerung {#conferencecontrol}
 
 Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsentation nach seinem Wunsch auszuführen, indem er über verschiedene Kontrollmöglichkeiten verfügt. Der Host kann sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Die Schaltflächen zur `Neupositionierung`, `Vollbild`, oder sogar zum `Trennen`, finden Sie rechts unter Spalten.
 

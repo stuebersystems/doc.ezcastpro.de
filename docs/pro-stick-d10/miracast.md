@@ -4,34 +4,50 @@ Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höhe
 
 Das EZCast Pro II Gerät ermöglicht es bis zu vier Miracast-Geräten, über das Miracast-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App zu benötigen.
 
-!!! info "Miracast mit Android und EZCast Pro II"
+!!! hint "Miracast mit Android und EZCast Pro II"
 
     [![Miracast mit Android und EZCast Pro II][1]{: align=left }][2]
 	
 	Anleitung: Bildschirmübertragung von Android über Miracast mit EZCast Pro II
 	
-	[Zum YouTube-Video][2]
+	[Video ansehen][2]
 
   [1]: /assets/img/miracast-android.video.png
-  [2]: https://youtu.be/6ippkeYC8fs
-  
-## Miracast - zwei Modi
+  [2]: https://assets.stueber.de/videos/d10.android.de.mp4
 
-Mit EZCast Pro II stehen zwei verschiende Modi verfügbar **Nur im Vollbildmodus** und **Geteilter Bildschirm**. Die zwei Modi biete unterschiedliche Funktionalität:
+## Die zwei Miracast-Modi
 
-### Geteilerter Bildschirm
-
-use contraception and 
-
-
-### Nur im Vollbildmodus
-
-* 
-
-
-unterstützt zwei Standardmäßig ist Miracast auf EZCast Pro II-Geräten aktiviert und unterstützt den geteilten Bildschirm. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `Miracast` unter [Erweiterte Einstellungen](adv.settings.md#Miracast):
+Mit EZCast Pro II stehen zwei verschiedende Modi **Nur im Vollbildmodus** und **Geteilter Bildschirm** zur Verfügung. Diese zwei Modi bieten unterschiedliche Funktionalität. Wir liefern Ihr EZCast Pro Gerät im Modus **Geteilter Bildschirm**. Sie haben allerdings die Wahl, auf den anderen Modus mithilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) umzuschalten.
 
 ![](/assets/img/Miracast.png)
+
+### Nur im Vollbildmodus {#ngo-mode}
+
+Im Modus **Nur im Vollbildmodus**, auch bekannt als NGO-Modus (Negotiated Group Owner in englischer Sprache), gelten die folgenden Eigenschaften:
+
+* Der geteilte Bildschirm wird unter dem Miracast-Protokoll nicht unterstützt. Mit Miracast kann nur ein Gerät im Vollbild übertragen werden. Um eine Bildschirmübertragung von bis zu 4 Geräten einschließlich Windows/Android-Geräten auf einem geteilten Bildschirm zu ermöglichen, müssen diese Geräte ein anderes Protokoll nutzen z.B. Google Chromecast oder die EZCast Pro Software/App. Wenn eine Bildschirmübertragung nativ, also ohne zusätzliche EZCast Pro App/Software, von bis zu 4 Geräten einschließlich Miracast-Geräten auf einem geteilten Bildschirm gewünscht ist, muss das EZCast-Gerät auf den Modus [Geteilter Bildschirm](#ago-mode) umgeschaltet werden. 
+* Die SSID bzw. der Gerätename kann vollständig geändert werden, beispielsweise `Raum_001`. 
+* Das Kennwort kann geändert werden.
+* Das Kennwort kann ausgeblendet werden.
+* [Infracast](#p2p_vs_infracast) wird unterstützt.
+* Während der Bildschirmübertragung eines Miracast-Gerätes werden alle Netzwerkschnittstellen belegt, kein weiteres Endgerät kann gespiegelt werden und die folgenden Funktionen **stehen nicht zur Verfügung**:
+    * Die Moderator-Funktion bzw. die [Host-Kontrolle](ezcastproapp.md#hostcontrol).
+	* [CMS (Central Management System)](cms.md).
+    * [AirView](ezcastproapp.md#airview).
+    * [Konferenzsteuerung](#conferencecontrol).
+    * Die Web-Oberfläche der [Einstellungen](adv.settings.md).
+
+### Geteilter Bildschirm {#ago-mode}
+
+Mit der Firmware [1.12170.16](whatsnew.md#ezcast-pro-stick-ii-firmware-11217016) wurde der Modus **Geteilter Bildschirm**, auch bekannt als AGO-Modus (Autonomous Group Owner in englischer Sprache), eingeführt, um eine Bildschirmübertragung nativ, also ohne zusätzliche EZCast Pro App/Software, von bis zu 4 Geräten einschließlich Miracast-Geräten auf einem geteilten Bildschirm zu ermöglichen. In diesem Modus gelten die folgenden Eigenschaften:
+
+
+* Der geteilte Bildschirm unterstützt alle Streamingprotokolle mit bis zu 4 Geräten einschließlich Miracast-Geräten. 
+* Die SSID bzw. der Gerätename kann geändert werden, aber enthält immer vorne den Präfix "DIRECT-", beispielsweise `DIRECT-Raum_001`. 
+* Das Kennwort kann nicht in diesem Modus geändert werden. Um das Kennwort zu ändern, schalten Sie bitte zuerst das EZCast Pro Gerät auf [Nur im Vollbildmodus](#ngo-mode) um, dann nehmen Sie die Änderung des Kennworts vor, anschließend schalten Sie wieder auf [Geteilter Bildschirm](#ngo-mode) um.
+* Das Kennwort kann nicht ausgeblendet werden. Um das Kennwort auszublenden, schalten Sie bitte zuerst das EZCast Pro Gerät auf [Nur im Vollbildmodus](#ngo-mode) um, dann stellen Sie das Ausblenden des Kennworts ein, anschließend schalten Sie wieder auf [Geteilter Bildschirm](#ngo-mode) um.
+* Infracast wird nicht unterstützt.
+* Während der Bildschirmübertragung eines Miracast-Gerätes bleiben alle Netzwerkschnittstellen erreichbar und alle Funktionen stehen weiterhin zur Verfügung.
 
 ## Miracast auf Windows
 
@@ -68,4 +84,49 @@ Um Miracast mit dem EZCast Pro Stick II zu verbinden, stellen Sie sicher, dass d
 Auf Ihrem Android-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das **Kontrollzentrum** aufzurufen und wählen Sie die Anwendung zur Bildschirmübertragung. Bei den meisten Geräten heißt es `Drahtlosprojektion`, `Smart View` oder auch `Screen Mirroring`. Wählen Sie anschließend Ihr EZCast Pro Gerät aus. Um die Bildschirmübertragung zum beenden, wählen Sie `Trennen` in selben Bereich.
 
 ![Screen Mirroring](/assets/img/miracast.android.png)
+
+## P2P vs. Infracast {#p2p_vs_infracast}
+
+Es gibt zwei Arten von Miracast-Verbindungen, **P2P** und **Infracast**, die von Windows 10-Geräten aus möglich sind:
+
+### P2P (Peer-to-Peer)
+
+Der WiFi-Direct-Standard (Peer-to-Peer), der ein direktes Verbinden zweier Wi-Fi-fähiger Geräte ohne zwischengeschalteten Access Point (AP) gestattet. Es gelten die folgenden Eigenschaften:
+
+* Wird ab Windows 8.1 oder höher unterstützt.
+* Keine WLAN-Infrastruktur erfolderlich.
+* Wird unter beiden Modi **Nur im Vollbildmodus** und **Geteilter Bildschirm** unterstützt.
+* Maximalabstand von 10 Meter zwischen dem EZCast Pro Gerät und dem Endbenutzer muss berücksichtigt werden.
+
+Es ist möglich während der Bildschirmübertragung, mithilfe des Windows Task-Managers festzustellen, ob ein PC über P2P verbunden ist: 
+
+* Öffnen Sie den Task-Manager und wählen Sie die Registerkarte `Leistung`. Wenn P2P in Verwendung ist, wird die SSID bzw. der Gerätename des EZCast Pro Gerätes unter einem zusätzlichen Netzwerkadapter **Wi-Fi Direct** angezeigt und wird mit dem Präfix `DIRECT-` ergänzt:
+
+![](/assets/img/D10.BF8E0C84.NGO-mode.Space-in-SSID.png)
+
+### Infracast (Miracast über Infrastruktur)
+
+Die Daten der Bildschirmübertragung werden über ein lokales Netzwerk anstatt über eine P2P-Verbindung gesendet. Weitere Informationen sind im [Microsoft-Artikel](https://docs.microsoft.com/de-de/surface-hub/miracast-over-infrastructure) zu finden.
+
+Eine Miracastverbindung mit dem EZCast Pro Gerät über Infrastruktur wird hergestellt, sofern folgende Voraussetzungen erfüllt sind:
+
+* Wird ab Windows 10 Version 1703 und höher unterstützt.
+* Wird [Nur im Vollbildmodus](#ngo-mode) bzw. **nur im NGO-Modus** unterstützt.
+* Die SSID bzw. der Gerätename des EZCast Pro Gerätes darf kein Leerzeichen enthalten:
+    * RICHTIG: `Raum_001`
+    * FALSCH: `Raum 001`
+* Es werden auch Windows-Geräte über LAN-Kabel unterstützt.
+* Es wird kein PIN bzw. kein Sicherheitscode unterstützt.
+* Das Windows-Gerät und das EZCast Pro Gerät müssen sich im gleichen Netzwerk befinden.
+* Maximalabstand von 10 Meter zwischen dem EZCast Pro Gerät und dem AccessPoint muss berücksichtigt werden.
+	
+Für den Endbenutzer ist der Prozess zur Initiierung einer Miracast-P2P oder Infracast-Verbindung gleich. Man drückt die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen, dann wählt den Empfänger aus der Liste der verfügbaren Geräte aus. 
+
+Es ist möglich während der Bildschirmübertragung, mithilfe des Windows Task-Managers festzustellen, ob ein PC über Infracast verbunden ist: 
+
+* Öffnen Sie den Task-Manager und wählen Sie die Registerkarte `Leistung`.
+
+Wenn Infracast in Verwendung ist, wird nur der bisherige Netzwerkadapter mit Angaben zu Ihrer Infrastruktur angezeigt:
+
+![](/assets/img/D10_BF8E0C84.NGO-mode.No-Space-in-SSID.png)
 

@@ -74,7 +74,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 2021.05.11
 
 * Unterstützung für Router über den WLAN-Sicherheitsstandard WPA3
-* Geteilter Bildschirm über [Miracast](miracast.md): Bildschirmübertragung nativ von bis 4 Miracast Geräten auf einem geteilten Bildschirm
+* Geteilter Bildschirm über [Miracast](miracast.md): Bildschirmübertragung nativ von bis zu 4 Miracast Geräten auf einem geteilten Bildschirm
 * Regelmäßige Aktualisierung des Castcodes
 * Verbesserte Leistung von Airview
 * Verbesserte Benutzeroberfläche der WLAN-Energieoptionen
@@ -120,7 +120,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
 **Neue Funktionen:**
 
-*  Geteilter Bildschirm über [Chromecast](chromecast.md): Bildschirmübertragung nativ von bis 4 Google Cast Geräten auf einem geteilten Bildschirm
+*  Geteilter Bildschirm über [Chromecast](chromecast.md): Bildschirmübertragung nativ von bis zu 4 Google Cast Geräten auf einem geteilten Bildschirm
 *  [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): Um die Systemleistung und Systemstabilität zu optimieren, kann der Empfänger nach 8 Stunden Inaktivität neu gestartet werden
 *  Die Funktion AirView wurde um die [Castcode-Sicherheit](castcode.md) erweitert.
 *  [Automatischer Modus](adv.settings.md#AirPlayMode) wurde zur AirPlay-Funktion hinzugefügt
