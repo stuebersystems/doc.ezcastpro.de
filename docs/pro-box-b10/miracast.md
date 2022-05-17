@@ -46,7 +46,7 @@ Mit der Firmware [1.12170.16](whatsnew.md#ezcast-pro-box-ii-firmware-11217016) w
 * Die SSID bzw. der Gerätename kann geändert werden, aber enthält immer vorne den Präfix "DIRECT-", beispielsweise `DIRECT-Raum_001`. 
 * Das Kennwort kann nicht in diesem Modus geändert werden. Um das Kennwort zu ändern, schalten Sie bitte zuerst das EZCast Pro Gerät auf [Nur im Vollbildmodus](#ngo-mode) um, dann nehmen Sie die Änderung des Kennworts vor, anschließend schalten Sie wieder auf [Geteilter Bildschirm](#ngo-mode) um.
 * Das Kennwort kann nicht ausgeblendet werden. Um das Kennwort auszublenden, schalten Sie bitte zuerst das EZCast Pro Gerät auf [Nur im Vollbildmodus](#ngo-mode) um, dann stellen Sie das Ausblenden des Kennworts ein, anschließend schalten Sie wieder auf [Geteilter Bildschirm](#ngo-mode) um.
-* Infracast wird nicht unterstützt.
+* [Infracast](#p2p_vs_infracast) wird nicht unterstützt.
 * Während der Bildschirmübertragung eines Miracast-Gerätes bleiben alle Netzwerkschnittstellen erreichbar und alle Funktionen stehen weiterhin zur Verfügung.
 
 ## Miracast auf Windows
