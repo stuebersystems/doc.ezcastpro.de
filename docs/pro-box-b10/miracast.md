@@ -1,8 +1,6 @@
 # Über Miracast verbinden
 
-Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höher) oder Android-Geräte (Android 4.4 oder höher) in bester Qualität und mit Sound zu präsentieren. 
-
-Das EZCast Pro II Gerät ermöglicht es bis zu vier Miracast-Geräten, über das Miracast-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App zu benötigen.
+Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höher) oder Android-Geräte (Android 4.4 oder höher) mit dem EZCast Pro Gerät ohne App/Software zu präsentieren. Das EZCast Pro II Gerät ermöglicht es bis zu vier Geräte inkl. Geräte über das Miracast-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App zu benötigen.
 
 !!! hint "Miracast mit Android und EZCast Pro II"
 
