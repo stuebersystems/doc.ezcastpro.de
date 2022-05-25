@@ -8,7 +8,7 @@ Mit den unten stehenden Befehlen können Sie die EZCast Pro Software unter Windo
 	
 ## Vorbereitung
 
-Laden Sie die EZCast Pro Software [für Windows herunter](https://www.ezcast.com/app/ezcast/pro/windows).
+Laden Sie die EZCast Pro Software [für Windows herunter](https://ezcast-pro.com/download/ezcastpro-app/windows/).
 
 ## Beispiele
 

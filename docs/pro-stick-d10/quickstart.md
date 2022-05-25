@@ -90,7 +90,7 @@ Unterstützt werden alle gängigen Streamingprotokolle. Umfassende Anleitungen n
 
 #### Software installieren {#InstallSoftware}
 
-Laden Sie bitte die Software für [Windows](https://www.ezcast.com/app/ezcast/pro/windows) oder [macOS](https://www.ezcast.com/app/ezcast/pro/macos) herunter und installieren Sie diese.
+Laden Sie bitte die Software für [Windows](https://ezcast-pro.com/download/ezcastpro-app/windows/) oder [macOS](https://ezcast-pro.com/download/ezcastpro-app/macos/) herunter und installieren Sie diese.
 
 #### Software mit EZCast Pro Stick verbinden
 
