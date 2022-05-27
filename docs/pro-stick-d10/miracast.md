@@ -23,7 +23,7 @@ Mit EZCast Pro II stehen zwei verschiedende Modi **Nur im Vollbildmodus** und **
 
 Mit der Firmware [1.12170.16](whatsnew.md#ezcast-pro-stick-ii-firmware-11217016) wurde der Modus **Geteilter Bildschirm**, auch bekannt als AGO-Modus (Autonomous Group Owner in englischer Sprache), eingeführt, um eine Bildschirmübertragung nativ, also ohne die zusätzliche EZCast Pro App/Software, von bis zu 4 Geräten einschließlich Miracast-Geräten auf einem geteilten Bildschirm zu ermöglichen. 
 
-Ist der Miracast-Modus **Geteilter Bildschirm** aktiviert, wird der Gerätename bzw. die auf der Startseite angezeigte SSID mit dem Präfix `DIRECT-` ergänzt. Dies gilt für die SSID des EZCast Pro Gerätes, die in Ihren WLAN-Einstellungen zu finden ist, sowie der angezeigte Gerätename unter den Streamingprotokollen AirView und Chromecast: 
+Ist der Miracast-Modus **Geteilter Bildschirm** aktiviert, wird der Gerätename bzw. die auf der Startseite angezeigte SSID mit dem Präfix `DIRECT-` ergänzt. Dies gilt für die SSID des EZCast Pro Gerätes, die in Ihren WLAN-Einstellungen zu finden ist, sowie den angezeigten Gerätenamen unter den Streamingprotokollen AirView und Chromecast: 
 
 ![](/assets/img/ago.SSID.png)
 
