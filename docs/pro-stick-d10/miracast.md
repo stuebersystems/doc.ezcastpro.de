@@ -15,9 +15,30 @@ Mit Miracast haben Sie die Möglichkeit, Windows-Geräte (Windows 8.1 oder höhe
 
 ## Die zwei Miracast-Modi
 
-Mit EZCast Pro II stehen zwei verschiedende Modi **Nur im Vollbildmodus** und **Geteilter Bildschirm** zur Verfügung. Diese zwei Modi bieten unterschiedliche Funktionalität. Wir liefern Ihr EZCast Pro Gerät im Modus **Geteilter Bildschirm**. Sie haben allerdings die Wahl, auf den anderen Modus mithilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) umzuschalten.
+Mit EZCast Pro II stehen zwei verschiedende Modi **Nur im Vollbildmodus** und **Geteilter Bildschirm** zur Verfügung. Diese zwei Modi bieten unterschiedliche Funktionalität. Wir liefern Ihr EZCast Pro Gerät mit dem Modus **Geteilter Bildschirm**. Sie haben allerdings die Wahl, auf den anderen Modus mithilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) unter `Gerätemanagement` -> `Miracast` umzuschalten.
 
 ![](/assets/img/Miracast.png)
+
+### Geteilter Bildschirm (AGO-Modus) {#ago-mode}
+
+Mit der Firmware [1.12170.16](whatsnew.md#ezcast-pro-stick-ii-firmware-11217016) wurde der Modus **Geteilter Bildschirm**, auch bekannt als AGO-Modus (Autonomous Group Owner in englischer Sprache), eingeführt, um eine Bildschirmübertragung nativ, also ohne die zusätzliche EZCast Pro App/Software, von bis zu 4 Geräten einschließlich Miracast-Geräten auf einem geteilten Bildschirm zu ermöglichen. 
+
+Ist der Miracast-Modus **Geteilter Bildschirm** aktiviert, wird der Gerätename bzw. die auf der Startseite angezeigte SSID mit dem Präfix `DIRECT-` ergänzt. Dies gilt für die SSID des EZCast Pro Gerätes, die in Ihren WLAN-Einstellungen zu finden ist, sowie der angezeigte Gerätename unter den Streamingprotokollen AirView und Chromecast: 
+
+![](/assets/img/ago.SSID.png)
+
+Der angezeigte Gerätename bei der Suche nach verfügbaren Geräten unter Miracast wird allerdings **nicht** mit dem Präfix ergänzt. Dies ist erforderlich, um das Miracast-Protokoll sowie alle anderen Streamingprotokolle gemeinsam zu unterstützen:
+
+![](/assets/img/ProIIStick-Windows_Miracast_Select_Device.jpg)
+
+In diesem Modus gelten die folgenden Eigenschaften:
+
+* Der geteilte Bildschirm unterstützt alle Streamingprotokolle mit bis zu 4 Geräten einschließlich Miracast-Geräten. 
+* Die SSID bzw. der Gerätename kann geändert werden, aber enthält immer vorne den Präfix "DIRECT-", beispielsweise `DIRECT-Raum_001`. 
+* Das Kennwort kann nicht in diesem Modus geändert werden. Um das Kennwort zu ändern, schalten Sie bitte zuerst das EZCast Pro Gerät auf [Nur im Vollbildmodus](#ngo-mode) um, dann nehmen Sie die Änderung des Kennworts vor, anschließend schalten Sie wieder auf [Geteilter Bildschirm](#ngo-mode) um.
+* Das Kennwort kann nicht ausgeblendet werden. Um das Kennwort auszublenden, schalten Sie bitte zuerst das EZCast Pro Gerät auf [Nur im Vollbildmodus](#ngo-mode) um, dann stellen Sie das Ausblenden des Kennworts ein, anschließend schalten Sie wieder auf [Geteilter Bildschirm](#ngo-mode) um.
+* [Infracast](#p2p_vs_infracast) wird nicht unterstützt.
+* Während der Bildschirmübertragung eines Miracast-Gerätes bleiben alle Netzwerkschnittstellen erreichbar und alle Funktionen stehen weiterhin zur Verfügung.
 
 ### Nur im Vollbildmodus (NGO-Modus) {#ngo-mode}
 
@@ -34,18 +55,6 @@ Im Modus **Nur im Vollbildmodus**, auch bekannt als NGO-Modus (Negotiated Group 
     * [AirView](ezcastproapp.md#airview).
     * [Konferenzsteuerung](ezcastproapp.md#conferencecontrol).
     * Die Web-Oberfläche der [Einstellungen](adv.settings.md).
-
-### Geteilter Bildschirm (AGO-Modus) {#ago-mode}
-
-Mit der Firmware [1.12170.16](whatsnew.md#ezcast-pro-stick-ii-firmware-11217016) wurde der Modus **Geteilter Bildschirm**, auch bekannt als AGO-Modus (Autonomous Group Owner in englischer Sprache), eingeführt, um eine Bildschirmübertragung nativ, also ohne zusätzliche EZCast Pro App/Software, von bis zu 4 Geräten einschließlich Miracast-Geräten auf einem geteilten Bildschirm zu ermöglichen. In diesem Modus gelten die folgenden Eigenschaften:
-
-
-* Der geteilte Bildschirm unterstützt alle Streamingprotokolle mit bis zu 4 Geräten einschließlich Miracast-Geräten. 
-* Die SSID bzw. der Gerätename kann geändert werden, aber enthält immer vorne den Präfix "DIRECT-", beispielsweise `DIRECT-Raum_001`. 
-* Das Kennwort kann nicht in diesem Modus geändert werden. Um das Kennwort zu ändern, schalten Sie bitte zuerst das EZCast Pro Gerät auf [Nur im Vollbildmodus](#ngo-mode) um, dann nehmen Sie die Änderung des Kennworts vor, anschließend schalten Sie wieder auf [Geteilter Bildschirm](#ngo-mode) um.
-* Das Kennwort kann nicht ausgeblendet werden. Um das Kennwort auszublenden, schalten Sie bitte zuerst das EZCast Pro Gerät auf [Nur im Vollbildmodus](#ngo-mode) um, dann stellen Sie das Ausblenden des Kennworts ein, anschließend schalten Sie wieder auf [Geteilter Bildschirm](#ngo-mode) um.
-* [Infracast](#p2p_vs_infracast) wird nicht unterstützt.
-* Während der Bildschirmübertragung eines Miracast-Gerätes bleiben alle Netzwerkschnittstellen erreichbar und alle Funktionen stehen weiterhin zur Verfügung.
 
 ## Miracast auf Windows
 
