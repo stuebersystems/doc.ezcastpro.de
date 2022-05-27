@@ -19,11 +19,11 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 ![USB-Kabel anschließen](/assets/img/IMG_4504_M.png) 
 
-* Wenn der Empfänger die Touch-Funktionalität Ihres Bildschirms erfolgreich entdeckt hat, errecheint das Maus-Symbol oben rechts auf der Startseite.
+* Wenn der Empfänger die Touch-Funktionalität Ihres Bildschirms erfolgreich entdeckt hat, erscheint das Maus-Symbol oben rechts auf der Startseite.
 
 ![Die Touch-Back-Funktion ist aktiviert](/assets/img/B10_TouchBack_enabled.png)
 
-## Touchback mit Miracast unter Windows 10 {#touchviamiracast}
+## Touch-Back mit Miracast unter Windows 10 {#touchviamiracast}
 
 !!! tip "Hinweis"
 
@@ -39,9 +39,9 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 * Die Touch-Gesten mit bis zu 6-Fingern Ihres Displays werden an den Rechner zurückgesendet.
 
-![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/B10_TouchBack_using.png)
+![](/assets/img/B10_TouchBack_using.png)
  
-## Touchback mit der EZCast Pro App
+## Touch-Back mit der EZCast Pro Software
 
 * In der EZCast Pro Software wählen Sie einfach die Schaltfläche `Spiegeln`. Die Touch-Back-Funktion wird nach kurzer Zeit automatisch aktiviert
 
