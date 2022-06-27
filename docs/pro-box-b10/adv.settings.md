@@ -147,7 +147,7 @@ Der Castcode wird hier angezeigt:
 
 ![Der Castcode](/assets/img/B10_Castcode.png)
 
-Eine umfassende Anleitung zur Verwendung von Castcode finden Sie [hier](castcode.md).
+Eine umfassende Anleitung zur Verwendung von Castcode finden Sie [hier](securitycodes.md).
 
 #### Max. Verbindungen {#MaxVerbindungen}
 
