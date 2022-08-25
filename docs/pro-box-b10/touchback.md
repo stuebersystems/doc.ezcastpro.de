@@ -26,7 +26,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 ![](/assets/img/reverse.control.png)
 
-## Touch-Back unter Windows {#touchviamiracast} mit Miracast
+## Touch-Back unter Windows mit Miracast {#touchviamiracast}
 
 !!! tip "Hinweis"
 
