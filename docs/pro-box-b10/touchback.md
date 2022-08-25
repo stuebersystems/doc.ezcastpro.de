@@ -4,14 +4,13 @@ Die Touch-Back-Funktion der EZCast Pro Box II erlaubt Ihnen Gesten eines Multito
 
 Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back-Funktionalität zur Verfügung. Dies ermöglicht die Interaktivität und Kreativität von mehreren Teilnehmern an einem Bildschirm.
 
+Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unterstützt.
 
 ## Voraussetzungen
 
 * Das neueste [Firmwareupdate](firmware-upgrade.md) für die EZCast Pro Box II.
 
-* Entweder einen [Miracast-fähigen Windows 10 PC](#touchviamiracast) oder die [EZCast Pro Software](quickstart.md#InstallSoftware) unter Windows und macOS.
-
-* nur ein Bildschirm kann zeitgleich übertragen werden (kein aufgeteiltes Display möglich).
+* Entweder einen [Miracast-fähigen Windows 10/11 PC](#touchviamiracast) oder die [EZCast Pro Software](quickstart.md#InstallSoftware) unter Windows und macOS.
 
 ## Einrichtung
 
@@ -23,7 +22,11 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 ![Die Touch-Back-Funktion ist aktiviert](/assets/img/B10_TouchBack_enabled.png)
 
-## Touch-Back mit Miracast unter Windows 10 {#touchviamiracast}
+* Bei einigen Displays müssen Sie möglicherweise die Funktion `Reverse Control` aktivieren:
+
+![](/assets/img/reverse.control.png)
+
+## Touch-Back unter Windows {#touchviamiracast} mit Miracast
 
 !!! tip "Hinweis"
 
@@ -39,7 +42,7 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 * Die Touch-Gesten mit bis zu 6-Fingern Ihres Displays werden an den Rechner zurückgesendet.
 
-![](/assets/img/B10_TouchBack_using.png)
+![](/assets/img/Using.TouchBack.png)
  
 ## Touch-Back mit der EZCast Pro Software
 
@@ -49,4 +52,4 @@ Wenn auf einen anderen Teilnehmer gewechselt wird, steht ihm auch die Touch-Back
 
 * Die Touch-Gesten mit bis zu 10-Fingern Ihres Displays werden an den Rechner zurückgesendet.
 
-![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/B10_TouchBack_using.png)
+![Touch-Gesten werden an den Rechner zurückgesendet](/assets/img/Using.TouchBack.png)
