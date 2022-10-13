@@ -249,7 +249,6 @@ Sie haben anschließend die Möglichkeit, die Webadresse der Funktion AirView al
 !!! warning "Achtung"
 
     AirView unterstützt kein Video- oder Audioübertragung.
-	
 
 ## Kamera
 
