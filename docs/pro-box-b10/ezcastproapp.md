@@ -117,9 +117,10 @@ Die Funktion **Bildschirm aufteilen** befindet sich in der linken Panel der App/
 
 Das EZCast Pro Gerät kann die Anzeige von bis zu vier Benutzern gleichzeitig auf dem Bildschirm übertragen.
 
-> #### info::Hinweis
-> Die Funktion **Bildschirm aufteilen** kann die Bildschirmübertragung einzelner Gäste weder neu positionieren noch beenden. Für eine etwas ausführlichere Moderatorfunktion empfehlen wir die Verwendung der [Konferenzsteuerung](#Konferenzsteuerung) unter der Funktion Erweiterte Einstellungen.
-
+!!! info "Hinweis"
+	
+    Die Funktion **Bildschirm aufteilen** kann die Bildschirmübertragung einzelner Gäste weder neu positionieren noch beenden. Für eine etwas ausführlichere Moderatorfunktion empfehlen wir die Verwendung der [Konferenzsteuerung](#conferencecontrol) unter der Funktion Erweiterte Einstellungen.
+	
 ## Konferenzsteuerung {#conferencecontrol}
 
 Konferenzsteuerung ist ein Mittel nur für den Host, den Verlauf einer Präsentation nach seinem Wunsch auszuführen, indem er über verschiedene Kontrollmöglichkeiten verfügt. Der Host kann sich unterscheiden, wie und wann andere Teilnehmer während einer Präsentation Ihre Bildschirme übertragen können. Die Schaltflächen zur `Neupositionierung`, `Vollbild`, oder sogar zum `Trennen`, finden Sie rechts unter Spalten.

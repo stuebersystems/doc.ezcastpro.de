@@ -120,7 +120,7 @@ Das EZCast Pro Gerät kann die Anzeige von bis zu vier Benutzern gleichzeitig au
 
 !!! tip "Hinweis"
 
-    Die Funktion **Bildschirm aufteilen** kann die Bildschirmübertragung einzelner Gäste weder neu positionieren noch beenden. Für eine etwas ausführlichere Moderatorfunktion empfehlen wir die Verwendung der [Konferenzsteuerung](#Konferenzsteuerung) unter der Funktion Erweiterte Einstellungen.
+    Die Funktion **Bildschirm aufteilen** kann die Bildschirmübertragung einzelner Gäste weder neu positionieren noch beenden. Für eine etwas ausführlichere Moderatorfunktion empfehlen wir die Verwendung der [Konferenzsteuerung](#conferencecontrol) unter der Funktion Erweiterte Einstellungen.
 
 ## Konferenzsteuerung {#conferencecontrol}
 
