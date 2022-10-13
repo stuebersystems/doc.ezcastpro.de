@@ -184,17 +184,23 @@ Mit AirView hat man die Möglichkeit, eine Bildausgabe der Präsentation auf sei
 
 ![Ein Endgerät auf ein Public Display und mehrere Endgeräte](/assets/img/airviewapp.png)
 
-Die Funktion AirView ist
+### AirView mit der App/Software 
 
-* in der EZCast Pro Software für Windows und macOS oben rechts 
+Die Funktion AirView befindet sich:
 
-* und in der App für Android und iOS in der Funktionsliste zu finden.
+* in der EZCast Pro Software unter Windows und macOS oben rechts.
+
+* in der Funktionsliste der App unter Android und iOS.
 
 ![](/assets/img/airViewapp2.png)
 
 Mit den Schaltflächen oben rechts können Sie die Bildausgabe starten. Standardmäßig wird ein Bild der Präsentation alle 5 Sekunden aufgenommen, das man Optional herunterladen kann.
 
 ![](/assets/img/airviewapp3.jpg)
+
+Wenn die Funktion [Castcode](securitycodes.md) aktiviert ist, müssen Sie hier den Code eingeben:
+
+![](/assets/img/AirView.castcode.activated.png)
 
 Hier sieht man die Bildausgabe von einem Teilnehmer im Vollbild:
 
@@ -207,6 +213,43 @@ Hier sieht man die Bildausgabe von zwei Teilnehmer aufgeteilt:
 !!! warning "Achtung"
 
     AirView unterstützt kein Video- oder Audioübertragung.
+
+### AirView im Webbrowser
+
+Die Funktion AirView steht in einem belebigen Webbrowser zur Verfügung. Verbinden Sie einfach Ihr Gerät mit demselben Netzwerk wie das EZCast Pro Gerät:
+
+* Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
+
+![](/assets/img/ProDongleII_connected_to_router.png)
+
+* Geben Sie die URL `ipaddress/?page=AirView` in Ihrem Web Browser ein. Zum Beispiel:
+
+![](/assets/img/URL_AirView.png)
+
+Mit den Schaltflächen oben rechts können Sie die Bildausgabe starten. Standardmäßig wird ein Bild der Präsentation alle 5 Sekunden aufgenommen, das man Optional herunterladen kann.
+
+![](/assets/img/airviewapp3.png)
+
+Wenn die Funktion [Castcode](securitycodes.md) aktiviert ist, müssen Sie hier den Code eingeben:
+
+![](/assets/img/AirView.castcode.activated.png)
+
+Hier sieht man die Bildausgabe von einem Teilnehmer im Vollbild:
+
+![](/assets/img/airviewapp4.webbrowser.jpg)
+
+Hier sieht man die Bildausgabe von zwei Teilnehmer aufgeteilt:
+
+![](/assets/img/airviewapp5.webbrowser.jpg)
+
+Sie haben anschließend die Möglichkeit, die Webadresse der Funktion AirView als Lesezeichen zu speichern:
+
+![](/assets/img/SaveFavourite.AirView.png)
+
+!!! warning "Achtung"
+
+    AirView unterstützt kein Video- oder Audioübertragung.
+	
 
 ## Kamera
 
