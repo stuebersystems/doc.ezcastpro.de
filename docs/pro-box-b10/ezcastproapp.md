@@ -203,7 +203,7 @@ Hier sieht man die Bildausgabe von einem Teilnehmer im Vollbild:
 
 ![](/assets/img/airviewapp4.jpg)
 
-Hier sieht man die Bildausgabe von zwei Teilnehmer aufgeteilt:
+Hier sieht man die Bildausgabe von zwei Teilnehmern aufgeteilt:
 
 ![](/assets/img/airviewapp5.jpg)
 
