@@ -6,6 +6,13 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
+## EZCast Pro Stick II Firmware - 1.13781.66
+2022.07.21
+
+**Fixes:**
+
+* Verbesserte WLAN-Stabilität
+
 ## EZCast Pro Stick II Firmware - 1.13781.21
 2022.02.01
 
