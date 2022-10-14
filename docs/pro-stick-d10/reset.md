@@ -53,7 +53,7 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
 * Wenn die Stromversorgung angeschlossen ist, halten Sie den Reset-Schalter ca. 10 Sekunden lang gedrückt. Der Reset-Schalter befindet sich an der Seite des Sticks neben dem USB-Anschluss.
 
-![Reset-Schalter ca. 10 Sekunden lang gedrückt halten](/assets/img/ProII-Press-Reset-Button.jpg)
+![Reset-Schalter ca. 10 Sekunden lang gedrückt halten](/assets/img/ProII-Press-Reset-Button.png)
 
 * Wenn die folgende Meldung erscheint, lassen Sie den Reset-Schalter los.
 
@@ -67,7 +67,7 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
 Nach dem Zurücksetzen werden Sie bei der ersten Anmeldung auf der Funktion [Erweiterte Einstellungen](adv.settings.md) aufgefordert, das Admin-Kennwort zu ändern. Standardmäßig lautet es `000000`. Wir empfehlen, dass Sie anschließend die folgenden empfohlenen Einstellungen überprüfen:
 
-Firmware-Version: [1.13781.21](whatsnew.md#ezcast-pro-stick-ii-firmware-11378121)
+Firmware-Version: [1.13781.66](whatsnew.md#ezcast-pro-stick-ii-firmware-11378166)
 
 **Gerätemanagement**
 
