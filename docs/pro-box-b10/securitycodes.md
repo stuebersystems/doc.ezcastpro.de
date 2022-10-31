@@ -12,10 +12,10 @@ EZCast Pro integriert verschiedene Streamingprotokolle (Miracast/AirPlay/Google 
 
 Ein Sicherheitscode wird mit den folgenden Streamingprotokollen unterstützt:
 
-* Die EZCast Pro Software unter Windows und macOS
-* Die EZCast Pro App unter Android und iOS
-* AirPlay unter iOS und macOS
-* Miracast unter Windows und Android
+* Die `EZCast Pro Software` unter Windows und macOS
+* Die `EZCast Pro App` unter Android und iOS
+* `AirPlay` unter iOS und macOS
+* `Miracast` unter Windows und Android
 
 ## Wie unterscheiden sich die Sicherheitscodes der Streamingprotokolle?
 
