@@ -1,67 +1,89 @@
-# Castcode festlegen
+# Sicherheitscodes aktivieren
 
-Der Castcode gewährleistet zusätzliche Sicherheit gegen unberechtigte Bildschirmübertragung, indem jeder Gast einen vierstelligen Code eingeben muss, um Inhalte übertragen zu dürfen. So können Sie sicherstellen, dass nur Teilnehmer Inhalte übertragen, die im gleichem Raum sind. Die folgenden Einstellungen stehen zur Verfügung:
+## Was ist ein Sicherheitscode?
 
-* `AUS` - Kein Castcode wird benötigt
-* `Zufällig` - Zufällig (erneut sich automatisch beim Einschalten bzw. beim Neustart)
-* `Fest` - Einen festens Castcode angeben
+Ein Sicherheitscode gewährleistet zusätzliche Sicherheit gegen unberechtigte Bildschirmübertragung, indem jeder Teilnehmer einen Code eingeben muss, bevor die Bildschirmübertagung beginnen darf. So können Sie sicherstellen, dass nur die im Raum anwesenden Personen ihre Inhalte anzeigen können. 
 
-Der Castcode wird oben mitten der Startseite angezeigt:
+![Der Castcode](/assets/img/enter.castcode.png)
+
+EZCast Pro integriert verschiedene Streamingprotokolle (Miracast/AirPlay/Google Cast), um alle Endgeräte nach dem Prinzip Bring Your Own Device (BYOD) unterstützen zu können. Jedes Streamingprotokoll enthält seine eigene entwickelte Funktionalität.
+
+## Welche Streamingprotokolle unterstützen einen Sicherheitscode?
+
+Ein Sicherheitscode wird mit den folgenden Streamingprotokollen unterstützt:
+
+* Die EZCast Pro Software unter Windows und macOS
+* Die EZCast Pro App unter Android und iOS
+* AirPlay unter iOS und macOS
+* Miracast unter Windows und Android
+
+## Wie unterscheiden sich die Sicherheitscodes der Streamingprotokolle?
+
+### Castcode
+
+Der Castcode wurde von EZCast Pro entwickelt und unterstützt das Protokoll `AirPlay` sowie alle Geräte, die `EZCast Pro Software/App` verwenden. Es handelt sich um einen vierstelligen Code, der oben mitten der Startseite ständig angezeigt wird:
 
 ![Der Castcode](/assets/img/B10_Castcode.png)
 
-Das Endgerät gibt den Castcode ein, dann darf die Bildschirmübertragung beginnen:
+Die Funktion `Castcode-Kontrolle` ist in der Weboberfläche unter [Gerätemanagement -> Castcode-Kontrolle](adv.settings.md#Castcode) zu finden und bietet folgende Einstellungen:
 
-![Der Castcode](/assets/img/Enddevice_MiracastPin.png)
+* `AUS` - Kein Castcode wird benötigt bzw. angezeigt.
+* `Zufällig` - Zufällig (erneut sich regelmäßig)
+* `Fest` - Einen festen Castcode angeben
 
-## Welche Streamingprotokolle unterstützt der Castcode?
+### Miracast PIN 
 
-Der Castcode wird bei einem Antrag zum Senden von folgenden Streamingprotokolle bzw. Anwendungen angefordert:
+Der Miracast-PIN erscheint erst als zufälliger achtstelliger Code in gelb oben auf der Startseite, wenn ein Miracast-Gerät dem EZCast Pro Gerät einen Antrag zum Spiegeln sendet:
 
-* Die EZCast Pro Software für Windows und macOS
-* Die EZCast Pro App für Android und iOS
-* AirPlay auf iOS und macOS
+![Miracast PIN ](/assets/img/ProIIDongle_MiracastPin.png)
+ 
+Aktivieren Sie den Miracast-PIN in der Weboberfläche unter [Admineinstellungen -> Miracast](adv.settings.md#Miracast):
 
-## Welche Streamingprotokolle unterstützt der Castcode nicht?
+![Miracast PIN ](/assets/img/Miracast.pin.png)
 
-Aufgrund einer Limitierung der Protokollen kann der Castcode unter folgenden Streamingprotokolle nicht unterstützt werden. Trotzdem können Sie sich gegen unberechtigte Bildschirmübertragung schützen:
+### AirPlay PIN
 
-* Google Cast
-* Miracast
+Viele Organisationen, Schulen und Unternehmen nutzen [Mobile Device Management](https://support.apple.com/de-de/guide/deployment-education/edu1c1be3511/web) (MDM), um ihre Geräte zu verwalten. Je nach den Richtlinien Ihrer Organisation kann es erfordlich sein, den AirPlay-PIN zu aktivieren, um den Bildschirm Ihres Apple-Gerätes übertragen zu können.
+
+Der AirPlay-PIN-Code erscheint erst als zufälliger vierstelliger Code unten auf der Startseite, wenn ein Apple-Gerät dem EZCast Pro Gerät einen Antrag zum Spiegeln sendet:
+
+![AirPlay PIN](/assets/img/airplay.pin.png)
+ 
+Aktivieren Sie den AirPlay-PIN-Code in der Weboberfläche unter [Gerätemanagement -> AirPlay-Modus](adv.settings.md#AirPlayMode):
+
+![AirPlay PIN](/assets/img/ezcastpro.II.AirPlay.Settings.activate.png)
+
+## Welche Streamingprotokolle unterstützen keinen Sicherheitscode?
+
+Aufgrund einer Limitierung des Protokolls unterstützt `Google Cast` aktuell keinen Sicherheitscode. Sie können dennoch gegen unberechtigte Bildschirmübertragung schützen:
 
 ### Google Cast
 
-Derzeit gibt es innerhalb des Protokolls Chromecast keine Castcode-Funktionalität. Sie haben jedoch die Möglichkeit mit Hilfe der EZCast Pro App/Software die Funktion Host-Kontrolle gegen unberechtigte Bildschirmübertragung zu schützen. Wenn ein Chromecast Gerät versucht zu übertragen, müsste der Antrag zum Senden vom Moderator (Host) genehmigt werden:
+Derzeit gibt es innerhalb des Protokolls `Google Cast` keinen Sicherheitscode. Sie haben jedoch die Möglichkeit mit Hilfe der EZCast Pro App/Software die Funktion Host-Kontrolle gegen unberechtigte Bildschirmübertragung zu schützen. Wenn ein Gerät  versucht über Google Cast zu übertragen, muss der Antrag zum Senden vom Moderator (Host) genehmigt werden:
 
 ![Host Control](/assets/img/AppHostKontrolle.png)
 
-Weitere Informationen zum Thema Host-Kontrolle finden Sie [hier](ezcastproapp.md#host-kontrolle)
+Weitere Informationen zum Thema Host-Kontrolle finden Sie [hier](ezcastproapp.md#hostcontrol)
 
-### Miracast
+## Wie genau aktiviert man einen Sicherheitscode?
 
-Das Protokoll Miracast unterstützt keinen vierstelligen Castcode, sondern einen achtstelligen Pincode, den Sie unter der Funktion [Erweiterte Einstellungen](adv.settings.md#Miracast) freischalten können:
-
-![Host Control](/assets/img/Miracast.png)
-
-Wenn ein Miracast-Gerät EZCast Pro einen Antrag zum Spiegeln sendet, taucht der achtstellige Pincode in gelb oben auf der Startseite auf. Diesen Pin muss man auf dem Endgerät eingeben, bevor die Bildschirmübertagung beginnen darf.
-
-![Host Control](/assets/img/ProIIDongle_MiracastPin.png)
-
-## Wie lege ich den Castcode fest?
-
-Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie die Funktion Castcode einstellen.
+Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware), in der App für [Android und iOS](quickstart.md#InstallApp), oder in einem Webbrowser können Sie einen Sicherheitscode aktivieren.
 
 ### Erweiterte Einstellungen öffnen
 
-* Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf und wählen Sie die Pro Box II aus der Geräteliste aus.
+* Rufen Sie die Software `EZCastPro` auf Ihrem Gerät auf und wählen Sie Ihr EZCast Pro Gerät aus der Geräteliste aus.
 
-* Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
+* Unter Windows/macOS wählen Sie `Erweiterte Einstellungen`.
 
 ![](/assets/img/Win-App-Advanced-Settings.png)
 
-* Auf iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
+* Unter iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
 
 ![](/assets/img/iOS_adv-settings.png)
+
+* Geben Sie die IP-Adresse Ihres EZCast Pro Gerätes in einem beliebigen Webbrowser ein, die unten links auf der Startseite angezeigt wird:
+
+![](/assets/img/ProDongleII_connected_to_router.png)
 
 ### Sich als Admin anmelden
 
@@ -73,13 +95,9 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 ![](/assets/img/new_password.png)
 
-### Castcode einstellen
+### Einen Sicherheitscode aktivieren
 
-* Aus dem Menü wählen Sie `Gerätemanagement` aus:
-
-![](/assets/img/ezcastpro.II.select.devicemanagement.png)
-
-* Wählen Sie den Menüpunkt `Castcode-Kontrolle` aus:
+* Zum Aktivieren des **Castcodes**, wählen Sie [Gerätemanagement -> Castcode-Kontrolle](adv.settings.md#Castcode):
 
 ![](/assets/img/ezcastpro.II.devicemanagement.castcode.png)
 
@@ -87,7 +105,15 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 ![](/assets/img/ezcastpro.II.select.castcode.png)
 
-* Um die Einstellung freizuschalten, müssen Sie die Pro Box II neustarten. Im Menü wählen Sie `Neustarten`.
+* Zum Aktivieren des **Miracast-PINs**, wählen Sie [Admineinstellungen -> Miracast](adv.settings.md#Miracast):
+
+![Miracast PIN ](/assets/img/Miracast.pin.png)
+
+* Zum Aktivieren des **AirPlay-PINs** wählen Sie [Gerätemanagement -> AirPlay-Modus](adv.settings.md#AirPlayMode):
+
+![AirPlay PIN](/assets/img/ezcastpro.II.AirPlay.Settings.activate.png)
+
+* Um die Einstellung freizuschalten, müssen das EZCast Pro Gerät neu gestartet werden. Im Hauptmenü wählen Sie `Neustarten`.
 
 ![](/assets/img/prostickII_menu.neustart.png)
 
