@@ -113,7 +113,7 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 ![AirPlay PIN](/assets/img/ezcastpro.II.AirPlay.Settings.activate.png)
 
-* Um die Einstellung freizuschalten, müssen das EZCast Pro Gerät neu gestartet werden. Im Hauptmenü wählen Sie `Neustarten`.
+* Um die Einstellung freizuschalten, muss das EZCast Pro Gerät neu gestartet werden. Im Hauptmenü wählen Sie `Neustarten`.
 
 ![](/assets/img/prostickII_menu.neustart.png)
 
