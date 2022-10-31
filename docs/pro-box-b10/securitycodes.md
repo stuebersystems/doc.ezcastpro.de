@@ -101,7 +101,7 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 ![](/assets/img/ezcastpro.II.devicemanagement.castcode.png)
 
-* Wählen die gewünschte Einstellung aus:
+* Wählen Sie die gewünschte Einstellung aus:
 
 ![](/assets/img/ezcastpro.II.select.castcode.png)
 
