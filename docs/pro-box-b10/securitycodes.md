@@ -37,7 +37,7 @@ Der Miracast-PIN erscheint erst als zufälliger achtstelliger Code in gelb oben 
 
 ![Miracast PIN ](/assets/img/ProIIDongle_MiracastPin.png)
  
-Aktivieren Sie den Miracast-PIN in der Weboberfläche unter [Admineinstellungen -> Miracast](adv.settings.md#Miracast):
+Aktivieren Sie den Miracast-PIN in der Weboberfläche unter [Gerätemanagement -> Miracast](adv.settings.md#Miracast):
 
 ![Miracast PIN ](/assets/img/Miracast.pin.png)
 
@@ -105,7 +105,7 @@ Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für
 
 ![](/assets/img/ezcastpro.II.select.castcode.png)
 
-* Zum Aktivieren des **Miracast-PINs**, wählen Sie [Admineinstellungen -> Miracast](adv.settings.md#Miracast):
+* Zum Aktivieren des **Miracast-PINs**, wählen Sie [Gerätemanagement -> Miracast](adv.settings.md#Miracast):
 
 ![Miracast PIN ](/assets/img/Miracast.pin.png)
 
