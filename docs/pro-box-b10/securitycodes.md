@@ -28,7 +28,7 @@ Der Castcode wurde von EZCast Pro entwickelt und unterstützt das Protokoll `Air
 Die Funktion `Castcode-Kontrolle` ist in der Weboberfläche unter [Gerätemanagement -> Castcode-Kontrolle](adv.settings.md#Castcode) zu finden und bietet folgende Einstellungen:
 
 * `AUS` - Kein Castcode wird benötigt bzw. angezeigt.
-* `Zufällig` - Zufällig (erneut sich regelmäßig)
+* `Zufällig` - Erneut sich regelmäßig
 * `Fest` - Einen festen Castcode angeben
 
 ### Miracast PIN 
