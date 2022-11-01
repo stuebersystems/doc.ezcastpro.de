@@ -1,8 +1,8 @@
-# Was ist Chromecast?
+# Was ist Google Cast?
 
-Chromecast ist die Übertragungstechnologie von Google. Mit dem Google Chrome Browser kann man einen Browser-Tab, eine Audio/Video-Datei, oder sogar den gesamten Computerbildschirm auf den EZCast Pro Stick II schnell und bequem übertragen. 
+Google Cast ist die Übertragungstechnologie von Google. Mit dem Google Chrome Browser kann man einen Browser-Tab, eine Audio/Video-Datei, oder sogar den gesamten Computerbildschirm auf den EZCast Pro Stick II schnell und bequem übertragen. 
 
-Der EZCast Pro Stick II ermöglicht es bis zu 4 Windows, Android und ChromeOS-Geräten, über das Chromecast-Protokoll auf einen aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App nutzen zu müssen.
+Der EZCast Pro Stick II ermöglicht es bis zu 4 Windows, Android und ChromeOS-Geräten, über das Google Cast-Protokoll auf einen aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App nutzen zu müssen.
 
 ![](/assets/img/Chrome_select_stream2.png)
 
@@ -15,15 +15,15 @@ Die Übertragungstechnologie Google Cast ist nun fest eingebauter Bestandteil de
 
 ## Voraussetzungen
 
-Die Chromecast-Funktion mit Unterstützung für aufgeteiltes Display benötigt die Firmware-Version `1.8617.18` oder höher. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.8617.18` angezeigt wird, wie unten abgebildet. Wenn nötig,  [aktualisieren](firmware-upgrade.md) Sie bitte Ihre Firmware.
+Die Google Cast-Funktion mit Unterstützung für aufgeteiltes Display benötigt die Firmware-Version `1.8617.18` oder höher. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion `1.8617.18` angezeigt wird, wie unten abgebildet. Wenn nötig,  [aktualisieren](firmware-upgrade.md) Sie bitte Ihre Firmware.
 
 Bei der Erstverbindung ist ein WLAN bzw. eine Internetvebindung erforderlich
 
-![Chromecast mit Unterstützung für aufgeteiltes Display steht ab der Firmware-Version 1.8617.18 zur Verfügung](/assets/img/ProIIDongle_Firmware-Version.png)
+![Google Cast mit Unterstützung für aufgeteiltes Display steht ab der Firmware-Version 1.8617.18 zur Verfügung](/assets/img/ProIIDongle_Firmware-Version.png)
 
-## Chromecast freischalten
+## Google Cast freischalten
 
-Standardmäßig ist Chromecast auf EZCast Pro II-Geräten aktiviert. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `Chromecast` unter [Erweiterte Einstellungen](adv.settings.md#Chromecast):
+Standardmäßig ist Google Cast auf EZCast Pro II-Geräten aktiviert. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `Google Cast` unter [Erweiterte Einstellungen](adv.settings.md#googlecast):
 
 ![](/assets/img/Chromecast-support.png)
 

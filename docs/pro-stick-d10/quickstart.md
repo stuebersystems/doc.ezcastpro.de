@@ -39,7 +39,7 @@ Mit EZCast Pro stehen Ihnen zwei Möglichkeiten zur Verfügung:
 Unterstützt werden alle gängigen Streamingprotokolle. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
 
 * [AirPlay](airplay.md)
-* [Google Cast](chromecast.md)
+* [Google Cast](googlecast.md)
 * [Miracast](miracast.md)
 
 ### b) Erweiterte Funktion. EZCast Pro App 
@@ -83,7 +83,7 @@ Mit EZCast Pro stehen Ihnen zwei Möglichkeiten zur Verfügung:
 Unterstützt werden alle gängigen Streamingprotokolle. Umfassende Anleitungen nach Ihrem gewünschten Protokoll sind unter folgenden Links zu finden:
 
 * [AirPlay](airplay.md)
-* [Google Cast](chromecast.md)
+* [Google Cast](googlecast.md)
 * [Miracast](miracast.md)
 
 ### b) Erweiterte Funktion. EZCast Pro Software 

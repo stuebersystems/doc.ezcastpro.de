@@ -44,7 +44,7 @@ In diesem Modus gelten die folgenden Eigenschaften:
 
 Im Modus **Nur im Vollbildmodus**, auch bekannt als NGO-Modus (Negotiated Group Owner in englischer Sprache), gelten die folgenden Eigenschaften:
 
-* Der geteilte Bildschirm wird unter dem Miracast-Protokoll nicht unterstützt. Mit Miracast kann nur ein Gerät im Vollbild übertragen werden. Um eine Bildschirmübertragung von bis zu 4 Geräten einschließlich Windows/Android-Geräten auf einem geteilten Bildschirm zu ermöglichen, müssen diese Geräte ein anderes Protokoll nutzen z.B. Google Chromecast oder die EZCast Pro Software/App. Wenn eine Bildschirmübertragung nativ, also ohne zusätzliche EZCast Pro App/Software, von bis zu 4 Geräten einschließlich Miracast-Geräten auf einem geteilten Bildschirm gewünscht ist, muss das EZCast-Gerät auf den Modus [Geteilter Bildschirm](#ago-mode) umgeschaltet werden. 
+* Der geteilte Bildschirm wird unter dem Miracast-Protokoll nicht unterstützt. Mit Miracast kann nur ein Gerät im Vollbild übertragen werden. Um eine Bildschirmübertragung von bis zu 4 Geräten einschließlich Windows/Android-Geräten auf einem geteilten Bildschirm zu ermöglichen, müssen diese Geräte ein anderes Protokoll nutzen z.B. Google Google Cast oder die EZCast Pro Software/App. Wenn eine Bildschirmübertragung nativ, also ohne zusätzliche EZCast Pro App/Software, von bis zu 4 Geräten einschließlich Miracast-Geräten auf einem geteilten Bildschirm gewünscht ist, muss das EZCast-Gerät auf den Modus [Geteilter Bildschirm](#ago-mode) umgeschaltet werden. 
 * Die SSID bzw. der Gerätename kann vollständig geändert werden, beispielsweise `Raum_001`. 
 * Das Kennwort kann geändert werden.
 * Das Kennwort kann ausgeblendet werden.

@@ -65,6 +65,10 @@ Derzeit gibt es innerhalb des Protokolls `Google Cast` keinen Sicherheitscode. S
 
 Weitere Informationen zum Thema Host-Kontrolle finden Sie [hier](ezcastproapp.md#hostcontrol)
 
+Wenn Sie nur Streamingprotokolle zulassen möchten, die einen Sicherheitscode unterstützen, können Sie das Protokoll Google Cast unter [Gerätemanagement -> Google Cast](adv.settings.md#googlecast) deaktivieren:
+
+![Host Control](/assets/img/googlecast.deactivate.png)
+
 ## Wie genau aktiviert man einen Sicherheitscode?
 
 Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware), in der App für [Android und iOS](quickstart.md#InstallApp), oder in einem Webbrowser können Sie einen Sicherheitscode aktivieren.

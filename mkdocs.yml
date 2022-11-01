@@ -110,7 +110,7 @@ nav:
         - "Anleitung: Windows": pro-stick-d10/quickstart/#windows-und-macos
     - Anleitungen nach<br>Streamingprotokoll: 
         - "Anleitung: AirPlay": pro-stick-d10/airplay.md
-        - "Anleitung: Chromecast": pro-stick-d10/chromecast.md
+        - "Anleitung: Google Cast": pro-stick-d10/googlecast.md
         - "Anleitung: Miracast": pro-stick-d10/miracast.md
     - CMS (Central Management System): pro-stick-d10/cms.md    
     - Einrichtungshinweise: pro-stick-d10/setup-tipps.md  
@@ -145,7 +145,7 @@ nav:
         - "Anleitung: Windows": pro-box-b10/quickstart/#windows-und-macos
     - Anleitungen nach<br>Streamingprotokoll: 
         - "Anleitung: AirPlay": pro-box-b10/airplay.md
-        - "Anleitung: Chromecast": pro-box-b10/chromecast.md
+        - "Anleitung: Google Cast": pro-box-b10/googlecast.md
         - "Anleitung: Miracast": pro-box-b10/miracast.md
     - CMS (Central Management System): pro-box-b10/cms.md        
     - Einrichtungshinweise: pro-box-b10/setup-tipps.md  

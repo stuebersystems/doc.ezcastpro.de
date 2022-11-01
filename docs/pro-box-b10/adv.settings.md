@@ -163,9 +163,9 @@ Wenn diese Funktion aktiviert ist, können Sie Audio von einem Bluetooth kompati
 
 ![](/assets/img/Android-Audio-Streaming.png)
 
-#### ChromeCast {#Chromecast}
+#### Google Cast {#googlecast}
 
-Die Übertragung von ChromeCast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Chromecast finden Sie [hier](chromecast.md).
+Die Bildschirmübertragung von Geräten über das Google Cast Protokoll unterstützen. Eine umfassende Anleitung zur Verwendung von Google Cast finden Sie [hier](googlecast.md).
 
 ![](/assets/img/Chromecast-support.png)
 
