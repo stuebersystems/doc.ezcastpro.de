@@ -20,7 +20,7 @@ Port | Typ
 | 2425 |
 | 63630 |
 
-### ChromeCast
+### Google Cast
 
 | Port | Typ
 | :---- | :---
