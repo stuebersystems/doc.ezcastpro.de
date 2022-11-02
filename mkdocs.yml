@@ -116,12 +116,12 @@ nav:
     - Einrichtungshinweise: pro-stick-d10/setup-tipps.md  
     - Erweiterte Funktionen:
         - Captive Portal: pro-stick-d10/captiveportal.md
-        - Sicherheitscodes: pro-stick-d10/securitycodes.md
         - Dynamisches Hintergrundbild: pro-stick-d10/dynamicwallpaper.md
         - Erweiterte Einstellungen: pro-stick-d10/adv.settings.md
         - Festgelegter Host: pro-stick-d10/fixedhost.md
         - Monitor-Modus: pro-stick-d10/monitor-setup.md
         - ProCast: pro-stick-d10/procast.md
+        - Sicherheitscodes: pro-stick-d10/securitycodes.md
         - Unbeaufsichtigte Installation: pro-stick-d10/proapp-silentinstall.md
     - EZCastPro App/Software: pro-stick-d10/ezcastproapp.md     
     - Firmware aktualisieren: pro-stick-d10/firmware-upgrade.md
@@ -151,14 +151,14 @@ nav:
     - Einrichtungshinweise: pro-box-b10/setup-tipps.md  
     - Erweiterte Funktionen:
         - Captive Portal: pro-box-b10/captiveportal.md
-        - Sicherheitscodes: pro-box-b10/securitycodes.md
         - Dynamisches Hintergrundbild: pro-box-b10/dynamicwallpaper.md
         - Erweiterte Einstellungen: pro-box-b10/adv.settings.md
         - Festgelegter Host: pro-box-b10/fixedhost.md
         - Monitor-Modus: pro-box-b10/monitor-setup.md
         - ProCast: pro-box-b10/procast.md
-        - Unbeaufsichtigte Installation: pro-box-b10/proapp-silentinstall.md
+        - Sicherheitscodes: pro-box-b10/securitycodes.md
         - Touch-Back-Funktion: pro-box-b10/touchback.md
+        - Unbeaufsichtigte Installation: pro-box-b10/proapp-silentinstall.md
     - EZCastPro App/Software: pro-box-b10/ezcastproapp.md        
     - Firmware aktualisieren: pro-box-b10/firmware-upgrade.md
     - Internetzugang: pro-box-b10/internet.md
