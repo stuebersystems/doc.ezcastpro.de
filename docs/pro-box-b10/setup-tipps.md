@@ -51,3 +51,9 @@ Den Empfänger kann man mit einem guten Klebeband befestigen, ohne den Bildschir
 ![tesa montagepads](/assets/img/RX_mounted.wrong.png)
 
 ![tesa montagepads](/assets/img/RX_mounted.huawei.png)
+
+### HDMI-Verlängerung (1M)
+
+Mit eine HDMI-Verlängerung können Sie bei großen Displays die Signalstörung vermeiden. Diese können Sie bei Bedarf über uns erwerben:
+
+![HDMI-Verlängerung 1M](/assets/img/deleycon.hdmi.extension.jpg)

@@ -36,4 +36,10 @@ Mit einem **C14 to C13+Euro Y Type Splitter Adapter** können Sie das Kaltgerät
 
 ![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/D10.Y-Type-Adapter.png)
 
+### HDMI-Verlängerung (1M)
+
+Mit eine HDMI-Verlängerung können Sie bei großen Displays die Signalstörung vermeiden. Diese können Sie bei Bedarf über uns erwerben:
+
+![HDMI-Verlängerung 1M](/assets/img/deleycon.hdmi.extension.jpg)
+
 
