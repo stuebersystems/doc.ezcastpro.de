@@ -95,6 +95,7 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                       | Herunterladen | Bemerkung
 ------------------------- | ------------ | ------------
+1.13781.68 (Beta) | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.13781.68_test.gz)
 1.13781.66 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.13781.66.gz)
 1.13781.21 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.13781.21.gz)
 1.13781.18 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/D10/D10_1.13781.18.gz)
