@@ -56,3 +56,33 @@ In the Mac menu bar, klicken Sie auf das AirPlay-Symbol ![](/assets/img/airplay_
 Wählen Sie das gewünschte EZCast Pro Gerät in der Liste aus. Wenn es nicht angezeigt wird, vergewissern Sie sich, dass Ihr Mac mit demselben Netzwerk wie das EZCast Pro-Gerät verbunden ist.
 
 ![AirPlay: Select EZCast Pro Box II](/assets/img/macOS-AirPlay.png)
+
+## Video-Streamen aktivieren
+
+Sie möchten ein Video aus dem Internet mit Ihrem iPad (4:3 Bildformat) auf einen 16:9 Full-HD Bildschirm ruckelfrei ohne schwarze Ränder abspielen? Für das beste Videostreaming-Erlebnis empfehlen wir das Aktivieren der Funktion **Spiegeln + Video streamen**:
+
+* Diese Funktion ist unter [Gerätemanagement -> AirPlay-Modus](adv.settings.md#AirPlayMode) zu finden:
+
+![Video-Streamen im Vollbild aktivieren](/assets/img/ezcastpro.II.EZAir_Mode.enable.videostreaming.png)
+
+**Voraussetzungen**
+
+Die Funktion `Spiegeln + Video streamen` benötigt die Firmware-Version `1.13781.68` oder höher. Wenn die Startseite erscheint, prüfen Sie, ob die erfolderliche Mindestversion angezeigt wird, wie unten abgebildet. Wenn nötig, [aktualisieren](firmware-upgrade.md) Sie bitte Ihre Firmware.
+
+![](/assets/img/ProIIDongle_Firmware-Version.png)
+
+!!! info "Hinweis"
+
+    Das Aktivieren der Funktion **Spiegeln + Video-Streamen** wird nach einem Neustart des EZCast Pro Gerätes wirksam.
+	
+Um ein Video im Vollbild auf den großen Bildschirm zu übertragen, nutzen Sie einfach die Bildschirmsynchronisierung Funktion von AirPlay. Wenn Sie im Videoplayer „Vollbild“ wählen, wechselt das EZCast Pro Gerät in einen Vollbildmodus. Das Endgerät zeigt "Mit AirPlay verbunden" und das Video wird im Vollbild auf den großen Bildschirm gestreamt:
+
+![](/assets/img/ipad.video.stream.png)
+
+Ohne die Aktivierung der Funktion `Spiegeln + Video streamen` wird der Bildschirm des iPads einfach gespiegelt. Schwarze Ränder sind zu sehen und die Übertragung kann ruckelig werden:
+
+![](/assets/img/ipad.video.mirror.png)
+
+!!! info "Hinweis"
+
+    Die YouTube App unter iOS unterstützt keinen geteilten Bildschirm und kann keine Inhalte übertragen, während ein anderes Gerät gespiegelt wird. Möchten Sie gleichzeitiges Senden (Splitscreen mit bis zu 4 Geräten) unterstützen, muss das Video in einem Webbrowser z.B. Safari oder Google Chrome abgespielt werden. 
