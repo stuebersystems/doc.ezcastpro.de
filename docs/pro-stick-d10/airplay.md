@@ -21,15 +21,13 @@ Standardmäßig ist AirPlay auf EZCast Pro II-Geräten aktiviert. Sollten Sie di
 
 ![](/assets/img/ezcastpro.II.AirPlay.Settings.png)
 
-Eine umfassende Anleitung zur Verwendung von **AirPlay PIN** finden Sie [hier](securitycodes.md/#airplay-pin):
+Eine umfassende Anleitung zur Verwendung von **AirPlay PIN** finden Sie [hier](securitycodes.md#airplay-pin):
 
 ## AirPlay auf iOS
 
-Um Ihren iOS-Bildschirm zu übertragen, verbinden Sie Ihr Gerät mit demselben WLAN-Netzwerk wie EZCast Pro. Die SSID und das Kennwort von EZCast Pro werden oben auf der Startseite angezeigt:
+Um Ihren iOS-Bildschirm zu übertragen, verbinden Sie Ihr Endgerät entweder mit der SSID des EZCast Pro Gerätes oder mit derselben WLAN- bzw. LAN-Infrastruktur, mit welcher das EZCast Pro Gerät verbunden ist:
 
-![EZCast Pro Startseite](/assets/img/ProIIDongle_landingpage.png)
-
-![EZCast Pro Startseite](/assets/img/iOS_WiFi-Connect.png)
+![EZCast Pro verbinden](/assets/img/proII.connect.ssid.png)
 
 Auf Ihrem iOS-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das Kontrollzentrum aufzurufen.
 
@@ -39,7 +37,7 @@ Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend w�
 
 !!! tip "Hinweis"
 
-     Wenn der EZCast Pro Empfänger unter AirPlay nicht zu sehen ist, stellen Sie sicher, dass Ihr iOS-Gerät mit dem Empfänger verbunden ist. AWDL (Apple Wireless Direct Link) ist Apples proprietäres Mesh-Netzwerkprotokoll, mit dem Apple-Geräte im Nahbereich Ad-hoc-Peer-to-Peer-Mesh-Netzwerke nutzen können. Dieses Protokoll wird für EZCast Pro Geräte nicht verwendet.
+     Wenn der EZCast Pro Empfänger unter AirPlay nicht zu sehen ist, stellen Sie sicher, dass Ihr iOS-Gerät sich im gleichen Netzwerk befindet wie das EZCast Pro Gerät. AWDL (Apple Wireless Direct Link) ist Apples proprietäres Mesh-Netzwerkprotokoll, mit dem Apple-Geräte im Nahbereich Ad-hoc-Peer-to-Peer-Mesh-Netzwerke nutzen können. Dieses Protokoll wird für EZCast Pro Geräte nicht verwendet.
 
 ![Der EZCast Pro Empfänger](/assets/img/iOS_AirPlay_select.png)
 
@@ -49,11 +47,11 @@ Um die Übertragung von AirPlay vom iOS-Gerät zu beenden, tippen Sie nochmal au
 
 ## AirPlay auf macOS
 
-Um Ihren macOS-Bildschirm zu übertragen, verbinden Sie Ihr Gerät mit demselben WLAN-Netzwerk wie EZCast Pro. Die SSID von EZCast Pro wird oben auf der Startseite angezeigt:
+Um Ihren macOS-Bildschirm zu übertragen, verbinden Sie Ihr Endgerät entweder mit der SSID des EZCast Pro Gerätes oder mit derselben WLAN- bzw. LAN-Infrastruktur, mit welcher das EZCast Pro Gerät verbunden ist:
 
 ![EZCast Pro Startseite](/assets/img/ProIIDongle_landingpage.png)
 
-In the Mac menu bar, klicken Sie auf das AirPlay-Symbol ![](/assets/img/airplay_icon.png) oben im Bildschirm.
+In der Menüleiste, klicken Sie auf das AirPlay-Symbol ![](/assets/img/airplay_icon.png) oben im Bildschirm.
 
 Wählen Sie das gewünschte EZCast Pro Gerät in der Liste aus. Wenn es nicht angezeigt wird, vergewissern Sie sich, dass Ihr Mac mit demselben Netzwerk wie das EZCast Pro-Gerät verbunden ist.
 
