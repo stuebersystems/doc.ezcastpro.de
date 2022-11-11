@@ -2,7 +2,7 @@
 
 AirPlay ist die Übertragungstechnologie von Apple zur kabellosen Übertragung von Apple-Geräten auf AirPlay-fähige Empfängergeräte wie Lautsprecher, AV-Empfänger, Stereosysteme und Fernseher.
 
-Der EZCast Pro Box II ermöglicht es bis zu vier macOS und iOS-Geräten, über das AirPlay-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App zu benötigen.
+Der EZCast Pro Stick II ermöglicht es bis zu vier macOS und iOS-Geräten, über das AirPlay-Protokoll auf einem aufgeteilten Bildschirm gemeinsam zu übertragen, ohne die App zu benötigen.
 
 !!! info "iOS-Gerät-Bildschirmübertragung mit EZCast Pro"
 
@@ -19,7 +19,7 @@ Der EZCast Pro Box II ermöglicht es bis zu vier macOS und iOS-Geräten, über d
 
 Standardmäßig ist AirPlay auf EZCast Pro II-Geräten aktiviert. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `AirPlay` unter [Erweiterte Einstellungen](adv.settings.md#AirPlayMode):
 
-![](/assets/img/ezcastpro.II.EZAir_enable.png)
+![](/assets/img/ezcastpro.II.AirPlay.Settings.png)
 
 ## AirPlay auf iOS
 
@@ -33,7 +33,7 @@ Auf Ihrem iOS-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um das 
 
 ![Kontrollzentrum öffnen](/assets/img/iOS-controlcenter.png)
 
-Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend wählen Sie den EZCast Pro Box II aus.
+Im Kontrollzentrum tippen Sie auf `Bildschirmsynchronisierung`, anschließend wählen Sie den EZCast Pro Stick II aus.
 
 !!! tip "Hinweis"
 
@@ -55,11 +55,11 @@ In the Mac menu bar, klicken Sie auf das AirPlay-Symbol ![](/assets/img/airplay_
 
 Wählen Sie das gewünschte EZCast Pro Gerät in der Liste aus. Wenn es nicht angezeigt wird, vergewissern Sie sich, dass Ihr Mac mit demselben Netzwerk wie das EZCast Pro-Gerät verbunden ist.
 
-![AirPlay: Select EZCast Pro Box II](/assets/img/macOS-AirPlay.png)
+![AirPlay: Select EZCast Pro Stick II](/assets/img/macOS-AirPlay.png)
 
 ## Video-Streamen aktivieren
 
-Sie möchten ein Video aus dem Internet mit Ihrem iPad (4:3 Bildformat) auf einen 16:9 Full-HD Bildschirm ruckelfrei ohne schwarze Ränder abspielen? Für das beste Videostreaming-Erlebnis empfehlen wir das Aktivieren der Funktion **Spiegeln + Video streamen**:
+Sie möchten ein Video aus dem Internet mit Ihrem iPad (4:3 Bildformat) auf einen 16:9 Full-HD Bildschirm ruckelfrei und ohne schwarze Ränder abspielen? Für das beste Videostreaming-Erlebnis empfehlen wir das Aktivieren der Funktion **Spiegeln + Video streamen**:
 
 * Diese Funktion ist unter [Gerätemanagement -> AirPlay-Modus](adv.settings.md#AirPlayMode) zu finden:
 
@@ -75,7 +75,7 @@ Die Funktion `Spiegeln + Video streamen` benötigt die Firmware-Version `1.13781
 
     Das Aktivieren der Funktion **Spiegeln + Video-Streamen** wird nach einem Neustart des EZCast Pro Gerätes wirksam.
 	
-Um ein Video im Vollbild auf den großen Bildschirm zu übertragen, nutzen Sie einfach die Bildschirmsynchronisierung Funktion von AirPlay. Wenn Sie im Videoplayer „Vollbild“ wählen, wechselt das EZCast Pro Gerät in einen Vollbildmodus. Das Endgerät zeigt "Mit AirPlay verbunden" und das Video wird im Vollbild auf den großen Bildschirm gestreamt:
+Um ein Video im Vollbild auf den großen Bildschirm zu übertragen, nutzen Sie einfach die [Bildschirmsynchronisierung](#airplay-auf-ios) Funktion von AirPlay. Wenn Sie im Videoplayer „Vollbild“ wählen, wechselt das EZCast Pro Gerät in einen Vollbildmodus. Das Endgerät zeigt "Mit AirPlay verbunden" und das Video wird im Vollbild auf den großen Bildschirm gestreamt:
 
 ![](/assets/img/ipad.video.stream.png)
 

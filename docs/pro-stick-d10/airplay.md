@@ -19,7 +19,7 @@ Der EZCast Pro Stick II ermöglicht es bis zu vier macOS und iOS-Geräten, über
 
 Standardmäßig ist AirPlay auf EZCast Pro II-Geräten aktiviert. Sollten Sie die Funktion jedoch erneut aktivieren wollen, finden Sie die entsprechende Option `AirPlay` unter [Erweiterte Einstellungen](adv.settings.md#AirPlayMode):
 
-![](/assets/img/ezcastpro.II.EZAir_enable.png)
+![](/assets/img/ezcastpro.II.AirPlay.Settings.png)
 
 ## AirPlay auf iOS
 
@@ -59,7 +59,7 @@ Wählen Sie das gewünschte EZCast Pro Gerät in der Liste aus. Wenn es nicht an
 
 ## Video-Streamen aktivieren
 
-Sie möchten ein Video aus dem Internet mit Ihrem iPad (4:3 Bildformat) auf einen 16:9 Full-HD Bildschirm ruckelfrei ohne schwarze Ränder abspielen? Für das beste Videostreaming-Erlebnis empfehlen wir das Aktivieren der Funktion **Spiegeln + Video streamen**:
+Sie möchten ein Video aus dem Internet mit Ihrem iPad (4:3 Bildformat) auf einen 16:9 Full-HD Bildschirm ruckelfrei und ohne schwarze Ränder abspielen? Für das beste Videostreaming-Erlebnis empfehlen wir das Aktivieren der Funktion **Spiegeln + Video streamen**:
 
 * Diese Funktion ist unter [Gerätemanagement -> AirPlay-Modus](adv.settings.md#AirPlayMode) zu finden:
 
@@ -75,7 +75,7 @@ Die Funktion `Spiegeln + Video streamen` benötigt die Firmware-Version `1.13781
 
     Das Aktivieren der Funktion **Spiegeln + Video-Streamen** wird nach einem Neustart des EZCast Pro Gerätes wirksam.
 	
-Um ein Video im Vollbild auf den großen Bildschirm zu übertragen, nutzen Sie einfach die Bildschirmsynchronisierung Funktion von AirPlay. Wenn Sie im Videoplayer „Vollbild“ wählen, wechselt das EZCast Pro Gerät in einen Vollbildmodus. Das Endgerät zeigt "Mit AirPlay verbunden" und das Video wird im Vollbild auf den großen Bildschirm gestreamt:
+Um ein Video im Vollbild auf den großen Bildschirm zu übertragen, nutzen Sie einfach die [Bildschirmsynchronisierung](#airplay-auf-ios) Funktion von AirPlay. Wenn Sie im Videoplayer „Vollbild“ wählen, wechselt das EZCast Pro Gerät in einen Vollbildmodus. Das Endgerät zeigt "Mit AirPlay verbunden" und das Video wird im Vollbild auf den großen Bildschirm gestreamt:
 
 ![](/assets/img/ipad.video.stream.png)
 
