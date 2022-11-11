@@ -72,6 +72,7 @@ Firmware-Version: [1.13781.66](whatsnew.md#ezcast-pro-stick-ii-firmware-11378166
 **Gerätemanagement**
 
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
+* [AirPlay-Modus](adv.settings.md#AirPlayMode): `Spiegeln + Video streamen`
 * [AirView](adv.settings.md#AirView): `EIN`
 * [Castcode](adv.settings.md#Castcode): `Zufällig`
 * [Miracast Pin-Code](adv.settings.md#Miracast): `EIN`

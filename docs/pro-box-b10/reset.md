@@ -75,6 +75,7 @@ Firmware-Version: [1.13781.65](whatsnew.md#ezcast-pro-box-ii-firmware-11378165)
 **Gerätemanagement**
 
 * [Sprache](adv.settings.md#Sprache): `DEUTSCH`
+* [AirPlay-Modus](adv.settings.md#AirPlayMode): `Spiegeln + Video streamen`
 * [AirView](adv.settings.md#AirView): `EIN`
 * [Castcode](adv.settings.md#Castcode): `Zufällig`
 * [Miracast Pin-Code](adv.settings.md#Miracast): `EIN`
