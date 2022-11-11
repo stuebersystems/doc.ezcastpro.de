@@ -21,6 +21,8 @@ Standardmäßig ist AirPlay auf EZCast Pro II-Geräten aktiviert. Sollten Sie di
 
 ![](/assets/img/ezcastpro.II.AirPlay.Settings.png)
 
+Eine umfassende Anleitung zur Verwendung von **AirPlay PIN** finden Sie [hier](securitycodes.md/#airplay-pin):
+
 ## AirPlay auf iOS
 
 Um Ihren iOS-Bildschirm zu übertragen, verbinden Sie Ihr Gerät mit demselben WLAN-Netzwerk wie EZCast Pro. Die SSID und das Kennwort von EZCast Pro werden oben auf der Startseite angezeigt:
