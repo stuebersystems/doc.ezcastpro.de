@@ -49,7 +49,7 @@ Sie haben die Wahl: Installieren Sie entweder einfach die neueste Firmware oder 
 
 * Um den EZCast Pro Stick II in den Update-Modus zu setzen, drücken und **halten** Sie die Reset-Taste. Schließen Sie anschließend das USB Typ C Kabel mit Ihrem Windows PC an. Nach fünf Sekunden lassen Sie die Reset-Taste los.
 
-![EZCast Pro Stick II in den Update-Modus setzen](/assets/img/ProII-Press-Reset-Button.jpg)
+![EZCast Pro Stick II in den Update-Modus setzen](/assets/img/ProII-Press-Reset-Button.png)
 
 Wenn der Treiber richtig installiert ist und der EZCast Pro Stick II angeschlossen ist, sollte das Gerät **„Realtek generic USB Device“** im Geräte-Manager erscheinen. Wenn nicht, überprüfen Sie die Treiber-Installation, Kabel-Konfiguration, und den Update-Modus, wie im vorherigen Schritt beschrieben.
 
