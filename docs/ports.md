@@ -4,8 +4,8 @@ In den folgenden Tabelle sind die von EZCast Pro verwendeten Anschlüsse aufgef�
 
 ## Verwendete Anschlüsse
 
-Port | Typ | Tx / Rx | Beschreibung                
-| :---- | :--- | :---- | :---
+Port | Typ | Tx / Rx | Beschreibung |                 
+| :---- | :--- | :---- | :--- | 
 53 | TCP  | Rx | DNS server    
 53 | UDP  | Rx | ChromeCast
 67 | UDP  | Tx | DHCP server
