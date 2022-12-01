@@ -166,6 +166,7 @@ nav:
         - DxDiag-Bericht erstellen: pro-box-b10/dxdiag.md  
         - Einstellungen zurücksetzen: pro-box-b10/reset.md
         - Firmware neu installieren: pro-box-b10/firmware-reinstall.md  
+        - Leistungstest durchführen: pro-box-b10/performancetest.md
         - Logdatei herunterladen: pro-box-b10/logfile.md
         - Projizieren auf diesen PC: pro-box-b10/project2PC.md 
 - CMS: 
