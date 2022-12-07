@@ -1,24 +1,24 @@
 # Erweiterte Einstellungen
 
-Mit der Funktion `Erweiterte Einstellungen` können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Box II bequem per Fernzugriff anpassen. Um die Erweiterte Einstellungen zu erreichen, stellen Sie sicher, dass Sie die [Software bzw. die App installiert haben](quickstart.md) und mit Ihrer EZCast Pro Box II verbunden sind.
+Mit der Funktion `Erweiterte Einstellungen` können Sie die Firmware aktualisieren und viele Einstellungen der EZCast Pro Box II bequem per Fernzugriff anpassen.
 
-Rufen Sie die Software bzw. die App `EZCastPro`auf Ihrem Gerät auf.
+## Erweiterte Einstellungen öffnen
 
-* Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
+* Verbinden Sie Ihr Endgerät mit dem EZCast Pro II Gerät, entweder mit der SSID des EZCast Pro II Gerätes oder mit derselben WLAN- bzw. LAN-Infrastruktur, mit welcher das EZCast Pro II Gerät verbunden ist:
 
-![](/assets/img/Win-App-Advanced-Settings.png)
+![](/assets/img/proII.network.connect.png)
 
-* Auf iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
+* Geben Sie die IP-Adresse Ihres EZCast Pro Gerätes in einem beliebigen Webbrowser ein, die unten links auf der Startseite angezeigt wird:
 
-![](/assets/img/iOS_adv-settings.png)
+![](/assets/img/proII_IP.connect.png)
 
-## Anmeldung
+## Sich als Admin anmelden
 
-Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird, setzen Sie das Gerät per [Reset-Schalter](reset.md#hardreset) zurück.
+* Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#hardreset) zurück.
 
 ![](/assets/img/EZCastII_Login.png)
 
-Während der ersten Anmeldung, müssen Sie das Admin-Kennwort ändern. Danach müssen Sie sich noch einmal anmelden.
+* Während der ersten Anmeldung, müssen Sie das Admin-Kennwort ändern. Danach müssen Sie sich noch einmal anmelden.
 
 ![](/assets/img/new_password.png)
 

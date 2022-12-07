@@ -18,19 +18,15 @@ Mit dem Verfahren **Debug Over IP** werden die Debug-Informationen über Ihre Ne
 
 Dabei müssen Sie den `Engineer Mode` aktivieren und die Funktion `Download Debug Log` wählen. Mit Hilfe der Funktion **Erweiterte Einstellungen** können Sie sich anmelden und mit einem beliebigen Webbrowser die Logdatei herunterladen.
 
-### Erweiterte Einstellungen öffnen 
+### Erweiterte Einstellungen öffnen
 
-* Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
+* Verbinden Sie Ihr Endgerät mit dem EZCast Pro II Gerät, entweder mit der SSID des EZCast Pro II Gerätes oder mit derselben WLAN- bzw. LAN-Infrastruktur, mit welcher das EZCast Pro II Gerät verbunden ist:
 
-![](/assets/img/ProIIDongle_IP.png)
+![](/assets/img/proII.network.connect.png)
 
-* Rufen Sie nun Ihren Web-Browser auf.
+* Geben Sie die IP-Adresse Ihres EZCast Pro Gerätes in einem beliebigen Webbrowser ein, die unten links auf der Startseite angezeigt wird:
 
-![](/assets/img/Google_Chrome.png)
-
-* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des EZCast Pro Gerätes ein.
-
-![](/assets/img/IP-Address.png)
+![](/assets/img/proII_IP.connect.png)
 
 ### Sich als Admin anmelden
 

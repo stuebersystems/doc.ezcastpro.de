@@ -16,23 +16,15 @@ In der App für iOS/Android können Sie die Bezeichnung Ihrer Rolle einsehen, in
 
 ## Wie lege ich den Host fest?
 
-Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie Funktion Festgelegter Host einstellen.
-
 ### Erweiterte Einstellungen öffnen
 
-* Rufen Sie die Software `EZCastPro`auf Ihrem Gerät auf und wählen Sie die Pro Box II aus der Geräteliste aus.
+* Verbinden Sie Ihr Endgerät mit dem EZCast Pro II Gerät, entweder mit der SSID des EZCast Pro II Gerätes oder mit derselben WLAN- bzw. LAN-Infrastruktur, mit welcher das EZCast Pro II Gerät verbunden ist:
 
-* Auf Windows/macOS wählen Sie `Erweiterte Einstellungen`.
+![](/assets/img/proII.network.connect.png)
 
-![](/assets/img/Win-App-Advanced-Settings.png)
+* Geben Sie die IP-Adresse Ihres EZCast Pro Gerätes in einem beliebigen Webbrowser ein, die unten links auf der Startseite angezeigt wird:
 
-* Auf iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
-
-![](/assets/img/iOS_adv-settings.png)
-
-* Geben Sie die IP-Adresse Ihres EZCast Pro Gerätes in einem beliebigen Webbrowser ein, die unter links auf der Startseite angezeigt wird:
-
-![](/assets/img/ProDongleII_connected_to_router.png)
+![](/assets/img/proII_IP.connect.png)
 
 ### Sich als Admin anmelden
 

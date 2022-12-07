@@ -71,23 +71,15 @@ Wenn Sie nur Streamingprotokolle zulassen möchten, die einen Sicherheitscode un
 
 ## Wie genau aktiviert man einen Sicherheitscode?
 
-Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware), in der App für [Android und iOS](quickstart.md#InstallApp), oder in einem Webbrowser können Sie einen Sicherheitscode aktivieren.
-
 ### Erweiterte Einstellungen öffnen
 
-* Rufen Sie die Software `EZCastPro` auf Ihrem Gerät auf und wählen Sie Ihr EZCast Pro Gerät aus der Geräteliste aus.
+* Verbinden Sie Ihr Endgerät mit dem EZCast Pro II Gerät, entweder mit der SSID des EZCast Pro II Gerätes oder mit derselben WLAN- bzw. LAN-Infrastruktur, mit welcher das EZCast Pro II Gerät verbunden ist:
 
-* Unter Windows/macOS wählen Sie `Erweiterte Einstellungen`.
-
-![](/assets/img/Win-App-Advanced-Settings.png)
-
-* Unter iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
-
-![](/assets/img/iOS_adv-settings.png)
+![](/assets/img/proII.network.connect.png)
 
 * Geben Sie die IP-Adresse Ihres EZCast Pro Gerätes in einem beliebigen Webbrowser ein, die unten links auf der Startseite angezeigt wird:
 
-![](/assets/img/ProDongleII_connected_to_router.png)
+![](/assets/img/proII_IP.connect.png)
 
 ### Sich als Admin anmelden
 
