@@ -58,7 +58,6 @@ Für den EZCast Pro Stick II wird eine Internet-Verbindung in folgenden Fällen 
 
 ![](/assets/img/ProDongleII_connected_to_router.png)
 
-
 !!! info "Hinweis"
 
     Eine Miracast-Verbindung mit dem EZCast Pro Stick II wird als zusätzliche WLAN-Verbindung nur zur Übertragung des Bildschirms ausgebaut. Für die Internetinhalte verwendet das Endgerät die bisherige bzw. die zuletzt verbundene WLAN/LAN Internetverbindung oder es nutzt den mobilen Datenzugang eines Providers. Weitere Informationen zu Miracast [finden Sie hier](miracast.md).

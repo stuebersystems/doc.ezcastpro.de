@@ -72,6 +72,10 @@ Schließen Sie dazu ein Netzwerkkabel in den `ETHERNET` Anschluss an der Rückse
 
 ![](/assets/img/ProDongleII_connected_to_router.png)
 
+!!! info "Hinweis"
+
+    Eine Miracast-Verbindung mit der EZCast Pro Box II wird als zusätzliche WLAN-Verbindung nur zur Übertragung des Bildschirms ausgebaut. Für die Internetinhalte verwendet das Endgerät die bisherige bzw. die zuletzt verbundene WLAN/LAN Internetverbindung oder es nutzt den mobilen Datenzugang eines Providers. Weitere Informationen zu Miracast [finden Sie hier](miracast.md).
+	
 ## Problembehandlung
 
 ### Internet-Router-Signalstärke
