@@ -317,7 +317,7 @@ Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Erste
 
 ##### Direkte Verbindung
 
-Sie verbinden Ihr Endgerät z.B. ein iPad mit dem Hotspot des EZCast Pro Gerätes über die auf dem Bildschirm angezeigte SSID. Inhalte vom Internet werden im zweiten Schritt von Ihrem [Access Point](internet.md) an Ihr Endgerät übermittelt. Dies bietet im Prinzip die beste Bandbreite zwischen Ihrem Endgerät und dem EZCast Pro Gerät, wenn die Entfernung zum Access Point sehr groß ist. Bei der Direkte Verbindung muss der Anwender vom bisherigen Netzwerk auf die SSID des EZCast Pro Gerätes wechseln.
+Sie verbinden Ihr Endgerät z.B. ein iPad mit dem Hotspot des EZCast Pro Gerätes über die auf dem Bildschirm angezeigte SSID. Inhalte vom Internet werden im zweiten Schritt von Ihrem [WLAN/LAN](connect.wifi.lan.md) an Ihr Endgerät übermittelt. Dies bietet im Prinzip die beste Bandbreite zwischen Ihrem Endgerät und dem EZCast Pro Gerät, wenn die Entfernung zum Access Point sehr groß ist. Bei der Direkte Verbindung muss der Anwender vom bisherigen Netzwerk auf die SSID des EZCast Pro Gerätes wechseln.
 
 ![](/assets/img/Direct.Connection.B10.png)
 	
@@ -329,7 +329,7 @@ Die Zugangsdaten SSID und Kennwort der Direkte Verbindung werden oben auf der St
 
 ##### Über Router
 
-Das EZCast Pro Gerät wird vom Administrator über die Funktion [Internetzugang](internet.md) mit Ihrem Access Point verbunden. Inhalte vom Internet werden im ersten Schritt von Ihrer Netzwerkinfrastruktur an Ihr Endgerät übermittelt. Im zweiten Schritt verbinden Sie Ihr Endgerät z.B. ein iPad mit dem EZCast Pro Gerät. Bei dieser Schnittstelle muss der Anwender auf kein anderes Netzwerk wechseln.
+Das EZCast Pro Gerät wird vom Administrator mit dem [WLAN/LAN](connect.wifi.lan.md) verbunden. Inhalte vom Internet werden im ersten Schritt von Ihrer Netzwerkinfrastruktur an Ihr Endgerät übermittelt. Im zweiten Schritt verbinden Sie Ihr Endgerät z.B. ein iPad mit dem EZCast Pro Gerät. Bei dieser Schnittstelle muss der Anwender auf kein anderes Netzwerk wechseln.
 
 ![](/assets/img/Via.Router.B10.png)
 	

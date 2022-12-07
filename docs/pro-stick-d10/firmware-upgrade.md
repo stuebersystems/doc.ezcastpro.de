@@ -6,7 +6,7 @@ Um von den neuesten Funktionen des EZCast Pro Stick II zu profitieren, können S
 
 ![](/assets/img/ProII_fw.upgrade.available.png)
 
-Wenn Ihr EZCast Pro Stick II nicht mit dem Internet verbunden ist, [klicken Sie bitte hier](internet.md) und folgen Sie der entsprechenden Anleitung.
+Wenn Ihr EZCast Pro Stick II nicht mit dem Internet verbunden ist, prüfen Sie das [WLAN](connect.wifi.md).
 
 ## Firmware per Web-Oberfläche aktualisieren
 
