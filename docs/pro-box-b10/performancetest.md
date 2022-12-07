@@ -1,6 +1,6 @@
 # Leistungstest durchführen
 
-Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres Gerätes durchführen. Unter normalen Bedienungen beim Testen sollte der QuattroPod die Bildschirmübertragung eines Videos mindestens 6 Stunden ohne Probleme leisten können. Zu diesem Test benötigen Sie folgende Geräte:
+Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres Gerätes durchführen. Unter normalen Bedienungen beim Testen sollte das EZCast Pro Gerät die Bildschirmübertragung eines Videos mindestens 6 Stunden ohne Probleme leisten können. Zu diesem Test benötigen Sie folgende Geräte:
 
 * Einen Windows-Notebook, der am Stromnetz angeschlossen ist.
 
