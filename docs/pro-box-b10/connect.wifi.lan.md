@@ -1,40 +1,34 @@
-# Internetzugang
+# Mit WLAN/LAN verbinden
 
-## Wozu braucht die EZCast Pro Box II einen Internetzugang?
+Sie haben die Möglichkeit die EZCast Pro Box II mit Ihrer Netzwerkinfrastruktur  entweder drahtlos per WLAN oder per LAN-Kabel zu verbinden.
+
+## Warum soll man das EZCast Pro II Gerät mit WLAN/LAN verbinden?
 
 Für die EZCast Pro Box II wird eine Internet-Verbindung in folgenden Fällen benötigt:
 
-* Sie sind mit der Pro Box II per [Apple AirPlay](airplay.md), [Google Cast](googlecast.md) oder die EZCast Pro [Software bzw. die App](ezcastproapp.md) verbunden und möchten Inhalte vom Internet präsentieren.
+* Sie sind mit der EZCast Pro Box II per [Apple AirPlay](airplay.md), [Google Cast](googlecast.md) oder die EZCast Pro [Software bzw. die App](ezcastproapp.md) verbunden und möchten **Inhalte vom Internet** präsentieren.
 
-* Sie möchten die Pro Box II auf die neueste Firmware-Version [aktualisieren](firmware-upgrade.md).
+* Sie möchten die EZCast Pro Box II auf die **neueste Firmware-Version** [aktualisieren](firmware-upgrade.md).
 
-* Sie möchten per Fernzugriff auf die Funktion [Erweiterte Einstellungen](adv.settings.md) zugreifen, um die EZCast Pro Box II zu verwalten.
+* Sie möchten per **Fernzugriff** auf die Funktion [Erweiterte Einstellungen](adv.settings.md) zugreifen, um die EZCast Pro Box II zu verwalten.
   
-* Integriertes Netzwerk: Wenn alle Ihre Endgeräte und EZCast Pro-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des EZCast Pro zu wechseln, wenn Sie Ihren Bildschirm in einen anderen Raum übertragen möchten.
+* **Integriertes Netzwerk:** Wenn alle Ihre Endgeräte und EZCast Pro-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des EZCast Pro zu wechseln, wenn Sie Ihren Bildschirm in einen anderen Raum übertragen möchten.
 
-!!! info "Hinweis"
+## EZCast Pro II mit WLAN verbinden
 
-    Eine Miracast-Verbindung mit der EZCast Pro Box II wird als zusätzliche WLAN-Verbindung nur zur Übertragung des Bildschirms ausgebaut. Für die Internetinhalte verwendet das Endgerät die bisherige bzw. die zuletzt verbundene WLAN/LAN Internetverbindung oder es nutzt den mobilen Datenzugang eines Providers. Weitere Informationen zu Miracast [finden Sie hier](miracast.md).
-
-## EZCast Pro Box II mit WLAN verbinden
-
-Mit Hilfe der Funktion Erweiterte Einstellungen in der `EZCastPro` Software für [Windows und macOS](quickstart.md#InstallSoftware) oder in der App für [Android und iOS](quickstart.md#InstallApp) können Sie Ihr EZCast Pro Gerät mit Ihrem WLAN vebinden.
+!!! tip "Bitte beachten"
+    
+	Wenn das EZCast Pro Gerät im Standardmodus läuft, empfehlen wir das EZCast Pro Gerät nicht mit einer Dual-Band 2,4Ghz/5Ghz SSID zu verbinden, sondern mit einer dedizierten SSID, die auf das 5Ghz-Band eingeschränkt ist. Wenn das EZCast Pro Gerät im [Legacymodus](adv.settings.md#legacymode) läuft, verbinden Sie das EZCast Pro Gerät mit einer dedizierten 2,4Ghz-Band SSID.
 
 ### Erweiterte Einstellungen öffnen
 
-* Rufen Sie die App bzw. die Software `EZCastPro` auf Ihrem Gerät auf und wählen Sie die Pro Box II aus der Geräteliste aus.
+* Verbinden Sie Ihr Endgerät mit der SSID des EZCast Pro II Gerätes. Die Zugangsdaten werden oben auf der Startseite angezeigt:
 
-* Auf Windows/macOS wählen Sie `Erweiterte Einstellungen` unten links:
+![](/assets/img/proII.direct.connect.png)
 
-![](/assets/img/Win-App-Advanced-Settings.png)
+* In die Adressleiste eines Webbrowsers geben Sie die IP-Adresse des EZCast Pro Gerätes mit der Bezeichnung `Direct Link IP` **192.168.168.1** ein. Die Einstellungsoberfläche des EZCast Pro Gerätes erscheint:
 
-* Auf iOS/Android wählen Sie die Schaltfläche `Einstellungen` oben links, anschließend tippen Sie auf `Erweiterte`:
-
-![](/assets/img/iOS_adv-settings.png)
-
-* Geben Sie die IP-Adresse Ihres EZCast Pro Gerätes in einem beliebigen Webbrowser ein, die unter links auf der Startseite angezeigt wird:
-
-![](/assets/img/ProDongleII_connected_to_router.png)
+![](/assets/img/proII_directIP.connect.png)
 
 ### Sich als Admin anmelden
 
@@ -82,7 +76,7 @@ Schließen Sie dazu ein Netzwerkkabel in den `ETHERNET` Anschluss an der Rückse
 
 ### Internet-Router-Signalstärke
 
-Die EZCast Pro Box II hat eine Funkreichweite (Sichtlinie) von bis zu 30m. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen der Box und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit dem Stick über Ihre Infrastruktur verbinden.
+Die EZCast Pro Box II hat eine Funkreichweite (Sichtlinie) von bis zu 30m. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen der Box und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit der Box über Ihre Infrastruktur verbinden.
 
 Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 

@@ -125,7 +125,7 @@ nav:
         - Unbeaufsichtigte Installation: pro-stick-d10/proapp-silentinstall.md
     - EZCastPro App/Software: pro-stick-d10/ezcastproapp.md     
     - Firmware aktualisieren: pro-stick-d10/firmware-upgrade.md
-    - Internetzugang: pro-stick-d10/internet.md
+    - Mit WLAN verbinden: pro-stick-d10/connect.wifi.md
     - Problembehandlung:  
         - DxDiag-Bericht erstellen: pro-stick-d10/dxdiag.md    
         - Einstellungen zurücksetzen: pro-stick-d10/reset.md
@@ -162,7 +162,7 @@ nav:
         - Unbeaufsichtigte Installation: pro-box-b10/proapp-silentinstall.md
     - EZCastPro App/Software: pro-box-b10/ezcastproapp.md        
     - Firmware aktualisieren: pro-box-b10/firmware-upgrade.md
-    - Internetzugang: pro-box-b10/internet.md
+    - Mit WLAN/LAN verbinden: pro-box-b10/connect.wifi.lan.md
     - Problembehandlung: 
         - DxDiag-Bericht erstellen: pro-box-b10/dxdiag.md  
         - Einstellungen zurücksetzen: pro-box-b10/reset.md
