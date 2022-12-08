@@ -381,4 +381,4 @@ Nutzen Sie diese Option, um die Pro Box neu zu starten.
 
 Nutzen Sie diese Option, um eine Übersicht der Pro Box z.B. Firmware-Version, IP-Adresse sowie Daten zum WLAN zu erhalten.
 
-![](/assets/img/D10.about_stick.png)
+![](/assets/img/B10.about.png)
