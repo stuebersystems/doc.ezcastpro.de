@@ -1,12 +1,12 @@
 # WLAN-Umgebung scannen
 
-Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns einige Informationen zu Ihrem QuattroPod-Empfänger und Ihrer WLAN-Umgebung zukommen lassen, damit wir Ihre Anfrage besser beantworten können:
+Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns einige Informationen zu Ihrem EZCast Pro Gerät und Ihrer WLAN-Umgebung zukommen lassen, damit wir Ihre Anfrage besser beantworten können:
 
 Wir bitten um folgende Screenshots:
 
-* [Über das Gerät](#about) - Die Übersicht des QuattroPods, wo alle Netzwerkinformationen des Gerätes zu finden sind.
+* [Über das Gerät](#about) - Die Übersicht des EZCast Pro Gerätes, wo alle Netzwerkinformationen des Gerätes zu finden sind.
 
-* [WiFi Analyzer](#wifianalyzer) - Mithilfe einer kostenlosen App/Software senden Sie uns eine Ansicht der WLAN-Umgebung, wo die Kanäle des QuattroPods und Ihres WLANs zu sehen sind.
+* [WiFi Analyzer](#wifianalyzer) - Mithilfe einer kostenlosen App/Software senden Sie uns eine Ansicht der WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind.
 
 ## EZCast Pro - Über das Gerät {#about}
 
@@ -16,7 +16,7 @@ Wir bitten um folgende Screenshots:
 	
 Wir bitten Sie um ein Screenshot der unten stehenden Ansicht, wo alle Netzwerkinformationen des EZCast Pro Gerätes zu finden sind:
 
-![](/assets/img/About.notx.png)
+![](/assets/img/D10.about_stick.png)
 
 Um diese Ansicht zu erreichen, folgen Sie bitte den folgenden Schritten:
 
@@ -40,19 +40,19 @@ Um diese Ansicht zu erreichen, folgen Sie bitte den folgenden Schritten:
 
 * Aus dem Hauptmenü wählen Sie den Punkt `Über das Gerät`. Die folgende Geräteübericht wird angezeigt. Bitte lassen Sie uns ein Screenshot dieser Ansicht zukommen:
 
-![](/assets/img/mainmenu.aboutdevice.png)
+![](/assets/img/ezcastpro.II.select.aboutdevice.png)
 
-Wir bitten Sie um ein Screenshot der unten stehenden Ansicht, wo alle Netzwerkinformationen des QuattroPods zu finden sind:
+Wir bitten Sie um ein Screenshot der unten stehenden Ansicht, wo alle Netzwerkinformationen des EZCast Pro Gerätes zu finden sind:
 
 ![](/assets/img/D10.about_stick.png)
 
 ## WiFi-Analyzer {#wifianalyzer}
 
-Mithilfe einer kostenlosen App/Software senden Sie uns ein Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des QuattroPods und Ihres WLANs zu sehen sind. 
+Mithilfe einer kostenlosen App/Software senden Sie uns ein Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind. 
 
 !!! tip "Bitte beachten"
 	
-	Sie müssen unbedingt in der Nähe des QuattroPods stehen, wenn die App/Software ausführen.
+	Sie müssen unbedingt in der Nähe des EZCast Pro Gerätes stehen, wenn die App/Software ausführen.
     
 * [Windows - Easy to use WiFi Analyzer](#wifi.analyzer.windows)
 
@@ -68,7 +68,7 @@ Mithilfe einer kostenlosen App/Software senden Sie uns ein Screenshot Ihrer WLAN
 
 ![](/assets/img/wifi.analyzer.sortbysignal.strength.png)
 
-* Im unten stehenden Beispiel ist der QuattroPod `DIRECT-QP_Schulungsraum` mit der WLAN-Infrastruktur `z-stueber-guest-EG-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
+* Im unten stehenden Beispiel ist das EZCast Pro Gerät `DIRECT-Pro 2 D10_BF8E0C84` mit der WLAN-Infrastruktur `stueber-guest-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
 
 ![](/assets/img/wifi.analyzer.windows.png)
 
