@@ -24,7 +24,7 @@ Für den EZCast Pro Stick II wird eine Internet-Verbindung in folgenden Fällen 
 
 * Verbinden Sie Ihr Endgerät mit der SSID des EZCast Pro II Gerätes. Die Zugangsdaten werden oben auf der Startseite angezeigt:
 
-![](/assets/img/proII.network.connect.png)
+![](/assets/img/proII.direct.connect.png)
 
 * In die Adressleiste eines Webbrowsers geben Sie die IP-Adresse des EZCast Pro Gerätes mit der Bezeichnung `Direct Link IP` **192.168.168.1** ein. Die Einstellungsoberfläche des EZCast Pro Gerätes erscheint:
 
