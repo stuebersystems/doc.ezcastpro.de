@@ -52,7 +52,7 @@ Mithilfe einer kostenlosen App/Software senden Sie uns ein Screenshot Ihrer WLAN
 
 !!! tip "Bitte beachten"
 	
-	Sie müssen unbedingt in der Nähe des EZCast Pro Gerätes stehen, wenn die App/Software ausführen.
+	Sie müssen unbedingt in der Nähe des EZCast Pro Gerätes stehen, wenn Sie die App/Software ausführen.
     
 * [Windows - Easy to use WiFi Analyzer](#wifi.analyzer.windows)
 
