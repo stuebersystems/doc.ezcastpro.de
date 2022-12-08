@@ -130,10 +130,11 @@ nav:
         - DxDiag-Bericht erstellen: pro-stick-d10/dxdiag.md    
         - Einstellungen zurücksetzen: pro-stick-d10/reset.md
         - Firmware neu installieren: pro-stick-d10/firmware-reinstall.md
-        - Mit Hotspot verbinden: pro-stick-d10/hotspot.md
         - Leistungstest durchführen: pro-stick-d10/performancetest.md
         - Logdatei herunterladen: pro-stick-d10/logfile.md
+        - Mit Hotspot verbinden: pro-stick-d10/hotspot.md
         - Projizieren auf diesen PC: pro-stick-d10/project2PC.md
+        - WLAN-Umgebung scannen: pro-stick-d10/wifi.environment.md
 - Pro Box II: 
     - Überblick: pro-box-b10/intro.md
     - Schnellstartanleitung: pro-box-b10/quickstart.md
@@ -166,10 +167,12 @@ nav:
     - Problembehandlung: 
         - DxDiag-Bericht erstellen: pro-box-b10/dxdiag.md  
         - Einstellungen zurücksetzen: pro-box-b10/reset.md
-        - Firmware neu installieren: pro-box-b10/firmware-reinstall.md  
+        - Firmware neu installieren: pro-box-b10/firmware-reinstall.md
         - Leistungstest durchführen: pro-box-b10/performancetest.md
         - Logdatei herunterladen: pro-box-b10/logfile.md
-        - Projizieren auf diesen PC: pro-box-b10/project2PC.md 
+        - Mit Hotspot verbinden: pro-box-b10/hotspot.md
+        - Projizieren auf diesen PC: pro-box-b10/project2PC.md
+        - WLAN-Umgebung scannen: pro-stick-d10/wifi.environment.md
 - CMS: 
     - Einführung: cms.md
 - Ältere Modelle: 

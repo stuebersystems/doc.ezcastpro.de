@@ -25,7 +25,7 @@ ProCast ist eine Übertragung vom einem Bildschirm auf mehrere Displays z.B. von
 
 * [Schließen Sie](quickstart.md#Connect_ProIIStick) die EZCast Pro Box II an jedem Display an, auf das Sie übertragen möchten.
 
-* Der Computer von dem Sie übertragen, sowie alle EZCast Pro Box II müssen sich im gleichen Netzwerk befinden, indem Sie die Box mit Ihrem [Router](internet.md) verbinden.
+* Der Computer von dem Sie übertragen, sowie alle EZCast Pro Geräte müssen sich im gleichen Netzwerk befinden, indem Sie das [WLAN/LAN](connect.wifi.lan.md) verbinden.
 
 ### Software installieren {#InstallSoftware}
 

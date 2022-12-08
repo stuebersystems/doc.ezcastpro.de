@@ -6,7 +6,7 @@ Um von den neuesten Funktionen der EZCast Pro Box II zu profitieren, können Sie
 
 ![](/assets/img/ProII_fw.upgrade.available.png)
 
-Wenn Ihre EZCast Pro Box II nicht mit dem Internet verbunden ist, [klicken Sie bitte hier](internet.md) und folgen Sie der entsprechenden Anleitung.
+Wenn Ihre EZCast Pro Box II nicht mit dem Internet verbunden ist, prüfen Sie das [WLAN/LAN](connect.wifi.lan.md).
 
 ## Firmware per Web-Oberfläche aktualisieren
 

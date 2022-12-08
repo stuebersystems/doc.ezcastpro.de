@@ -49,32 +49,32 @@ Sollte Sie Verbindungsprobleme bzw. Abbrüche mit dem EZCast Gerät über Ihre I
 
 ![](/assets/img/ezcastpro.II.select.connect5ghz.png)
 
-* Verbinden Sie den Pro Stick mit dem Hotspot.
+* Verbinden Sie die Pro Box mit dem Hotspot.
 
 ![](/assets/img/EZCastPro.II.Wifi.Internet.jpg)
 
 !!! tip "Hinweis"
     
-	Bitte beachten: Standardmäßig kann der EZCast Pro Stick II nur mit einem 5GHz WLAN-Router verbunden werden. Sie können jedoch den [Legacy-Modus (2,4 GHz WLAN)](adv.settings.md#legacymode) aktivieren. Für den iOS-Hotspot aktivieren Sie `Kompatibilität maximieren`, für den Android-Hotspot aktivieren Sie unter Bereich `2,4 GHz`.
+	Bitte beachten: Standardmäßig kann die EZCast Pro Box II nur mit einem 5GHz WLAN-Router verbunden werden. Sie können jedoch den [Legacy-Modus (2,4 GHz WLAN)](adv.settings.md#legacymode) aktivieren. Für den iOS-Hotspot aktivieren Sie `Kompatibilität maximieren`, für den Android-Hotspot aktivieren Sie unter Bereich `2,4 GHz`.
 
-* Wenn der EZCast Pro Stick II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+* Wenn die EZCast Pro Box II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
 ![](/assets/img/ProDongleII_connected_to_router.png)
 
 ## Problembehandlung
 
-### Internet-Router-Signalstärke
+### WLAN-Signalstärke
 
-Der EZCast Pro Stick II hat eine Funkreichweite (Sichtlinie) von bis zu 30m aber der Hotspot eines Handys kann bis zu höchstens 10m funkreichweite leisten. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen dem Stick und Ihrem Hotspot. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit dem Stick über Ihre Infrastruktur verbinden.
+Die EZCast Pro Box II hat eine Funkreichweite (Sichtlinie) von bis zu 30m aber der Hotspot eines Handys kann bis zu höchstens 10m funkreichweite leisten. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen der Box und Ihrem Hotspot. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit der Box über Ihre Infrastruktur verbinden.
 
 Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 
-**1. Problem:** Der Abstand zwischen dem EZCast Pro Stick II und dem Hotspot ist zu groß.
+**1. Problem:** Der Abstand zwischen der EZCast Pro Box II und dem Hotspot ist zu groß.
 
 Lösung: Versuchen Sie den Abstand zu reduzieren.
 
-**2. Problem:** Es liegen Wände oder andere Gegenstände zwischen dem EZCast Pro Stick II und dem Hotspot, welche die Signalstärke verschlechtern.
+**2. Problem:** Es liegen Wände oder andere Gegenstände zwischen der EZCast Pro Box II und dem Hotspot, welche die Signalstärke verschlechtern.
 
-Lösung: Stellen Sie sicher, dass der EZCast Pro Stick II keine Hindernisse zum Hotspot.
+Lösung: Stellen Sie sicher, dass die EZCast Pro Box II keine Hindernisse zum Hotspot.
 
 ![](/assets/img/ProII.Internet.Signal.png)

@@ -15,9 +15,9 @@
 | ![](/assets/img/Contents.PowerSupply.png)<br>5V/2A Universal Stromadapter | ![](/assets/img/Contents.QSG.png)<br>Schnellstartanleitung |
 
 
-## EZCast Pro Box II anschließen {#Connect_ProBoxII}
+## Einrichtung {#setup}
 
-Verbinden Sie das EZCast Pro Gerät mit dem HDMI-Eingang Ihres Bildschirms, wie unten abgebildet. Um die EZCast Pro Box II mit einem älteren Beamer mit VGA-Anschluss verbinden zu können, nutzen Sie den mitgelieferten HDMI auf HDMI/VGA-Buchse/Audio 3,5 mm Adapter.
+Schließend Sie das EZCast Pro Gerät an den HDMI-Eingang Ihres Bildschirms an, wie unten abgebildet. Um die EZCast Pro Box II mit einem älteren Beamer mit VGA-Anschluss verbinden zu können, nutzen Sie den mitgelieferten HDMI auf HDMI/VGA-Buchse/Audio 3,5 mm Adapter.
 
 Schließen Sie das Netzteil mit Hilfe des USB-Kabels an. Die EZCast Pro Box II schaltet sich automatisch ein. 
 
@@ -49,7 +49,7 @@ Die Verwendung der kostenlosen App **EZCastPro** bietet sowohl für den Moderato
 
 #### App mit EZCast Pro verbinden
 
-* Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#Connect_ProBoxII) haben, erscheint folgende Startseite auf dem Bildschirm. Verbinden Sie Ihr iOS bzw. Ihr Android Gerät  mit der SSID des EZCast Pro II Gerätes. Die Zugangsdaten werden oben auf der Startseite angezeigt:
+* Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#setup) haben, erscheint folgende Startseite auf dem Bildschirm. Verbinden Sie Ihr iOS bzw. Ihr Android Gerät  mit der SSID des EZCast Pro II Gerätes. Die Zugangsdaten werden oben auf der Startseite angezeigt:
 
 ![](/assets/img/proII.direct.connect.png)
 
@@ -87,7 +87,7 @@ Die Verwendung der kostenlosen Software **EZCastPro** bietet sowohl für den Mod
 
 #### Software mit EZCast Pro verbinden
 
-Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#Connect_ProBoxII) haben, erscheint folgende Startseite auf dem Bildschirm:
+Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#setup) haben, erscheint folgende Startseite auf dem Bildschirm:
 
 ![Die Startseite](/assets/img/B10_landingpage.png)
 
