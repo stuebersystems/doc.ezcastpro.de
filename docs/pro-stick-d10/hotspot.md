@@ -65,16 +65,16 @@ Sollte Sie Verbindungsprobleme bzw. Abbrüche mit dem EZCast Gerät über Ihre I
 
 ### Internet-Router-Signalstärke
 
-Der EZCast Pro Stick II hat eine Funkreichweite (Sichtlinie) von bis zu 10m. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen dem Stick und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit dem Stick über Ihre Infrastruktur verbinden.
+Der EZCast Pro Stick II hat eine Funkreichweite (Sichtlinie) von bis zu 30m aber der Hotspot eines Handys kann bis zu höchstens 10m funkreichweite leisten. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen dem Stick und Ihrem Hotspot. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit dem Stick über Ihre Infrastruktur verbinden.
 
 Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 
-**1. Problem:** Der Abstand zwischen dem EZCast Pro Stick II und dem Router bzw. Wireless-Access-Point ist zu groß.
+**1. Problem:** Der Abstand zwischen dem EZCast Pro Stick II und dem Hotspot ist zu groß.
 
-Lösung: Versuchen Sie den Abstand zu reduzieren oder installieren Sie einen zusätzlichen Wireless-Access-Point.
+Lösung: Versuchen Sie den Abstand zu reduzieren.
 
-**2. Problem:** Es liegen Wände oder andere Gegenstände zwischen dem EZCast Pro Stick II und dem Router bzw. dem Wireless-Access-Point, welche die Signalstärke verschlechtern.
+**2. Problem:** Es liegen Wände oder andere Gegenstände zwischen dem EZCast Pro Stick II und dem Hotspot, welche die Signalstärke verschlechtern.
 
-Lösung: Stellen Sie sicher, dass der EZCast Pro Stick II keine Hindernisse zum Router bzw. zum Access-Point hat. Wenn notwendig, installieren Sie einen zusätzlichen Access-Point.
+Lösung: Stellen Sie sicher, dass der EZCast Pro Stick II keine Hindernisse zum Hotspot.
 
 ![](/assets/img/ProII.Internet.Signal.png)
