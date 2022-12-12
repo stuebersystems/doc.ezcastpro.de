@@ -12,13 +12,13 @@ Die EZCast Pro Box II wird mit einem 5V/2A USB-Netzteil geliefert. Als Ersatztei
 
 #### Das Ersatz Samsung USB-Netzteil (5V/2A)
 
-Das **Samsung Netzteil (5V/2A)** können Sie bei Bedarf über uns erwerben:
+Das **Samsung Netzteil (5V/2A)** können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=ezcastpro):
 
 ![Samsung USB-Netzteil](/assets/img/Samsung.USB-Netzteil.jpg)
 
 ### Stromkabel USB 2.0 Typ A Stecker zu 5,5/2,1 mm 
 
-USB-Stromkabel für den Empfänger kann durch das **USB 2.0 Typ A Stecker zu 5,5/2,1 mm** können Sie bei Bedarf über uns erwerben:
+USB-Stromkabel für den Empfänger kann durch das **USB 2.0 Typ A Stecker zu 5,5/2,1 mm** können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=ezcastpro):
 
 ![USB 2.0 Typ A Stecker zu 5,5/2,1 mm](/assets/img/USB-2.0-TypA-Stecker-to-5.5-2.1mm.jpg)
 
@@ -28,7 +28,7 @@ USB-Stromkabel für den Empfänger kann durch das **USB 2.0 Typ A Stecker zu 5,5
 
 Wenn der Beamer an der Decke hängt und nur das Stromkabel vom Beamer zur Verfügung steht, oder wenn Sie eine Einkabellösung von der Steckdose zum Displaygerät wollen, stellt sich die Frage, wie der Beamer bzw. der Bildschirm und die EZCast Pro Box II gemeinsam mit Strom versorgt werden können.
 
-Mit einem **C14 to C13+Euro Y Type Splitter Adapter** können Sie das Kaltgerätekabel in Euro-Steckdose und C13-Kabel verwandeln. Dies in Kombination mit dem [Netzteil](#powersupply) kann Strom für beide Geräte ermöglichen. Den Y Type Splitter Adapter können Sie bei Bedarf über uns erwerben.
+Mit einem **C14 to C13+Euro Y Type Splitter Adapter** können Sie das Kaltgerätekabel in Euro-Steckdose und C13-Kabel verwandeln. Dies in Kombination mit dem [Netzteil](#powersupply) kann Strom für beide Geräte ermöglichen. Den Y Type Splitter Adapter können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=ezcastpro).
 
 ![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/C14.to.C13undEuroYType-Splitter-Adapter.png)
 
@@ -54,6 +54,6 @@ Den Empfänger kann man mit einem guten Klebeband befestigen, ohne den Bildschir
 
 ### HDMI-Verlängerung (1M)
 
-Mit eine HDMI-Verlängerung können Sie bei großen Displays die Signalstörung vermeiden. Diese können Sie bei Bedarf über uns erwerben:
+Mit eine HDMI-Verlängerung können Sie bei großen Displays die Signalstörung vermeiden. Diese können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=ezcastpro):
 
 ![HDMI-Verlängerung 1M](/assets/img/deleycon.hdmi.extension.jpg)
