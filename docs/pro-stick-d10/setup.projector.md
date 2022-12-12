@@ -4,7 +4,7 @@
 
 !!! tip "Hinweis"
     
-	Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel an einen USB-Anschluss des Sticks an. Kontrollieren Sie bitte die Ausgangsleistung auf dem Typenschild, dass es über den Mindeststrom des EZCast Pro Stick II (5V/1,5A) verfügt:
+	Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel an einen USB-Anschluss des Sticks an. Kontrollieren Sie bitte die Ausgangsleistung auf dem Typenschild, dass es über den Mindeststrom (5V/1,5A) des EZCast Pro Stick II verfügt:
 
 ![USB-Netzteil (5V/2A)](/assets/img/USB-Charger.5V2A.png)
 
@@ -13,7 +13,7 @@
 ### 2x Steckdosen | Netzteil (5V/2A)
 
 * Neben dem Beamer stehen zwei Steckdosen zur Verfügung.
-* Der EZCast Pro Stick II wird mit einem Netzteil (5V/2A) mit Strom versorgt. Dieses [Netzteil]() können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=ezcastpro):
+* Der EZCast Pro Stick II wird mit einem Netzteil (5V/2A) mit Strom versorgt. Dieses Netzteil können Sie bei Bedarf über uns [erwerben](setup-tipps.md#powersupply):
 
 ![)](/assets/img/D10-2xPlugs-ExternalPower.png)
 
