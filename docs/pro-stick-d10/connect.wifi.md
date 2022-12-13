@@ -22,7 +22,7 @@ Für den EZCast Pro Stick II wird eine Internet-Verbindung in folgenden Fällen 
 
 ### Voraussetzungen
 
-Bevor Sie den EZCast Pro Stick II mit Ihrem WLAN verbinden, prüfen Sie bitte die empfohlene Vorausetzungen:
+Bevor Sie den EZCast Pro Stick II mit Ihrem WLAN verbinden, prüfen Sie bitte die empfohlenen Vorausetzungen:
 
 * Access Point unterstützt WLAN-Standard `802.11ac`.
 * Max. 10 Meter Abstand vom Stick zum Access Point.
