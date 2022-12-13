@@ -1,4 +1,4 @@
-# Einrichtung - Projector
+# Einrichtung - Projektor
 
 #### Stromversorgung (5V/1,5A) {#power}
 
@@ -8,11 +8,11 @@
 
 ## Empfohlene Einrichtungen
 
-Welche Einrichtung für Sie am besten geeignet ist, hängt wirklich davon ab, ob a) der Beamer über einen USB-Ladeanschluss verfügt, der den **Mindeststrom 7,5W (5V/1,5A)** liefert, b) neben dem Beamer eine oder zwei Steckdosen zur Verfügung stehen. Wir empfehlen folgende drei Einrichtungen:
+Welche Einrichtung für Sie am besten geeignet ist, hängt wirklich davon ab, ob a) der Projektor über einen USB-Ladeanschluss verfügt, der den **Mindeststrom 7,5W (5V/1,5A)** liefert, b) neben dem Projektor eine oder zwei Steckdosen zur Verfügung stehen. Wir empfehlen folgende drei Einrichtungen:
 
 ### 2x Steckdosen | USB-Ladegerät (5V/2A)
 
-* Neben dem Beamer stehen **zwei Steckdosen** zur Verfügung.
+* Neben dem Projektor stehen **zwei Steckdosen** zur Verfügung.
 * Der EZCast Pro Stick II wird mit einem **USB-Ladegerät (5V/2A)** mit Strom versorgt. Dieses Ladegerät können Sie bei Bedarf über uns [erwerben](setup-tipps.md#powersupply).
 * Die mitgelieferte **HDMI-Verlängerung** wurde angeschlossen
 
@@ -20,14 +20,14 @@ Welche Einrichtung für Sie am besten geeignet ist, hängt wirklich davon ab, ob
 
 ### 1x Steckdose | Splitter-Adapter | USB-Ladegerät (5V/2A) {#splitter}
 
-* Neben dem Beamer steht nur **eine Steckdose** zur Verfügung.
-* Ein **Y Type Splitter-Adapter** ermöglicht eine Euro Buchse fürs USB-Ladegerät und ein Kaltgerätekabel für den Beamer
+* Neben dem Projektor steht nur **eine Steckdose** zur Verfügung.
+* Ein **Y Type Splitter-Adapter** ermöglicht eine Euro Buchse fürs USB-Ladegerät und ein Kaltgerätekabel für den Projektor
 * Der EZCast Pro Stick II wird mit einem **USB-Ladegerät (5V/2A)** mit Strom versorgt. Dieses Ladegerät können Sie bei Bedarf über uns [erwerben](setup-tipps.md#powersupply).
 * Die mitgelieferte **HDMI-Verlängerung** wurde angeschlossen
 
 ![)](/assets/img/D10-1xPlug-Splitter-ExternalPower.png)
 
-### 1x Steckdose | Splitter-Adapter | USB-Ladeanschluss vom Beamer (5V/2A)
+### 1x Steckdose | Splitter-Adapter | USB-Ladeanschluss vom Projektor (5V/2A)
 
 ![)](/assets/img/D10-1xPlug-InternalPower.5V2A.png)
 
@@ -39,7 +39,7 @@ Auch wenn es intuitiv erscheinen mag, den Stick über einen beliebigen USB-Ansch
 
 ![)](/assets/img/D10-1xPlug-InternalPower.500ma.png)
 
-Um zu erfahren, wie Sie sowohl ein USB-Ladegerät als auch einen Beamer über über eine Steckdose unterstützen können, schauen Sie sich unsere [empfohlene Einrichtung](#splitter).
+Um zu erfahren, wie Sie sowohl ein USB-Ladegerät als auch einen Projektor über über eine Steckdose unterstützen können, schauen Sie sich unsere [empfohlene Einrichtung](#splitter).
 
 ### HDMI-Verlängerung wurde nicht angeschlossen
 
