@@ -24,12 +24,12 @@ Für den EZCast Pro Stick II wird eine Internet-Verbindung in folgenden Fällen 
 
 Bevor Sie den EZCast Pro Stick II mit Ihrem WLAN verbinden, prüfen Sie bitte die empfohlene Vorausetzungen:
 
-* Access Point unterstützt WLAN-Standard `802.11ac` im 5GHz-Bereich (Kanäle 36,40,44,48).
+* Access Point unterstützt WLAN-Standard `802.11ac`.
 * Max. 10 Meter Abstand vom Stick zum Access Point.
 * Max. 10 Meter Abstand vom Stick zu den Endgeräten.
 * Access Point liegt im selben Raum wie der Stick.
 * Eine Sichtlinie ohne Gegenstände vom Stick zum Access Point und zu den Endgeräten.
-* Nicht mit einer Dual-Band 2,4Ghz/5Ghz SSID verbinden, sondern mit einer dedizierten SSID, die auf das 5Ghz-Band z.B. `SchulWLAN-5ghz` eingeschränkt ist. 
+* Nicht mit einer Dual-Band 2,4Ghz/5Ghz SSID verbinden, sondern mit einer dedizierten SSID, die auf das 5Ghz-Band im 5GHz-Bereich (Kanäle 36,40,44,48) eingeschränkt ist. 
 
 ![](/assets/img/setup.wifi.png)
 
