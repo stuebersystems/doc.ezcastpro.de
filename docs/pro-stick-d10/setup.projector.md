@@ -2,11 +2,9 @@
 
 #### Stromversorgung (5V/1,5A)
 
-!!! tip "Hinweis"
-    
-	Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel an einen USB-Anschluss des Sticks an. Kontrollieren Sie bitte die Ausgangsleistung auf dem Typenschild, dass es über den Mindeststrom (5V/1,5A) des EZCast Pro Stick II verfügt:
+* Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel an einen USB-Ladeanschluss, der den **Mindeststrom 7,5W (5V/1,5A)** liefert. Verbinden Sie anschließend das USB C Ladekabel mit dem EZCast Pro Stick II. Wenn Ihre Anzeige über keinen USB-Ladeanschluss verfügt, oder **bestehen Zweifel, ob der USB-Ladeanschluss den Mindeststrom unterstützt**, kann ein USB-Ladegerät (5V/2A) bei uns [bestellt](setup-tipps.md#powersupply) werden:
 
-![USB-Netzteil (5V/2A)](/assets/img/USB-Charger.5V2A.png)
+![USB-Netzteil (5V/2A)](/assets/img/connect.power.stick.png)
 
 ## Projector-Einrichtungen
 
