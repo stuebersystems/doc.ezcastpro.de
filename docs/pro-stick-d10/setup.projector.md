@@ -1,6 +1,6 @@
 # Einrichtung - Projector
 
-#### Stromversorgung (5V/1,5A)
+#### Stromversorgung (5V/1,5A) {#power}
 
 * Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel an einen USB-Ladeanschluss, der den **Mindeststrom 7,5W (5V/1,5A)** liefert. Verbinden Sie anschließend das USB C Ladekabel mit dem EZCast Pro Stick II. Wenn Ihre Anzeige über keinen USB-Ladeanschluss verfügt, oder **bestehen Zweifel, ob der USB-Ladeanschluss den Mindeststrom unterstützt**, kann ein USB-Ladegerät (5V/2A) bei uns [bestellt](setup-tipps.md#powersupply) werden:
 
@@ -35,11 +35,14 @@ Welche Einrichtung für Sie am besten geeignet ist, hängt wirklich davon ab, ob
 
 ### Zu wenig Strom am USB-Anschluss
 
+Auch wenn es intuitiv möglich erscheint, den Stick über einen beliebigen USB-Anschluss des Projektors mit Strom zu versorgen, ist große Vorsicht geboten. Ohne eine ausreichende Stromversorgung über den angeschlossenen USB-A-Anschluss (mindestens 5V/1,5) lässt sich der Stick zwar einschalten, wird aber zu Abbrüchen führen. Wenn Sie Zweifel haben, ob Ihr Projektor bzw. Ihr Bildschirm eine ausreichende Stromstärke liefern kann, versuchen Sie bitte, während dieser Fehlersuchphase ein externes [USB-Ladegerät (5V/2A)](#power) an mindestens einem der Sticks zu verwenden. 
+
 ![)](/assets/img/D10-1xPlug-InternalPower.500ma.png)
 
 
 ### HDMI-Verlängerung wurde nicht angeschlossen
 
-* Die Stromversorgung ist zwei in Ordnung aber ohne die HDMI-Verlängerung kann die WLAN-Signalstärke des EZCast Pro Stick II ver
+* Die Stromversorgung ist zwar in Ordnung. Wenn allerdings die HDMI-Verlängerung nicht angeschlossen ist, kann die WLAN-Signalstärke des EZCast Pro Stick II verschlechtet werden. 
+
 ![)](/assets/img/HDMI-extension.not.connected.png)
 
