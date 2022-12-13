@@ -18,7 +18,7 @@ Welche Einrichtung für Sie am besten geeignet ist, hängt wirklich davon ab, ob
 
 ![)](/assets/img/D10-2xPlugs-ExternalPower.png)
 
-### 1x Steckdose | Splitter-Adapter | USB-Ladegerät (5V/2A)
+### 1x Steckdose | Splitter-Adapter | USB-Ladegerät (5V/2A) {#splitter}
 
 * Neben dem Beamer steht nur **eine Steckdose** zur Verfügung.
 * Ein **Y Type Splitter-Adapter** ermöglicht eine Euro Buchse fürs USB-Ladegerät und ein Kaltgerätekabel für den Beamer
@@ -35,10 +35,11 @@ Welche Einrichtung für Sie am besten geeignet ist, hängt wirklich davon ab, ob
 
 ### Zu wenig Strom am USB-Anschluss
 
-Auch wenn es intuitiv möglich erscheint, den Stick über einen beliebigen USB-Anschluss des Projektors mit Strom zu versorgen, ist große Vorsicht geboten. Ohne eine ausreichende Stromversorgung über den angeschlossenen USB-A-Anschluss (mindestens 5V/1,5) lässt sich der Stick zwar einschalten, wird aber zu Abbrüchen führen. Wenn Sie Zweifel haben, ob Ihr Projektor bzw. Ihr Bildschirm eine ausreichende Stromstärke liefern kann, versuchen Sie bitte, während dieser Fehlersuchphase ein externes [USB-Ladegerät (5V/2A)](#power) an mindestens einem der Sticks zu verwenden. 
+Auch wenn es intuitiv erscheinen mag, den Stick über einen beliebigen USB-Anschluss des Projektors mit Strom zu versorgen, ist große Vorsicht geboten. Ohne eine ausreichende Stromversorgung über den angeschlossenen USB-A-Anschluss (mindestens 5V/1,5) lässt sich der Stick zwar einschalten, wird aber zu Abbrüchen führen. Wenn Ihre Anzeige über keinen USB-Ladeanschluss verfügt, oder **bestehen Zweifel, ob der USB-Ladeanschluss den Mindeststrom unterstützt**, bitten wir Sie ein [USB-Ladegerät (5V/2A)](#power) zu benutzen:
 
 ![)](/assets/img/D10-1xPlug-InternalPower.500ma.png)
 
+Um zu erfahren, wie Sie sowohl ein USB-Ladegerät als auch einen Beamer über über eine Steckdose unterstützen können, schauen Sie sich unsere [empfohlene Einrichtung](#splitter).
 
 ### HDMI-Verlängerung wurde nicht angeschlossen
 
