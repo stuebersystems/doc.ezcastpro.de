@@ -1,6 +1,6 @@
 # Von EZCast Pro verwendete Anschlüsse
 
-In den folgenden Tabelle sind die von EZCast Pro verwendeten Anschlüsse aufgeführt. 
+In der folgenden Tabelle sind die von EZCast Pro verwendeten Anschlüsse aufgeführt. Um Konnektivitätsprobleme mit dem EZCast Pro Gerät über Ihre WLAN/LAN-Infrastruktur zu vermeiden, prüfen Sie bitte, ob alle erforderlichen Anschlüsse für EZCast Pro zugelassen sind:
 
 ## Verwendete Anschlüsse
 
