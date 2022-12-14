@@ -37,8 +37,6 @@ Welche Einrichtung für Sie am besten geeignet ist, hängt wirklich davon ab, ob
 
 ### Projektor mit VGA-Anschluss {#hdmi-vga-adapter}
 
-![)](/assets/img/D10-1xPlug-InternalPower.5V2A.png)
-
 Verfügt Ihr Bildschirm bzw. Ihr Beamer über keinen HDMI-, sondern nur einen VGA-Anschluss? Mit diesem [HDMI auf VGA Adapter](https://www.amazon.de/dp/B01GFMW91E?aaxitk=H031EFlH09CVpciz7mx1fA&pd_rd_i=B01GFMW91E&pf_rd_p=737424fe-4e87-4f15-ad17-a88ea0f6f9fe&hsa_cr_id=3885910160902&sb-ci-n=productDescription&sb-ci-v=UGREEN%20HDMI%20auf%20VGA%20Adapter%20HDMI%20Buchse%20zu%20VGA%20Stecker%201080P%20HDTV%20Aktiv%20Audio%20%C3%9Cbertragung%20Konverterkabel%20unterst%C3%BCtzt%20f%C3%BCr%20TV%20Stick) können Sie den EZCast Pro Stick II mit alten Anzeigegeräten benutzen.
 
 ![HDMI auf VGA Adapter](/assets/img/UGREEN_HDMI_auf_VGA_Adapter1.jpg)
