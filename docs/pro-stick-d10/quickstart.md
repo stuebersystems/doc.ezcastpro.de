@@ -21,6 +21,15 @@ Um zu erfahren, genau welche Einrichtung für Sie am besten geeignet ist, lesen 
 
 ![HDMI-Port + externes Netzteil (Min. 5V/1,5A)](/assets/img/D10-1xPlug-InternalPower.5V2A.png)
 
+Beim Einrichten des EZCast Pro Stick II im Raum, prüfen Sie bitte die empfohlenen Voraussetzungen:
+
+* Max. 10 Meter **Abstand** vom **Stick zum Access Point** sowie vom **Stick zu den Endgeräten**. Beim Einrichten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
+* Eine sogenannte **Sichtlinie** vom Stick zum Access Point und zu den Endgeräten mit möglichst wenigen Hindernissen. **Vermeiden Sie Gegenstände direkt neben dem EZCast Pro Stick II**, die WLAN-Signale schlucken bzw. reflektieren, beispielsweise: Wände, Metallflächen, reflektierende Flächen und andere elektronische Geräte, etc.
+ 
+Eine umfassende Anleitung zum Verbinden mit einem WLAN finden Sie [hier](connect.wifi.md).
+
+![HDMI-Port + externes Netzteil (Min. 5V/1,5A)](/assets/img/setup.wifi.png)
+
 ## Android und iOS
 
 Mit EZCast Pro stehen Ihnen zwei Möglichkeiten zur Verfügung:

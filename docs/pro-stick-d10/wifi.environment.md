@@ -6,7 +6,7 @@ Wir bitten um folgende Screenshots:
 
 * [Über das Gerät](#about) - Die Übersicht des EZCast Pro Gerätes, wo alle Netzwerkinformationen des Gerätes zu finden sind.
 
-* [WiFi Analyzer](#wifianalyzer) - Mithilfe einer kostenlosen App/Software senden Sie uns eine Ansicht der WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind.
+* [WiFi Analyzer](#wifianalyzer) - Mithilfe einer kostenlosen App/Software senden Sie uns eine Ansicht der WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind. Mit max. 10 Meter **Abstand** vom **Stick zum Access Point** sowie vom **Stick zu den Endgeräten** prüfen Sie bitte die **Signalstärke**. Zwischen -40 dBm und -50 dBm ist optimal.
 
 ## EZCast Pro - Über das Gerät {#about}
 
@@ -48,7 +48,7 @@ Wir bitten Sie um ein Screenshot der unten stehenden Ansicht, wo alle Netzwerkin
 
 ## WiFi-Analyzer {#wifianalyzer}
 
-Mithilfe einer kostenlosen App/Software senden Sie uns ein Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind. 
+Mithilfe einer kostenlosen App/Software senden Sie uns ein Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind. Mit max. 10 Meter **Abstand** vom **Stick zum Access Point** sowie vom **Stick zu den Endgeräten** prüfen Sie bitte die **Signalstärke**. Zwischen -40 dBm und -50 dBm ist optimal.
 
 !!! tip "Bitte beachten"
 	

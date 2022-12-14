@@ -6,17 +6,17 @@ Wir bitten um folgende Screenshots:
 
 * [Über das Gerät](#about) - Die Übersicht des EZCast Pro Gerätes, wo alle Netzwerkinformationen des Gerätes zu finden sind.
 
-* [WiFi Analyzer](#wifianalyzer) - Mithilfe einer kostenlosen App/Software senden Sie uns eine Ansicht der WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind.
+* [WiFi Analyzer](#wifianalyzer) - Mithilfe einer kostenlosen App/Software senden Sie uns eine Ansicht der WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind. Mit max. 10 Meter **Abstand** von der **Box zum Access Point** sowie vonm **Box zu den Endgeräten** prüfen Sie bitte die **Signalstärke**. Zwischen -40 dBm und -50 dBm ist optimal.
 
 ## EZCast Pro - Über das Gerät {#about}
 
 !!! tip "Bitte beachten"
     
-	Wenn Sie das EZCast Pro Gerät mit Ihrer WLAN-Infrastruktur noch nicht verbunden haben, schauen Sie sich [diese](connect.wifi.lan.md) Anleitung an.
+	Wenn Sie das EZCast Pro Gerät mit Ihrer WLAN-Infrastruktur noch nicht verbunden haben, schauen Sie sich [diese](connect.wifi.md) Anleitung an.
 	
 Wir bitten Sie um ein Screenshot der unten stehenden Ansicht, wo alle Netzwerkinformationen des EZCast Pro Gerätes zu finden sind:
 
-![](/assets/img/About.notx.png)
+![](/assets/img/D10.about_stick.png)
 
 Um diese Ansicht zu erreichen, folgen Sie bitte den folgenden Schritten:
 
@@ -48,7 +48,7 @@ Wir bitten Sie um ein Screenshot der unten stehenden Ansicht, wo alle Netzwerkin
 
 ## WiFi-Analyzer {#wifianalyzer}
 
-Mithilfe einer kostenlosen App/Software senden Sie uns ein Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind. 
+Mithilfe einer kostenlosen App/Software senden Sie uns ein Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind. Mit max. 10 Meter **Abstand** von der **Box zum Access Point** sowie von der **Box zu den Endgeräten** prüfen Sie bitte die **Signalstärke**. Zwischen -40 dBm und -50 dBm ist optimal.
 
 !!! tip "Bitte beachten"
 	
@@ -68,7 +68,7 @@ Mithilfe einer kostenlosen App/Software senden Sie uns ein Screenshot Ihrer WLAN
 
 ![](/assets/img/wifi.analyzer.sortbysignal.strength.png)
 
-* Im unten stehenden Beispiel ist das EZCast Pro Gerät `DIRECT-Pro 2 D10_BF8E0C84` mit der WLAN-Infrastruktur `z-stueber-guest-EG-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
+* Im unten stehenden Beispiel ist das EZCast Pro Gerät `DIRECT-Pro 2 D10_BF19D098` mit der WLAN-Infrastruktur `stueber-demo-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
 
 ![](/assets/img/wifi.analyzer.windows.png)
 
@@ -78,7 +78,7 @@ Suchen Sie die App **WiFiman** im [Play Store](https://play.google.com/store/app
 
 ![](/assets/img/wifiman.android.install.png)
 
-* Im unten stehenden Beispiel ist das EZCast Pro Gerät `DIRECT-Pro 2 D10_BF8E0C84` mit der WLAN-Infrastruktur `stueber-guest-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
+* Im unten stehenden Beispiel ist das EZCast Pro Gerät `DIRECT-Pro 2 D10_BF19D098` mit der WLAN-Infrastruktur `stueber-demo-5ghz` mit guter Signalstärke über das Kanal 48 (5Ghz-Frequenz) verbunden:
 
 ![](/assets/img/wifiman.android.networks.png)
 
