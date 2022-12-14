@@ -32,7 +32,7 @@ Bevor Sie den EZCast Pro Stick II mit Ihrem WLAN verbinden, prüfen Sie bitte di
 
 ![](/assets/img/setup.wifi.png)
 
-Wir empfehlen die Verwendung eines WLAN-Analysers, um eine saubere Frequenznutzung für Ihr 
+Wir empfehlen die Verwendung eines WLAN-Analyzers, um Ihre WLAN-Umgebung zu scannen und eine saubere Frequenznutzung fürs kabellose Präsentieren zu planen.
 
 ### Erweiterte Einstellungen öffnen
 
@@ -68,7 +68,7 @@ Wir empfehlen die Verwendung eines WLAN-Analysers, um eine saubere Frequenznutzu
     
 	Bitte beachten: Standardmäßig kann der EZCast Pro Stick II nur mit einem 5GHz WLAN-Router verbunden werden. Sie können jedoch den [Legacy-Modus (2,4 GHz WLAN)](adv.settings.md#legacymode) aktivieren.
 
-* Wenn der EZCast Pro Stick II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+* Wenn der EZCast Pro Stick II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrastructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
 ![](/assets/img/ProDongleII_connected_to_router.png)
 
