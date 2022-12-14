@@ -13,13 +13,13 @@
 | ![](/assets/img/Contents.D10.png)<br>EZCast Pro Stick II | ![](/assets/img/Contents_HDMI.Extension.png) <br>HDMI-Verlängerungskabel (0,2 m) |
 | ![](/assets/img/Contents_USBC.png)<br>USB C Ladekabel  (1 m) | ![](/assets/img/Contents.QSG.png)<br>Schnellstartanleitung |
 
-## Einricthung {#setup}
+## Einrichtung {#setup}
 
-Schließen Sie den EZCast Pro Stick II an den HDMI-Eingang Ihres Anzeigegerätes an. Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel an einen USB-Ladeanschluss an, der den **Mindeststrom 7,5W (5V/1,5A)** liefert:
+* Schließen Sie den EZCast Pro Stick II an den HDMI-Eingang Ihres Anzeigegerätes an. Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel an einen USB-Ladeanschluss an, der den **Mindeststrom 7,5W (5V/1,5A)** liefert:
 
-![HDMI-Port + externes Netzteil (Min. 5V/1,5A)](/assets/img/plugin_HDMI1.5A.jpg)
+Um zu erfahren, genau welche Einrichtung für Sie am besten geeignet ist, lesen Sie bitte sorgfältig unsere [Einrichtungsempfehlungen].(setup.projector.md)
 
-Um zu erfahren, geneau welche Einrichtung für Sie am besten geeignet ist, lesen Sie bitte sorgfältig unsere [Einrichtungsempfehlungen].(setup.projector.md)
+![HDMI-Port + externes Netzteil (Min. 5V/1,5A)](/assets/img/D10-1xPlug-InternalPower.5V2A.png)
 
 ## Android und iOS
 

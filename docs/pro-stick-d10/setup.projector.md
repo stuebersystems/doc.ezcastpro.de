@@ -30,7 +30,6 @@ Welche Einrichtung für Sie am besten geeignet ist, hängt wirklich davon ab, ob
 ### 1x Steckdose | USB-Ladeanschluss vom Projektor (5V/2A)
 
 * Neben dem Projektor steht nur **eine Steckdose** zur Verfügung.
-* Ein **Y Type Splitter-Adapter** ermöglicht eine Euro Buchse fürs USB-Ladegerät und ein Kaltgerätekabel für den Projektor
 * Der EZCast Pro Stick II wird mit einem **USB-Ladeanschluss vom Projektor** mit Strom versorgt.
 * Die mitgelieferte **HDMI-Verlängerung** wurde angeschlossen
 
