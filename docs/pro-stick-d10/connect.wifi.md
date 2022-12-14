@@ -82,7 +82,11 @@ Wir empfehlen die Verwendung eines WLAN-Analysers, um eine saubere Frequenznutzu
 
 Der EZCast Pro Stick II hat eine Funkreichweite (Sichtlinie) von bis zu 10m. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen dem Stick und Ihrem Router bzw. Ihrem Access-Point. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit dem Stick über Ihre Infrastruktur verbinden.
 
-Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
+!!! tip "Hinweis"
+    
+	* Max. 10 Meter **Abstand** vom **Stick zum Access Point** sowie vom **Stick zu den Endgeräten**. Beim Einrichten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
+	
+Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben.
 
 **1. Problem:** Der Abstand zwischen dem EZCast Pro Stick II und dem Router bzw. Wireless-Access-Point ist zu groß.
 
