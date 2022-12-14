@@ -29,7 +29,7 @@ Bevor Sie den EZCast Pro Stick II mit Ihrem WLAN verbinden, prüfen Sie bitte di
 * Max. 10 Meter Abstand vom Stick zum Access Point. Beim Einrichtten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
 * Max. 10 Meter Abstand vom Stick zu den Endgeräten Beim. Einrichtten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
 * Access Point liegt im selben Raum wie der Stick.
-* Eine Sichtlinie ohne Gegenstände vom Stick zum Access Point und zu den Endgeräten.
+* Eine Sichtlinie vom Stick zum Access Point und zu den Endgeräten. Vermeiden Sie Gegenstände direkt neben dem EZCast Pro Stick II, die WLAN-Signale schlucken bzw. reflektieren, beispielsweise: Wände, Metallflächen, reflektierende Flächen, elektronische und andere funkende Geräte, etc.
 
 ![](/assets/img/setup.wifi.png)
 
