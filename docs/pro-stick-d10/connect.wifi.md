@@ -32,7 +32,7 @@ Bevor Sie den EZCast Pro Stick II mit Ihrem WLAN verbinden, prüfen Sie bitte di
 
 ![](/assets/img/setup.wifi.png)
 
-Wir empfehlen die Verwendung eines WLAN-Analyzers, um Ihre WLAN-Umgebung zu scannen und eine saubere Frequenznutzung fürs kabellose Präsentieren zu planen.
+Wir empfehlen die Verwendung eines WLAN-Analyzers, um Ihre  [WLAN-Umgebung zu scannen](wifi.environment.md) und eine saubere Frequenznutzung fürs kabellose Präsentieren zu planen.
 
 ### Erweiterte Einstellungen öffnen
 
