@@ -13,17 +13,13 @@
 | ![](/assets/img/Contents.D10.png)<br>EZCast Pro Stick II | ![](/assets/img/Contents_HDMI.Extension.png) <br>HDMI-Verlängerungskabel (0,2 m) |
 | ![](/assets/img/Contents_USBC.png)<br>USB C Ladekabel  (1 m) | ![](/assets/img/Contents.QSG.png)<br>Schnellstartanleitung |
 
-## Einrictung {#setup}
+## Einricthung {#setup}
 
-Verbinden Sie den Empfänger, wie unten abgebildet, mit dem HDMI-Eingang Ihres Bildschirms. Um den EZCast Pro Stick II mit einem älteren Beamer mit VGA-Anschluss verbinden zu können, empfehlen wir einen [HDMI auf VGA Adapter](setup-tipps.md#hdmi-vga-adapter).
-
-Schließen Sie das Netzteil mit Hilfe des USB C Ladekabels an. Der EZCast Pro Stick II schaltet sich automatisch ein. 
+Schließen Sie den EZCast Pro Stick II an den HDMI-Eingang Ihres Anzeigegerätes an. Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel an einen USB-Ladeanschluss an, der den **Mindeststrom 7,5W (5V/1,5A)** liefert:
 
 ![HDMI-Port + externes Netzteil (Min. 5V/1,5A)](/assets/img/plugin_HDMI1.5A.jpg)
 
-!!! tip "Hinweis"
-    
-	Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel mit einem [externen Netzteil](setup-tipps.md#samsung-usb-netzteil-5v2a) (Min. 5V/1,5A) (nicht im Lieferumfang enthalten) an den USB-Port des Sticks an. 
+Um zu erfahren, geneau welche Einrichtung für Sie am besten geeignet ist, lesen Sie bitte sorgfältig unsere [Einrichtungsempfehlungen].(setup.projector.md)
 
 ## Android und iOS
 
