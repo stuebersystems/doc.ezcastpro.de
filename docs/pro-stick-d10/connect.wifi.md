@@ -84,7 +84,7 @@ Der EZCast Pro Stick II hat eine Funkreichweite (Sichtlinie) von bis zu 10m. Ein
 
 !!! tip "Hinweis"
     
-	* Max. 10 Meter **Abstand** vom **Stick zum Access Point** sowie vom **Stick zu den Endgeräten**. Beim Einrichten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
+	Max. 10 Meter **Abstand** vom **Stick zum Access Point** sowie vom **Stick zu den Endgeräten**. Beim Einrichten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
 	
 Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben.
 
