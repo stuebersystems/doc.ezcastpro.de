@@ -24,10 +24,10 @@ Für den EZCast Pro Stick II wird eine Internet-Verbindung in folgenden Fällen 
 
 Bevor Sie den EZCast Pro Stick II mit Ihrem WLAN verbinden, prüfen Sie bitte die empfohlenen Voraussetzungen:
 
-* Access Point unterstützt WLAN-Standard **802.11ac**.
-* **Nicht mit einer Dual-Band 2,4Ghz/5Ghz SSID verbinden**, sondern mit einer dedizierten SSID, die auf das 5Ghz-Band im [5GHz-Bereich](https://en.wikipedia.org/wiki/List_of_WLAN_channels#5_GHz_(802.11a/h/j/n/ac/ax)) (Kanäle 36,40,44,48) eingeschränkt ist. 
+* **Access Point unterstützt** WLAN-Standard **802.11ac**.
+* **Nicht mit einer Dual-Band 2,4Ghz/5Ghz SSID verbinden**, sondern mit einer dedizierten SSID, die auf den [5GHz-Bereich](https://en.wikipedia.org/wiki/List_of_WLAN_channels#5_GHz_(802.11a/h/j/n/ac/ax)) (20Mhz-Kanäle 36,40,44,48) eingeschränkt ist. Benutzen Sie bitte nicht [DFS-Kanäle](https://en.wikipedia.org/wiki/Dynamic_frequency_selection), um Abbrüche durch plötzlichen Kanalwechsel während der Bildschirmübertragung zu vermeiden.
 * Max. 10 Meter **Abstand** vom **Stick zum Access Point** sowie vom **Stick zu den Endgeräten**. Beim Einrichten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
-* Access Point liegt im selben Raum wie der Stick. Dies ist für das 5 GHz-Frequenzband besonders wichtig.
+* **Access Point liegt im selben Raum** wie der Stick. Dies ist für das 5 GHz-Frequenzband besonders wichtig.
 * Eine sogenannte **Sichtlinie** vom Stick zum Access Point und zu den Endgeräten mit möglichst wenigen Hindernissen. **Vermeiden Sie Gegenstände direkt neben dem EZCast Pro Stick II**, die WLAN-Signale schlucken bzw. reflektieren, beispielsweise: Wände, Metallflächen, reflektierende Flächen und andere elektronische Geräte, etc.
 
 ![](/assets/img/setup.wifi.png)
