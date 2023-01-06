@@ -1,6 +1,6 @@
 # Über das Gerät
 
-Zu Support-Zwecken bitten wir Sie möglicherweise um ein Screenshot der unten stehenden Ansicht, wo alle Netzwerkinformationen des EZCast Pro Gerätes zu finden sind:
+Zu Support-Zwecken bitten wir Sie möglicherweise um einen Screenshot der unten stehenden Ansicht, wo alle Netzwerkinformationen des EZCast Pro Gerätes zu finden sind:
 
 ![](/assets/img/D10.about_stick.png)
 
