@@ -1,6 +1,6 @@
 # Leistungstest durchführen
 
-Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres Gerätes durchführen. Unter normalen Bedienungen beim Testen sollte das EZCast Pro Gerät die Bildschirmübertragung eines Videos mindestens 6 Stunden ohne Probleme leisten können. Zu diesem Test benötigen Sie folgende Geräte:
+Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres EZCast Pro Gerätes durchführen. Unter normalen Bedienungen beim Testen sollte das EZCast Pro Gerät die Bildschirmübertragung eines Videos mindestens 6 Stunden ohne Probleme leisten können. Zu diesem Test benötigen Sie folgende Geräte:
 
 * Einen Windows-Notebook, der am Stromnetz angeschlossen ist.
 
@@ -43,9 +43,37 @@ Damit der Windows-PC während des Test nicht in den Energiesparmodus wechselt, l
 
 ![](/assets/img/video.playing.png)
 
-## Sender anschließend und Bildschirm übertragen 
+## Bildschirmübertragung durchführen
 
-* Schließen Sie den Sender an Ihr Windows-Notebook an und spielgeln Sie den Bildschirm auf das große Display:
+Wir empfehlen zwei Möglichkeiten die Bildschirmübertragung als Leistungstest unter Windows durchzuführen:
+
+### Miracast unter Windows: 
+
+Drücken Sie die Tastenkombination `[Windows]` + `[K]`, um das Dialogfenster `VERBINDEN` aufzurufen. Wählen Sie den EZCast Pro Gerät aus:
+
+![EZCast Pro Stick auswählen](/assets/img/ProIIStick-Windows_Miracast_Select_Device.jpg)
+
+Eine umfassende Anleitung zur Verwendung von Miracast unter Windows finden Sie [hier](miracast.md#miracast-auf-windows):
+
+### EZCast Pro Software
+
+* Verbinden Sie Ihr Notebook mit der SSID, die oben auf dem Bildschirm angezeigt wird. Das Kennwort wird standardmäßig ebenfalls angezeigt.
+
+	![](/assets/img/proII.notebook.direct.connect.png)
+
+* Rufen Sie die Software **EZCastPro** auf Ihrem Gerät auf:
+
+    ![Starten Sie die Software EZCastPro](/assets/img/EZCastPro_Start_Software.png)
+
+* Wählen Sie den EZCast Pro Stick II aus, wie unten abgebildet:
+
+    ![Die Geräteliste](/assets/img/mac-windows_device-list.png)
+
+* Zum Spiegeln Ihres Windows/macOS Geräts wählen Sie `Spiegeln`:
+
+    ![Ihr Windows/Mac-Gerät spiegeln](/assets/img/mac-windows_mirror.png)
+
+Eine umfassende Anleitung zur Verwendung von der EZCast Pro Software unter Windows finden Sie [hier](quickstart.md#b-erweiterte-funktion-ezcast-pro-software):
 
 ![](/assets/img/QSG-TypeC.Windows.png)
 

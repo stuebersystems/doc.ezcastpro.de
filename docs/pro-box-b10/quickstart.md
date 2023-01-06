@@ -79,34 +79,30 @@ Unterstützt werden alle gängigen Streamingprotokolle. Umfassende Anleitungen n
 
 ### b) Erweiterte Funktion. EZCast Pro Software 
 
-#### Software Installieren {#InstallSoftware}
-
 Die Verwendung der kostenlosen Software **EZCastPro** bietet sowohl für den Moderator als auch für die anderen Teilnehmer einer Präsentation, verschiedene erweiterte Kontrollmöglichkeiten und Übertragungsfunktionen, die sonst bei der eingebauten Spiegelungsfunktion eines Geräts nicht möglich sind.
 
-* Laden Sie bitte die Software für [Windows](https://ezcast-pro.com/download/ezcastpro-app/windows/) oder [macOS](https://ezcast-pro.com/download/ezcastpro-app/macos/) herunter und installieren Sie diese.
+#### Software installieren {#InstallSoftware}
 
-#### Software mit EZCast Pro verbinden
+Laden Sie bitte die Software für [Windows](https://ezcast-pro.com/download/ezcastpro-app/windows/) oder [macOS](https://ezcast-pro.com/download/ezcastpro-app/macos/) herunter und installieren Sie diese.
 
-Wenn Sie die EZCast Pro Box II richtig [angeschlossen](#setup) haben, erscheint folgende Startseite auf dem Bildschirm:
+#### Software mit EZCast Pro Stick verbinden
 
-![Die Startseite](/assets/img/B10_landingpage.png)
+* Verbinden Sie Ihr Notebook mit der SSID, die oben auf dem Bildschirm angezeigt wird. Das Kennwort wird standardmäßig ebenfalls angezeigt.
 
-Gehen Sie jetzt wie folgt vor:
+	![](/assets/img/proII.notebook.direct.connect.png)
 
-1.  Von Ihrem Windows, oder macOS Gerät verbinden Sie sich mit der SSID, die oben auf dem Bildschirm angezeigt wird. Das Kennwort wird standardmäßig ebenfalls angezeigt.
-
-2.  Rufen Sie die Software **EZCastPro** auf Ihrem Gerät auf.
+* Rufen Sie die Software **EZCastPro** auf Ihrem Gerät auf:
 
     ![Starten Sie die Software EZCastPro](/assets/img/EZCastPro_Start_Software.png)
 
-3.  Wählen Sie die EZCast Pro Box II aus, wie unten abgebildet:
+* Wählen Sie den EZCast Pro Stick II aus, wie unten abgebildet:
 
     ![Die Geräteliste](/assets/img/mac-windows_device-list.png)
 
-4.  Zum Spiegeln Ihres Windows/macOS Geräts wählen Sie `Spiegeln`.
+* Zum Spiegeln Ihres Windows/macOS Geräts wählen Sie `Spiegeln`:
 
     ![Ihr Windows/Mac-Gerät spiegeln](/assets/img/mac-windows_mirror.png)
 
-5.  Wenn Sie die Schaltfläche `Erweitern` wählen, wird der Desktop Ihres Windows/macOS Geräts erweitert.
+* Wenn Sie die Schaltfläche `Erweitern` wählen, wird der Desktop Ihres Windows/macOS Geräts erweitert.
 
     ![Windows/macOS Desktop erweitern](/assets/img/mac-windows_extend.png)

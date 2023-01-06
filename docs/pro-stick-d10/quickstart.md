@@ -94,26 +94,22 @@ Laden Sie bitte die Software für [Windows](https://ezcast-pro.com/download/ezca
 
 #### Software mit EZCast Pro Stick verbinden
 
-Wenn Sie den EZCast Pro Stick II richtig [angeschlossen](#setup) haben, erscheint folgende Startseite auf dem Bildschirm:
+* Verbinden Sie Ihr Notebook mit der SSID, die oben auf dem Bildschirm angezeigt wird. Das Kennwort wird standardmäßig ebenfalls angezeigt.
 
-![Die Startseite](/assets/img/ProIIDongle_landingpage.png)
+	![](/assets/img/proII.notebook.direct.connect.png)
 
-Gehen Sie jetzt wie folgt vor:
-
-1.  Von Ihrem Windows, oder macOS Gerät verbinden Sie sich mit der SSID, die oben auf dem Bildschirm angezeigt wird. Das Kennwort wird standardmäßig ebenfalls angezeigt.
-
-2.  Rufen Sie die Software **EZCastPro** auf Ihrem Gerät auf.
+* Rufen Sie die Software **EZCastPro** auf Ihrem Gerät auf:
 
     ![Starten Sie die Software EZCastPro](/assets/img/EZCastPro_Start_Software.png)
 
-3.  Wählen Sie den EZCast Pro Stick II aus, wie unten abgebildet:
+* Wählen Sie den EZCast Pro Stick II aus, wie unten abgebildet:
 
     ![Die Geräteliste](/assets/img/mac-windows_device-list.png)
 
-4.  Zum Spiegeln Ihres Windows/macOS Geräts wählen Sie `Spiegeln`.
+* Zum Spiegeln Ihres Windows/macOS Geräts wählen Sie `Spiegeln`:
 
     ![Ihr Windows/Mac-Gerät spiegeln](/assets/img/mac-windows_mirror.png)
 
-5.  Wenn Sie die Schaltfläche `Erweitern` wählen, wird der Desktop Ihres Windows/macOS Geräts erweitert.
+* Wenn Sie die Schaltfläche `Erweitern` wählen, wird der Desktop Ihres Windows/macOS Geräts erweitert.
 
     ![Windows/macOS Desktop erweitern](/assets/img/mac-windows_extend.png)
