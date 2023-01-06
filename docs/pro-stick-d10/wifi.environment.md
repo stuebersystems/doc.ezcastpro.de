@@ -4,7 +4,7 @@ Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns mithilfe einer k
 
 ![](/assets/img/wifi.analyzer.windows.png)
 
-## Wo muss ich stehen?
+## Wo muss ich im Raum stehen?
 
 Es handelt sich um zwei wichtige Tests der Signalstärke, für die wir jeweils einen Screenshot benötigen. Für jeden Test sollen Sie den WiFi-Analyzer erneut öffnen:
 
