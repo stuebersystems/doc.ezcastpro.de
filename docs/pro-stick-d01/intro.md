@@ -1,4 +1,4 @@
-# Der EZCast Pro I Stick
+# Der EZCast Pro Stick I
 
 ![EZCast Pro Stick I][1]{: align=left } Erkunden Sie die Möglichkeiten des EZCast Pro Stick I. 
 

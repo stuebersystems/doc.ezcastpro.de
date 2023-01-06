@@ -128,7 +128,7 @@ nav:
     - EZCastPro App/Software: pro-stick-d10/ezcastproapp.md     
     - Firmware aktualisieren: pro-stick-d10/firmware-upgrade.md
     - Mit WLAN verbinden: pro-stick-d10/connect.wifi.md
-    - Problembehandlung:  
+    - Problembehandlung:       
         - DxDiag-Bericht erstellen: pro-stick-d10/dxdiag.md    
         - Einstellungen zurücksetzen: pro-stick-d10/reset.md
         - Firmware neu installieren: pro-stick-d10/firmware-reinstall.md
@@ -136,6 +136,7 @@ nav:
         - Logdatei herunterladen: pro-stick-d10/logfile.md
         - Mit Hotspot verbinden: pro-stick-d10/hotspot.md
         - Projizieren auf diesen PC: pro-stick-d10/project2PC.md
+        - Über das Gerät: pro-stick-d10/about.md
         - WLAN-Umgebung scannen: pro-stick-d10/wifi.environment.md
 - Pro Box II: 
     - Überblick: pro-box-b10/intro.md
@@ -174,6 +175,7 @@ nav:
         - Logdatei herunterladen: pro-box-b10/logfile.md
         - Mit Hotspot verbinden: pro-box-b10/hotspot.md
         - Projizieren auf diesen PC: pro-box-b10/project2PC.md
+        - Über das Gerät: pro-box-b10/about.md
         - WLAN-Umgebung scannen: pro-box-b10/wifi.environment.md
 - CMS: 
     - Einführung: cms.md
