@@ -32,6 +32,6 @@ Um diese Ansicht zu erreichen, folgen Sie bitte den folgenden Schritten:
 
 ![](/assets/img/ezcastpro.II.select.aboutdevice.png)
 
-Wir bitten Sie um ein Screenshot der unten stehenden Ansicht, wo alle Netzwerkinformationen des EZCast Pro Gerätes zu finden sind:
+Wir bitten Sie um einen Screenshot der unten stehenden Ansicht, wo alle Netzwerkinformationen des EZCast Pro Gerätes zu finden sind:
 
 ![](/assets/img/D10.about_stick.png)
