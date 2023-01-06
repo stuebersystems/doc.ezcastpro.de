@@ -43,7 +43,8 @@ Damit der Windows-PC während des Test nicht in den Energiesparmodus wechselt, l
 
 ![](/assets/img/video.playing.png)
 
-## Sender anschließend und Bildschirm übertragen 
+## Leistungstests durchführen
+
 
 * Schließen Sie den Sender an Ihr Windows-Notebook an und spielgeln Sie den Bildschirm auf das große Display:
 
