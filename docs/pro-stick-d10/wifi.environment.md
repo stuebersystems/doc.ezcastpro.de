@@ -6,7 +6,7 @@ Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns mithilfe einer k
 
 ## Wo muss ich stehen?
 
-Es handlet sich um zwei wichtige Tests der Signalstärke, für die wir jeweils einen Screenshot benötigen. Für jeden Test sollen Sie den WiFi-Analyzer erneut öffnen:
+Es handelt sich um zwei wichtige Tests der Signalstärke, für die wir jeweils einen Screenshot benötigen. Für jeden Test sollen Sie den WiFi-Analyzer erneut öffnen:
 
 **Test 1. An der Stelle, wo man am meisten präsentiert**, um die Signalstärke vom Endgerät bis zum EZCast Pro Gerät und vom Endgerät zum Access Point zu prüfen. In beide Richtungen darf maximal 10 Meter sein.
 
