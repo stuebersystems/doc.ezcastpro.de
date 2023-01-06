@@ -8,17 +8,17 @@ Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns mithilfe einer k
 
 Es handelt sich um zwei wichtige Tests der Signalstärke, für die wir jeweils einen Screenshot benötigen. Für jeden Test sollen Sie den WiFi-Analyzer erneut öffnen:
 
-**Test 1. An der Stelle, wo man am meisten präsentiert**, um die Signalstärke vom Endgerät bis zum EZCast Pro Gerät und vom Endgerät zum Access Point zu prüfen. In beide Richtungen darf maximal 10 Meter sein.
+**Test 1. An der Stelle, wo man am meisten präsentiert**, um die Signalstärke vom Endgerät bis zum EZCast Pro Gerät und vom Endgerät zum Access Point zu prüfen. In beide Richtungen darf maximal 30 Meter sein.
 
-![](/assets/img/wifi.test.1.png)
+![](/assets/img/box.wifi.test.1.png)
 
-**Test 2. Direkt neben dem EZCast Pro Gerät**, um die Signalstärke vom EZCast Pro Gerät bis zum Access Point zu prüfen. Dieser Abstand darf maximal 10 Meter sein.
+**Test 2. Direkt neben dem EZCast Pro Gerät**, um die Signalstärke vom EZCast Pro Gerät bis zum Access Point zu prüfen. Dieser Abstand darf maximal 30 Meter sein.
 
-![](/assets/img/wifi.test.2.png)
+![](/assets/img/box.wifi.test.2.png)
 
 ## WiFi-Analyzer {#wifianalyzer}
 
-Mithilfe einer kostenlosen App/Software senden Sie uns einen Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind. Mit max. 10 Meter **Abstand** vom **Stick zum Access Point** sowie vom **Stick zu den Endgeräten** prüfen Sie bitte die **Signalstärke**. Zwischen -40 dBm und -50 dBm ist optimal.
+Mithilfe einer kostenlosen App/Software senden Sie uns einen Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind. Mit max. 30 Meter **Abstand** vom **Stick zum Access Point** sowie vom **Stick zu den Endgeräten** prüfen Sie bitte die **Signalstärke**. Zwischen -40 dBm und -50 dBm ist optimal.
 
 !!! tip "Bitte beachten"
 	
