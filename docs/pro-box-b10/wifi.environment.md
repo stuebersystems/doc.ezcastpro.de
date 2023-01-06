@@ -4,17 +4,17 @@ Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns mithilfe einer k
 
 ![](/assets/img/wifi.analyzer.windows.png)
 
-## Wo muss ich im Raum stehen?
+## Wo muss ich im Raum stehen? {#stand}
 
 Es handelt sich um zwei wichtige Tests der Signalstärke, für die wir jeweils einen Screenshot benötigen. Für jeden Test sollen Sie den WiFi-Analyzer erneut öffnen:
 
 **Test 1. An der Stelle, wo man am meisten präsentiert**, um die Signalstärke vom Endgerät bis zum EZCast Pro Gerät und vom Endgerät zum Access Point zu prüfen. In beide Richtungen darf maximal 30 Meter sein.
 
-![](/assets/img/box.wifi.test.1.png)
+![](/assets/img/box.wifi.test1.png)
 
 **Test 2. Direkt neben dem EZCast Pro Gerät**, um die Signalstärke vom EZCast Pro Gerät bis zum Access Point zu prüfen. Dieser Abstand darf maximal 30 Meter sein.
 
-![](/assets/img/box.wifi.test.2.png)
+![](/assets/img/box.wifi.test2.png)
 
 ## WiFi-Analyzer {#wifianalyzer}
 
@@ -22,7 +22,7 @@ Mithilfe einer kostenlosen App/Software senden Sie uns einen Screenshot Ihrer WL
 
 !!! tip "Bitte beachten"
 	
-	Sie müssen unbedingt in der Nähe des EZCast Pro Gerätes stehen, wenn Sie die App/Software ausführen.
+	Sie müssen unbedingt in der Nähe des EZCast Pro Gerätes [stehen](#stand), wenn Sie die App/Software ausführen.
     
 * [Windows - Easy to use WiFi Analyzer](#wifi.analyzer.windows)
 

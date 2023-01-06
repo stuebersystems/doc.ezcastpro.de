@@ -4,7 +4,7 @@ Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns mithilfe einer k
 
 ![](/assets/img/wifi.analyzer.windows.png)
 
-## Wo muss ich im Raum stehen?
+## Wo muss ich im Raum stehen? {#stand}
 
 Es handelt sich um zwei wichtige Tests der Signalstärke, für die wir jeweils einen Screenshot benötigen. Für jeden Test sollen Sie den WiFi-Analyzer erneut öffnen:
 
@@ -22,7 +22,7 @@ Mithilfe einer kostenlosen App/Software senden Sie uns einen Screenshot Ihrer WL
 
 !!! tip "Bitte beachten"
 	
-	Sie müssen unbedingt in der Nähe des EZCast Pro Gerätes stehen, wenn Sie die App/Software ausführen.
+	Sie müssen unbedingt in der Nähe des EZCast Pro Gerätes [stehen](#stand), wenn Sie die App/Software ausführen.
     
 * [Windows - Easy to use WiFi Analyzer](#wifi.analyzer.windows)
 
