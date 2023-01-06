@@ -65,7 +65,7 @@ Eine umfassende Anleitung zur Verwendung von Miracast unter Windows finden Sie [
 
     ![Starten Sie die Software EZCastPro](/assets/img/EZCastPro_Start_Software.png)
 
-* Wählen Sie den EZCast Pro Stick II aus, wie unten abgebildet:
+* Wählen Sie die EZCast Pro Box II aus, wie unten abgebildet:
 
     ![Die Geräteliste](/assets/img/mac-windows_device-list.png)
 

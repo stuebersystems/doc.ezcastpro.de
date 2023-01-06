@@ -85,7 +85,7 @@ Die Verwendung der kostenlosen Software **EZCastPro** bietet sowohl für den Mod
 
 Laden Sie bitte die Software für [Windows](https://ezcast-pro.com/download/ezcastpro-app/windows/) oder [macOS](https://ezcast-pro.com/download/ezcastpro-app/macos/) herunter und installieren Sie diese.
 
-#### Software mit EZCast Pro Stick verbinden
+#### Software mit EZCast Pro Box verbinden
 
 * Verbinden Sie Ihr Notebook mit der SSID, die oben auf dem Bildschirm angezeigt wird. Das Kennwort wird standardmäßig ebenfalls angezeigt.
 
@@ -95,7 +95,7 @@ Laden Sie bitte die Software für [Windows](https://ezcast-pro.com/download/ezca
 
     ![Starten Sie die Software EZCastPro](/assets/img/EZCastPro_Start_Software.png)
 
-* Wählen Sie den EZCast Pro Stick II aus, wie unten abgebildet:
+* Wählen Sie die EZCast Pro Box II aus, wie unten abgebildet:
 
     ![Die Geräteliste](/assets/img/mac-windows_device-list.png)
 
