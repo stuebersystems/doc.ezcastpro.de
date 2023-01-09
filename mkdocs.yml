@@ -176,6 +176,7 @@ nav:
         - Mit Hotspot verbinden: pro-box-b10/hotspot.md
         - Projizieren auf diesen PC: pro-box-b10/project2PC.md
         - Über das Gerät: pro-box-b10/about.md
+        - USB Device Tree Viewer: pro-box-b10/usbdevicetree.viewer.md        
         - WLAN-Umgebung scannen: pro-box-b10/wifi.environment.md
 - CMS: 
     - Einführung: cms.md
