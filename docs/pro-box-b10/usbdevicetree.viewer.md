@@ -36,13 +36,10 @@ Laden Sie die Software [![USB Device Tree Viewer](/assets/img/usbtreeview.icon.p
 
 ![](/assets/img/usbdevicetree.save.xml2.png)
 
-!!! tip "Hinweis"
-
-    Aktuell werden die HID-Treiber `Keyboard`, `Mouse` und `Touch Screen` unterstützt. Der HiD-Treiber `Pen` wird derzeit nicht unterstützt.
-
 * Lassen Sie uns bitte die Logdatei über unser [Ticketsystem](https://support.stueber.de) zukommen. 
 
 ![](/assets/img/logfile.ticket.png)
 
-![](/assets/img/QSG-TypeC.Windows.png)
+!!! tip "Hinweis"
 
+    Aktuell werden die HID-Treiber `Keyboard`, `Mouse` und `Touch Screen` unterstützt. Der HiD-Treiber `Pen` wird derzeit nicht unterstützt.
