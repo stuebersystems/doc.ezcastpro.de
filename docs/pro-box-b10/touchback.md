@@ -14,7 +14,7 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 !!! tip "Hinweis"
 
-    Aktuell werden die Gerätetypen `Tastatur`, `Maus` und `Touch-Display` unterstützt. Ein Treiber für `Stift` wird derzeit nicht unterstützt. Mit einer [Teststellung](https://www.ezcastpro.de/test.php) können Sie vorm Kauf testen, ob die EZCast Pro Box II mit Ihrem Touchdisplay kompatibel ist.
+    Aktuell werden die Gerätetypen `Tastatur`, `Maus` und `Touch-Display` unterstützt. Ein Treiber für `Stift` wird derzeit nicht unterstützt. Mit einer [Teststellung](https://www.ezcastpro.de/test.php) können Sie vorm Kauf testen, ob die EZCast Pro Box II mit Ihrem Touch-Display kompatibel ist.
 	
 ## Einrichtung
 
