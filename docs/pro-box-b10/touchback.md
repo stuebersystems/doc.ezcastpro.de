@@ -12,6 +12,10 @@ Die Touch-Back Funktion wird nur bei der 1:1- Übertragung eines Bildschirms unt
 
 * Entweder einen [Miracast-fähigen Windows 10/11 PC](#touchviamiracast) oder die [EZCast Pro Software](quickstart.md#InstallSoftware) unter Windows und macOS.
 
+!!! tip "Hinweis"
+
+    Aktuell werden die Gerätetypen `Tastatur`, `Maus` und `Touch-Display` unterstützt. Ein Treiber für `Stift` wird derzeit nicht unterstützt. Mit einer [Teststellung](https://www.ezcastpro.de/test.php) können Sie vorm Kauf testen, ob die EZCast Pro Box II mit Ihrem Touchdisplay kompatibel ist.
+	
 ## Einrichtung
 
 * Schließen Sie das USB-Kabel Ihres touchfähigen Bildschirms an den USB-Anschluss mit dem Kennzeichen "USB" des Empfängers an.

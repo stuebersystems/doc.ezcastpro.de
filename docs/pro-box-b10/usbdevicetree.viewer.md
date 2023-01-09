@@ -42,4 +42,4 @@ Laden Sie die Software [![USB Device Tree Viewer](/assets/img/usbtreeview.icon.p
 
 !!! tip "Hinweis"
 
-    Aktuell werden die HID-Treiber `Keyboard`, `Mouse` und `Touch Screen` unterstützt. Der HiD-Treiber `Pen` wird derzeit nicht unterstützt.
+    Aktuell werden die Gerätetypen `Tastatur`, `Maus` und `Touch-Display` unterstützt. Ein Treiber für `Stift` wird derzeit nicht unterstützt. Mit einer [Teststellung](https://www.ezcastpro.de/test.php) können Sie vorm Kauf testen, ob die EZCast Pro Box II mit Ihrem Touchdisplay kompatibel ist.
