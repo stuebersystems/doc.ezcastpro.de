@@ -1,10 +1,10 @@
 # Mit WLAN verbinden
 
-Sie haben die Möglichkeit den EZCast Pro Stick II mit Ihrer Netzwerkinfrastruktur  drahtlos per WLAN zu verbinden.
+Sie haben die Möglichkeit den EZCast Pro Stick II mit Ihrer Netzwerkinfrastruktur drahtlos per WLAN zu verbinden.
 
 ## Warum soll man EZCast Pro mit WLAN verbinden?
 
-Für den EZCast Pro Stick II wird eine Internet-Verbindung in folgenden Fällen benötigt:
+Es gibt mehrere Gründe, warum Sie den EZCast Pro Stick II mit Ihrer Netzwerkinfrastruktur verbinden sollen:
 
 * Sie sind mit dem Pro Stick II per [Apple AirPlay](airplay.md), [Google Cast](googlecast.md) oder die EZCast Pro [Software bzw. die App](ezcastproapp.md) verbunden und möchten **Inhalte vom Internet** präsentieren.
 
@@ -68,7 +68,7 @@ Wir empfehlen die Verwendung eines WLAN-Analyzers, um Ihre  [WLAN-Umgebung zu sc
     
 	Bitte beachten: Standardmäßig kann der EZCast Pro Stick II nur mit einem 5GHz WLAN-Router verbunden werden. Sie können jedoch den [Legacy-Modus (2,4 GHz WLAN)](adv.settings.md#legacymode) aktivieren.
 
-* Wenn der EZCast Pro Stick II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrastructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+Wenn der EZCast Pro Stick II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrastructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
 ![](/assets/img/ProDongleII_connected_to_router.png)
 

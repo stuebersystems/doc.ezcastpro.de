@@ -1,10 +1,10 @@
 # Mit WLAN/LAN verbinden
 
-Sie haben die Möglichkeit die EZCast Pro Box II mit Ihrer Netzwerkinfrastruktur  drahtlos per WLAN zu verbinden.
+Sie haben die Möglichkeit die EZCast Pro Box II mit Ihrer Netzwerkinfrastruktur entweder drahtlos per WLAN oder per LAN-Kabel zu verbinden.
 
 ## Warum soll man EZCast Pro mit WLAN/LAN verbinden?
 
-Für die EZCast Pro Box II wird eine Internet-Verbindung in folgenden Fällen benötigt:
+Es gibt mehrere Gründe, warum Sie die EZCast Pro Box II mit Ihrer Netzwerkinfrastruktur verbinden sollen:
 
 * Sie sind mit der Pro Box II per [Apple AirPlay](airplay.md), [Google Cast](googlecast.md) oder die EZCast Pro [Software bzw. die App](ezcastproapp.md) verbunden und möchten **Inhalte vom Internet** präsentieren.
 
@@ -69,7 +69,7 @@ Wir empfehlen die Verwendung eines WLAN-Analyzers, um Ihre  [WLAN-Umgebung zu sc
     
 	Bitte beachten: Standardmäßig kann die EZCast Pro Box II nur mit einem 5GHz WLAN-Router verbunden werden. Sie können jedoch den [Legacy-Modus (2,4 GHz WLAN)](adv.settings.md#legacymode) aktivieren.
 
-* Wenn die EZCast Pro Box II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrastructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+Wenn die EZCast Pro Box II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrastructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
 ![](/assets/img/ProDongleII_connected_to_router.png)
 
