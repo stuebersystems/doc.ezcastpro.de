@@ -2,7 +2,7 @@
 
 Sie haben die Möglichkeit den EZCast Pro Stick II mit Ihrer Netzwerkinfrastruktur  drahtlos per WLAN zu verbinden.
 
-## Warum soll man das EZCast Pro II Gerät mit WLAN verbinden?
+## Warum soll man EZCast Pro mit WLAN verbinden?
 
 Für den EZCast Pro Stick II wird eine Internet-Verbindung in folgenden Fällen benötigt:
 

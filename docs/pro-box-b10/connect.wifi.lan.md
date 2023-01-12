@@ -2,7 +2,7 @@
 
 Sie haben die Möglichkeit die EZCast Pro Box II mit Ihrer Netzwerkinfrastruktur  drahtlos per WLAN zu verbinden.
 
-## Warum soll man das EZCast Pro II Gerät mit WLAN verbinden?
+## Warum soll man EZCast Pro mit WLAN/LAN verbinden?
 
 Für die EZCast Pro Box II wird eine Internet-Verbindung in folgenden Fällen benötigt:
 
