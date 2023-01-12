@@ -1,24 +1,39 @@
 # Mit WLAN/LAN verbinden
 
-Sie haben die Möglichkeit die EZCast Pro Box II mit Ihrer Netzwerkinfrastruktur  entweder drahtlos per WLAN oder per LAN-Kabel zu verbinden.
+Sie haben die Möglichkeit die EZCast Pro Box II mit Ihrer Netzwerkinfrastruktur  drahtlos per WLAN zu verbinden.
 
-## Warum soll man das EZCast Pro II Gerät mit WLAN/LAN verbinden?
+## Warum soll man das EZCast Pro II Gerät mit WLAN verbinden?
 
 Für die EZCast Pro Box II wird eine Internet-Verbindung in folgenden Fällen benötigt:
 
-* Sie sind mit der EZCast Pro Box II per [Apple AirPlay](airplay.md), [Google Cast](googlecast.md) oder die EZCast Pro [Software bzw. die App](ezcastproapp.md) verbunden und möchten **Inhalte vom Internet** präsentieren.
+* Sie sind mit der Pro Box II per [Apple AirPlay](airplay.md), [Google Cast](googlecast.md) oder die EZCast Pro [Software bzw. die App](ezcastproapp.md) verbunden und möchten **Inhalte vom Internet** präsentieren.
 
-* Sie möchten die EZCast Pro Box II auf die **neueste Firmware-Version** [aktualisieren](firmware-upgrade.md).
+* Sie möchten die Pro Box II auf die **neueste Firmware-Version** [aktualisieren](firmware-upgrade.md).
 
 * Sie möchten per **Fernzugriff** auf die Funktion [Erweiterte Einstellungen](adv.settings.md) zugreifen, um die EZCast Pro Box II zu verwalten.
   
-* **Integriertes Netzwerk:** Wenn alle Ihre Endgeräte und EZCast Pro-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des EZCast Pro zu wechseln, wenn Sie Ihren Bildschirm in einen anderen Raum übertragen möchten.
+* **Integriertes Netzwerk**: Wenn alle Ihre Endgeräte und EZCast Pro-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des EZCast Pro zu wechseln, wenn Sie Ihren Bildschirm in einen anderen Raum übertragen möchten.
 
-## EZCast Pro II mit WLAN verbinden
+## Mit WLAN verbinden
 
 !!! tip "Bitte beachten"
     
 	Wenn das EZCast Pro Gerät im Standardmodus läuft, empfehlen wir das EZCast Pro Gerät nicht mit einer Dual-Band 2,4Ghz/5Ghz SSID zu verbinden, sondern mit einer dedizierten SSID, die auf das 5Ghz-Band eingeschränkt ist. Wenn das EZCast Pro Gerät im [Legacymodus](adv.settings.md#legacymode) läuft, verbinden Sie das EZCast Pro Gerät mit einer dedizierten 2,4Ghz-Band SSID.
+
+### Voraussetzungen
+
+Bevor Sie die EZCast Pro Box II mit Ihrem WLAN verbinden, prüfen Sie bitte die empfohlenen Voraussetzungen:
+
+* **Access Point unterstützt** WLAN-Standard **802.11ac**.
+* **Nicht mit einer Dual-Band 2,4Ghz/5Ghz SSID verbinden**, sondern mit einer dedizierten SSID, die auf den [5GHz-Bereich](https://en.wikipedia.org/wiki/List_of_WLAN_channels#5_GHz_(802.11a/h/j/n/ac/ax)) (20Mhz-Kanäle 36,40,44,48) eingeschränkt ist. Benutzen Sie bitte nicht [DFS-Kanäle](https://en.wikipedia.org/wiki/Dynamic_frequency_selection), um Abbrüche durch plötzlichen Kanalwechsel während der Bildschirmübertragung zu vermeiden.
+* Eine **dedizierte SSID für das EZCast Pro Gerät** z.B. `EZCast_5Ghz` auf **Kanal 48** und im gleichen Netzwerk eine **andere SSID für die Benutzer** bzw. die Endgeräte z.B. `Benutzer_5Ghz` auf **Kanal 40** anlegen, damit die verfügbare WLAN-Kanalbandbreite für das EZCast Pro Gerät mit anderen Clients nicht geteilt werden muss. 
+* Max. 30 Meter **Abstand** von der **Box zum Access Point** sowie von der **Box zu den Endgeräten**. Beim Einrichten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
+* **Access Point liegt im selben Raum** wie die Box. Dies ist für das 5 GHz-Frequenzband besonders wichtig.
+* Eine sogenannte **Sichtlinie** von der Box zum Access Point und zu den Endgeräten mit möglichst wenigen Hindernissen. **Vermeiden Sie Gegenstände direkt neben der EZCast Pro Box II**, die WLAN-Signale schlucken bzw. reflektieren, beispielsweise: Wände, Metallflächen, reflektierende Flächen und andere elektronische Geräte, etc.
+
+![](/assets/img/setup.wifi.box.png)
+
+Wir empfehlen die Verwendung eines WLAN-Analyzers, um Ihre  [WLAN-Umgebung zu scannen](wifi.environment.md) und eine saubere Frequenznutzung fürs kabellose Präsentieren zu planen.
 
 ### Erweiterte Einstellungen öffnen
 
@@ -54,11 +69,15 @@ Für die EZCast Pro Box II wird eine Internet-Verbindung in folgenden Fällen be
     
 	Bitte beachten: Standardmäßig kann die EZCast Pro Box II nur mit einem 5GHz WLAN-Router verbunden werden. Sie können jedoch den [Legacy-Modus (2,4 GHz WLAN)](adv.settings.md#legacymode) aktivieren.
 
-* Wenn die EZCast Pro Box II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrustructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
+* Wenn die EZCast Pro Box II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrastructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
 ![](/assets/img/ProDongleII_connected_to_router.png)
 
-## EZCast Pro Box II mit LAN verbinden
+!!! info "Hinweis"
+
+    Eine Miracast-Verbindung mit der EZCast Pro Box II wird als zusätzliche WLAN-Verbindung nur zur Übertragung des Bildschirms ausgebaut. Für die Internetinhalte verwendet das Endgerät die bisherige bzw. die zuletzt verbundene WLAN/LAN Internetverbindung oder es nutzt den mobilen Datenzugang eines Providers. Weitere Informationen zu Miracast [finden Sie hier](miracast.md).
+
+## Mit LAN verbinden
 
 Schließen Sie dazu ein Netzwerkkabel in den `ETHERNET` Anschluss an der Rückseite der EZCast Pro Box an und verbinden Sie das Kabel mit Ihrem Netzwerk bzw. mit Ihrem Router.
 

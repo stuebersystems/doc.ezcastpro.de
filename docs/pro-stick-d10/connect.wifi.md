@@ -14,7 +14,7 @@ Für den EZCast Pro Stick II wird eine Internet-Verbindung in folgenden Fällen 
   
 * **Integriertes Netzwerk**: Wenn alle Ihre Endgeräte und EZCast Pro-Geräte im gleichen Netzwerk sind, entfällt die Notwendigkeit, jedes Mal zur SSID des EZCast Pro zu wechseln, wenn Sie Ihren Bildschirm in einen anderen Raum übertragen möchten.
 
-## EZCast Pro II mit WLAN verbinden
+## Mit WLAN verbinden
 
 !!! tip "Bitte beachten"
     
