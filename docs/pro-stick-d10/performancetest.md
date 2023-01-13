@@ -1,6 +1,6 @@
 # Leistungstest durchführen
 
-Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres QuattroPods durchführen. Bei korrekter Bedienung sollte die Latenzzeit bei der drahtlosen Bildschirmübertragung über den QP Sender bei 0,2 Sekunden liegen und das Abspielen eines Videos für mindestens 6 Stunden möglich sein. Ein solcher Test ist im folgenden Video durchgeführt worden.
+Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres EZCast Pro Gerätes durchführen. Bei korrekter Bedienung sollte die Latenzzeit bei 0,2 Sekunden liegen und das Abspielen eines Videos für mindestens 6 Stunden möglich sein. Ein solcher Test ist im folgenden Video durchgeführt worden.
 
 * Laden Sie folgendes [MP4-Video](https://assets.stueber.de/videos/qp.u01.latencetest.mp4) auf Ihrem Windows-PC herunter:
 
