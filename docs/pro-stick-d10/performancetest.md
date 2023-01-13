@@ -35,7 +35,7 @@ Damit der Windows-PC während des Test nicht in den Energiesparmodus wechselt, l
 
 * Laden Sie folgendes [MP4-Video](https://assets.stueber.de/videos/performancetest.mp4) auf Ihrem Windows-PC herunter:
 
-[![Leistungstest-Video](/assets/img/thumbnail.video.cms.png)](https://assets.stueber.de/videos/performancetest.mp4)
+[![Leistungstest-Video](/assets/img/thumbnail.video.performancetest2.png)](https://assets.stueber.de/videos/performancetest.mp4)
 
 * Öffen Sie das Video im **Windows Media Player**: 
 
