@@ -1,8 +1,14 @@
 # Leistungstest durchführen
 
-Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres EZCast Pro Gerätes durchführen. Unter normalen Bedienungen beim Testen sollte das EZCast Pro Gerät die Bildschirmübertragung eines Videos mindestens 6 Stunden ohne Probleme leisten können. Zu diesem Test benötigen Sie folgende Geräte:
+Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest Ihres QuattroPods durchführen. Bei korrekter Bedienung sollte die Latenzzeit bei der drahtlosen Bildschirmübertragung über den QP Sender bei 0,2 Sekunden liegen und das Abspielen eines Videos für mindestens 6 Stunden möglich sein. Ein solcher Test ist im folgenden Video durchgeführt worden.
 
-* Einen Windows-Notebook, der am Stromnetz angeschlossen ist.
+* Laden Sie folgendes [MP4-Video](https://assets.stueber.de/videos/qp.u01.latencetest.mp4) auf Ihrem Windows-PC herunter:
+
+[![CMS Einführungsvideo](/assets/img/thumbnail.video.performancetest1.png)](https://assets.stueber.de/videos/qp.u01.latencetest.mp4)
+
+. Zu diesem Test benötigen Sie folgende Geräte:
+
+* Ein Windows-Notebook, das am Stromnetz angeschlossen ist.
 
 ## Auto Mouse Mover herunterladen {#automousemover}
 
@@ -27,9 +33,9 @@ Damit der Windows-PC während des Test nicht in den Energiesparmodus wechselt, l
 
 ## Videodatei wiederholend abspielen
 
-* Laden Sie folgendes [MP4-Video](https://assets.stueber.de/videos/cms.quattropod.introduction.de.mp4) auf Ihrem Windows-PC herunter:
+* Laden Sie folgendes [MP4-Video](https://assets.stueber.de/videos/performancetest.mp4) auf Ihrem Windows-PC herunter:
 
-[![CMS Einführungsvideo](/assets/img/thumbnail.video.cms.png)](https://assets.stueber.de/videos/cms.quattropod.introduction.de.mp4)
+[![Leistungstest-Video](/assets/img/thumbnail.video.cms.png)](https://assets.stueber.de/videos/performancetest.mp4)
 
 * Öffen Sie das Video im **Windows Media Player**: 
 
@@ -65,7 +71,7 @@ Eine umfassende Anleitung zur Verwendung von Miracast unter Windows finden Sie [
 
     ![Starten Sie die Software EZCastPro](/assets/img/EZCastPro_Start_Software.png)
 
-* Wählen Sie den EZCast Pro Stick II aus, wie unten abgebildet:
+* Wählen Sie die EZCast Pro Box II aus, wie unten abgebildet:
 
     ![Die Geräteliste](/assets/img/mac-windows_device-list.png)
 
