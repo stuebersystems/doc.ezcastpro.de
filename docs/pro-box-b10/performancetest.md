@@ -6,7 +6,7 @@ Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Leistungstest 
 
 [![CMS Einführungsvideo](/assets/img/thumbnail.video.performancetest1.png)](https://assets.stueber.de/videos/qp.u01.latencetest.mp4)
 
-. Zu diesem Test benötigen Sie folgende Geräte:
+Zu diesem Test benötigen Sie folgende Geräte:
 
 * Ein Windows-Notebook, das am Stromnetz angeschlossen ist.
 
