@@ -29,7 +29,7 @@ Bevor Sie die EZCast Pro Box II mit Ihrem WLAN verbinden, prüfen Sie bitte die 
 * Eine **dedizierte SSID für das EZCast Pro Gerät** z.B. `EZCast_5Ghz` auf **Kanal 48** und im gleichen Netzwerk eine **andere SSID für die Benutzer** bzw. die Endgeräte z.B. `Benutzer_5Ghz` auf **Kanal 40** anlegen, damit die verfügbare WLAN-Kanalbandbreite für das EZCast Pro Gerät mit anderen Clients nicht geteilt werden muss. 
 * Max. 30 Meter **Abstand** von der **Box zum Access Point** sowie von der **Box zu den Endgeräten**. Beim Einrichten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
 * **Access Point liegt im selben Raum** wie die Box. Dies ist für das 5 GHz-Frequenzband besonders wichtig.
-* Eine sogenannte **Sichtlinie** von der Box zum Access Point und zu den Endgeräten mit möglichst wenigen Hindernissen. **Vermeiden Sie Gegenstände direkt neben der EZCast Pro Box II**, die WLAN-Signale schlucken bzw. reflektieren, beispielsweise: Wände, Metallflächen, reflektierende Flächen und andere elektronische Geräte, etc.
+* Eine sogenannte **Sichtlinie** von der **Box zum Access Point** sowie von der **Box zu den Endgeräten** mit möglichst wenigen Hindernissen. **Vermeiden Sie Gegenstände direkt neben der EZCast Pro Box II**, die WLAN-Signale schlucken bzw. reflektieren, beispielsweise: Wände, Metallflächen, reflektierende Flächen und andere elektronische Geräte, etc.
 
 ![](/assets/img/setup.wifi.box.png)
 

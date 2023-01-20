@@ -29,7 +29,7 @@ Bevor Sie den EZCast Pro Stick II mit Ihrem WLAN verbinden, prüfen Sie bitte di
 * Eine **dedizierte SSID für das EZCast Pro Gerät** z.B. `EZCast_5Ghz` auf **Kanal 48** und im gleichen Netzwerk eine **andere SSID für die Benutzer** bzw. die Endgeräte z.B. `Benutzer_5Ghz` auf **Kanal 40** anlegen, damit die verfügbare WLAN-Kanalbandbreite für das EZCast Pro Gerät mit anderen Clients nicht geteilt werden muss. 
 * Max. 10 Meter **Abstand** vom **Stick zum Access Point** sowie vom **Stick zu den Endgeräten**. Beim Einrichten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
 * **Access Point liegt im selben Raum** wie der Stick. Dies ist für das 5 GHz-Frequenzband besonders wichtig.
-* Eine sogenannte **Sichtlinie** vom Stick zum Access Point und zu den Endgeräten mit möglichst wenigen Hindernissen. **Vermeiden Sie Gegenstände direkt neben dem EZCast Pro Stick II**, die WLAN-Signale schlucken bzw. reflektieren, beispielsweise: Wände, Metallflächen, reflektierende Flächen und andere elektronische Geräte, etc.
+* Eine sogenannte **Sichtlinie** vom **Stick zum Access Point** sowie vom **Stick zu den Endgeräten** mit möglichst wenigen Hindernissen. **Vermeiden Sie Gegenstände direkt neben dem EZCast Pro Stick II**, die WLAN-Signale schlucken bzw. reflektieren, beispielsweise: Wände, Metallflächen, reflektierende Flächen und andere elektronische Geräte, etc.
 
 ![](/assets/img/setup.wifi.png)
 
