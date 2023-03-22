@@ -6,6 +6,22 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
+## EZCast Pro Stick II Firmware - 1.17478.20
+2023.03.20
+
+**Neue Funktionen:**
+* Verbesserte Host-Kontrolle
+* Unterstützung für UIBC-Touchback unter Miracast AGO-Modus
+* Unterstützung für HDMI CEC One-Touch-Play
+* Miracast PIN: Unterstützung für einen vierstelligen und achtstelligen PIN hinzugefügt
+
+**Fixes:**
+* Verbesserte SoftAP-Verbindung
+* Anpassbarer IP-Adressbereich für den SoftAP
+* Miracast NGO-Modus: "PIN zur Bildschirmübertragung immer anfordern" hinzugefügt
+* DLNA deaktiviert
+* DFS-Master-Unterstütung deaktiviert
+
 ## EZCast Pro Box II Firmware - 1.13781.65
 2022.06.06
 
