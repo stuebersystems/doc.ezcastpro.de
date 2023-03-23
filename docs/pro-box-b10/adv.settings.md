@@ -173,7 +173,7 @@ Die Bildschirmübertragung von Geräten über das Google Cast Protokoll unterst�
 
 Die Übertragung von Miracast-Geräten unterstützen. Eine umfassende Anleitung zur Verwendung von Miracast finden Sie [hier](miracast.md).
 
-![](/assets/img/Miracast.png)
+![](/assets/img/Miracast.AGO.mode.png)
 
 #### Legacy-Modus (2,4 GHz WLAN) {#legacymode}
 

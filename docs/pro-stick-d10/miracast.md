@@ -53,7 +53,7 @@ Auf Ihrem Android-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um 
 
 Mit EZCast Pro II stehen zwei verschiedende Modi **Nur im Vollbildmodus** und **Geteilter Bildschirm** zur Verfügung. Diese zwei Modi bieten unterschiedliche Funktionalität. Wir liefern Ihr EZCast Pro Gerät mit dem Modus **Geteilter Bildschirm**. Sie haben allerdings die Wahl, auf den anderen Modus mithilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) unter `Gerätemanagement` -> `Miracast` umzuschalten.
 
-![](/assets/img/Miracast.png)
+![](/assets/img/Miracast.AGO.mode.png)
 
 ### Geteilter Bildschirm (AGO-Modus) {#ago-mode}
 
