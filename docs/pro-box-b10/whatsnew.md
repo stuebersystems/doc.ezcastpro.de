@@ -10,12 +10,14 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 2023.03.20
 
 **Neue Funktionen:**
+
 * Verbesserte Host-Kontrolle
 * Unterstützung für UIBC-Touchback unter Miracast AGO-Modus
 * Unterstützung für HDMI CEC One-Touch-Play
 * Miracast PIN: Unterstützung für einen vierstelligen und achtstelligen PIN hinzugefügt
 
 **Fixes:**
+
 * Verbesserte SoftAP-Verbindung
 * Anpassbarer IP-Adressbereich für den SoftAP
 * Miracast NGO-Modus: "PIN zur Bildschirmübertragung immer anfordern" hinzugefügt
