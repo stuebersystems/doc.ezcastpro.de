@@ -21,7 +21,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 
 * Verbesserte SoftAP-Verbindung
 * DLNA deaktiviert
-* DFS-Master-Unterstütung deaktiviert
+* DFS-Master-Unterstützung deaktiviert
 
 ## EZCast Pro Stick II Firmware - 1.13781.66
 2022.07.21

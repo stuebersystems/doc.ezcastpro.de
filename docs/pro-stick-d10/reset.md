@@ -71,8 +71,9 @@ Firmware-Version: [1.17478.20](whatsnew.md#ezcast-pro-stick-ii-firmware-11747820
 * [AirPlay-Modus](adv.settings.md#AirPlayMode): `Spiegeln + Video streamen`
 * [AirView](adv.settings.md#AirView): `EIN`
 * [Castcode](adv.settings.md#Castcode): `Zufällig`
-* [Miracast Pin-Code](adv.settings.md#Miracast): `EIN`
+* [Miracast PIN-Code](adv.settings.md#Miracast): `EIN`
 * [Miracast Geteilter Bildschirm](adv.settings.md#Miracast): `Geteilter Bildschirm unterstützt`
+* [Miracast PIN-Modus](adv.settings.md#Miracast): `4-stelliger Zufallscode`
 * [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `2 Stunden`
 
 **Netzwerkmanagement**

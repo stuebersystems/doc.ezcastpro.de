@@ -22,7 +22,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
 * Verbesserte SoftAP-Verbindung
 * DLNA deaktiviert
-* DFS-Master-Unterstütung deaktiviert
+* DFS-Master-Unterstützung deaktiviert
 
 ## EZCast Pro Box II Firmware - 1.13781.65
 2022.06.06
