@@ -15,6 +15,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 * Unterstützung für HDMI CEC One-Touch-Play
 * Miracast: Unterstützung für einen vierstelligen und achtstelligen PIN hinzugefügt
 * Miracast: "PIN zur Bildschirmübertragung immer anfordern" im NGO-Modus hinzugefügt
+* Miracast: Unterstützung für UIBC-Touchback im AGO-Modus hinzugefügt
 * Anpassbarer IP-Adressbereich für den SoftAP
 
 **Fixes:**
