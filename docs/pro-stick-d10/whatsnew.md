@@ -13,13 +13,13 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 
 * Verbesserte Host-Kontrolle
 * Unterstützung für HDMI CEC One-Touch-Play
-* Miracast PIN: Unterstützung für einen vierstelligen und achtstelligen PIN hinzugefügt
+* Miracast: Unterstützung für einen vierstelligen und achtstelligen PIN hinzugefügt
+* Miracast: "PIN zur Bildschirmübertragung immer anfordern" im NGO-Modus hinzugefügt
+* Anpassbarer IP-Adressbereich für den SoftAP
 
 **Fixes:**
 
 * Verbesserte SoftAP-Verbindung
-* Anpassbarer IP-Adressbereich für den SoftAP
-* Miracast NGO-Modus: "PIN zur Bildschirmübertragung immer anfordern" hinzugefügt
 * DLNA deaktiviert
 * DFS-Master-Unterstütung deaktiviert
 
