@@ -312,6 +312,12 @@ Einen OTA-Server angeben.
 
 ![](/assets/img/OTA_server.jpg)
 
+#### CustomSoftAP
+
+Geben Sie einen IP-Adressbereich für den Hotspot des EZCast Pro Gerätes an:
+
+![](/assets/img/IP-Address-range.png)
+
 #### Verbindung (Netzwerkschnittstellen) {#networkinterfaces}
 
 Es gibt zwei Möglichkeiten, sich mit dem Empfänger zu verbinden. Bei der Ersteinrichtung des EZCast Pro Gerätes stehen Ihnen standardmäßig die **Direkte Verbindung** sowie die Verbindung **Über Router** zur Verfügung.

@@ -11,11 +11,11 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 
 **Neue Funktionen:**
 
-* Verbesserte Host-Kontrolle
+* Verbesserte [Host-Kontrolle](ezcastproapp.md#hostcontrol)
 * Unterstützung für HDMI CEC One-Touch-Play
-* Miracast: Unterstützung für einen vierstelligen und achtstelligen PIN hinzugefügt
-* Miracast: "PIN zur Bildschirmübertragung immer anfordern" im NGO-Modus hinzugefügt
-* Anpassbarer IP-Adressbereich für den SoftAP
+* Miracast: Unterstützung für einen [vierstelligen und achtstelligen PIN](securitycodes.md#miracast-pin) hinzugefügt
+* Miracast: Die Option [PIN zur Bildschirmübertragung immer anfordern](securitycodes.md#miracast-pin) im NGO-Modus hinzugefügt
+* Anpassbarer [IP-Adressbereich für den SoftAP](adv.settings.md#customsoftap)
 
 **Fixes:**
 
