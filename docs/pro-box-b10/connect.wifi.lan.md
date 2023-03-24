@@ -30,6 +30,7 @@ Bevor Sie die EZCast Pro Box II mit Ihrem WLAN verbinden, prüfen Sie bitte die 
 * Max. 30 Meter **Abstand** von der **Box zum Access Point** sowie von der **Box zu den Endgeräten**. Beim Einrichten bitte die [Signalstärke](wifi.environment.md) prüfen. Zwischen -40 dBm und -50 dBm ist optimal.
 * **Access Point liegt im selben Raum** wie die Box. Dies ist für das 5 GHz-Frequenzband besonders wichtig.
 * Eine sogenannte **Sichtlinie** von der **Box zum Access Point** sowie von der **Box zu den Endgeräten** mit möglichst wenigen Hindernissen. **Vermeiden Sie Gegenstände direkt neben der EZCast Pro Box II**, die WLAN-Signale schlucken bzw. reflektieren, beispielsweise: Wände, Metallflächen, reflektierende Flächen und andere elektronische Geräte, etc.
+* Bei einem Gast-WLAN bitte **Client-Isolation deaktivieren** oder eine neue SSID anlegen, die nicht als "Gast-WLAN" eingestellt ist, sondern als "Standard". Standardmäßig verhindert ein Gast-WLAN, dass drahtlose Clients desselben Access-Points miteinander kommunizieren. Dies kann die Funktionalität von Streaming-Protokollen wie AirPlay, Chromecast usw. beeinträchtigen. 
 
 ![](/assets/img/setup.wifi.box.png)
 
