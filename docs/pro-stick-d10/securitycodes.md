@@ -33,13 +33,17 @@ Die Funktion `Castcode-Kontrolle` ist in der Weboberfläche unter [Gerätemanage
 
 ### Miracast PIN 
 
-Der Miracast-PIN erscheint erst als zufälliger achtstelliger Code in gelb oben auf der Startseite, wenn ein Miracast-Gerät dem EZCast Pro Gerät einen Antrag zum Spiegeln sendet:
+Der Miracast-PIN erscheint erst als zufälliger vierstelliger oder achtstelliger Code in gelb oben auf der Startseite, wenn ein Miracast-Gerät dem EZCast Pro Gerät einen Antrag zum Spiegeln sendet:
 
 ![Miracast PIN ](/assets/img/ProIIDongle_MiracastPin.png)
  
-Aktivieren Sie den Miracast-PIN in der Weboberfläche unter [Gerätemanagement -> Miracast](adv.settings.md#Miracast):
+Aktivieren Sie den Miracast-PIN in der Weboberfläche unter [Gerätemanagement -> Miracast](adv.settings.md#Miracast) und wählen Sie den gewünschten PIN-Modus aus:
 
-![Miracast PIN ](/assets/img/Miracast.pin.png)
+![Miracast PIN ](/assets/img/Miracast.pin.AGO.mode.png)
+
+Standardmäßig wird der Miracast-PIN nur beim erstem Mal angefordert. Ab der Firmware [1.17478.20](whatsnew.md#ezcast-pro-stick-ii-firmware-11747820) kann man die Funktion `PIN immer anfordern` einstellen. Diese Option steht allerdings nur im Modus **Nur im Vollbildmodus** zur Verfügung. Klicken Sie [hier](miracast.md#die-zwei-miracast-modi), um mehr über die zwei verschiedende Modi **Nur im Vollbildmodus** und **Geteilter Bildschirm** zu erfahren:
+
+![Miracast PIN ](/assets/img/Miracast.pin.NGO.mode.png)
 
 ### AirPlay PIN
 
