@@ -264,7 +264,7 @@ Bei der obigen Konfiguration (die Funktionen Gerätemanager-Steuerung und Netzwe
 
 Der erste Benutzer, der sich über die Software bzw. über die App verbindet, wird als Moderator (Host) bezeichnet und die anderen als Gäste. Standardmäßig muss jeder Antrag zum Senden vom Host genehmigt werden, in dem er mit entweder `Erlauben`, oder `Ablehnen` antwortet: 
 
-![](/assets/img/host.control_answer.png)
+![](/assets/img/AppHostKontrolle.png)
 
 **Antrag automatisch genehmigen**
 
