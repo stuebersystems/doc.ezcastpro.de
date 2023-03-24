@@ -81,7 +81,7 @@ Sie haben die Wahl, die Erhebung Ihrer Personen-, Standort- und Nutzungsdaten fr
 
 ## Host-Kontrolle {#hostcontrol}
 
-Der erste Benutzer, der sich über die Software bzw. über die App verbindet, wird als Moderator (Host) bezeichnet und die anderen als Gäste. Standardmäßig muss jeder Antrag zum Senden vom Host genehmigt werden, indem er mit entweder `Vollbild`, `Teilen`, oder `Ablehnen` antwortet: 
+Der erste Benutzer, der sich über die Software bzw. über die App verbindet, wird als Moderator (Host) bezeichnet und die anderen als Gäste. Standardmäßig muss jeder Antrag zum Senden vom Host genehmigt werden, indem er mit entweder `Erlauben`, oder `Ablehnen` antwortet: 
 
 ![](/assets/img/AppHostKontrolle.png)
 
