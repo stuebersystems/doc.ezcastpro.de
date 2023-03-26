@@ -65,7 +65,7 @@ Sollte Sie Verbindungsprobleme bzw. Abbrüche mit dem EZCast Gerät über Ihre I
 
 ### WLAN-Signalstärke
 
-Die EZCast Pro Box II hat eine Funkreichweite (Sichtlinie) von bis zu 30m aber der Hotspot eines Handys kann bis zu höchstens 10m funkreichweite leisten. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen der Box und Ihrem Hotspot. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen, wenn die Inhalte vom Internet abhängig sind oder wenn Ihre Mobilgeräte mit der Box über Ihre Infrastruktur verbinden.
+Die EZCast Pro Box II hat eine Funkreichweite (Sichtlinie) von bis zu 30m aber der Hotspot eines Handys kann bis zu höchstens 10m funkreichweite leisten. Eine geringe Signalanzeige bezieht sich auf eine schlechte Signalstärke zwischen der Box und Ihrem Hotspot. Dies kann zu einer abgehackten Wiedergabe von Videos und Inhalten führen:
 
 Dies kann verschiedene Ursachen und somit verschiedene Lösungen haben:
 
