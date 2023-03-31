@@ -23,6 +23,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 * Verbesserte SoftAP-Verbindung
 * DLNA deaktiviert
 * DFS-Master-Unterstützung deaktiviert
+* Fehler in der Funktion [AirPlay -> Spiegeln + Video streaming](airplay.md#video-streamen-aktivieren) behoben
 
 ## EZCast Pro Box II Firmware - 1.13781.65
 2022.06.06
