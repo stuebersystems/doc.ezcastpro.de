@@ -76,7 +76,7 @@ In diesem Modus gelten die folgenden Eigenschaften:
 * [Infracast](#p2p_vs_infracast) wird nicht unterstützt.
 * Während der Bildschirmübertragung eines Miracast-Gerätes bleiben alle Netzwerkschnittstellen erreichbar und alle Funktionen stehen weiterhin zur Verfügung.
 
-Sollten Sie die Option `Admineinstellungen` -> `Verbindung` -> `Nur über Router` aktiviert haben, wird das Stick-WLAN trotzdem ausgestrahlt. Dies ist erforderlich, um diesen Miracast-Modus zu unterstützen. Das Kennwort wird allerdings ausgeblendet. Daher erfolgt die Bildschirmübertragung nur über P2P mit Miracast, oder über Router mit AirPlay, Google Cast, EZCast Pro App.
+Sollten Sie die Option `Admineinstellungen` -> `Verbindung` -> [Nur über Router](adv.settings.md#networkinterfaces) aktiviert haben, wird das Stick-WLAN trotzdem ausgestrahlt. Dies ist erforderlich, um diesen Miracast-Modus zu unterstützen. Das Kennwort wird allerdings ausgeblendet. Daher erfolgt die Bildschirmübertragung nur über P2P mit Miracast, oder über Router mit AirPlay, Google Cast, EZCast Pro App.
 
 ![](/assets/img/AGO_via_Router.png)
 
