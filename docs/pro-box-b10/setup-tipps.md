@@ -52,6 +52,16 @@ Den Empfänger kann man mit einem guten Klebeband befestigen, ohne den Bildschir
 
 ![tesa montagepads](/assets/img/RX_mounted.huawei.png)
 
+### HDMI auf VGA Adapter {#hdmi-vga-adapter}
+
+Verfügt Ihr Bildschirm bzw. Ihr Beamer über keinen HDMI-, sondern nur einen VGA-Anschluss? Mit diesem [HDMI auf VGA Adapter](https://www.amazon.de/dp/B01GFMW91E?aaxitk=H031EFlH09CVpciz7mx1fA&pd_rd_i=B01GFMW91E&pf_rd_p=737424fe-4e87-4f15-ad17-a88ea0f6f9fe&hsa_cr_id=3885910160902&sb-ci-n=productDescription&sb-ci-v=UGREEN%20HDMI%20auf%20VGA%20Adapter%20HDMI%20Buchse%20zu%20VGA%20Stecker%201080P%20HDTV%20Aktiv%20Audio%20%C3%9Cbertragung%20Konverterkabel%20unterst%C3%BCtzt%20f%C3%BCr%20TV%20Stick) können Sie den EZCast Pro Stick II mit alten Anzeigegeräten benutzen.
+
+![HDMI auf VGA Adapter](/assets/img/UGREEN_HDMI_auf_VGA_Adapter1.jpg)
+
+Für eine stabile Signalübertragung und auch zum Abspielen von Sound schließen Sie eine Mikro-USB-Stromversorgung an. Der Sound wird per 3.5 Audio Kabel übertragen.
+
+![Mikro-USB-Eingang für Strom und Audioausgang mit 3,5mm-Klinkenbuchse](/assets/img/UGREEN_HDMI_auf_VGA_Adapter2.jpg)
+
 ### HDMI-Verlängerung (1M)
 
 Mit eine HDMI-Verlängerung können Sie bei großen Displays die Signalstörung vermeiden. Diese können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=ezcastpro):

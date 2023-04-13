@@ -10,14 +10,14 @@
 
 | Die EZCast Pro Box II besteht aus |   |
 | :----: | :----: |
-| ![](/assets/img/Contents.B10.png)<br>EZCast Pro Box II | ![](/assets/img/Contents_1M.HDMI.Cable.png) <br>HDMI-Kabel (1m) |
-| ![](/assets/img/Contents_USB_Charger.png)<br>USB Ladekabel  (1 m) | ![](/assets/img/Contents.Adapter.png)<br>HDMI auf HDMI/VGA-Buchse<br>mit Audio 3,5 mm Adapter |
-| ![](/assets/img/Contents.PowerSupply.png)<br>5V/2A Universal Stromadapter | ![](/assets/img/Contents.QSG.png)<br>Schnellstartanleitung |
+| ![](/assets/img/Contents.B10.png)<br>EZCast Pro Box II |
+| ![](/assets/img/QSG.USB_Charger.png)<br>Universal Stromadapter 5V/2A | ![](/assets/img/QSG.Charger.cable.png)<br>USB-Ladekabel 1 m |
+| ![](/assets/img/QSG.HDMI.1m.png)<br>HDMI-Kabel 1 m | ![](/assets/img/QSG-Manual.png)<br>Schnellstartanleitung |
 
 
 ## Einrichtung {#setup}
 
-Schließend Sie das EZCast Pro Gerät an den HDMI-Eingang Ihres Bildschirms an, wie unten abgebildet. Um die EZCast Pro Box II mit einem älteren Beamer mit VGA-Anschluss verbinden zu können, nutzen Sie den mitgelieferten HDMI auf HDMI/VGA-Buchse/Audio 3,5 mm Adapter.
+Verbinden Sie den Empfänger, wie unten abgebildet, mit dem HDMI-Eingang Ihres Bildschirms. Schließen Sie das Netzteil mit Hilfe des USB-Kabels an. Die EZCast Pro Box II schaltet sich automatisch ein. Um die EZCast Pro Box II mit einem älteren Beamer mit VGA-Anschluss verbinden zu können, empfehlen wir einen [HDMI Buchse auf VGA](setup-tipps.md#hdmi-vga-adapter) Adapter.
 
 Schließen Sie das Netzteil mit Hilfe des USB-Kabels an. Die EZCast Pro Box II schaltet sich automatisch ein. 
 
