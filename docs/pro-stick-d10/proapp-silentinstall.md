@@ -2,10 +2,6 @@
 
 Mit den unten stehenden Befehlen können Sie die EZCast Pro Software unter Windows unbeaufsichtigt (silent) installieren, reparieren und auch wieder deinstallieren.
 
-!!! info "Hinweis"
-
-    Bei Bedarf können Sie von uns ein Installationspaket im **MSI-Format** erhalten. [Schreiben Sie uns einfach an](https://www.stueber.de/contact.php?from=ezcastpro).
-	
 ## Vorbereitung
 
 Laden Sie die EZCast Pro Software [für Windows herunter](https://ezcast-pro.com/download/ezcastpro-app/windows/).
