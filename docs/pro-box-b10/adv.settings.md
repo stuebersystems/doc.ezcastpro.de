@@ -371,6 +371,12 @@ Sie können die Firmware der EZCast Pro II Box aktualisieren, um die neuesten Er
 
 Klicken Sie [hier](firmware-upgrade.md) für eine vollständige Anleitung zum Aktualisieren der Firmware.
 
+#### Zentrales Managementsystem
+
+Sie können die Unterstützung der Funktion Zentrales Managementsystem (CMS) hier aktivieren:
+
+![](/assets/img/cms.activate.png)
+
 #### Auf Standardeinstellungen zurücksetzen {#Reset}
 
 Nutzen Sie diese Option, um die Pro Box auf die Standardeinstellungen zurückzusetzen. Weitere Informationen dazu finden Sie [hier](reset.md).

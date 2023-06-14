@@ -372,6 +372,12 @@ Sie können die Firmware des EZCast Pro Stick II aktualisieren, um die neuesten 
 
 Klicken Sie [hier](firmware-upgrade.md) für eine vollständige Anleitung zum Aktualisieren der Firmware.
 
+#### Zentrales Managementsystem
+
+Sie können die Unterstützung der Funktion Zentrales Managementsystem (CMS) hier aktivieren:
+
+![](/assets/img/cms.activate.png)
+
 #### Auf Standardeinstellungen zurücksetzen {#Reset}
 
 Nutzen Sie diese Option, um den Pro Stick auf die Standardeinstellungen zurückzusetzen. Weitere Informationen dazu finden Sie [hier](reset.md).
