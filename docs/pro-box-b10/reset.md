@@ -62,7 +62,7 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
 Die unten empfohlenen Einstellungen setzen voraus, dass Sie ein Zurücksetzen des Empfängers bereits durchgeführt haben:
 
-Firmware-Version: [1.17478.20](whatsnew.md#ezcast-pro-box-ii-firmware-11747820)
+Firmware-Version: [1.17478.21](whatsnew.md#ezcast-pro-box-ii-firmware-11747821)
 
 **Gerätemanagement**
 
