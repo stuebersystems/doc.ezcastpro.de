@@ -43,7 +43,7 @@ Es handelt sich um zwei wichtige Tests der Signalstärke, auch bekannt als **RSS
 
 ### Was ist ein guter RSSI-Wert?
 
-Je höher der RSSI-Wert, desto stärker das Signal. In Zahlen ausgedrückt, bedeutet die Zahl, die näher an Null liegt normalerweise ein besseres Signal. Zum Beispiel ist zwischen `-40` und `-50` dBm ist optimal, `-75` ist halbwegs annehmbar und `100` wäre überhaupt kein Signal.
+Je höher der RSSI-Wert, desto stärker das Signal. In Zahlen ausgedrückt, bedeutet die Zahl, die näher an Null liegt normalerweise ein besseres Signal. Zum Beispiel zwischen `-40` und `-50` dBm ist optimal, `-75` ist halbwegs annehmbar und `100` wäre überhaupt kein Signal.
 
 ### Test 1. RSSI des Senders prüfen
 
