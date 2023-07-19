@@ -70,8 +70,9 @@ Firmware-Version: [1.17478.21](whatsnew.md#ezcast-pro-box-ii-firmware-11747821)
 * [AirPlay-Modus](adv.settings.md#AirPlayMode): `Spiegeln + Video streamen`
 * [AirView](adv.settings.md#AirView): `EIN`
 * [Castcode](adv.settings.md#Castcode): `Zufällig`
-* [Miracast Pin-Code](adv.settings.md#Miracast): `EIN`
-* [Miracast Geteilter Bildschirm](adv.settings.md#Miracast): `Geteilter Bildschirm unterstützt`
+* [Miracast PIN](adv.settings.md#Miracast): `EIN`
+* [Miracast Modus](adv.settings.md#Miracast): `Geteilter Bildschirm unterstützt`
+* [Miracast PIN-Modus](adv.settings.md#Miracast): `4-stelliger Zufallscode`
 * [Zeitgesteuerter Neustart](adv.settings.md#timedrestart): `2 Stunden`
 
 **Netzwerkmanagement**
