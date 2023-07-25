@@ -27,7 +27,7 @@ Die passende Empfehlung für die Einrichtung hängt davon ab, wo sich der HDMI-A
 ### HDMI-Verlängerung 0,5 m {#50cm-HDMI-extension}
 
 * Der HDMI-Anschluss befindet weiter hinten am Bildschirm.
-* eine HDMI-Verlängerung 0,5 m bzw. 1 m ist im Lieferumfang nicht enthalten aber kann bei Bedarf zusätzlich [bestellt](setup-tipps.md#hdmi-verlangerung-1m) werden.
+* Eine HDMI-Verlängerung 0,5 m bzw. 1 m ist im Lieferumfang nicht enthalten aber kann bei Bedarf zusätzlich [bestellt](setup-tipps.md#hdmi-verlangerung-1m) werden.
 
 ![)](/assets/img/D10.large.screen.50cm.png)
 
