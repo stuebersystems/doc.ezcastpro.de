@@ -107,7 +107,8 @@ nav:
         - "Anleitung: Linux": pro-stick-d10/linux.md
         - "Anleitung: Windows": pro-stick-d10/quickstart/#windows-und-macos
     - Anleitungen nach<br>Display: 
-        - "Anleitung: Projektor": pro-stick-d10/setup.projector.md        
+        - "Anleitung: Projektor": pro-stick-d10/setup.projector.md   
+        - "Anleitung: Large Display": pro-stick-d10/setup.large.display.md         
     - Anleitungen nach<br>Streamingprotokoll: 
         - "Anleitung: AirPlay": pro-stick-d10/airplay.md
         - "Anleitung: Google Cast": pro-stick-d10/googlecast.md

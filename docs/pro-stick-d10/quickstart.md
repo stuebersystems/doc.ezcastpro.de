@@ -17,7 +17,7 @@
 
 * Schließen Sie den EZCast Pro Stick II an den HDMI-Eingang Ihres Anzeigegerätes an. Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel an einen USB-Ladeanschluss an, der den **Mindeststrom 7,5W (5V/1,5A)** liefert:
 
-Um zu erfahren, genau welche Einrichtung für Sie am besten geeignet ist, lesen Sie bitte sorgfältig unsere [Einrichtungsempfehlungen](setup.projector.md).
+Um zu erfahren, genau welche Einrichtung für Sie am besten geeignet ist, lesen Sie bitte sorgfältig unsere [Einrichtungsempfehlungen](select.display.type.md).
 
 ![HDMI-Port + externes Netzteil (Min. 5V/1,5A)](/assets/img/D10-1xPlug-InternalPower.5V2A.png)
 

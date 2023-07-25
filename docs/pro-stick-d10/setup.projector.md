@@ -1,5 +1,7 @@
 # Einrichtung - Projektor
 
+Der EZCast Pro Stick II ist der Projektoren perfekt geeignet. Um die Leistung Ihres EZCast Pro Gerätes zu optimieren, schauen Sie sich bitte unsere Einrichtungsempfehlungen:
+
 #### Stromversorgung (5V/1,5A) {#power}
 
 * Für die Stromversorgung schließen Sie das mitgelieferte USB C Ladekabel an einen USB-Ladeanschluss an, der den **Mindeststrom 7,5W (5V/1,5A)** liefert. Verbinden Sie anschließend das USB C Ladekabel mit dem EZCast Pro Stick II. Wenn Ihre Anzeige über keinen USB-Ladeanschluss verfügt, oder **bestehen Zweifel, ob der USB-Ladeanschluss den Mindeststrom unterstützt**, kann ein USB-Ladegerät (5V/2A) bei uns [bestellt](setup-tipps.md#powersupply) werden:
