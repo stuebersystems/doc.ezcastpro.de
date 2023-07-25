@@ -8,7 +8,7 @@ Der EZCast Pro Stick II ist der Projektoren perfekt geeignet. Um die Leistung Ih
 
 ![USB-Ladegerät (5V/2A)](/assets/img/connect.power.stick.png)
 
-## Empfohlene Einrichtungen
+## Empfohlene Einrichtungen {#recommended.setups}
 
 Welche Einrichtung für Sie am besten geeignet ist, hängt wirklich davon ab, ob a) der Projektor über einen USB-Ladeanschluss verfügt, der den **Mindeststrom 7,5W (5V/1,5A)** liefert, b) neben dem Projektor eine oder zwei Steckdosen zur Verfügung stehen. Wir empfehlen folgende drei Einrichtungen:
 

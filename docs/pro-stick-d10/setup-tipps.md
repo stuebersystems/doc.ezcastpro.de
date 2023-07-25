@@ -1,12 +1,8 @@
 # Einrichtungshinweise
 
+## Kabel und Zubehöre
 
-
-## Ersatzteile
-
-### Netzteile {#powersupply}
-
-#### Samsung USB-Netzteil (5V/2A)
+### Samsung USB-Netzteil (5V/2A)
 
 Das **Samsung Netzteil (5V/2A)** können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=ezcastpro):
 
@@ -17,8 +13,6 @@ Das **Samsung Netzteil (5V/2A)** können Sie bei Bedarf über uns [erwerben](htt
 Das mitgelieferte USB-Stromkabel können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=ezcastpro):
 
 ![Stromkabel USB 2.0 Typ C 1M](/assets/img/USBA-2.0-TypeC.jpg)
-
-## Kabel und Zubehöre
 
 ### C14 to C13+Euro Y Type Splitter Adapter
 

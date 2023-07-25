@@ -1,22 +1,18 @@
 # Einrichtungshinweise
 
-## Ersatzteile
+## Kabel und Zubehöre
 
-### Netzteile {#powersupply}
-
-#### Das mitgelieferte USB-Netzteil (5V/2A)
+### Das mitgelieferte USB-Netzteil (5V/2A)
 
 Die EZCast Pro Box II wird mit einem 5V/2A USB-Netzteil geliefert. Als Ersatzteil kann man auch ein anderes Netzteil verwenden. Kontrollieren Sie einfach die Ausgangsleistung auf dem Typenschild, dass es sich über den Mindeststrom der EZCast Pro Box II (5V/2A) verfügt:
 
 ![USB-Netzteil (5V/2A)](/assets/img/QuattroPod.USBCharger.png)
 
-#### Das Ersatz Samsung USB-Netzteil (5V/2A)
+### Das Ersatz Samsung USB-Netzteil (5V/2A)
 
 Das **Samsung Netzteil (5V/2A)** können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=ezcastpro):
 
 ![Samsung USB-Netzteil](/assets/img/Samsung.USB-Netzteil.jpg)
-
-## Kabel und Zubehöre
 
 ### Stromkabel USB 2.0 Typ A Stecker zu 5,5/2,1 mm 
 
