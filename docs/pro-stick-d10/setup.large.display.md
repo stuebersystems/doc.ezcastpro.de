@@ -54,11 +54,9 @@ Auch wenn es intuitiv erscheinen mag, den Stick über einen beliebigen USB-Ansch
 
 ![)](/assets/img/D10.large.screen.donot3.png)
 
-Um zu erfahren, wie Sie sowohl ein USB-Ladegerät als auch einen Projektor über über eine Steckdose unterstützen können, schauen Sie sich unsere [empfohlene Einrichtung](#splitter).
-
 ### Der Stick wurde mit Montagepads montiert
 
-Das Anbringen von Montagepads an das EZCast-Gerät birgt das Risiko einer Überhitzung und kann die Leistung des Geräts verringern.
+Das Anbringen von Montagepads an das EZCast-Gerät birgt das Risiko einer Überhitzung und kann die Leistung des Geräts verringern. Zum Befestigen Ihres EZCast Pro Stick II empfehlen wir die Verwendung von [Kabelbinder] {#cableties}:
 
 ![)](/assets/img/D10.large.screen.donot4.png)
 
