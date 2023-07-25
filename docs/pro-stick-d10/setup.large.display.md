@@ -19,21 +19,21 @@ Die passende Empfehlung für die Einrichtung hängt davon ab, wo sich der HDMI-A
 
 ### HDMI-Verlängerung 0,2 m {#20cm-HDMI-extension}
 
-* Der HDMI-Anschluss befindet sich am Rand des Bildschirms
-* Eine HDMI-Verlängerung 0,2 m ist im Lieferumfang enthalten
+* Der HDMI-Anschluss befindet sich am Rand des Bildschirms.
+* Eine HDMI-Verlängerung 0,2 m ist im Lieferumfang enthalten.
 
 ![)](/assets/img/D10.large.screen.20cm.png)
 
 ### HDMI-Verlängerung 0,5 m {#50cm-HDMI-extension}
 
-* Der HDMI-Anschluss befindet weiter hinten am Bildschirm
-* eine HDMI-Verlängerung 0,5 m ist im Lieferumfang nicht enthalten aber kann bei Bedarf zusätzlich bestellt werden
+* Der HDMI-Anschluss befindet weiter hinten am Bildschirm.
+* eine HDMI-Verlängerung 0,5 m bzw. 1 m ist im Lieferumfang nicht enthalten aber kann bei Bedarf zusätzlich [bestellt](setup-tipps.md#hdmi-verlangerung-1m) werden.
 
 ![)](/assets/img/D10.large.screen.50cm.png)
 
 ### Kabelbinder {#cableties}
 
-* Der EZCast Pro Stick II wird mit Kabelbindern befestigt, um Überhitzung zu vermeiden
+* Der EZCast Pro Stick II wird mit Kabelbindern befestigt, um Überhitzung zu vermeiden.
 * Der EZCast Pro Stick II wird nicht mit Klebeband oder Montagepads befestigt, um Überhitzung zu vermeiden.
 
 ![)](/assets/img/D10-mount.with.cable.ties.png)
