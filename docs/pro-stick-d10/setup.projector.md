@@ -15,7 +15,7 @@ Welche Einrichtung für Sie am besten geeignet ist, hängt wirklich davon ab, ob
 ### 2x Steckdosen | USB-Ladegerät (5V/2A)
 
 * Neben dem Projektor stehen **zwei Steckdosen** zur Verfügung.
-* Der EZCast Pro Stick II wird mit einem **USB-Ladegerät (5V/2A)** mit Strom versorgt. Dieses Ladegerät können Sie bei Bedarf über uns [erwerben](setup-tipps.md#powersupply).
+* Der EZCast Pro Stick II wird mit einem **USB-Ladegerät (5V/2A)** mit Strom versorgt. Dieses Ladegerät können Sie bei Bedarf über uns [erwerben](setup-tipps.md#samsung-usb-netzteil-5v2a).
 * Die mitgelieferte **HDMI-Verlängerung** wurde angeschlossen
 
 ![)](/assets/img/D10-2xPlugs-ExternalPower.png)
@@ -23,8 +23,8 @@ Welche Einrichtung für Sie am besten geeignet ist, hängt wirklich davon ab, ob
 ### 1x Steckdose | Splitter-Adapter | USB-Ladegerät (5V/2A) {#splitter}
 
 * Neben dem Projektor steht nur **eine Steckdose** zur Verfügung.
-* Ein **Y Type Splitter-Adapter** ermöglicht eine Euro Buchse fürs USB-Ladegerät und ein Kaltgerätekabel für den Projektor
-* Der EZCast Pro Stick II wird mit einem **USB-Ladegerät (5V/2A)** mit Strom versorgt. Dieses Ladegerät können Sie bei Bedarf über uns [erwerben](setup-tipps.md#powersupply).
+* Ein **Y Type Splitter-Adapter** ermöglicht eine Euro Buchse fürs USB-Ladegerät und ein Kaltgerätekabel für den Projektor. Diesen Splitter-Adapter können Sie bei Bedarf über uns [erwerben](setup-tipps.md#c14-to-c13euro-y-type-splitter-adapter).
+* Der EZCast Pro Stick II wird mit einem **USB-Ladegerät (5V/2A)** mit Strom versorgt. Dieses Ladegerät können Sie bei Bedarf über uns [erwerben](setup-tipps.md#samsung-usb-netzteil-5v2a).
 * Die mitgelieferte **HDMI-Verlängerung** wurde angeschlossen
 
 ![)](/assets/img/D10-1xPlug-Splitter-ExternalPower.png)
