@@ -1,6 +1,6 @@
 # Einrichtung - Projektor
 
-Der EZCast Pro Stick II ist der Projektoren perfekt geeignet. Um die Leistung Ihres EZCast Pro Gerätes zu optimieren, schauen Sie sich bitte unsere Einrichtungsempfehlungen:
+Der EZCast Pro Stick II ist für Projektoren perfekt geeignet. Um die Leistung Ihres EZCast Pro Gerätes zu optimieren, schauen Sie sich bitte unsere Einrichtungsempfehlungen:
 
 #### Stromversorgung (5V/1,5A) {#power}
 
