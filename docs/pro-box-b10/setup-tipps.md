@@ -8,7 +8,7 @@ Die EZCast Pro Box II wird mit einem 5V/2A USB-Netzteil geliefert. Als Ersatztei
 
 ![USB-Netzteil (5V/2A)](/assets/img/QuattroPod.USBCharger.png)
 
-### Das Ersatz Samsung USB-Netzteil (5V/2A)
+### Das Ersatz Samsung USB-Netzteil (5V/2A) {#samsung.powersupply}
 
 Das **Samsung Netzteil (5V/2A)** können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=ezcastpro):
 
@@ -24,7 +24,7 @@ USB-Stromkabel für den Empfänger kann durch das **USB 2.0 Typ A Stecker zu 5,5
 
 Wenn der Beamer an der Decke hängt und nur das Stromkabel vom Beamer zur Verfügung steht, oder wenn Sie eine Einkabellösung von der Steckdose zum Displaygerät wollen, stellt sich die Frage, wie der Beamer bzw. der Bildschirm und die EZCast Pro Box II gemeinsam mit Strom versorgt werden können.
 
-Mit einem **C14 to C13+Euro Y Type Splitter Adapter** können Sie das Kaltgerätekabel in Euro-Steckdose und C13-Kabel verwandeln. Dies in Kombination mit dem [Netzteil](#powersupply) kann Strom für beide Geräte ermöglichen. Den Y Type Splitter Adapter können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=ezcastpro).
+Mit einem **C14 to C13+Euro Y Type Splitter Adapter** können Sie das Kaltgerätekabel in Euro-Steckdose und C13-Kabel verwandeln. Dies in Kombination mit dem [Netzteil](#samsung.powersupply) kann Strom für beide Geräte ermöglichen. Den Y Type Splitter Adapter können Sie bei Bedarf über uns [erwerben](https://www.stueber.de/contact.php?from=ezcastpro).
 
 ![C14 to C13+Euro Y Type Splitter Adapter](/assets/img/C14.to.C13undEuroYType-Splitter-Adapter.png)
 
