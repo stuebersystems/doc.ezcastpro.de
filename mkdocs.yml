@@ -93,7 +93,7 @@ nav:
     - Einführung: index.md
     - Was ist neu?: whatsnew.md
     - Anschlüsse: ports.md
-    - CMS (Central Management System): cms.md
+    - CMS (Central Management System): cms/intro.md
     - Datensicherheit: datasecurity.md
     - Firmware aktualisieren: firmware-upgrade.md
 - Pro Stick II: 
@@ -113,7 +113,7 @@ nav:
         - "Anleitung: AirPlay": pro-stick-d10/airplay.md
         - "Anleitung: Google Cast": pro-stick-d10/googlecast.md
         - "Anleitung: Miracast": pro-stick-d10/miracast.md
-    - CMS (Central Management System): pro-stick-d10/cms.md    
+    - CMS (Central Management System): cms/intro.md    
     - Einrichtungshinweise: pro-stick-d10/setup-tipps.md  
     - Erweiterte Funktionen:
         - Captive Portal: pro-stick-d10/captiveportal.md
@@ -152,7 +152,7 @@ nav:
         - "Anleitung: AirPlay": pro-box-b10/airplay.md
         - "Anleitung: Google Cast": pro-box-b10/googlecast.md
         - "Anleitung: Miracast": pro-box-b10/miracast.md
-    - CMS (Central Management System): pro-box-b10/cms.md        
+    - CMS (Central Management System): cms/intro.md       
     - Einrichtungshinweise: pro-box-b10/setup-tipps.md  
     - Erweiterte Funktionen:
         - Captive Portal: pro-box-b10/captiveportal.md

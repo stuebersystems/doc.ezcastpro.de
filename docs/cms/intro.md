@@ -61,7 +61,7 @@ Sie wollen die CMS Software einmal kennenlernen? Unter den folgenden Links könn
 
 Mit dem Produktschlüssel für die Vollversion der CMS Software profitieren Sie von folgenden Vorteilen:
 
-* Statt max. 3 Geräten können bis zu 255 Geräte verwaltet werden.
+* Statt max. 100 Geräten können bis zu 255 Geräte verwaltet werden.
 
 * Keine Werbeeinblendung.
 
