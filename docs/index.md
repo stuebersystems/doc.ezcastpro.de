@@ -20,7 +20,14 @@ Die EZCast Pro II Serie gibt es in zwei Varianten:
 		<p><a href="pro-box-b10/intro">Zur EZCast Pro Box II</a></p>
 	</div>
 </div>
-
+<div class="md-showcase">
+	<img src="assets/img/thumbnail.video.cms2.png" alt="Abbildung: das CMS Tool">
+	<div>
+		<img src="assets/img/ezcastpro.cms.logo.svg" alt="Logo: das CMS Tool">
+		<p>Das <a href="https://www.ezcastpro.de/cms.php">CMS</a> ist eine Software, die eine zentrale Verwaltung von EZCast Pro II Geräten und QuattroPod Geräten ermöglicht.</p>
+		<p><a href="cms/intro">Zum CMS Tool</a></p>
+	</div>
+</div>
 Eine Entscheidungshilfe:
 
 !!! tip "Der EZCast Pro Produktvergleich"
