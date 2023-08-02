@@ -16,3 +16,10 @@ Wählen Sie Ihr Gerät aus, um sich über die neuesten Updates zu informieren:
 		<p><a href="/pro-box-b10/whatsnew">Zur EZCast Pro Box II</a></p>
 	</div>
 </div>
+<div class="md-showcase">
+	<img src="/assets/img/thumbnail.video.cms.png" alt="Abbildung: CMS (Central Management System)">
+	<div>
+		<img src="/assets/img/ezcastpro.cms.logo.svg" alt="Logo: CMS (Central Management System)">
+		<p><a href="/cms/whatsnew">Zum CMS Tool</a></p>
+	</div>
+</div>

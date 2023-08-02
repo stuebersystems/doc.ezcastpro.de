@@ -180,7 +180,7 @@ nav:
         - Systeminformationen: pro-box-b10/msinfo32.md            
         - WLAN-Umgebung scannen: pro-box-b10/wifi.environment.md
 - CMS: 
-    - Einführung: cms/cms.md
+    - Einführung: cms/intro.md
     - Was ist neu?: cms/whatsnew.md
 - Ältere Modelle: 
     - Einführung: legacymodels.md
