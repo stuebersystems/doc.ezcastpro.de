@@ -6,7 +6,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
-## CMS für Windows 7/8/10 und Mac
+## EZCast Pro Stick II Firmware
 
 ### 2023.06.10 | 1.17478.21
 
