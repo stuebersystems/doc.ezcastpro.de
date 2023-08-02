@@ -54,7 +54,7 @@ Nach dem Neustart wird die aktuelle Version der Firmware unten rechts auf der St
 
 ## Firmware per Internet mit dem CMS installieren
 
-Mit dem CMS ([Central Management System](cms.md)) kann man die neueste Firmware vom Internet auf mehreren EZCast Pro II bzw. QuattroPod Geräten installieren.
+Mit dem CMS ([Central Management System](/cms/intro/)) kann man die neueste Firmware vom Internet auf mehreren EZCast Pro II bzw. QuattroPod Geräten installieren.
 
 * Wenn eine neue Firmware für den Empfänger bzw. für den Sender zur Verfügung steht, taucht die Meldung ![](/assets/img/CMS-firmware.available.png) neben dem Gerät auf:
 
@@ -80,7 +80,7 @@ Die neue Firmware wird heruntergeladen und automatisch installiert.
 
 ## Firmware ohne Internet mit dem CMS installieren
 
-Mit dem CMS ([Central Management System](cms.md)) ermöglicht es Ihnen auch, die neueste Firmware auf Geräten zu installieren, die nicht mit dem Internet verbunden sind. Bitte nutzen Sie die untenstehenden Links, um die Firmware für Ihre Geräte vorab herunterzuladen:
+Mit dem CMS ([Central Management System](/cms/intro/)) ermöglicht es Ihnen auch, die neueste Firmware auf Geräten zu installieren, die nicht mit dem Internet verbunden sind. Bitte nutzen Sie die untenstehenden Links, um die Firmware für Ihre Geräte vorab herunterzuladen:
 
 Geräte               | Herunterladen      |
 ------------------------- | ------------------------- | 

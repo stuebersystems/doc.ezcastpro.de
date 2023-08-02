@@ -93,7 +93,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 
 **Neue Funktionen:**
 
-* Zentrales Managementsystem Unterstützung ([CMS](cms.md))
+* Zentrales Managementsystem Unterstützung ([CMS](/cms/intro/))
 * Neue WLAN-Kanal Einstellung für den [Legacy-Modus (2,4 GHz WLAN)](adv.settings.md#legacymode)
 
 **Fixes:**

@@ -134,7 +134,7 @@ Der EZCast Pro Stick II ist wieder einsatzbereit.
 
 ## Firmware mit dem CMS installieren
 	
-Mit dem CMS ([Central Management System](cms.md)) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren EZCast Pro II Geräten bzw. QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
+Mit dem CMS ([Central Management System](/cms/intro/)) kann man nicht nur die aktuelle Firmware vom Internet auf mehreren EZCast Pro II Geräten bzw. QuattroPod installieren, sondern auch eine vorherige Version bzw. eine Beta-Firmware.
 
 * Laden Sie eine Firmware für den [EZCast Pro Stick II](#D10_install_other_fw) herunter.
 

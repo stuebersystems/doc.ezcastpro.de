@@ -92,7 +92,7 @@ Im Modus **Nur im Vollbildmodus**, auch bekannt als NGO-Modus (Negotiated Group 
 * [Infracast](#p2p_vs_infracast) wird unterstützt.
 * Während der Bildschirmübertragung eines Miracast-Gerätes werden alle Netzwerkschnittstellen belegt, kein weiteres Endgerät kann gespiegelt werden und die folgenden Funktionen **stehen nicht zur Verfügung**:
     * Die Moderator-Funktion bzw. die [Host-Kontrolle](ezcastproapp.md#hostcontrol).
-	* [CMS (Central Management System)](cms.md).
+	* [CMS (Central Management System)](/cms/intro/).
     * [AirView](ezcastproapp.md#airview).
     * [Konferenzsteuerung](ezcastproapp.md#conferencecontrol).
     * Die Web-Oberfläche der [Einstellungen](adv.settings.md).
