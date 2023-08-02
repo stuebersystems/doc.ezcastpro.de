@@ -56,7 +56,7 @@ Auch wenn es intuitiv erscheinen mag, den Stick über einen beliebigen USB-Ansch
 
 ### Der Stick wurde mit Montagepads montiert
 
-Das Anbringen von Montagepads an das EZCast-Gerät birgt das Risiko einer Überhitzung und kann die Leistung des Geräts verringern. Zum Befestigen Ihres EZCast Pro Stick II empfehlen wir die Verwendung von [Kabelbinder] {#cableties}:
+Das Anbringen von Montagepads an das EZCast-Gerät birgt das Risiko einer Überhitzung und kann die Leistung des Geräts verringern. Zum Befestigen Ihres EZCast Pro Stick II empfehlen wir die Verwendung von [Kabelbinder](#cableties):
 
 ![)](/assets/img/D10.large.screen.donot4.png)
 
