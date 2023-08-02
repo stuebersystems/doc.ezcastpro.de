@@ -6,15 +6,15 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an und erfahren Sie [hier](firmware-upgrade.md) wie Sie die Firmware auf Ihrem Gerät aktualisieren.
 
-## EZCast Pro Box II Firmware - 1.17478.21
-2023.06.10
+## EZCast Pro Box II Firmware
+
+### 2023.06.10 | 1.17478.21
 
 **Fixes:**
 
 * Bugs behoben
 
-## EZCast Pro Box II Firmware - 1.17478.20
-2023.03.20
+### 2023.03.20 | 1.17478.20
 
 **Neue Funktionen:**
 
@@ -32,23 +32,20 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 * DFS-Master-Unterstützung deaktiviert
 * Fehler in der Funktion [AirPlay -> Spiegeln + Video streaming](airplay.md#video-streamen-aktivieren) behoben
 
-## EZCast Pro Box II Firmware - 1.13781.65
-2022.06.06
+### 2022.06.06 | 1.13781.65
 
 **Fixes:**
 
 * Systemstabilität verbessert
 * Bugs behoben
 
-## EZCast Pro Box II Firmware - 1.13781.60
-2022.03.15
+### 2022.03.15 | 1.13781.60
 
 **Fixes:**
 
 * Stabilität der Funktion [Touchback mit Miracast unter Windows 10](touchback.md#touchviamiracast) verbessert
 
-## EZCast Pro Box II Firmware - 1.13781.41
-2022.03.01
+### 2022.03.01 | 1.13781.41
 
 **Neue Funktionen:**
 
@@ -58,22 +55,19 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
 * Bugs behoben
 
-## EZCast Pro Box II Firmware - 1.13781.18
-2022.01.21
+### 2022.01.21 | 1.13781.18
 
 **Fixes:**
 
 * Bugs behoben
 
-## EZCast Pro Box II Firmware - 1.13781.17
-2021.11.30
+###  2021.11.30 | 1.13781.17
 
 **Fixes:**
 
 - GoogleCast-Audio-Problem mit Knacksen/Abbrüchen behoben
 
-## EZCast Pro Box II Firmware - 1.13781.15
-2021.11.04
+### 2021.11.04 | 1.13781.15
 
 **Neue Funktionen:**
 
@@ -87,8 +81,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 *  Allgemeine Bugs behoben
 
 
-## EZCast Pro Box II Firmware - 1.12170.19
-2021.07.01
+### 2021.07.01 | 1.12170.19
 
 **Fixes:**
 
@@ -96,16 +89,14 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 *  Geändertes Verhalten von der Funktion Miracast im AGO-Modus. Des Ändern des PSK wird jetzt nicht zugelassen
 *  Verbesserte GoogleCast-Stabilität
 
-## EZCast Pro Box II Firmware - 1.12170.17
-2021.06.22
+### 2021.06.22 | 1.12170.17
 
 **Fixes:**
 
 *  Verbesserte WLAN-Stabilität
 
 
-## EZCast Pro Box II Firmware - 1.12170.16
-2021.05.11
+### 2021.05.11 | 1.12170.16
 
 * Unterstützung für Router über den WLAN-Sicherheitsstandard WPA3
 * Geteilter Bildschirm über [Miracast](miracast.md): Bildschirmübertragung nativ von bis zu 4 Miracast Geräten auf einem geteilten Bildschirm
@@ -117,15 +108,13 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
 * Allgemeine Bugs behoben
 
-## EZCast Pro Box II Firmware - 1.9871.37
-2020.09.18
+###  2020.09.18 | 1.9871.37
 
 **Fixes:**
 
 * Allgemeine Bugs behoben
 
-## EZCast Pro Box II Firmware - 1.9871.34
-2020.09.04
+### 2020.09.04 | 1.9871.34
 
 **Neue Funktionen:**
 
@@ -141,16 +130,14 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 * Aktualisierte Benutzeroberfläche für die Funktionen "Musik" und "Video" in der EZCast Pro App
 * Bugs behoben
 
-## EZCast Pro Box II Firmware - 1.8617.21
-2020.06.05
+### 2020.06.05 | 1.8617.21
 
 **Fixes:**
 
 *  Nach dem Ausschalten des Legacy-Modus gingen Einstellungen des WLANs verloren
 *  Bug beim zeitgesteuerten Neustart behoben
 
-## EZCast Pro Box II Firmware - 1.8617.18
-2020.05.27
+### 2020.05.27 | 1.8617.18
 
 **Neue Funktionen:**
 
@@ -170,8 +157,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
    ![](/assets/img/wifi.land.selection.png)
    
 
-## EZCast Pro Box II Firmware - 1.7367.0
-2020.01.10
+### 2020.01.10 | 1.7367.0
 
 **Neue Funktionen:**
 
