@@ -67,8 +67,8 @@ Wir empfehlen die Verwendung eines WLAN-Analyzers, um Ihre  [WLAN-Umgebung zu sc
 ![](/assets/img/EZCastPro.II.Wifi.Internet.jpg)
 
 !!! tip "Hinweis"
-    
-	Bitte beachten: Standardmäßig kann die EZCast Pro Box II nur mit einem 5GHz WLAN-Router verbunden werden. Sie können jedoch den [Legacy-Modus (2,4 GHz WLAN)](adv.settings.md#legacymode) aktivieren.
+
+	Bitte beachten: Standardmäßig kann die EZCast Pro Box II nur mit einem 5GHz WLAN-Router verbunden werden. Sie können jedoch den [Legacy-Modus (2,4 GHz WLAN)](adv.settings.md#legacymode) aktivieren. **Bitte nicht mit einer Dual-Band 2,4Ghz/5Ghz SSID verbinden**, sondern mit einer dedizierten SSID, die auf den [2,4GHz-Bereich](https://en.wikipedia.org/wiki/List_of_WLAN_channels#2.4_GHz_(802.11b/g/n/ax)) eingeschränkt ist.
 
 Wenn die EZCast Pro Box II mit Ihrem Netzwerk bzw. Ihrem Router verbunden ist, wird eine von Ihrem Netzwerk vergebenen IP-Adressen mit der Bezeichnung `Infrastructure IP` auf dem Bildschirm angezeigt, wie unten abgebildet:
 
