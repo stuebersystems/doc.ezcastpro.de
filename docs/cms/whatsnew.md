@@ -6,7 +6,13 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des [Centr
 
     Immer auf dem neuesten Stand: Melden Sie sich zu unserem [Newsletter](https://www.stueber.de/newsletter.php) an.
 
-## CMS für Windows und Mac
+## CMS für Windows und Mac 
+
+### 2023.08.04 | 1.0.35
+
+**Fixes:**
+
+* CMS-Update-Funktion wurde optimiert.
 
 ### 2022.11.17 | 1.0.30
 
