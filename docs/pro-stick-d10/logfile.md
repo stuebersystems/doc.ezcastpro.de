@@ -2,6 +2,10 @@
 
 Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns eine Logdatei Ihres Gerätes zukommen lassen. Es gibt zwei Arten von Logdateien:
 
+!!! tip "Hinweis"
+    
+	Eine Supportleistung bieten wir nur Kunden an, die bei uns bestellt haben. Bitte wenden Sie sich an Ihren Händler.
+	
 * [Debug Logdatei](#download.logfile)
 
 Mit der Funktion **Debug Logdatei herunterladen** handelt sich um die Logdatei, die direkt vom EZCast Pro Gerät heruntergeladen wird.
@@ -14,19 +18,15 @@ Mit dem Verfahren **Debug Over IP** werden die Debug-Informationen über Ihre Ne
 
 Dabei müssen Sie den `Engineer Mode` aktivieren und die Funktion `Download Debug Log` wählen. Mit Hilfe der Funktion **Erweiterte Einstellungen** können Sie sich anmelden und mit einem beliebigen Webbrowser die Logdatei herunterladen.
 
-### Erweiterte Einstellungen öffnen 
+### Erweiterte Einstellungen öffnen
 
-* Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
+* Verbinden Sie Ihr Endgerät mit dem EZCast Pro II Gerät, entweder mit der SSID des EZCast Pro II Gerätes oder mit derselben WLAN- bzw. LAN-Infrastruktur, mit welcher das EZCast Pro II Gerät verbunden ist:
 
-![](/assets/img/ProIIDongle_IP.png)
+![](/assets/img/proII.network.connect.png)
 
-* Rufen Sie nun Ihren Web-Browser auf.
+* Geben Sie die IP-Adresse Ihres EZCast Pro Gerätes in einem beliebigen Webbrowser ein, die unten links auf der Startseite angezeigt wird:
 
-![](/assets/img/Google_Chrome.png)
-
-* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des EZCast Pro Gerätes ein.
-
-![](/assets/img/IP-Address.png)
+![](/assets/img/proII_IP.connect.png)
 
 ### Sich als Admin anmelden
 
@@ -34,7 +34,7 @@ Dabei müssen Sie den `Engineer Mode` aktivieren und die Funktion `Download Debu
 
 ![](/assets/img/EZCastII_Login.png)
 
-### Debug Logdatei herunterladen
+### Engineer Mode aktivieren
 
 * Aus dem Hauptmenü wählen Sie `Admineinstellungen`:
 
@@ -48,7 +48,23 @@ Dabei müssen Sie den `Engineer Mode` aktivieren und die Funktion `Download Debu
 
 ![](/assets/img/proII.select.engineermode.png)
 
-* Klicken Sie auf die Funktion `Download Debug Log`. Eine Logdatei wird heruntergeladen:
+### Syslog aktivieren
+
+* Klicken Sie einmal auf die Funktion `Enable Syslog`, bis die letzte Zahl  eine `1` enthält:
+
+![](/assets/img/enable.syslog.1.png)
+
+* Um die Einstellung aktivieren, müssen Sie das EZCast Pro Gerät neustarten. Im Hauptmenü wählen Sie `Neustarten`.
+
+![](/assets/img/prostickII_menu.neustart.png)
+
+* Dann wählen Sie erneut die Schaltfläche `Neustarten`.
+
+![](/assets/img/restart.jpg)
+
+### Debug Logdatei herunterladen
+
+* Im Menü `Engineer Mode` klicken Sie auf die Funktion `Download Debug Log`. Eine Logdatei wird heruntergeladen:
 
 ![](/assets/img/proII.select.debuglog.png)
 
@@ -56,6 +72,19 @@ Dabei müssen Sie den `Engineer Mode` aktivieren und die Funktion `Download Debu
 
 ![](/assets/img/logfile.ticket.png)
 
+### Syslog deaktivieren
+
+* Klicken Sie einmal auf die Funktion `Enable Syslog`, bis die letzte Zahl  eine `0` enthält:
+
+![](/assets/img/enable.syslog.0.png)
+
+* Um die Einstellung abzuschließen, müssen Sie das EZCast Pro Gerät neustarten. Im Hauptmenü wählen Sie `Neustarten`.
+
+![](/assets/img/prostickII_menu.neustart.png)
+
+* Dann wählen Sie erneut die Schaltfläche `Neustarten`.
+
+![](/assets/img/restart.jpg)
 
 ## Debug Over IP durchführen {#debug.over.ip}
 
@@ -65,13 +94,17 @@ Mit Hilfe der Funktion **Erweiterte Einstellungen** können Sie sich anmelden un
 
 ### Erweiterte Einstellungen öffnen
 
-* Verbinden Sie Ihr Endgerät mit dem EZCast Pro II Gerät, entweder mit der SSID des EZCast Pro II Gerätes oder mit derselben WLAN- bzw. LAN-Infrastruktur, mit welcher das EZCast Pro II Gerät verbunden ist:
+* Notieren Sie sich die IP-Adresse, die unten links auf der Startseite angezeigt wird.
 
-![](/assets/img/proII.network.connect.png)
+![](/assets/img/ProIIDongle_IP.png)
 
-* Geben Sie die IP-Adresse Ihres EZCast Pro Gerätes in einem beliebigen Webbrowser ein, die unten links auf der Startseite angezeigt wird:
+* Rufen Sie nun Ihren Web-Browser auf.
 
-![](/assets/img/proII_IP.connect.png)
+![](/assets/img/Google_Chrome.png)
+
+* Klicken Sie mit der Maus in die Adressleiste des Browsers und geben Sie die IP-Adresse des EZCast Pro Gerätes ein.
+
+![](/assets/img/IP-Address.png)
 
 ### Sich als Admin anmelden
 

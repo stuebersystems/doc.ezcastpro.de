@@ -34,7 +34,7 @@ Dabei müssen Sie den `Engineer Mode` aktivieren und die Funktion `Download Debu
 
 ![](/assets/img/EZCastII_Login.png)
 
-### Debug Logdatei herunterladen
+### Engineer Mode aktivieren
 
 * Aus dem Hauptmenü wählen Sie `Admineinstellungen`:
 
@@ -48,7 +48,23 @@ Dabei müssen Sie den `Engineer Mode` aktivieren und die Funktion `Download Debu
 
 ![](/assets/img/proII.select.engineermode.png)
 
-* Klicken Sie auf die Funktion `Download Debug Log`. Eine Logdatei wird heruntergeladen:
+### Syslog aktivieren
+
+* Klicken Sie einmal auf die Funktion `Enable Syslog`, bis die letzte Zahl  eine `1` enthält:
+
+![](/assets/img/enable.syslog.1.png)
+
+* Um die Einstellung aktivieren, müssen Sie das EZCast Pro Gerät neustarten. Im Hauptmenü wählen Sie `Neustarten`.
+
+![](/assets/img/prostickII_menu.neustart.png)
+
+* Dann wählen Sie erneut die Schaltfläche `Neustarten`.
+
+![](/assets/img/restart.jpg)
+
+### Debug Logdatei herunterladen
+
+* Im Menü `Engineer Mode` klicken Sie auf die Funktion `Download Debug Log`. Eine Logdatei wird heruntergeladen:
 
 ![](/assets/img/proII.select.debuglog.png)
 
@@ -56,6 +72,19 @@ Dabei müssen Sie den `Engineer Mode` aktivieren und die Funktion `Download Debu
 
 ![](/assets/img/logfile.ticket.png)
 
+### Syslog deaktivieren
+
+* Klicken Sie einmal auf die Funktion `Enable Syslog`, bis die letzte Zahl  eine `0` enthält:
+
+![](/assets/img/enable.syslog.0.png)
+
+* Um die Einstellung abzuschließen, müssen Sie das EZCast Pro Gerät neustarten. Im Hauptmenü wählen Sie `Neustarten`.
+
+![](/assets/img/prostickII_menu.neustart.png)
+
+* Dann wählen Sie erneut die Schaltfläche `Neustarten`.
+
+![](/assets/img/restart.jpg)
 
 ## Debug Over IP durchführen {#debug.over.ip}
 
