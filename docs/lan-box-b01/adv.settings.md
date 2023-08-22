@@ -158,7 +158,7 @@ Kontrollieren Sie, welche Funktionen der Host im Menü Erweiterte Einstellungen 
 
 ![Host-Berechtigungen](/assets/img/Host_permissions.png)
 
-Bei der obigen Konfiguration wird beispielsweise nur die Funktion `Konferenzensteuerung` eingeblendet. Bitte beachten: Die Rubriken `Status des Links` und `Über` stehen immer zur Verfügung.
+Bei der obigen Konfiguration wird beispielsweise nur die Funktion `Konferenzensteuerung` eingeblendet. Bitte beachten Sie: Die Rubriken `Status des Links` und `Über` stehen immer zur Verfügung.
 
 ![Funktion Konferenzensteuerung per Host-Autorität einblenden](/assets/img/Host_authority_example.jpg)
 

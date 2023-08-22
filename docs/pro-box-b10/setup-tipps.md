@@ -40,7 +40,7 @@ Den Empfänger kann man mit einem guten Klebeband befestigen, ohne den Bildschir
 
 !!! tip "Hinweis"
     
-	Bitte beachten: Stellen Sie bei der Befestigung des Empfängers sicher, dass zwischen der Antenne und dem Wireless Access Point sowie den Endgeräten eine direkte Sichtlinie besteht, um WLAN-Signalstörung zu vermeiden.
+	Bitte beachten Sie: Stellen Sie bei der Befestigung des Empfängers sicher, dass zwischen der Antenne und dem Wireless Access Point sowie den Endgeräten eine direkte Sichtlinie besteht, um WLAN-Signalstörung zu vermeiden.
 	
 ![tesa montagepads](/assets/img/RX_mounted.png)
 

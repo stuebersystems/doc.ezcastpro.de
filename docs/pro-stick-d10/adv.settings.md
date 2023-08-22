@@ -154,7 +154,7 @@ Eine umfassende Anleitung zur Verwendung von Castcode finden Sie [hier](security
 
 Bei dieser Einstellung handelt es sich die maximale Zahl der direkten Verbindungen, die der EZCast Pro Stick II unterstützen soll. Zusätzlich werden noch 32 Verbindungen über Router unterstützt. 
 
-Bitte beachten: Je größer jedoch die Anzahl der angeschlossenen Benutzer ist, desto geringer ist die Bandbreite für jeden Benutzer
+Bitte beachten Sie: Je größer jedoch die Anzahl der angeschlossenen Benutzer ist, desto geringer ist die Bandbreite für jeden Benutzer
 
 ![](/assets/img/ezcastpro.II.max.verbindungen.png)
 
@@ -200,7 +200,7 @@ Im diesem Bereich können Sie Einstellungen zu dem Internet, IP-Einstellungen un
 
 Verbinden Sie den Pro Stick mit Ihrem WLAN-Router.
 
-**Bitte beachten:** Der EZCast Pro Stick II kann nur mit einem `5GHz WLAN-Router` verbunden werden, es sei denn Sie haben den [Legacy-Modus (2,4 GHz WLAN)](#legacymode) freigeschaltet.
+**Bitte beachten Sie:** Der EZCast Pro Stick II kann nur mit einem `5GHz WLAN-Router` verbunden werden, es sei denn Sie haben den [Legacy-Modus (2,4 GHz WLAN)](#legacymode) freigeschaltet.
 
 ![](/assets/img/EZCastPro.II.Wifi.Internet.jpg)
 
@@ -256,7 +256,7 @@ Möchten Sie bespielsweise, dass der Host keinen Zugang auf die Schaltfläche `E
 
 ![Beim Ausschalten der Funktion Gerätemanagement wird die Schaltfläche Host-Einstellungen ausgeblendet](/assets/img/ezcastpro.II.software.hostsettings.hidden.png)
 
-Bei der obigen Konfiguration (die Funktionen Gerätemanager-Steuerung und Netzwerksetup-Steuerung ausschalten) wird nur die Funktion `Konferenzsteuerung` und `Neustart` eingeblendet. Bitte beachten: Die Rubriken `Verbundene Geräte` und `Über das Gerät` stehen immer zur Verfügung.
+Bei der obigen Konfiguration (die Funktionen Gerätemanager-Steuerung und Netzwerksetup-Steuerung ausschalten) wird nur die Funktion `Konferenzsteuerung` und `Neustart` eingeblendet. Bitte beachten Sie: Die Rubriken `Verbundene Geräte` und `Über das Gerät` stehen immer zur Verfügung.
 
 ![Funktion Konferenzensteuerung wird eingeblendet](/assets/img/ezcastpro.II.Host_authority_example.png)
 
