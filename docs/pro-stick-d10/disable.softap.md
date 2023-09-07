@@ -97,7 +97,7 @@ Das Kennwort wird auf der Startseite ausgeblendet:
 
 ### Geteilter Bildschirm (AGO-Modus)
 
-Im AGO-Modus ist der SoftAP für den geteilten Bildschirm mit bis zu 4 Geräten, einschließlich Miracast, erforderlich. Die SSID des SoftAP kann weder deaktiviert noch ausgeblendet werden. Nur können Sie das Kennwort ausblenden:
+Im AGO-Modus ist der SoftAP für den geteilten Bildschirm mit bis zu 4 Geräten, einschließlich Miracast, erforderlich. Die SSID des SoftAP kann weder deaktiviert noch ausgeblendet werden. Sie können lediglich das Kennwort ausblenden:
 
 #### Kennwort ausblenden
 
