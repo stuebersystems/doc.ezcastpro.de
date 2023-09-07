@@ -120,6 +120,7 @@ nav:
         - Dynamisches Hintergrundbild: pro-stick-d10/dynamicwallpaper.md
         - Erweiterte Einstellungen: pro-stick-d10/adv.settings.md
         - Festgelegter Host: pro-stick-d10/fixedhost.md
+        - SoftAP deaktivieren: pro-stick-d10/disable.softap.md
         - Monitor-Modus: pro-stick-d10/monitor-setup.md
         - ProCast: pro-stick-d10/procast.md
         - Sicherheitscodes: pro-stick-d10/securitycodes.md
@@ -162,6 +163,7 @@ nav:
         - Monitor-Modus: pro-box-b10/monitor-setup.md
         - ProCast: pro-box-b10/procast.md
         - Sicherheitscodes: pro-box-b10/securitycodes.md
+        - SoftAP deaktivieren: pro-box-b10/disable.softap.md
         - Touch-Back-Funktion: pro-box-b10/touchback.md
         - Unbeaufsichtigte Installation: pro-box-b10/proapp-silentinstall.md
     - EZCastPro App/Software: pro-box-b10/ezcastproapp.md        

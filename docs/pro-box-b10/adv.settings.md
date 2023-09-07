@@ -64,7 +64,7 @@ Unter Sprache wählen die gewünschte Anzeigesprache des Menüs Erweiterte Einst
 
 #### Gerätename bzw. SSID-Name {#Geraetename}
 
-Hier können Sie den Gerätenamen ändern. Aus Sicherheitsgründen kann die SSID ausgeblendet bzw. deaktiviert werden.
+Hier können Sie den Gerätenamen bzw. die SSID ändern oder ausblenden:
 
 ![](/assets/img/ezcastpro.II.geraetename.png)
 
@@ -73,7 +73,7 @@ Die EZCast Pro Box II verfügt über drei Netzwerkschnittstellen. Beim Deaktivie
 | wlan | Bemerkung |
 | :------------- |:-----:|
 | wlan0 | Router / AccessPoint |
-| wlan1 | softAP (Direkte Verbindung) SSID/HotSpot |
+| wlan1 | SoftAP (Direkte Verbindung) SSID/HotSpot |
 | wlan2 | P2P, MiraCast |
 
 #### Auflösung {#Auflösung}
@@ -355,7 +355,7 @@ Mit `Nur über Router` wird der Hotspot des EZCast Pro Gerätes ausgeschaltet un
 
 !!! warning "Achtung"
 
-    Bitte beachten Sie, dass die Freischaltung der Option `Nur direkte Verbindung` oder `Nur über Router` dazu führt, dass Verbindungen über den anderen Modus nicht mehr möglich sind. Wenn Sie `nur direkt Verbindung` sowie [SSID nicht sichtbar](#Geraetename) oder [Kennwort nicht sichtbar](#WIFI-Kennwort) freigeschalten, dürfen Sie die Zugangsdaten nicht vergessen, sonst müssten Sie ein [Zurücksetzen per Reset-Schalter](reset.md#hardreset) durchführen!
+    Bitte beachten Sie, dass die Freischaltung der Option `Nur direkte Verbindung` oder `Nur über Router` dazu führt, dass Verbindungen über den anderen Modus nicht mehr möglich sind. Wenn Sie `nur direkt Verbindung` sowie [SSID nicht sichtbar](#Geraetename) oder [Kennwort nicht sichtbar](#WIFI-Kennwort) freischalten, dürfen Sie die Zugangsdaten nicht vergessen, sonst müssten Sie ein [Zurücksetzen per Reset-Schalter](reset.md#hardreset) durchführen!
 
 #### Festgelegter Host {#Fixedhost}
 

@@ -49,9 +49,9 @@ Auf Ihrem Android-Gerät streichen Sie vom unteren Bildschirmrand nach oben, um 
 
 ![Screen Mirroring](/assets/img/miracast.android.png)
 
-## Die zwei Miracast-Modi
+## Die zwei Miracast-Modi {#miracast-modes}
 
-Mit EZCast Pro II stehen zwei verschiedende Modi **Nur im Vollbildmodus** und **Geteilter Bildschirm** zur Verfügung. Diese zwei Modi bieten unterschiedliche Funktionalität. Wir liefern Ihr EZCast Pro Gerät mit dem Modus **Geteilter Bildschirm**. Sie haben allerdings die Wahl, auf den anderen Modus mithilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) unter `Gerätemanagement` -> `Miracast` umzuschalten.
+Mit EZCast Pro II stehen zwei verschiedende Modi **Vollbildmodus** und **Geteilter Bildschirm** zur Verfügung. Diese zwei Modi bieten unterschiedliche Funktionalität. Wir liefern Ihr EZCast Pro Gerät mit dem Modus **Geteilter Bildschirm**. Sie haben allerdings die Wahl, auf den anderen Modus mithilfe der Funktion [Erweiterte Einstellungen](adv.settings.md) unter `Gerätemanagement` -> `Miracast` umzuschalten.
 
 ![](/assets/img/Miracast.AGO.mode.png)
 
@@ -71,8 +71,8 @@ In diesem Modus gelten die folgenden Eigenschaften:
 
 * Der geteilte Bildschirm unterstützt alle Streamingprotokolle mit bis zu 4 Geräten einschließlich Miracast-Geräten. 
 * Die SSID bzw. der Gerätename kann geändert werden, aber enthält immer vorne den Präfix "DIRECT-", beispielsweise `DIRECT-Raum_001`. 
-* Das Kennwort kann nicht in diesem Modus geändert werden. Um das Kennwort zu ändern, schalten Sie bitte zuerst das EZCast Pro Gerät auf [Nur im Vollbildmodus](#ngo-mode) um, dann nehmen Sie die Änderung des Kennworts vor, anschließend schalten Sie wieder auf [Geteilter Bildschirm](#ngo-mode) um.
-* Das Kennwort kann nicht ausgeblendet werden. Um das Kennwort auszublenden, schalten Sie bitte zuerst das EZCast Pro Gerät auf [Nur im Vollbildmodus](#ngo-mode) um, dann stellen Sie das Ausblenden des Kennworts ein, anschließend schalten Sie wieder auf [Geteilter Bildschirm](#ngo-mode) um.
+* Das Kennwort kann nicht in diesem Modus geändert werden. Um das Kennwort zu ändern, schalten Sie bitte zuerst das EZCast Pro Gerät auf [Vollbildmodus](#ngo-mode) um, dann nehmen Sie die Änderung des Kennworts vor, anschließend schalten Sie wieder auf [Geteilter Bildschirm](#ngo-mode) um.
+* Das Kennwort kann nicht ausgeblendet werden. Um das Kennwort auszublenden, schalten Sie bitte zuerst das EZCast Pro Gerät auf [Vollbildmodus](#ngo-mode) um, dann stellen Sie das Ausblenden des Kennworts ein, anschließend schalten Sie wieder auf [Geteilter Bildschirm](#ngo-mode) um.
 * [Infracast](#p2p_vs_infracast) wird nicht unterstützt.
 * Während der Bildschirmübertragung eines Miracast-Gerätes bleiben alle Netzwerkschnittstellen erreichbar und alle Funktionen stehen weiterhin zur Verfügung.
 
@@ -80,9 +80,9 @@ Sollten Sie die Option `Admineinstellungen` -> `Verbindung` -> [Nur über Router
 
 ![](/assets/img/AGO_via_Router.png)
 
-### Nur im Vollbildmodus (NGO-Modus) {#ngo-mode}
+### Vollbildmodus (NGO-Modus) {#ngo-mode}
 
-Im Modus **Nur im Vollbildmodus**, auch bekannt als NGO-Modus (Negotiated Group Owner in englischer Sprache), gelten die folgenden Eigenschaften:
+Im Modus **Vollbildmodus**, auch bekannt als NGO-Modus (Negotiated Group Owner in englischer Sprache), gelten die folgenden Eigenschaften:
 
 * Der geteilte Bildschirm wird unter dem Miracast-Protokoll nicht unterstützt. Mit Miracast kann nur ein Gerät im Vollbild übertragen werden. Um eine Bildschirmübertragung von bis zu 4 Geräten einschließlich Windows/Android-Geräten auf einem geteilten Bildschirm zu ermöglichen, müssen diese Geräte ein anderes Protokoll nutzen z.B. Google Google Cast oder die EZCast Pro Software/App. Wenn eine Bildschirmübertragung nativ, also ohne zusätzliche EZCast Pro App/Software, von bis zu 4 Geräten einschließlich Miracast-Geräten auf einem geteilten Bildschirm gewünscht ist, muss das EZCast-Gerät auf den Modus [Geteilter Bildschirm](#ago-mode) umgeschaltet werden. 
 * Die SSID bzw. der Gerätename kann vollständig geändert werden, beispielsweise `Raum_001`. 
@@ -106,7 +106,7 @@ Der WiFi-Direct-Standard (Peer-to-Peer), der ein direktes Verbinden zweier WLAN-
 
 * Wird ab Windows 8.1 oder höher unterstützt.
 * Keine WLAN-Infrastruktur erfolderlich.
-* Wird unter beiden Modi **Nur im Vollbildmodus** und **Geteilter Bildschirm** unterstützt.
+* Wird unter beiden Modi **Vollbildmodus** und **Geteilter Bildschirm** unterstützt.
 * Maximalabstand von 10 Meter zwischen dem EZCast Pro Stick II und dem Endbenutzer muss berücksichtigt werden.
 
 Es ist möglich während der Bildschirmübertragung, mithilfe des Windows Task-Managers festzustellen, ob ein PC über P2P verbunden ist: 
@@ -122,7 +122,7 @@ Die Daten der Bildschirmübertragung werden über ein lokales Netzwerk anstatt �
 Eine Miracast-Verbindung mit dem EZCast Pro Gerät über Infrastruktur wird hergestellt, sofern folgende Voraussetzungen erfüllt sind:
 
 * Wird ab Windows 10 Version 1703 und höher unterstützt.
-* Wird [Nur im Vollbildmodus](#ngo-mode) bzw. **nur im NGO-Modus** unterstützt.
+* Wird nur im [Vollbildmodus (NGO-Modus)](#ngo-mode) unterstützt.
 * Die SSID bzw. der Gerätename des EZCast Pro Gerätes darf kein Leerzeichen enthalten:
     * RICHTIG: `Raum_001`
     * FALSCH: `Raum 001`
