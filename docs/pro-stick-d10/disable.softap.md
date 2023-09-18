@@ -1,15 +1,17 @@
-## Was genau wird deaktiviert?
+## Was ist der SoftAP?
 
 Der EZCast Pro Stick II verfügt über zwei Netzwerkschnittstellen: 
 
 * den [SoftAP](https://en.wikipedia.org/wiki/SoftAP), auch als **Direkte Verbindung** bekannt.
 * die [Netzwerkinfrastruktur](connect.wifi.md), auch als **Über Router** bekannt.
 
-Der SoftAP dient als intergrierter WLAN-AccessPoint des EZCast Pro Gerätes. Bei der Ersteinrichtung verbinden Sie Ihr Endgerät mit dem SoftAP. Anschließend verbinden Sie den EZCast Pro Stick II per WLAN mit Ihrer [Netzwerkinfrastruktur](connect.wifi.md). Das EZCast Pro Gerät ist dann standardmäßig über beide Netzwerkschnittstellen erreichbar:
+Der SoftAP dient als intergrierter WLAN-AccessPoint des EZCast Pro Gerätes. Bei der Ersteinrichtung verbinden Sie Ihr Endgerät mit dem SoftAP. Die Standard-SSID des SoftAP lautet normalerweise etwas in der Art von `Pro 2 D10_BF8E0C84`. Anschließend verbinden Sie den EZCast Pro Stick II per WLAN mit Ihrer [Netzwerkinfrastruktur](connect.wifi.md). Das EZCast Pro Gerät ist dann standardmäßig über beide Netzwerkschnittstellen erreichbar:
 
 ![](/assets/img/softap.enabled.stick.png)
 
-Wenn Sie also den SoftAP des EZCast Pro Gerätes deaktiveren, wird der Stick nur über die Netzwerkinfrastruktur erreichbar:
+## Was genau wird deaktiviert?
+
+Wenn Sie den SoftAP des EZCast Pro Stick II deaktiveren, wird der Stick nur über die Netzwerkinfrastruktur erreichbar:
 
 ![](/assets/img/softap.disabled.stick.png)
 
@@ -23,7 +25,7 @@ Die folgenden Streamingprotokolle benötigen entweder eine Verbindung mit dem So
 
 ### Nicht betroffene Streamingprotokolle
 
-Das Streamingprotokoll [Miracast P2P](miracast.md#p2p-peer-to-peer) wird durch Deaktivieren des SoftAP nicht beeinträchtigt.
+Das Streamingprotokoll [Miracast P2P](miracast.md#p2p-peer-to-peer) wird durch das Deaktivieren des SoftAP nicht beeinträchtigt.
 
 ## Warum deaktiviert man den SoftAP?
 
