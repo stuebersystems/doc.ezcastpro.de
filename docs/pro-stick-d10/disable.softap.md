@@ -39,7 +39,7 @@ Das Streamingprotokoll [Miracast P2P](miracast.md#p2p-peer-to-peer) wird durch d
 
 Bevor Sie den SoftAP deaktivieren oder konfigurieren können, ist es wichtig, sich zunächst über die beiden Miracast-Modi mit EZCast Pro zu informieren.
 
-Mit EZCast Pro II stehen zwei Miracast-Modi **Vollbildmodus (NGO-Modus)** und **Geteilter Bildschirm (AGO-Modus)** zur Verfügung. Diese beiden Modi bieten unterschiedliche Funktionalitäten und kontrollieren das Verhalten des SoftAP, einschließlich der Möglichkeit, ihn entweder vollständig zu deaktivieren oder nur das Kennwort zu verstecken. Wenn Sie sich noch nicht entschieden haben, welcher Miracast-Modus für Ihre EZCast Pro Geräte am besten passt, schauen Sie sich bitte einmal die umfassende Anleitung zur Verwendung beider [Miracast-Modi](miracast.md#miracast-modes).
+Mit EZCast Pro II stehen zwei Miracast-Modi **Vollbildmodus (NGO-Modus)** und **Geteilter Bildschirm (AGO-Modus)** zur Verfügung. Diese beiden Modi bieten unterschiedliche Funktionalitäten und kontrollieren das Verhalten des SoftAP, einschließlich der Möglichkeit, ihn entweder vollständig zu deaktivieren oder nur das Kennwort auszublenden. Wenn Sie sich noch nicht entschieden haben, welcher Miracast-Modus für Ihre EZCast Pro Geräte am besten passt, schauen Sie sich bitte einmal die umfassende Anleitung zur Verwendung beider [Miracast-Modi](miracast.md#miracast-modes).
 
 Darum haben wir alle möglichen Optionen unter den entsprechenden Miracast-Modi unten zusammengefasst:
 
