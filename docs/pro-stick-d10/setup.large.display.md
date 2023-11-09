@@ -40,7 +40,7 @@ Die passende Empfehlung für die Einrichtung hängt davon ab, wo sich der HDMI-A
 
 ## Falsche Einrichtungen
 
-### Der Stick wird hinter dem Bildschirm montiert
+### Der Stick wurde hinter dem Bildschirm montiert
 
 Das Anbringen des EZCast Pro Stick II hinter einem großen Bildschirm verringert die WLAN-Reichweite und -Qualität erheblich. Dies führt zu einer schlechten Streaming-Leistung und Instabilität. Bitte beachten Sie unsere [empfohlenen Einrichtungen](#recommended.setups) genau.
 
