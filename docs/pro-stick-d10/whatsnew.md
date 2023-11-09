@@ -8,6 +8,12 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen des EZCast
 
 ## EZCast Pro Stick II Firmware
 
+### 2023.10.06 | 1.17478.24
+
+**Fixes:**
+
+* Verbesserte Übertragungsstabilität über Google Cast
+
 ### 2023.06.10 | 1.17478.21
 
 **Fixes:**
