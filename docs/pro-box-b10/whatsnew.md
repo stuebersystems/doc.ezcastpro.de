@@ -12,7 +12,7 @@ Dieses Kapitel gibt Ihnen einen Überblick über aktuelle Änderungen der EZCast
 
 **Fixes:**
 
-* Verbesserte Übertragungsstabilität über Google Cast
+* Verbesserte Übertragungsstabilität über [Google Cast](googlecast.md)
 
 ### 2023.06.10 | 1.17478.21
 
