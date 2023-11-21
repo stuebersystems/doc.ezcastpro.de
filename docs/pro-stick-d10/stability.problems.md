@@ -8,7 +8,7 @@ Dies kann verschiedene Ursachen und somit unterschiedliche Lösungen haben. Es h
     
 	Wenn einer dieser Punkte nicht optimal eingerichtet ist, kann dies zu Unterbrechungen und einer schlechten Leistung führen.
 
-## Checklist
+## Checkliste
 
 Überprüfen Sie bitte sorgfältig alle Hilfspunkte der unterstehenden Checklist. Die ersten vier Punkte sind entscheidend und beeinflussen die Stabilität und Leistung des EZCast Pro Stick II erheblich:
 
