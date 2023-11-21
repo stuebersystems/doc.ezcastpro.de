@@ -139,6 +139,7 @@ nav:
         - Über das Gerät: pro-stick-d10/about.md
         - Systeminformationen: pro-stick-d10/msinfo32.md      
         - WLAN-Umgebung scannen: pro-stick-d10/wifi.environment.md
+    - Was tun bei Stabilitätsproblemen?: pro-stick-d10/stability.problems.md  
 - Pro Box II: 
     - Überblick: pro-box-b10/intro.md
     - Schnellstartanleitung: pro-box-b10/quickstart.md
