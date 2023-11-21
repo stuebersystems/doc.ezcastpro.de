@@ -82,6 +82,6 @@ Eine umfassende Anleitung zum Scannen Ihrer WLAN-Umgebug finden Sie [hier](wifi.
 
 Von demselben Stick (siehe Punkt 5.), den Sie in der selben WLAN-Umgebung im Schritt 5 geprüft haben, lassen Sie uns bitte eine [Debug-Logdatei](logfile.md#download.logfile) des Sticks zukommen.
 
-### 7. EZCast Pro erforderliche Anschlüsse
+### 7. Anschlüsse Iher WLAN-Infrastuktur prüfen 
 
 Haben Sie Konnektivitätsprobleme mit bestimmten Funktionen? Prüfen Sie bitte Ihre WLAN-Infrastuktur, ob alle erforderlichen [Anschlüsse für EZCast Pro](../ports.md) zugelassen sind:
