@@ -56,7 +56,7 @@ Schauen Sie sich bitte unsere empfohlene Einrichtungen zusammen mit einem **Proj
 
 #### Firmwareversion
 
-Läuft die [neueste Firmware](whatsnew.md) auf dem Gerät? Sie können die Firmware entweder über WLAN [aktualisieren](firmware-reinstall.md) oder per USB-Kabel neu installieren.
+Läuft die [neueste Firmware](whatsnew.md) auf dem Gerät? Sie können die Firmware entweder über WLAN [aktualisieren](firmware-upgrade.md) oder per USB-Kabel [neu installieren](firmware-reinstall.md).
 
 #### Empfohlene Einstellungen 
 
