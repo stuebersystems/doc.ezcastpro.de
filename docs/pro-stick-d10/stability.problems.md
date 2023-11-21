@@ -38,7 +38,7 @@ Schauen Sie sich bitte unsere empfohlene Einrichtungen zusammen mit einem **Proj
 
 #### Projektor
 
-* [Empfohlene Einrichtigungen](setup.projector.md)
+* [Empfohlene Einrichtigungen](setup.projector.md#recommended.setups)
 
 * [Falsche Einrichtungen](setup.projector.md#falsche-einrichtungen)
 
@@ -46,7 +46,7 @@ Schauen Sie sich bitte unsere empfohlene Einrichtungen zusammen mit einem **Proj
 
 #### Large Display
 
-* [Empfohlene Einrichtigungen](setup.large.display.md)
+* [Empfohlene Einrichtigungen](setup.large.display.md#recommended.setups)
 
 * [Falsche Einrichtungen](setup.large.display.md#falsche-einrichtungen)
 
