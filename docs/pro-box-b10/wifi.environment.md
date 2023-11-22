@@ -4,7 +4,7 @@ Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie uns mithilfe einer k
 
 ![](/assets/img/wifi.analyzer.windows.png)
 
-## WiFi-Analyzer {#wifianalyzer}
+## WiFi-Analyzer {#wifianalyzer} installieren
 
 Mithilfe einer kostenlosen App/Software senden Sie uns ein Screenshot Ihrer WLAN-Umgebung, wo die Kanäle des EZCast Pro Gerätes und Ihres WLANs zu sehen sind. 
     
