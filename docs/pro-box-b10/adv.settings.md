@@ -80,8 +80,8 @@ Die EZCast Pro Box II verfügt über drei Netzwerkschnittstellen. Beim Deaktivie
 
 Hier wählen Sie die Ausgabeauflösung der EZCast Pro Box II aus. Sie können entweder eine bestimmte Auflösung auswählen oder wählen Sie einfach `Auto` und die Pro Box II stellt die optimale Auslösung für Ihren Bildschirm automatisch ein.
 
-| Standard | Auflösung| Hz
-| :------------- |:-----:|
+| Standard | Auflösung | Hz |
+| :------------- |:-----: | :-----: |
 | HD | 1280 × 720 | 60 | 
 | Full-HD | 1920 × 1080 | 60 | 
 | 4K UHD | 3840 × 2160 | 30 | 
