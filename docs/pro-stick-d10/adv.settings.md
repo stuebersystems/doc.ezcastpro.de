@@ -81,12 +81,12 @@ Der EZCast Pro Stick II verfügt über drei Netzwerkschnittstellen. Beim Deaktiv
 
 Hier wählen Sie die Ausgabeauflösung des EZCast Pro Stick II aus. Sie können entweder eine bestimmte Auflösung auswählen oder wählen Sie einfach `Auto` und der Pro Stick II stellt die optimale Auslösung für Ihren Bildschirm automatisch ein.
 
-| Standard | Auflösung|
+| Standard | Auflösung| Hz
 | :------------- |:-----:|
-| HD | 1280 × 720 |
-| Full-HD | 1920 × 1080 |
-| 4K UHD | 3840 × 2160 |
-| DCI 4K | 4096 × 2160 |
+| HD | 1280 × 720 | 60 | 
+| Full-HD | 1920 × 1080 | 60 | 
+| 4K UHD | 3840 × 2160 | 30 | 
+| DCI 4K | 4096 × 2160 | 24 | 
 
 Die folgenden Auflösungen können Sie festlegen:
 
