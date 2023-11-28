@@ -113,3 +113,46 @@ Lösung: Versuchen Sie den Abstand zu reduzieren oder installieren Sie einen zus
 Lösung: Stellen Sie sicher, dass die EZCast Pro Box II keine Hindernisse zum Router bzw. zum Access-Point hat. Wenn notwendig, installieren Sie einen zusätzlichen Access-Point.
 
 ![](/assets/img/ProII.Internet.Signal.png)
+
+### Vom WLAN trennen
+
+So trennen Sie Ihr EZCast Pro Gerät von der WLAN-Infrastruktur:
+
+#### Erweiterte Einstellungen öffnen
+
+* Verbinden Sie Ihr Endgerät mit der SSID des EZCast Pro II Gerätes. Die Zugangsdaten werden oben auf der Startseite angezeigt:
+
+![](/assets/img/proII.direct.connect.png)
+
+* In die Adressleiste eines Webbrowsers geben Sie die IP-Adresse des EZCast Pro Gerätes mit der Bezeichnung `Direct Link IP` **192.168.168.1** ein. Die Einstellungsoberfläche des EZCast Pro Gerätes erscheint:
+
+![](/assets/img/proII_directIP.connect.png)
+
+#### Sich als Admin anmelden
+
+* Geben Sie das Admin-Kennwort ein und klicken Sie auf `OK`, um sich anzumelden. Standardmäßig lautet das Kennwort `000000`. Wenn dieses Kennwort nicht akzeptiert wird setzen Sie das Gerät per [Reset-Schalter](reset.md#hardreset) zurück.
+
+![](/assets/img/EZCastII_Login.png)
+
+#### WLAN vergessen
+
+* Aus dem Menü oben links wählen Sie `Netzwerkmanagement`.
+
+![](/assets/img/ezcastpro.II.select.networkmanagement.png)
+
+* Wählen den Punkt `Mit 5GHz WLAN-Router/AP verbinden` aus:
+
+![](/assets/img/ezcastpro.II.select.connect5ghz.png)
+
+* Wählen Sie Ihr verbundenes WLAN aus:
+
+![](/assets/img/connected.wifi.png)
+
+* Klicken Sie auf die Schaltfläche `Vergessen`:
+
+![](/assets/img/disconnect.wifi.png)
+
+Die bisher verbundene Infrastructure-IP-Adresse wird entlassen:
+
+![](/assets/img/proII_directIP.connect.png)
+ 

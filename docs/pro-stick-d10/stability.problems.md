@@ -85,3 +85,11 @@ Von demselben Stick (siehe Punkt 5.), den Sie in der selben WLAN-Umgebung im Sch
 ### 7. Anschlüsse Iher WLAN-Infrastuktur prüfen 
 
 Haben Sie Konnektivitätsprobleme mit bestimmten Funktionen? Prüfen Sie bitte Ihre WLAN-Infrastuktur, ob alle erforderlichen [Anschlüsse für EZCast Pro](../ports.md) zugelassen sind:
+
+### 8. Latenz- und Leistungstest durchführen
+
+# Latenz- und Leistungstest durchführen
+
+Führen Sie einen Latenztest bzw. einen Leistungstest Ihres EZCast Pro Gerätes durch. Bei korrekter Bedienung sollte die Latenzzeit einer Videoübertragung in Full-HD (1920 x 1080, 60Hz) bei ca 0,2 Sekunden und in UHD (3840 x 2060, 30Hz) bei ca 0,7 Sekunden liegen. Außerdem sollte das Abspielen eines Videos für mindestens 6 Stunden möglich sein.
+
+Eine umfassende Anleitung zum Durchführen des Latenz- und Leistungstests finden Sie [hier](performance.test.md).

@@ -132,7 +132,7 @@ nav:
         - DxDiag-Bericht erstellen: pro-stick-d10/dxdiag.md    
         - Einstellungen zurücksetzen: pro-stick-d10/reset.md
         - Firmware neu installieren: pro-stick-d10/firmware-reinstall.md
-        - Leistungstest durchführen: pro-stick-d10/performancetest.md
+        - Latenz- und Leistungstest durchführen: pro-stick-d10/performancetest.md
         - Logdatei herunterladen: pro-stick-d10/logfile.md
         - Mit Hotspot verbinden: pro-stick-d10/hotspot.md
         - Projizieren auf diesen PC: pro-stick-d10/project2PC.md
@@ -150,6 +150,9 @@ nav:
         - "Anleitung: macOS": pro-box-b10/quickstart/#windows-und-macos
         - "Anleitung: Linux": pro-box-b10/linux.md
         - "Anleitung: Windows": pro-box-b10/quickstart/#windows-und-macos
+    - Anleitungen nach<br>Display: 
+        - "Anleitung: Projektor": pro-box-b10/setup.projector.md   
+        - "Anleitung: Large Display": pro-box-b10/setup.large.display.md          
     - Anleitungen nach<br>Streamingprotokoll: 
         - "Anleitung: AirPlay": pro-box-b10/airplay.md
         - "Anleitung: Google Cast": pro-box-b10/googlecast.md
@@ -174,7 +177,7 @@ nav:
         - DxDiag-Bericht erstellen: pro-box-b10/dxdiag.md  
         - Einstellungen zurücksetzen: pro-box-b10/reset.md
         - Firmware neu installieren: pro-box-b10/firmware-reinstall.md
-        - Leistungstest durchführen: pro-box-b10/performancetest.md
+        - Latenz- und Leistungstest durchführen: pro-box-b10/performancetest.md
         - Logdatei herunterladen: pro-box-b10/logfile.md
         - Mit Hotspot verbinden: pro-box-b10/hotspot.md
         - Projizieren auf diesen PC: pro-box-b10/project2PC.md
