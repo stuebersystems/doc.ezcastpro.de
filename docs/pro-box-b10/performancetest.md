@@ -4,7 +4,7 @@ Zu Support-Zwecken bitten wir Sie möglicherweise, dass Sie einen Latenztest ode
 
 Ein solcher Test wurde im untenstehenden Video durchgeführt:
 
-[![Leistungstest](/assets/img/thumbnail.video.performancetest1.png "Leistungstest")](https://assets.stueber.de/videos/qp.u01.latencetest.mp4 "Leistungstest")
+[![Leistungstest](/assets/img/thumbnail.video.performancetest1.png)](https://assets.stueber.de/videos/latencetest.mp4)
 
 !!! tip "Hinweis"
 
