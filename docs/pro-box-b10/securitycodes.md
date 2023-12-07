@@ -41,7 +41,7 @@ Aktivieren Sie den Miracast-PIN in der Weboberfläche unter [Gerätemanagement -
 
 ![Miracast PIN ](/assets/img/Miracast.pin.AGO.mode.png)
 
-Standardmäßig wird der Miracast-PIN nur beim erstem Mal angefordert. Ab der Firmware [1.17478.20](whatsnew.md#ezcast-pro-stick-ii-firmware-11747820) kann man die Funktion `PIN immer anfordern` einstellen. Diese Option steht allerdings nur im Modus **Nur im Vollbildmodus** zur Verfügung. Klicken Sie [hier](miracast.md#die-zwei-miracast-modi), um mehr über die zwei verschiedende Modi **Nur im Vollbildmodus** und **Geteilter Bildschirm** zu erfahren:
+Standardmäßig wird der Miracast-PIN nur beim erstem Mal angefordert. Ab der Firmware [1.17478.20](whatsnew.md#ezcast-pro-stick-ii-firmware-11747820) kann man die Funktion `PIN immer anfordern` einstellen. Diese Option steht allerdings nur im Modus **Nur im Vollbildmodus (NGO-Modus)** zur Verfügung. Klicken Sie [hier](miracast.md#die-zwei-miracast-modi), um mehr über die zwei verschiedende Modi **Nur im Vollbildmodus (NGO-Modus)** und **Geteilter Bildschirm (AGO-Modus)** zu erfahren:
 
 ![Miracast PIN ](/assets/img/Miracast.pin.NGO.mode.png)
 
