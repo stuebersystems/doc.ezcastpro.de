@@ -155,11 +155,11 @@ Wenn Miracast-Einstellungen bzw. der Gerätename des EZCast Pro Gerätes geände
 
 ![](/assets/img/Miracast.win11.delete.record1.png)
 
-* Unter `Bluetooth und Geräte` klicken auf `Geräte`:
+* Unter `Bluetooth und Geräte` klicken Sie auf `Geräte`:
 
 ![](/assets/img/Miracast.win11.delete.record2.png)
 
-* Scrollen runter bis auf `Drahtlose Bildschirme und Docking-Stationen`. Neben Ihrem EZCast Pro Gerät wählen Sie `Gerät entfernen` aus:
+* Scrollen Sie runter bis auf `Drahtlose Bildschirme und Docking-Stationen`. Neben Ihrem EZCast Pro Gerät wählen Sie `Gerät entfernen` aus:
 
 ![](/assets/img/Miracast.win11.delete.record3.png)
 
@@ -169,6 +169,6 @@ Wenn Miracast-Einstellungen bzw. der Gerätename des EZCast Pro Gerätes geände
 
 ![](/assets/img/Miracast.win10.delete.record1.png)
 
-* Unter `Bluetooth und Geräte` scrollen runter bis auf `Drahtlose Bildschirme und Docking-Stationen`. Neben Ihrem EZCast Pro Gerät wählen Sie `Gerät entfernen` aus:
+* Unter `Bluetooth und Geräte` scrollen Sie runter bis auf `Drahtlose Bildschirme und Docking-Stationen`. Neben Ihrem EZCast Pro Gerät wählen Sie `Gerät entfernen` aus:
 
 ![](/assets/img/Miracast.win10.delete.record2.png)
