@@ -141,3 +141,28 @@ Wenn Infracast in Verwendung ist, wird nur der bisherige Netzwerkadapter mit Ang
 
 ![](/assets/img/D10_BF8E0C84.NGO-mode.No-Space-in-SSID.png)
 
+### Problembehandlung
+
+#### Es konnte keine Verbindung hergestellt werden
+
+Wenn Miracast-Einstellungen bzw. der Gerätename des EZCast Pro Gerätes geändert werden, kann es dazu führen, dass Miracast sich nicht verbinden lässt. Um das Problem zu lösen, löschen Sie bitte den Eintrag der Miracast-Verbindung in den Windows-Einstellungen, anschließend verbinden Sie Ihr Endgerät erneut:
+
+![](/assets/img/Miracast.failed-to-connect.png)
+
+##### Windows 10 Miracast-Eintrag löschen
+
+* Im Startmenü öffenen Sie die `Einstellungen`: 
+
+![](/assets/img/Miracast.win11.delete.record1.png)
+
+![](/assets/img/Miracast.win11.delete.record2.png)
+
+![](/assets/img/Miracast.win11.delete.record3.png)
+
+##### Windows 11 Miracast-Eintrag löschen
+
+* Im Startmenü öffenen Sie die `Einstellungen`: 
+
+![](/assets/img/Miracast.win10.delete.record1.png)
+
+![](/assets/img/Miracast.win10.delete.record2.png)
