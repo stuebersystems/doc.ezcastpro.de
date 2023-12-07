@@ -149,20 +149,26 @@ Wenn Miracast-Einstellungen bzw. der Gerätename des EZCast Pro Gerätes geände
 
 ![](/assets/img/Miracast.failed-to-connect.png)
 
-##### Windows 10 Miracast-Eintrag löschen
+##### Windows 11 Miracast-Eintrag löschen
 
 * Im Startmenü öffenen Sie die `Einstellungen`: 
 
 ![](/assets/img/Miracast.win11.delete.record1.png)
 
+* Unter `Bluetooth und Geräte` klicken auf `Geräte`:
+
 ![](/assets/img/Miracast.win11.delete.record2.png)
+
+* Scrollen runter bis auf `Drahtlose Bildschirme und Docking-Stationen`. Neben Ihrem EZCast Pro Gerät wählen Sie `Gerät entfernen` aus:
 
 ![](/assets/img/Miracast.win11.delete.record3.png)
 
-##### Windows 11 Miracast-Eintrag löschen
+##### Windows 10 Miracast-Eintrag löschen
 
-* Im Startmenü öffenen Sie die `Einstellungen`: 
+* Im Startmenü öffenen Sie die `Einstellungen` und klicken Sie auf `Geräte`: 
 
 ![](/assets/img/Miracast.win10.delete.record1.png)
+
+* Unter `Bluetooth und Geräte` scrollen runter bis auf `Drahtlose Bildschirme und Docking-Stationen`. Neben Ihrem EZCast Pro Gerät wählen Sie `Gerät entfernen` aus:
 
 ![](/assets/img/Miracast.win10.delete.record2.png)
