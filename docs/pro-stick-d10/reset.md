@@ -1,6 +1,6 @@
 # Einstellungen zurücksetzen
 
-Es gibt mehrere Gründe für einen Zurücksetzen (Reset) des EZCast Pro Stick II auf seine Werkseinstellungen:
+Es gibt mehrere Gründe, Ihr EZCast Pro Gerät auf Werkseinstellungen zurückzusetzen:
 
 * Sie haben das Admin-Kennwort für die [Erweiterte Einstellungen](adv.settings.md) vergessen.
 
