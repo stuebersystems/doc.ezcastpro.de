@@ -97,6 +97,7 @@ Um eine vorherige bzw. eine Betafirmware zu installieren, laden Sie eine der fol
 
 Firmware                       | Herunterladen | Bemerkung
 ------------------------- | ------------ | ------------
+1.18135.0 (Beta) | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.18135.0.gz)
 1.17478.24 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.17478.24.gz)
 1.17478.21 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.17478.21.gz)
 1.17478.20 | [Herunterladen](https://download.stueber.de/doc/de/ezcastpro/firmwares/B10/B10_1.17478.20.gz)
