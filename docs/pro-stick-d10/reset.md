@@ -63,7 +63,7 @@ Wenn Ihnen die Zugangsdaten für die [Erweiterte Einstellungen](adv.settings.md)
 
 Die unten empfohlenen Einstellungen setzen voraus, dass Sie ein Zurücksetzen des Empfängers bereits durchgeführt haben:
 
-Firmware-Version: [1.17478.124](whatsnew.md#ezcast-pro-stick-ii-firmware-117478124)
+Firmware-Version: [1.17478.124](whatsnew.md#20240327-117478124)
 
 **Gerätemanagement**
 
